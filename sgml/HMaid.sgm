@@ -1,0 +1,2593 @@
+<!DOCTYPE TEI.2 PUBLIC "-//TEI//DTD cme//EN">
+<TEI.2>
+<TEIHEADER>
+<FILEDESC>
+<TITLESTMT>
+<TITLE TYPE="245">Hali Meidenhad : an Alliterative Homily of the Thirteenth Century / edited by F.J. Furnivall [electronic text]</TITLE>
+<EDITOR>Furnivall, Frederick James, 1825-1910</EDITOR>
+<RESPSTMT>
+<NAME>Janet Erickson, University of Michigan Humanities Text initiative</NAME>
+<RESP>creation of machine-readable edition</RESP></RESPSTMT>
+<RESPSTMT>
+<NAME>Jean Borger, University of Michigan Humanities Text Initiative</NAME>
+<RESP>proofed and corrected</RESP></RESPSTMT>
+<RESPSTMT>
+<NAME>Kevin Butterfield, University of Michigan Humanities Text Initiative</NAME><RESP>creation of TEI header</RESP></RESPSTMT>
+</TITLESTMT>
+<EXTENT>ca. 149 kb</EXTENT>
+<PUBLICATIONSTMT>
+<PUBLISHER>University of Michigan Humanities Text Initiative</PUBLISHER>
+<PUBPLACE>Ann Arbor, MI</PUBPLACE>
+<IDNO>HMaid</IDNO>
+<AVAILABILITY><P>These texts may be copied freely by individuals for personal use, research, and teaching (including distribution to classes) as long as this statement of availability is included in the text.  It may be linked to freely in Internet editions of all kinds, including for-profit works. Redistribution by commercial or not-for-profit content providers is expressly forbidden.</P></AVAILABILITY>
+<DATE>1997</DATE>
+</PUBLICATIONSTMT>
+<SOURCEDESC>
+<BIBLFULL>
+<TITLESTMT>
+<TITLE>Hali Meidenhad : an Alliterative Homily of the Thirteenth Century</TITLE>
+<EDITOR>F.J. Furnivall</EDITOR></TITLESTMT>
+<EDITIONSTMT><EDITION>Revised edition of no. 18 of the Original Series, Hali Meidenhad, from MS. Cotton Titus D. XVIII, ... edited by Oswald Cockayne</EDITION></EDITIONSTMT>
+<PUBLICATIONSTMT>
+<DISTRIBUTOR>Early English Text Society</DISTRIBUTOR>
+<PUBLISHER>Oxford University Press</PUBLISHER>
+<PUBPLACE>Oxford</PUBPLACE>
+<DATE>1922</DATE>
+</PUBLICATIONSTMT>
+<SERIESSTMT><TITLE>Early English Text Society (Series). Original series<NUM>18</NUM><DATE>1866, rev. 1922 (for 1920)</DATE></TITLE></SERIESSTMT>
+<NOTESSTMT><NOTE><P>Derived from: MS. Bodley 34, Oxford, and Cotton MS. Titus D.18, British Museum</P></NOTE></NOTESSTMT>
+</BIBLFULL>
+</SOURCEDESC>
+</FILEDESC>
+<ENCODINGDESC>
+<EDITORIALDECL><P>Hali Meidenhad was scanned at the University of Michigan HTI, where OCR was subsequently performed with ScanWorx.  The title page, prefatory note, grammatical notes, and glossorial index were not encoded. Subsequent to OCR review of the scanned text, the text was marked up by Janet Erickson, proofread by Jean Borger, and the markup reviewed by Jason Chu.</P></EDITORIALDECL>
+</ENCODINGDESC>
+</TEIHEADER>
+<TEXT>
+<BODY>
+<DIV1 TYPE="manuscript">
+<PB N="2">
+
+<HEAD>HALI MEIDENHAD.  MS. Bodley 34</HEAD><MILESTONE N="52b" UNIT="leaf"><NOTE ID="n1"> At the foot of leaf 52, is this heading in very faint red, hardly noticeable: "Epistel of meiden-had, meidene frome."--A. F. Parker.</NOTE>
+
+
+<P>AVDI, filia, &amp; uide, &amp; inclina aurem tuam; &amp;
+obliui&slong;cere populum tuum, &amp; domum patri&slong; tui.
+Daui&eth;, &thorn;e p&slong;alm-wruhte, &slong;peke&eth; i &thorn;e
+&slong;awter towart gode&slong; &slong;pu&slong;e, &thorn;et i&slong;,
+euch meiden &thorn;et haue&eth; meii&eth; &thorn;eawe&slong;, &amp;
+&slong;ei&eth;: <Q>"I-her me, dohter! bihald, &amp; bei &thorn;in
+eare; &amp; for&yogh;et ti folc &amp; tine&slong; feader
+hu&slong;!"</Q> Nim &yogh;eme hwet euch wor&eth; beo &slong;underliche
+to &slong;eggen.  <Q>"I-her me, dohter,"</Q> he
+sei&eth;. <Q>"dohter"</Q> he cleope&eth; hire, for-&thorn;i &thorn;et
+ha under&slong;tonde, &thorn;et he hire luueliche liue&slong; luue
+leare&eth;, a&slong; feader ah hi&slong; dohter, ant heo him, a&slong; hire
+feader, &thorn;e bli&thorn;eluker lu&slong;tin.  <Q>"I-her me, deore
+dohter"</Q> : &thorn;et i&slong;, &yogh;eornne lu&slong;tne me wi&eth;
+earen of &thorn;i heauet; <Q>"Ant bihald"</Q> : &thorn;et is, opene,
+to under&slong;tonde me, &thorn;e ehnen of &thorn;in heorte.  <Q>"Ant
+bei &thorn;in eare"</Q> : &thorn;et is, beo buh&slong;um to mi lare.
+`Ant hwet is nu &thorn;is lare, &thorn;et tu nime&slong;t &slong;e
+deopliche, &amp; lear&slong;t me &slong;e &yogh;eone [sic]?'
+low, &thorn;i&slong;: <Q>"for&yogh;et ti folc, &amp; tine&slong;
+
+
+
+ 
+<PB N="4">
+feader hu&slong;."</Q> <Q>"&THORN;i folc,"</Q> he cleope&eth;,
+daui&eth;, &THORN;e &yogh;ederunge inwi&eth; &thorn;e of
+fle&slong;chliche &thorn;onkes, &thorn;e lea&eth;ie&eth; &thorn;e,
+&amp; dreaie&eth; wi&eth; har procunges to fle&slong;liche ful&eth;en,
+to licomliche lu&slong;te&slong;, ant eggi&eth; &thorn;e to brudlac,
+&amp; to were&slong; cluppunge, ant makied &thorn;e to &thorn;enchen
+hwuch delit were &thorn;rin, hwuch ei&slong;e, i &thorn;e richedom
+&thorn;et &thorn;eo&slong; leafdi&slong; habbe&eth;; Hu muche mahte of
+inker &slong;treon <MILESTONE N="53" UNIT="leaf"> awakenin.  A, fal&slong; folc! of &slong;wikel
+read a&slong; &thorn;i mu&eth; ule&eth;,<NOTE ID="n2"> ? for u&slong;e&eth;.</NOTE> a&slong; &thorn;u
+&slong;chawe&slong;t for&eth; al &thorn;et god &thorn;unche&eth;, ant
+hele&slong;t al &thorn;et bittri bale &thorn;et i&slong; &thorn;er
+under, &amp; al &thorn;et muchele lure &thorn;et ter of
+ari&slong;e&eth;.  <Q>"For&yogh;et al &thorn;i&slong; folc, mi
+deorewr&eth;e dohter,"</Q> sei&eth; daui&eth; &thorn;e witege:
+&thorn;et is, &thorn;e&slong; &thorn;onke&slong; warp ut of &thorn;in
+heorte.  &thorn;is i&slong; babilone&slong; folc, &thorn;e
+deofle&slong; here of helle, &thorn;et i&slong; umbe forte leaden
+in-to &thorn;e worlde&slong; &thorn;eowdom, Syone&slong; dohter.
+
+</P><P>Syon we&slong; &slong;umhwile icleopet &thorn;e hehe tur of
+ierusalem; & &slong;yon, a&slong;e muchel on engli&slong;che ledene,
+a&slong;e heh sih&eth;e. & bitacne&eth; &thorn;i&slong; tur &thorn;e
+hehne&slong;&slong;e of mei&eth;had, &thorn;e bihald, a&slong; of heh,
+alle widewen under hire, ant weddede ba&eth;e. for &thorn;eo&slong;,
+a&slong;e fle&slong;che&slong; &thorn;realle&slong;, beo&eth; i
+worlde&slong; &thorn;eowdom, &amp; wunie&eth; lahe on eord&eth;e. ant
+meiden &slong;tont &thorn;urh heh lif i &thorn;e tur of ierusalem;
+Nawt of lah on eor&eth;e, ah of &thorn;e hehe in heouene, &thorn;e
+i&slong; bitacnet &thorn;urh &thorn;i&slong;. of &thorn;et &slong;yon
+ha bihalt al &thorn;e worlt under hire; &amp; &thorn;urh englene lif
+lade, & heouenlich, &thorn;et ha lead, &thorn;ah ha licomliche wunie
+up on eor&eth;e, ant i&slong;, a&slong; i &slong;yon, &thorn;e hehe
+tur of heouene, free ouer alle from worldliche weanen.  Ah!
+babilone&slong; folc
+
+
+
+ 
+<PB N="6">
+&thorn;et ich ear nempnede, &thorn;e deofle&slong; here of
+helle,&mdash;&thorn;et beo&eth;, fle&slong;che&slong; lu&slong;tes,
+&thorn; feonde&slong; eggunge&mdash;weorri&eth; & warpe&eth; eauer
+<MILESTONE N="53, back" UNIT="leaf">towart tis tur, forte kea&slong;ten hit adun, &amp; drahen into
+&thorn;eowdom &thorn;et stont &slong;e hehe &thorn;erin, &amp;
+i&slong; icleope&eth; for-&thorn;i `Syone&slong; dohter.'
+
+</P><P>Ant ni&slong; ha witerliche akea&slong;t, &amp; in to &thorn;eowdom
+idrahen, &thorn;e,&mdash;of &slong;e &slong;wi&eth;e heh &slong;tal,
+of &slong;e muche dignete & &slong;wuch wur&eth;&slong;chipe, a&slong;
+hit i&slong; to beo gode&slong; &slong;pu&slong;e, ihesu
+cri&slong;te&slong; brude, &thorn;e lauerde&slong; leofmon, &thorn;et
+alle &thorn;inge&slong; buhe&eth;,&mdash;of al worlt leafdi, a&slong;
+he i&slong; of lauerd,&mdash;ilich him in hal&slong;chipe, vnwemmet
+a&slong; he i&slong;, &amp; &thorn;et eadi meiden hi&slong;
+deorrewur&eth;e moder; ilich hi&slong; hali engle&slong;, &amp;
+hi&slong; he&slong;te halhen; &slong;e freo of hire &slong;eoluen, Ha
+nawhit ne &thorn;earf of o&eth;er &thorn;ing &thorn;enchen bute ane of
+hire leofmon, wi&eth; treowe luue cwemen; For he wule carie for hire,
+&thorn;et ha haue&eth; itake to, of al &thorn;et hire bihoue&eth;,
+hwil ha riht luue&eth; him wi&eth; &slong;o&eth;e bileaue
+;&mdash;Ni&slong; ha &thorn;enne &slong;ariliche (a&slong; ich
+&slong;eide ear) akea&slong;t, &amp; into &thorn;eowdom idrahen,
+&thorn;e, of &slong;e muchel heh&slong;chipe &amp; &slong;e &slong;eli
+freodom, &slong;chal lihte &slong;e lahe into a monne&slong;
+&thorn;eowdom, &slong;wa &thorn;et naue&eth; nawt freo of hire
+&slong;eoluen, &amp; trukien, for a mon of lam, &thorn;e heouenliche
+lauerd, &amp; lutlin hire leafdi&slong;chipe, a&slong;e muchel
+a&slong; hire leatere were i&slong; lea&slong;&slong;e wur&eth;, &amp;
+lea&slong;&slong;e haue&eth;, &thorn;en hefde ear hire earre; &amp; of
+gode&slong; brude, &amp; hi&slong; freo dohter&mdash;for ba to
+&yogh;edere&slong; ha is&mdash; biki<MILESTONE N="54" UNIT="leaf">me&eth; &thorn;eow under mon,
+&amp; hi&slong; &thorn;rel, to don al &amp; drehen &thorn;et him
+like&eth;, ne &slong;itte hit hire &slong;e uuele; &amp; of &slong;e
+&slong;eli &slong;ikerne&slong;&slong;e a&slong; ha we&slong;, &amp;
+mahte beon under gode&slong; warde, de&eth; hire in to drechunge, to
+dihten hus &amp; hinen&mdash;
+
+
+
+ 
+<PB N="8">
+&amp; to &slong;e monie earmden, to carien for &slong;e feole
+&thorn;ing, teonen &thorn;olien, &amp; gromen &amp; &slong;cheomen,
+umbe &slong;tunde, drehen &slong;e moni wa, for &slong;e wac hure
+A&slong; &thorn;e worlt for&yogh;elt eauer ed ten ende.  Ni&slong;
+&thorn;eo&slong; witerliche akea&slong;t?  Ni&slong; &thorn;i&slong;
+&thorn;eowdom inoh, A&yogh;ein &thorn;et ilke freolec &thorn;et ha
+hefde hwil ha we&slong; Syone&slong; dohter?
+
+</P><P>Ant &thorn;ah ni&slong; inempnet her nawt of heouenliche luren,
+&thorn;e pa&slong;&slong;i&eth; alle wi&eth;-uten euenunge.
+Sikerliche &slong;wa hit feare&eth;.  <Q>"Serue godd ane, &amp; alle
+&thorn;ing &slong;chule &thorn;e turne to gode."</Q> & tac &thorn;e to
+him treowliche, &amp; tu &slong;chalt beo freo from alle worldliche
+weanen, ne mei nan uuel hearmi &thorn;e; for, a&slong; &slong;einte
+pawel &slong;ei&eth;, alle &thorn;ing turne&eth; &thorn;en gode, to
+gode; ne mei na &thorn;ing wonti &thorn;e &thorn;e bere&slong;t him
+&thorn;et al wealt in wi&eth; &thorn;i breo&slong;te. &amp;
+&slong;wuch &slong;wettne&slong;&slong;e &thorn;u &slong;chalt ifinden
+in hi&slong; luue &amp; in hi&slong; &slong;erui&slong;e, &amp; habbe
+&slong;e muche murh&eth;e &thorn;rof, & licunge i &thorn;in heorte,
+&thorn;et tu nalde&slong;t changin &thorn;et &slong;tat &thorn;et tu
+liue&slong;t in, forte cwen icrunet.  Se hende i&slong; ure lauerd,
+&thorn;et nule he nawt &thorn;et hi&slong; icorene beon her
+wi&eth;-ute mede. <MILESTONE N="54, back" UNIT="leaf">for &slong;e muchel confort i&slong; in hi&slong;
+grace, &thorn;et al ham &slong;it, &thorn;et ha seo&eth;; Ant
+&thorn;ah hit &thorn;unche o&thorn;re men &thorn;et ha drehen hearde,
+hit ne derue&eth; ham nawt, Ah &thorn;unche&eth; ham &slong;ofte;
+&amp; habbe&eth; mare delit &thorn;rin &thorn;en ei o&eth;er habbe i
+licunge of &thorn;e worlt. &thorn;i&slong; ure lauerd &yogh;eue&eth;
+ham her, a&slong; on earnne&slong;&slong;e of eche mede &thorn;et
+&slong;chal cume &thorn;refter. &thorn;u&slong; habbe&eth; gode&slong;
+freond al &thorn;e frut of &thorn;i&slong; worlt, &thorn;et ha
+for&slong;aken habbe&eth;, o wunderliche wi&slong;e, &amp; heouene ed
+ten ende.
+
+
+
+ 
+<PB N="10">
+
+</P><P>Nu &thorn;enne, on o&eth;er half, nim &thorn;e to &thorn;e worlde;
+&amp; eauer &slong;e &thorn;u mare haue&slong;t, &slong;e &thorn;e
+&slong;chal mare trukien; &amp; &slong;eruin, hwen &thorn;u
+nalde&slong;t godd, &thorn;e&slong; fikele worlt ant frakele; &amp;
+&slong;chalt beo &slong;are ideruet under hire, a&slong; hire
+&thorn;real, on a &thorn;u&slong;ent wi&slong;en; A&yogh;eine&slong;
+an licunge, habben twa of-&thorn;unchunge, &amp; &slong;e ofte beon
+imaket earm of an e&eth;lich mon &thorn;et tu li&slong;t under, for
+nawt o&eth;er fornohtunge, &thorn;et te &slong;chal la&eth;i &thorn;i
+lif, &amp; bireowe &thorn;i &slong;i&eth; &thorn;et tu eauer
+dude&slong;t te in-to &slong;wuch &thorn;eowdom for worldliche wunne
+&thorn;et tu wende&slong;t to bi&yogh;eotene, ant haue&slong;t ifunden
+weane &thorn;rin, &amp; wontre&eth;e riue.  Al i&slong; &thorn;et tu
+wende&slong;t golt, iwur&eth;e to mea&slong;tling.  Al i&slong; nawt
+&thorn;et ti folc&mdash;of hwam i &slong;pec
+&thorn;ruppe&mdash;biheten &thorn;e to ifinden. Nu &thorn;u wa&slong;t
+&thorn;et ha hab<MILESTONE N="55" UNIT="leaf">be&eth; bichearret te a&slong; treitre&slong;; for
+under weole, i wunne&slong; &slong;tude &thorn;u haue&slong;t her ofte
+helle; ant bute &yogh;ef &thorn;u wi&eth;breide &thorn;e, &thorn;u
+brede&slong;t te &thorn;et o&eth;er.
+
+</P><P>A&slong; do&eth; &thorn;e&slong; cwene&slong;, &thorn;e&slong;
+riche cunta&slong;&slong;e&slong;, &thorn;eo&slong; modie
+leafdi&slong; of hare liflade.  So&eth;liche, &yogh;ef ha
+bi&thorn;enche&eth; ham riht, &amp; icnawleche&eth; so&eth;, ich habbe
+ham to witne&slong;&slong;e, Ha licki&eth; honi of
+&thorn;orne&slong;. ha bugge&eth; al &thorn;et swete wi&eth; twa dale
+of bittre; &amp; &thorn;et &slong;chal for&eth;re i &thorn;i&slong;
+writ beon openliche i&slong;chawet.  Ni&slong; hit nower neh gold al
+&thorn;er ter &slong;chine&eth;, Nat &thorn;ah na mon bute ham
+&slong;eolfen hwet ham &slong;tiche&eth; ofte.  Hwen &thorn;us
+i&slong; of riche, hwet wene&slong;t tu of &thorn;e poure, &thorn;e
+beo&eth; wacliche i&yogh;euen ant bi&slong;et on vuele, a&slong;
+gentile wummon mea&slong;t alle nu on worlde, &thorn;e nabbe&eth;
+hwer-wi&eth; buggen ham brudgume o-nont ham, &amp; &yogh;eoue&eth; ham
+
+
+
+ 
+<PB N="12">
+to &thorn;eowdon of an e&eth;eluker mon, wi&eth; al &thorn;et ha
+habbe&eth;. weilawei! ihesu godd! hwuch unwur&eth;e chaffere! wel were
+ham, weren ha on hare brudlake&slong; dei iboren to bi-burien !
+for-&thorn;i, &slong;eli meiden, <Q>"for&yogh;et ti folc,"</Q>
+a&slong; daui&eth; bit; &thorn;et i&slong;, do awei &thorn;e
+&thorn;oncke&slong; &thorn;e prokie&eth; &thorn;in heorte &thorn;urh
+licomliche lu&slong;te&slong;, &amp; lea&eth;ie&eth; &amp; eggi&eth;
+towart &thorn;ullich &thorn;eowdom for flec&slong;liche
+ful&eth;en. <Q>"for&yogh;et ec &thorn;i feader hu&slong;,"</Q>
+a&slong; daui&eth; read &thorn;refter: <Q>"&thorn;i fea<MILESTONE N="55, back" UNIT="leaf">der,"</Q> he
+cleope&eth; &thorn;et un&thorn;eaw &thorn;et &slong;treonede &thorn;e
+of &thorn;i moder, &thorn;et ilke unhende fle&slong;che&slong; brune,
+&thorn;et bearninnde &yogh;eoh&eth;e of &thorn;et licomliche
+lu&slong;t, biuore &thorn;et wleatewile werc, &thorn;et
+be&slong;telich gederunge, &thorn;et &slong;cheomele&slong;e
+&slong;ompnunge, &thorn;et ful of ful&eth;e stinkinde &amp; untohe
+dede.
+
+</P><P>Hit i&slong; &thorn;ah i wedlac &slong;umme&slong; weie&slong; to
+&thorn;olien, a&slong; me &slong;chal efter iheren.  &yogh;ef &thorn;u
+ea&slong;ke&slong;t hwi godd &slong;cheop &slong;wuch &thorn;ing to
+beonne, Ich &thorn;e ond&slong;werie: Godd ne &slong;cheop hit neauer
+&slong;wuch; Ah adam &amp; eue turnden hit to beo &slong;wuch
+&thorn;urh hare &slong;unne, &amp; merden ure cunde, &thorn;et
+i&slong; un&thorn;eawe&slong; hu&slong;, &amp; haue&eth; mare
+hearrm. i&slong; al to muche lauerdom &amp; mei&slong;trie
+&thorn;rinne, &thorn;i&slong; cunde merre&eth; [&thorn;]u&slong;,
+&thorn;et daui&eth; cleope&eth; <Q>"&thorn;i feadre&slong;
+hu&slong;,"</Q> &thorn;et i&slong;, &thorn;e lu&slong;t of lecherie
+&thorn;et rixle&eth; &thorn;erwi&eth;-innen. <Q>"for&yogh;et,"</Q>
+&amp; ga ut &thorn;rof wi&eth; wil of &thorn;in heorte; &amp; godd
+wule, efter &thorn;e wil, &yogh;eoue &slong;treng&eth;e sikerliche of
+hi&slong; deore grace.  Ne &thorn;earf &thorn;u bute wilnin, &amp;
+leote godd wurchen. haue tru&slong;t on hi&slong; help.  Ne
+&slong;chalt tu na &thorn;ing gode&slong; bi&slong;echen, ne luuien,
+&thorn;et he hit nule endin.  Eauer bidde hi&slong; grace.  &amp;
+ouerkim, wi&eth; hire help, &thorn;e ilke wake cunde &thorn;e
+drahe&eth; in-to
+
+
+
+ 
+<PB N="14">
+&thorn;eowdom, &amp; in to ful&eth;e fenniliche akea&slong;te&eth;
+&slong;e monie.  <Q>"Et concupi&slong;cet rex decorem tuum."</Q> ant
+&thorn;enne wule, &slong;ei&eth; daui&eth;, &thorn;e king wilni
+&thorn;i wlite: &thorn;e king of alle kinge&slong; de&slong;iri
+&thorn;e to leofmon; Ant tu, <MILESTONE N="56" UNIT="leaf">&thorn;enne, eadi meiden, &thorn;et art
+iloten to him, wi&eth; mei&eth;hade&slong; merke, ne brec &thorn;u
+nawt &thorn;et &slong;eil &thorn;et seile&eth; inc to-gedere&slong;!
+Hwalt &thorn;i nome &thorn;urh hwam &thorn;u art to him iweddet; Ne
+leo&slong; &thorn;u neauer, for a lu&slong;t &amp; for e&eth;elich
+delit of an hondhwile, &thorn;et ilke &thorn;ing &thorn;e ne mei
+neauer beon acoueret.
+
+</P><P>Mei&eth;had i&slong; &thorn;et tresor, &thorn;et, beo hit
+eane&slong; forloren, ne bi&eth; hit neauer ifunden.  Mei&eth;had
+i&slong; &thorn;e blo&slong;tme, &thorn;et, beo ha fulliche
+eane&slong; forcoruen, ne &slong;prute&eth; ha eft neauer; Ah
+&thorn;ah ha falewi &slong;um chere, mid mi&slong;liche
+&thorn;onke&slong;, ha mei eft grenin neauer &thorn;e leatere.
+Mei&eth;had i&slong; &thorn;e &slong;teorre, &thorn;et, beo ha
+eane&slong; of &thorn;e e&slong;t igan adun i&thorn;e we&slong;t,
+neauer eft ne ari&slong;e&eth; ha.  Mei&eth;had i&slong; &thorn;et an
+i&yogh;ettet te of heouene: do &thorn;u hit eane&slong; awei, ne
+&slong;chalt tu neauer nan o&eth;er &slong;wuch acourin; for
+mei&eth;had i&slong; heouene cwen, &amp; worlde&slong;
+ale&slong;endne&slong;&slong;e, &thorn;urh hwam we beo&eth; iborhen.
+Mihte ouer alle mihte&slong;, &amp; cweme&slong;t cri&slong;t of
+alle. forr-&thorn;i &thorn;u Ahe&slong;t, meiden, &slong;e deorliche
+witen hit; for hit i&slong; &slong;e heh &thorn;ing, &amp; &slong;e
+&slong;wi&eth;e leof godd, &amp; &slong;e licwur&eth;e. &amp;
+&thorn;et an lure &thorn;et i&slong; wituten couerunge. &yogh;ef hit
+i&slong; godd [leof], &thorn;et i&slong;, him &slong;eolf &slong;wa
+ilich, hit na wunder; for he i&slong; leofluke&slong;t &thorn;ing,
+&amp; buten eauer-euch bruche,<NOTE ID="n3"> MS. bruge; correction [che] in different ink.</NOTE> &amp; we&slong; eauer, &amp; i&slong;,
+cleane ouer alle &thorn;inge, &amp; ouer alle &thorn;inge luue&eth;
+cleainne&slong;&slong;e. &amp; hwet i&slong; luf&slong;umre
+&thorn;ing, &amp; mare to herien bi-mong eordlich &thorn;ing,
+&thorn;en &thorn;e mihte of mei&eth;had,
+
+
+
+ 
+<PB N="16">
+<MILESTONE N="56, back" UNIT="leaf">bute bruche &amp; cleane, ibrowden on him &slong;eoluen, &thorn;e
+maked of eordlich mon &amp; wummon, heouene engel; of heame, hine; of
+fa, freont; help, of &thorn;et te hearmi&eth;. vre fle&slong;ch
+i&slong; ure fa, &amp; heane&eth; u&slong;, &amp; hearmi&eth;,
+&slong;e ofte a&slong; ha u&slong; fule&eth;.  Ah &yogh;ef ha wit hire
+wi&eth;-ute bruche, cleane, ha i&slong; u&slong; &slong;wi&eth;e godd
+freond, & help, of treowe hine; for in hire &amp; &thorn;urh hire,
+&thorn;u of-earne&slong;t, meden, to beon englene euening i &thorn;e
+eche bli&slong;&slong;e of heouene, & wi&eth; go&eth; rihte, hwen
+&thorn;u hare liflade i &thorn;i bruchele fle&slong;ch bute bruche
+leade&slong;t.
+
+</P><P>Engel &amp; meiden beo&eth; euening i uertu i meidhade&slong;
+mihte, &thorn;ah eadine&slong;&slong;e ham twinni &yogh;etten &amp;
+totweame.  Ant &thorn;ah hare mei&eth;had beo ed[i]ure<NOTE ID="n4"> The i has been erased.</NOTE> nu&eth;e,
+&thorn;in i&slong; &thorn;e mare &slong;treng&eth;e to halden, &amp;
+&slong;chal wi&eth; mare mede beo &thorn;e
+for-&yogh;olden. &thorn;i&slong; mihte i&slong; &thorn;et an,
+&thorn;et i&slong; &thorn;e deadliche lif, &slong;chawe&eth; in hire
+an e&slong;tat of &thorn;e bli&slong;&slong;e undeadlich i &thorn;et
+eadi lond, a&slong; brude ne nime&eth; gume, ne brudgume brude, &amp;
+teache&eth; her on eor&eth;e, in hire liflade, &thorn;e liflade of
+heouene; ant i &thorn;i&slong; worlt, &thorn;et i&slong; icleopet,
+lond of unlicne&slong;&slong;e, edhalt hire burde in
+cleanne&slong;&slong;e of heouenlich cunde.  &thorn;ah ha beo utlahe
+&thorn;reof, &amp; i licome of lam, &amp; i be&slong;te&slong; bodi,
+neh liue&eth; heouene engel.  Nis <MILESTONE N="57" UNIT="leaf">&thorn;i&slong; mihte, of alle
+&slong;wi&eth;e to herien?  &THORN;i&slong; i&slong; &yogh;et &thorn;e
+uertu &thorn;e halt ure bruchele ueat, &thorn;et i&slong;, ure feble
+fle&slong;ch, a&slong; &slong;einte pawel leare&eth;, In hal
+haline&slong;&slong;e. &amp; a&slong; &thorn;et &slong;wote
+&slong;mirle&slong;, ant deore&slong;t of o&thorn;re, &thorn;et
+i&slong; icleopet ba&slong;me, wit &thorn;et deade licome &thorn;et
+i&slong; &thorn;er-wi&eth; i&slong;miret, from rotunge, Al &slong;wa
+de&eth; meidenhad, meidene&slong; cwike fle&slong;ch
+
+
+
+ 
+<PB N="18">
+wi&eth;-ute wemmunge halt al&slong;e hire limen &amp; hire fif
+witte&slong;, Sih&eth;e &amp; herunge, smechunge &amp;
+&slong;mellunge, &amp; euch lime&slong; felunge; &thorn;et ha ne
+merren, ne ne mealten, &thorn;urh licome lu&slong;te&slong;t i
+fle&slong;chliche ful&eth;en.  &thorn;e godd haue&eth;, &thorn;urh
+hi&slong; grace, &slong;e muche luue ivnnen, &thorn;et ha ne beo&eth;
+of &thorn;e ilich, bi hwam hit i&slong; iwriten &thorn;us &thorn;urh
+&thorn;e prophete, &thorn;et ha in hare wur&eth;inge a&slong;
+eauere&slong; forroteden; &thorn;et i&slong;, eauer-euch wif &thorn;et
+i&slong; hire were &thorn;real, & liue&eth; i wur&eth;inge, he &amp;
+heo ba&eth;e.  Ah ni&slong; nawt bi &thorn;eo&slong; i&slong;eid,
+&thorn;et ha forrotie&eth; &thorn;rin, &yogh;ef ha hare wedlac
+laheliche halde&eth;.  Ah &thorn;e ilke &slong;ari wrecche&slong;
+&thorn;e i &thorn;e fule wur&eth;inge vnwedde walewe&eth;, beo&eth;
+&thorn;e deofle&slong; eauere&slong;, &thorn;et rit ham & spure&eth;
+ham to don al &thorn;et he wule. &thorn;eo&slong; walewi&eth; i
+wurdinge, & forrotie&eth; &thorn;rin, a &thorn;et ha ari&slong;en
+&thorn;urh bireow&slong;unge, &amp; healen ham wid &slong;o&eth;
+&slong;chrift &amp; wi&eth; deadbote.
+
+</P><P>Eadi meiden! under&slong;tont te in hu heh dignete &thorn;e mihte
+of meidhad halt te.  Ah &slong;e &thorn;u herre &slong;tonde&slong;t,
+beo &slong;arre offea<MILESTONE N="57, back" UNIT="leaf">-aret to fallen, for, &slong;e herre degre,
+&slong;e &thorn;e fal is wur&slong;e. &thorn;e ontfule deouel bihalt
+te, &slong;e hehe i&slong;tihe towart heouene, &thorn;urh
+mei&eth;hade&slong; mihte, &thorn;et him i&slong; mihte
+la&eth;e&slong;t; For, &thorn;urh hire leafdi mei&eth;had, &thorn;e
+hit bigon ear&slong;t, &thorn;e meiden marie, he forlea&slong;
+&thorn;e lauerdom on moncun on eor&eth;e; &amp; we&slong; helle
+irobbet, &amp; heouene bi&eth; ifullet. &slong;i&eth; &thorn;e folhin
+hire troden!  Meiden! gan a&slong; heo dude, &thorn;e offrede hire
+mei&eth;had ear&slong;t to ure lauerd, for hwon &thorn;et he
+chea&slong; hire bimong alle wummem forte beon hi&slong; moder, &amp;
+&thorn;urh hire mei&eth;had moncun ale&slong;en.  Nu bihalt te alde
+feond, &amp; &slong;i&eth; i &thorn;i&slong; mihte
+
+
+
+ 
+<PB N="20">
+&slong;tonde &slong;e hehe, ilich hire &amp; hire &slong;une, a&slong;
+engel in heouene, i mei&eth;hade&slong; men&slong;ke; &amp;
+to&slong;welle&eth; of grome, &amp; &slong;cheoted niht &amp; dei
+hi&slong; earewen, idrencte of an attri healewi, towart tin heorte, to
+wundi &thorn;e wi&eth; wac wil, &amp; makien to fallen, a&slong;
+cri&slong;t te forbeode. &amp; eauer &slong;e &thorn;u
+&slong;trengeluker &slong;tonde&slong;t a&yogh;ein him, &slong;e he, o
+teone &amp; o grome, wodeluker weorre&eth;; For &slong;wa muche
+&thorn;e hokerluker him &thorn;unche&eth; to beon ouercumen; &thorn;et
+&thorn;ing &slong;e feble a&slong; fle&slong;ch i&slong;, &amp;
+nomeliche of wummon, &slong;chal him ouer&slong;tihen.
+
+</P><P>Euch fle&slong;chlich wil &amp; lu&slong;t of leccherie &thorn;e
+ari&slong;e&eth; i &thorn;e heorte, i&slong; &thorn;e&slong;
+feonde&slong; fla.  Ah hit ne wunde&eth; &thorn;e nawt bute hit
+fe&slong;tni in &thorn;e, &amp; leaue &slong;e longe &thorn;et tu
+walde&slong;t &thorn;et ti wil were ibroht to werke.  Hwil <MILESTONE N="58" UNIT="leaf">&thorn;i
+wit ed&slong;tont, &amp; cha&slong;tie&eth; &thorn;i wil, &thorn;ah
+&thorn;i lu&slong;t beore to &thorn;et te leof were, ne hearme&eth;
+hit te nawiht, ne &slong;ule&eth; &thorn;i &slong;awle; for wit
+i&slong; hire &slong;cheld, under gode&slong; grace.  Hwil &thorn;e
+&slong;cheld i&slong; ihal, &thorn;et i&slong;, &thorn;e wi&slong;dom
+of &thorn;i wit, &thorn;et hit ne breoke ne beie, &thorn;ah &thorn;i
+fle&slong;chliche wil fal&slong; beo &thorn;er-under, &amp; walde
+a&slong; hire lu&slong;te, &thorn;e&slong; feonde&slong; flan beo&eth;
+a&yogh;ein alle on him &slong;eoluen. &amp; loke wel hweruore: vre
+licome&slong; lu&slong;t i&slong; &thorn;e&slong; &slong;eondef
+fo&slong;ter; vre wit i&slong; gode&slong; dohter; &amp; ba beo&eth;
+u&slong; inwi&eth;; for&thorn;i, her i&slong; &aacute;&aacute; feht,
+&amp; mot beon &aacute;&aacute; nede; for ne truke&eth; neauer mare,
+hwil we her wunie&eth;, weorre ham bi-tweonen.  Ah wel i&slong; him
+&thorn;et folhe&eth; wit, gode&slong; dohter, for ha halt wi&eth;
+meidhad &thorn;et i&slong; ure &slong;u&slong;ter.
+
+</P><P>Ah &thorn;i wil, on oder half, of &thorn;et licomliche lu&slong;t,
+halt wi&eth; leccherie, &thorn;et i&slong; &thorn;e deofle&slong;
+&slong;treon, a&slong; heo i&slong;, & &slong;unne hire
+moder. leccherie, o mei&eth;had,
+
+
+
+ 
+<PB N="22">
+wi&eth; help of fle&slong;chlich wil, weorre&eth; o &thorn;i&slong;
+wi&slong;e: hire forme ful&slong;t i&slong; &slong;ih&eth;e: &yogh;ef
+&thorn;u bihalde&slong;t ofte &amp; &slong;tikelunge on ei mon,
+leccherie anan riht greide&eth; hire wi&eth; &thorn;et to weorrin o
+&thorn;i mei&eth;had, &amp; &slong;eche&eth; er&slong;t upon hire,
+nebbe to nebbe. Speche i&slong; hire o&thorn;er help. &yogh;ef &yogh;e
+&thorn;refter &thorn;enne &slong;peoked [sic] to-gedere folliche,
+&amp; talki&eth; of unnet, leccherie &slong;ei&eth; `&slong;cheome
+&thorn;e men&slong;ke of &thorn;i mei&eth;had,' &amp; tuke&eth; hire
+al to wundre, Ant <MILESTONE N="58, back" UNIT="leaf">&thorn;reat to don hir &slong;cheome, &amp; hearmin
+&thorn;refter. &amp; halt hire forewart; for &slong;one &slong;e
+co&slong; kime&eth; for&eth;, &thorn;et i&slong; hire &thorn;ridde
+fulht [sic]; &thorn;enne &slong;pit leccherie, to &slong;cheome &amp;
+to &slong;chendlac, mei&eth;had o &thorn;e nebbe. &thorn;e feor&eth;e
+ful&slong;t to bi&slong;mere &amp; to merren mei&eth;had, &thorn;et
+i&slong; unhende felunge. wite hire &thorn;enne! for &yogh;ef &yogh;e
+&thorn;enne hondli&eth; ow in ei &slong;tude untuliche, &thorn;enne
+&slong;mit leccherie o &thorn;e mihte of mei&eth;ha&eth;, &amp;
+wunde&eth; hire &slong;are: &thorn;et dreori dede on ende
+&yogh;eue&eth; &thorn;et dea&eth;e&slong; dunt. weila &thorn;et
+reow&eth;e!  Ne acwike&eth; neauer mei&eth;had efter &thorn;et
+wunde. wei &thorn;e &slong;ehe &thorn;enne hu &thorn;e engle&slong;
+beo&eth; i&slong;weamet, &thorn;e &slong;eo&eth; hare
+&slong;u&slong;ter &slong;e &slong;eorhfuliche aueallet, &amp; te
+deoflen hoppin &amp; kenchinde beaten honden to-&yogh;edere&slong;,
+Stani were hi&slong; heorte &yogh;ef ha ne mealte i teare&slong;.
+
+</P><P>Wite &thorn;e, &slong;eli meiden! Me &slong;ei&eth; &thorn;et
+ei&slong;e make&eth; &thorn;eof.  Flih alle &thorn;e &thorn;ing, &amp;
+forbuh &yogh;eorne, &thorn;et tu&slong; unbotelich lure mahe of
+ari&slong;en; &thorn;et i&slong;, on alre ear&slong;t, &thorn;e
+&slong;tude &amp; te time, &thorn;e mahten bringe &thorn;e on
+mi&slong; forte donne. wi&eth; o&thorn;re un&thorn;eawe&slong; me mei
+&slong;tondinde fehten; Ah a&yogh;ein lecherie, &thorn;u mo&slong;t
+turne &thorn;e rug &yogh;ef &thorn;u wult ouercumen, &amp; wi&eth;
+fluht
+
+
+
+ 
+<PB N="24">
+fehten. &amp; &slong;o&eth;e&slong;, &yogh;ef &thorn;u
+&thorn;enche&slong;t &amp; bihalde&slong;t on heh towart te muchele
+mede &thorn;et mei&eth;had abide&eth;, &thorn;u wult leote lihtliche,
+&amp; abeoren bli&eth;eliche &thorn;e derf &thorn;et tu drehe&slong;t
+onont ti fle&slong;chliche wil, &amp; ti licome&slong; lu&slong;t,
+&thorn;et tu forbere&slong;t her, <MILESTONE N="59" UNIT="leaf">&amp; ane hwile leaue&slong;t, for
+bli&slong;&slong;e &thorn;et kime&eth; &thorn;reof, wi&eth;uten eani
+ende.
+
+</P><P>Ant hwuch i&slong; &thorn;e bli&slong;&slong;e? low, godd him
+&slong;eolf &slong;ei&eth; &thorn;urh &thorn;e prophete: <Q>"&thorn;eo
+&thorn;e habbe&eth; from ham forcoruen fle&slong;che&slong;
+lu&slong;te&slong;, &amp; halde&eth; mine &slong;abaz,"</Q> &thorn;et
+i&slong;, halde&eth; ham i re&slong;te from &thorn;et
+fle&slong;chliche werc, &amp; halde&eth; me forewart, <Q>"Ich bihate
+ham,"</Q> he &slong;ei&eth;, <Q>"i mi kineriche to &yogh;eouen ham
+&slong;tude, &amp; betere nome &thorn;en &slong;unen &amp;
+dehtren."</Q> Hwa mahte wilni mare?  Eunuchu&slong; Qui
+&slong;eminauerunt &slong;abata mea, & cetera. hwa mei &thorn;enche
+&thorn;e weole, &thorn;e wunne &amp; te bli&slong;&slong;e, &thorn;e
+heh&slong;chipe of &thorn;i&slong; mede, &thorn;et te&slong; ilke lut
+word bicluppe&eth; abuten? <Q>"Ich chulle,"</Q> he &slong;ei&eth;,
+<Q>"&yogh;eouen ham &slong;tude ant nome betere &thorn;en &slong;unen
+&amp; dehtren."</Q> Sulli bihe&slong;te: Ah hit i&slong; ilich
+&thorn;et &thorn;et ham i&slong; bihaten to &slong;ingen wi&eth;
+engle&slong;, hwa&slong; feolahe&slong; ha beo&eth;, &thorn;urh
+liflade of heouene, &thorn;e &yogh;et &thorn;er ha wunie&eth;
+fle&slong;chliche on eor&eth;e. to &slong;inge &thorn;et &slong;wete
+&slong;ong ant &thorn;et englene drem, vtnume murie, &thorn;et nan
+habbe ne mei, bute meiden ane, &slong;ingen in heouene; &amp; folhin
+godd al-mihti, euch gode&slong; ful, hwider-&slong;e he eauer
+wende&eth;, a&slong; &thorn;e o&thorn;re ne mahe nawt, &thorn;ah ha
+alle beon hi&slong; &slong;unen &amp; alle hi&slong;e dehtren. ne nan
+of &thorn;e&slong; o&thorn;re&slong; crunen, ne hare wlite, ne hare
+weden, ne mahen euenin to hare, &slong;e vnimete brihte ha beo&eth;,
+&amp; &slong;chene to bi-&slong;eon on.
+
+
+
+ 
+<PB N="26">
+
+</P><P>Ant hwet bid hare ane&slong; &slong;ong, ant efter godd hare
+ane&slong; &yogh;ong, hwider-&slong;e he eauer <MILESTONE N="59, back" UNIT="leaf">turne&eth;? &amp; hare
+fare, &slong;e feier biuoren alle &thorn;eo&thorn;re?
+vnder&slong;tond, &amp; nim &yogh;eme. al hare &slong;ong in heouene
+i&slong; forte herien godd of hi&slong; grace &amp; of hi&slong;
+goddede. &thorn;e iweddede &thorn;onki&eth; him &thorn;et, ha lauhure
+hwen ha alle&slong; walden fallen dunewart, ne feollen nawt wi&eth;
+alle adun, for wedlac ham ikepte, &thorn;e ilke lahe &thorn;e godd
+haue&eth; i&slong;tald for &thorn;e un&slong;tronge.  for wel
+wi&slong;te ure lauerd, &thorn;et alle ne mahten nawt halden ham i
+&thorn;e hehe of mei&eth;hade&slong; mihte: ah &slong;eide, &thorn;a
+he &slong;pec &thorn;rof, <Q>"Non omnes capiunt uerbum
+i&slong;tu&eth;: Ne underuo&eth; nawt,"</Q> quo&eth; he,
+<Q>"&thorn;i&slong; ilke word alle.  Qui&slong; pote&slong;t capere,
+capiat.  Hwa &slong;e hit mei underneomen, underneome, ich reade,"</Q>
+quo&eth; he. o&thorn;er i&slong; &thorn;et godd hat; &amp; o&thorn;er
+i&slong; &thorn;et he reat. &thorn;e ilke &thorn;inge&slong; godd hat,
+&thorn;et mon mot nede halden, &thorn;e wule beon iborhen; &amp;
+&thorn;eo beo&eth; to alle men o liue iliche imeane: Hi&slong;
+reade&slong; beo&eth; of heh &thorn;ing, &amp; to hi&slong;
+leoue&slong;te freond, &thorn;e lut i &thorn;i&slong;&slong;e worlde,
+& derue beo&eth; to fullen, &amp; lihte &thorn;ah hwa-&slong;e
+haue&eth; riht luue to him, &amp; treowe bileaue.  Ah hwa-&slong;e
+halt ham, earne&eth; him, ouerfullet ful &amp; ouereorninde, met of
+heouenliche mede.  Swuch i&slong; mei&eth;hade&slong; read, &thorn;et
+godd ne hat nawt, ah reat.  Hwuch-&slong;e wule beon of &thorn;e lut
+of hi&slong; leoue&slong;te freond, &amp; al hi&slong; deorling deore,
+don hi&slong; read, &amp; earnin him crune up-o crune. al-&slong;wa
+&slong;einte pawel &yogh;eue&eth; read to meidne&slong;, &thorn;e
+meidne&slong; beo&eth; a&slong; he we&slong;, &amp; &slong;ei&eth;,
+&thorn;et <Q>"wel i&slong; ham <MILESTONE N="60" UNIT="leaf">&thorn;et &slong;wa ham mahen
+halden"</Q> ; Ne hat he hit nan o&thorn;er wei&slong;. for eauer
+&slong;e deorre &thorn;ing,
+
+
+
+ 
+<PB N="28">
+&slong;e i&slong; derure to biwitene. ant &yogh;ef hit were ihaten,
+&amp; nawt tenne ihalden, &thorn;e bruche were deadlich &slong;unne.
+
+</P><P>For-&thorn;i we&slong; wedlac ilahet in hali chirche, a&slong; bed
+te &slong;eke, to ihente &thorn;e un&slong;tronge, &thorn;e ne mahen
+&slong;tonden i &thorn;e hehe hul, & &slong;e neh heouene, a&slong;
+mei&eth;hade&slong; mihte. &thorn;i&slong; i&slong;, &thorn;enne, hare
+&slong;ong, &thorn;e beo&eth; i lahe of wedlac, &thorn;onki godd &amp;
+herien, &thorn;et he grei&eth;ede ham, lanhure &thorn;a ha walden of
+meidne&slong; heh&slong;chipe, a &slong;wuch &slong;tude in to lihten,
+&thorn;et ha neren nawt ihurt, &thorn;ah ha weren ilahet, ant hwet
+&slong;e ha &thorn;rin hurten ham, wi&eth; ealme&slong; deden
+healden. &thorn;i&slong; &slong;inge&eth;, &thorn;enne, iweddede,
+&thorn;et ha, &thorn;urh gode&slong; milce, &amp; merci of hi&slong;
+grace, &thorn;a ha driuen dunewart, i wedlac et&slong;tutten, &amp; i
+&thorn;e bed of hi&slong; lahe &slong;ofteliche lihten.
+
+</P><P>For hwa-&slong;e &slong;wa falle&eth; of mei&eth;hade&slong;
+men&slong;ke, &thorn;et wedlake&slong; heuel bedd nawt ham ne ihente,
+&slong;e ferliche ha driue&eth; dun to &thorn;er eor&eth;e, &thorn;et
+al ham i&slong; to-limet li&eth; ba & lire. &thorn;eo&slong; ne
+&slong;chulen neauer &slong;ong &slong;ingen in heouene, Ah
+&slong;chulen weimere&slong; leo a mare in helle, but &yogh;ef
+bireow&slong;unge areare ham to liue, &amp; heale ham wi&eth;
+&slong;o&eth; &slong;chrift &amp; wi&eth; deadbote.
+
+</P><P>For &yogh;ef ha &thorn;us beo&eth; acwiket &amp; imaket hale, ha
+beo&eth; i widewene reng, &amp; &slong;chulen, i widewene ring, biuore
+&thorn;e iweddede &slong;ingen in heouene: &thorn;et i&slong;,
+&thorn;enne, hare &slong;ong, to herien hare drihtin, <MILESTONE N="60, back" UNIT="leaf"> &amp;
+&thorn;onkin him &yogh;eorne &thorn;et hi&slong; mihte heolt ham i
+clenn&slong;chipe cha&slong;te, efter &thorn;et ha hefden ifondet
+fle&slong;che&slong; ful&eth;e, &amp; &yogh;ettede ham i
+&thorn;i&slong; worlt to beten hare &slong;unnen.  Swete
+
+
+
+ 
+<PB N="30">
+beo&eth; &thorn;eo&slong; &slong;onge&slong;.  Ah al meidene&slong;
+&slong;ong unilich &thorn;eo&slong;e, wi&eth; engle&slong; imeane:
+dream ouer alle &thorn;e dreame&slong; in heouene.  In heore ring,
+&thorn;er [i&slong;] godd &slong;eolf; &amp; hi&slong; deore moder,
+&thorn;e deorewur&eth;e meiden, &thorn;e heouenliche cwen, leat i
+&thorn;et eadi trume of &slong;chimminde meidne&slong;: ne meten nane
+buten heo hoppin ne &slong;ingen, for &thorn;et i&slong;
+&aacute;&aacute; hare &slong;ong, &thorn;onki godd &amp; herien,
+&thorn;et he on ham &slong;e muche grace &yogh;ef of him
+&slong;eoluen, &thorn;et ha for&slong;oken for him euch eor&eth;lich
+mon, &amp; heolden ham cleane &aacute;&aacute; from fle&slong;chliche
+ful&eth;en i bodi &amp; i breo&slong;te; &amp; i &slong;tude of mon of
+lam, token liue&slong; lauerd, &thorn;e king of hehe
+bli&slong;&slong;e; for hwi he men&slong;ke&eth; ham &slong;e muchel
+biuoren alle &thorn;e o&eth;re, as &thorn;e brudgume de&eth; hi&slong;
+weddede &slong;pu&slong;e. &thorn;i&slong; &slong;ong, ne muhen nane
+buten heo &slong;ingen.
+
+</P><P>Al, a&slong; ich &slong;eide ear, folhi&eth; ure lauerd, &amp; tah
+nawt ouer al; for, i &thorn;e men&slong;ke of mei&eth;had &amp; in
+hire mihte, ne muhten nane folhin him, ne &thorn;et eadi meiden,
+englene leafdi, &amp; meidene&slong; men&slong;ke, bute meidne&slong;
+ane. ant for&thorn;i is hare aturn &slong;e briht & &slong;e
+&slong;chene biuoren alle o&thorn;re, &thorn;et ha god eauer
+ne&slong;t godd, hwider-&slong;e <MILESTONE N="61" UNIT="leaf">he turne&eth;. &amp; alle ha
+beo&eth; icrunet, &thorn;e bli&slong;&slong;i&eth;, in heouene, wi&eth;
+kempene crune.  Ah &thorn;e meidne&slong; habbe&eth; up-o &thorn;eo,
+&thorn;e i&slong; to alle iliche imeane, a gerlonde&slong;che
+&slong;chenre &thorn;en &thorn;e &slong;unne: `an-urle` ihaten o
+latine&slong; ledene. &thorn;e flur&slong; &thorn;e beo&eth; idrahe
+&thorn;ron, ne &thorn;e &yogh;immie&slong; &thorn;rin, ne tellen of
+hare euene, Nis na monne&slong; &slong;peche.  &thorn;u&slong; feole
+priuilege&slong; &slong;chawi&eth; ful &slong;utelliche Hwucche
+beo&eth; &thorn;er mei&eth;ne&slong;, & &slong;undri&eth; ham from
+&thorn;e o&eth;re wi&eth; &thorn;us feole men&slong;ken, world buten
+ende.
+
+
+
+ 
+<PB N="32">
+
+</P><P>&yogh;ef of &thorn;e&slong; &thorn;reo hat, Mei&eth;had &amp;
+widewehad, &amp; wedlac i&slong; &thorn;e &thorn;ridde, &thorn;u maht,
+bi &thorn;e degrez of hare bli&slong;&slong;e, icnawen hwuch, &amp; bi
+hu muchel, &thorn;e an &thorn;asse&eth; &thorn;e o&thorn;re. for
+wedlac haue&eth; frut &thorn;rittifald in heouene; widewehad, sixti
+fald; Mei&eth;had, wi&eth; hundret fald, ouergea&eth; ba&thorn;e.
+loke, &thorn;enne, herbi, hwa-&slong;e of hire mei&eth;had lihte&eth;
+in-to wedlac, bi hu monie degrez ha falle&eth; dunewarde&slong;.  Ha
+i&slong; an hundret degrez ihehet towart heouene, hwil ha mei&eth;had
+halt, a&slong; &thorn;e frut preoued; &amp; leaped in-to wedlac,
+&thorn;et i&slong; dun neo&eth;er to &thorn;e &thorn;rittu&eth;e, ouer
+&thorn;rie twenti &amp; &yogh;et ma bi tene.  Ni&slong;
+&thorn;i&slong;, ed en cherre, a muche lupe dunewart?  &amp; tah hit
+i&slong; to &thorn;olien. &amp; godd haued &amp; ilahet hit, a&slong;
+ich ear &slong;eide, le&slong;te hwa-&slong;e leope, &amp; &thorn;er
+ne ed-&slong;tode lauhure nawt nere &thorn;et kepte him, &amp; driue
+adun &slong;wireuor&eth;, wi&eth;-uten ike<MILESTONE N="61, back" UNIT="leaf">punge, deope into helle. of
+&thorn;eo&slong; ni&slong; nawt to &slong;peokene, for ha beod
+i&slong;crippet ut of liue&slong; writ in heouene.
+
+</P><P>Ah &slong;chawi-we &yogh;et witerluker, a&slong; we ear biheten,
+hwet drehen &thorn;e iweddede, &thorn;et tu icnawe &thorn;er-bi hu
+murie &thorn;u maht libben, meiden i &thorn;i mei&eth;had, ouer
+&thorn;et heo libbe&eth;, to eche &thorn;e murh&eth;e &amp; te
+men&slong;ke in heouene, &thorn;et mu&eth; ne mei numnen.  Nu &thorn;u
+art iweddet, &amp; of &slong;e heh &slong;e lahe iliht,&mdash;of
+englene ilicne&slong;&slong;e, of ihesu cri&slong;te&slong; leofmon,
+of leafdi in heouene,&mdash;into fle&slong;che&slong; ful&eth;e, into
+bea&slong;tes liflade, into monne&slong; &thorn;eowdom, &amp; into
+worlde&slong; weane.  Sei nu, hwet frut, &amp; for hwuch &thorn;ing
+mea&slong;t Is hit: al for &thorn;i, o&eth;er ane dale &thorn;er
+uore. beo
+
+
+
+ 
+<PB N="34">
+nu &slong;o&eth; cwawes, forte keli &thorn;i lu&slong;t wi&eth;
+ful&eth;e of &thorn;i licome; Forr gode, hit i&slong; &slong;peatewile
+forte &thorn;enche &thorn;ron; & forte speoken &thorn;rof, &yogh;et
+&slong;peatewilre. loke, &thorn;enne, hwuch beo &thorn;et &slong;eolue
+&thorn;ing, &amp; &thorn;et dede to donne. al &thorn;et fule delit
+i&slong; wi&eth; ful&eth;e aleid, a&slong; &thorn;u turne&slong;t
+&thorn;in hond.  ah &thorn;et ladliche bea&slong;t leafe&eth; &amp;
+le&slong;t for&eth;; &amp; te of-&thorn;unchunge &thorn;rof longe
+&thorn;refter.  Ant te vnseli horlinge&slong; &thorn;e vnlaheliche hit
+hanti&eth; in inwarde helle; for &thorn;et hwilinde lu&slong;t,
+Endele&slong;e pine, bute &yogh;ef heo hit leauen, &amp; hit on
+eor&eth;e under &slong;chrift bitterliche beten. forhohe forte don hit
+&thorn;et te &thorn;unche&eth; uuel of, &amp; eil forte heren. for
+hwen hit i&slong; &thorn;ullich, &amp; muchele ladluker &thorn;en ei
+wel itohe mu&eth; for &slong;cheome <MILESTONE N="62" UNIT="leaf">mahe seggen, Hwet make&eth; hit
+iluuet bituhhe bea&slong;teliche men, bute hare muchele vn&thorn;eaw,
+&thorn;et bere&eth; ham a&slong;e bea&slong;te&slong; to al &thorn;et
+ham luste&eth;, a&slong; &thorn;ah ha enfden wit in ham ne tweire
+&slong;chad a&slong; mon haue&eth;, ba of god &amp; of vuel, of
+kumelich, &amp; vnkumelich, na mare &thorn;en bea&slong;te&slong;,
+&amp; dumbe neb habbe&eth;.  Ah, lea&slong;&slong;e &thorn;en
+bea&slong;te&slong; &yogh;et; for &thorn;eo&slong; de&eth; hare cunde
+(bute wit &thorn;ah ha beon) in a time of &thorn;e &yogh;er.  Moni
+halt him to a make, ne nule efter &thorn;et lure neauer neomen
+o&thorn;er.  Ant mon &thorn;et &slong;chulde habbe wit, &amp; don al
+&thorn;et he dude efter hire wilnunge, fohe&eth; &thorn;et ful&eth;e
+in eauer-euch time; & nime&eth; an efter an, &amp; moni &thorn;et
+i&slong; wur&slong;e, monie to-&yogh;edere&slong;.
+
+</P><P>Lo nu hu &thorn;i&slong; vn&thorn;eaw ne euene&eth; &thorn;e, nawt
+ane to wittle&slong;e bea&slong;te&slong;, dumbe &amp; broke-rugget,
+ibuhe towart eor&eth;e; &thorn;u &thorn;et art i wit wraht to
+gode&slong; ilicne&slong;&slong;e, &amp; i riht, bodi up, &amp; heaued
+towart heouene; for
+
+
+
+ 
+<PB N="36">
+&thorn;i &thorn;et tu &slong;chulde&slong;t &thorn;in heorte heouen
+&thorn;iderwart a&slong; &thorn;in eritage i&slong;, &amp; eor&eth;e
+forhohien.  Nim &yogh;eme hu &thorn;i&slong; vn&thorn;eaw ne make&eth;
+&thorn;e nawt ane euening ne ilich ham, Ah de&eth; muchel eateluker,
+&amp; mare to witen, &thorn;e for&slong;chupte&slong;t te &slong;eelf,
+wille&slong; & walde&slong;, in-to hare cunde; &thorn;e
+leo&slong;e&eth; &thorn;enne &slong;e heh &thorn;ing, &thorn;e mihte
+&amp; te biheue of meidhade&slong; men&slong;ke, for &slong;e ful
+ful&eth;e a&slong; i&slong; i&slong;chawet &thorn;ruppe.
+Hwa-&slong;e, of engel, lihte&eth; to iwur&eth;en lahre <MILESTONE N="62, back" UNIT="leaf">&thorn;en a
+bea&slong;t, for &slong;e ladli cheaffere, loki hu ha &slong;pede!
+
+</P><P><Q>"Nai,"</Q> &thorn;u wult &slong;eggen, <Q>"for &thorn;et
+ful&eth;e, ni&slong; hit nawt; Ah monne&slong; elne i&slong; muche
+wur&eth;. &amp; me bihoue&eth; hi&slong; help to fluttunge &amp; te
+fode; of wif &amp; were&slong; gederunge, worlde&slong; weole
+awakene&eth;, &amp; &slong;treon of feire children, &thorn;e
+gleadie&eth; muchel &thorn;e ealdren."</Q> Nu &thorn;u haue&slong;t
+i&slong;eid tu&slong;, &amp; &thorn;unche&eth; &thorn;et tu
+haue&slong;t i&slong;eid &slong;o&eth;.  Ah ich chulle &slong;chawin
+hit al wi&eth; fal&slong;&slong;chipe i&slong;me&eth;et.  Ah on alre
+ear&slong;t, hwet weole o&eth;er wunne &slong;e &thorn;er eauer of
+cume, to deore hit bi&eth; aboht, &thorn;et tu &thorn;e &slong;eolf
+&slong;ule&slong;t fore, &amp; &yogh;eue&slong;t &thorn;in beare bodi
+to tukin &slong;wa to wundre, &amp; feare wi&eth; &slong;e
+&slong;cheomeliche, wi&eth; &slong;wuch uncouerlich lure. a&slong;
+mei&eth;hade&slong; men&slong;ke is &amp; te-mede, for worldlich
+bi&yogh;ete. wa wur&eth;e &thorn;et cheaffeare, for ei hwilinde weole
+&slong;ullen mei&eth;had awei, &thorn;e cwen i&slong; of heouene; for,
+al &slong;wa a&slong; of &thorn;i&slong; lure ni&slong; nan
+acouerunge, al &slong;wa i&slong; euch wur&eth; unwur&eth; her towart.
+
+</P><P>&THORN;u &slong;ei&slong;t &thorn;et muche confort haue&eth; wif of
+hire were, &thorn;e beo&eth; wel igederet, &amp; ei&eth;er i&slong;
+alle&slong;wei&slong; ipaiet of o&eth;er. &yogh;e. ahi hit i&slong;
+&slong;elt &slong;cene
+
+
+
+ 
+<PB N="38">
+on eor&eth;e.  Beo nu &thorn;ah &slong;wuch: hare confort &amp; hare
+delit, Hwer-in i&slong; hit al mea&slong;t, buten i
+fle&slong;che&slong; ful&eth;e o&eth;er in worlde&slong; vanite,
+&thorn;e wur&eth;e&eth; al to &slong;orhe &amp; to &slong;ar on ende?
+Ant nawt ane on <MILESTONE N="63" UNIT="leaf">ende, Ah eauer umbe hwile; for moni &thorn;ing
+&slong;chal ham wrea&eth;en &amp; gremien, &amp; make to carien, &amp;
+for hare o&thorn;re&slong; uuel &slong;orhin &amp; &slong;iken.  Moni
+&thorn;ing ham &slong;chal twinnin ant tweamen, &thorn;et la&eth;
+i&slong; luuie men; ant dea&eth;e&slong; dunt on ende ei&eth;er from
+o&eth;er. &slong;wa &thorn;et ne bi&eth; hit nane&slong; wei&slong;
+&thorn;et tet elne ne &slong;chal endin in earmde; ant eauer &slong;e
+hare murh&eth;e we&slong; mare to-&yogh;edere&slong;, &slong;e
+&thorn;e &slong;or-he i&slong; &slong;arre ed te twinununge.<NOTE ID="n5"> or twimmunge.</NOTE> wa
+i&slong; him for-&thorn;i, a&slong; &slong;eint Au&slong;tin
+&slong;ei&eth;, &thorn;et i&slong; wi&eth; to muche luue to ei
+eor&eth;lich &thorn;ing iteiet, for eauer bi&eth; &thorn;et
+&slong;wote aboht wi&eth; twa dale of bittre, ant a fal&slong; wunne
+wi&eth; moni &slong;o&eth; teone.  Ah wel i&slong; hire &thorn;et
+luue&eth; godd; for him ne mei ha nane&slong; wei&slong;,&mdash;bute
+&yogh;ef ha lihe him, &amp; hi&slong; luue leaue&mdash;neauer mare
+leo&slong;en.  Ah &slong;chal ifinden him &aacute;&aacute;
+&slong;wetture &amp; &slong;auurure, from worlde into worlde,
+&aacute;&aacute; on ecne&slong;&slong;e.
+
+</P><P>&THORN;u &slong;peke &thorn;ruppe of monne&slong; help to flutunge
+&amp; to fode. wala!  lutel &thorn;erf &thorn;u carien for &thorn;in
+ane&slong; liuene&eth;, a meke meiden a&slong; &thorn;u art, &amp;
+hi&slong; deore leofmon &thorn;e i&slong; alre &thorn;inge lauerd,
+&thorn;et &yogh;e ne mahe lihtliche, &thorn;et he nule gleadliche
+ifinde &thorn;e largeliche al &thorn;et te bihoue&eth;. ant tah
+&thorn;u wone hefde&slong;t, o&eth;er drehde&slong;t eani derf for
+hi&slong; deore-w<MILESTONE N="63, back" UNIT="leaf">ur&eth;e luue, a&slong; &thorn;e o&eth;re do&eth;
+for monne&slong;, to goder-heale him &thorn;e hit &thorn;ole&eth;, to
+fondi &thorn;e hwe&eth;er &thorn;u beo treowe; &amp; grei&eth;e&eth;
+&thorn;i mede monifald in heouene.  vnder monne&slong; help &thorn;u
+&slong;chalt &slong;are beon ideruet for hi&slong; &amp; for &thorn;e
+
+
+
+ 
+<PB N="40">
+worlde&slong; luue, &thorn;e beo&eth; ba &slong;wikele, &amp; wakien i
+moni care, nawt ane for &thorn;e &slong;eolf, a&slong;e &thorn;erf
+gode&slong; &slong;pu&slong;e, ah &slong;chalt for monie o&thorn;re,
+a&slong;e wel for &thorn;e la&eth;e ofte a&slong; for &thorn;e leoue;
+& mare beon idrechet &thorn;en ei driuel i &thorn;e hu&slong;,
+o&eth;er ei ihuret hine, &amp; tin ane&slong; dale bruken ofte wi&eth;
+bale, &amp; bitterliche abuggen. lutel witen her of &thorn;e
+&slong;elie gode&slong; &slong;pu&slong;e&slong;, &thorn;e i &thorn;e
+&slong;wote eise, wi&eth;-ute &slong;wuch trubuil, i ga&slong;telich
+e&slong;te, & i breo&slong;te re&slong;te, luuie&eth; &thorn;e
+&slong;o&eth;e luue, &amp; in hi&slong; ane&slong; &slong;erui&slong;e
+hare lif lea&eth;e&eth;.  Inoh wel ham i&slong; her, Ah unlich
+elle&slong; hwer. alle worlde&slong; weole ham i&slong; inoh riue Al
+ha habbe&eth; &thorn;er-of &thorn;et ha wel wilni&eth;.  Ah &thorn;et
+eauer godd i&slong;i&eth;, &thorn;et ham wule freamien. Ne mei na
+worldlich unhap bireauin ham hare weole, for ha beo&eth; riche &amp;
+weolefule in-wi&eth; i &thorn;e heorte.
+
+</P><P>A&slong; &thorn;e e&slong;te &amp; al &thorn;e ei&slong;e i&slong;
+&thorn;er a&slong; &thorn;e o&thorn;re beo&eth; god-le&slong;e &amp;
+ignahene, &mdash;nabben ha neauer &slong;e muchel wi&eth;-uten i
+&thorn;e worlde,&mdash;for &thorn;et ha beo&eth; offearet eauer forte
+leo&slong;en, &amp; &yogh;isci&eth; &thorn;ah efter muchel, muche
+deale mare: wi&eth; earm&eth;e bi winne&eth; hit, wi&eth; fearlac
+biwite&eth; hit, for-leo&slong;e&eth; hit wi&eth; &slong;orhe.
+Swinke&eth; <MILESTONE N="64" UNIT="leaf">to bi&yogh;eotene, Bi&yogh;eote&eth; forte leo&slong;en,
+leo&slong;e&eth; forte &slong;orhin. &thorn;us &thorn;i&slong; worldes
+hweol warpe&thorn; ham abuten. &thorn;eoue&slong; hit &slong;teoled
+ham. reauer&slong; hit hit robbi&eth;.  Hare ouerherren witi&eth; ham
+ant wrea&eth;e&eth;.  Moh&eth;e fret te clade&slong;, &amp; cwalm
+&slong;lea&eth; &thorn;et ahte; ant tah nane of &thorn;eo&slong; ne
+makie to forwurden weole, &thorn;er a&slong;e muchel i&slong;, Eauer
+&slong;e &thorn;er mare i&slong;, &slong;e ma beo&eth; &thorn;et hit
+wasti&eth;.  Ant nat ich neauer hwi me &slong;ei&eth; &thorn;et heo
+hit al welde&eth;, &thorn;et, wullen ha, nullen ha, biwinne&eth;
+
+
+
+ 
+<PB N="42">
+&amp; biwite&eth; to &slong;e monie o&thorn;re, nawt ane to hare
+freond, ah to hare fan fulle, ne habben ne mahen &thorn;rof, &thorn;ah
+ha hit hefden isworen, bute hare ane&slong; dale. &thorn;i&slong;
+i&slong; nu for-&thorn;i i&slong;eid, &thorn;et tu &slong;eide&slong;t
+&thorn;ruppe, &thorn;et ter walde wakenin of wif &amp; were&slong;
+&slong;omnunge, riche&slong;ce &amp; worlde&slong; weole, &thorn;et tu
+under&slong;tonde hu lutel hit freame&eth; ham &yogh;et her, i
+&thorn;i&slong; worlt, teke &thorn;et hit reaue&eth; ham &thorn;e hehe
+riche of heouene, bute ha poure beon &thorn;er-in, wi&eth;
+haline&slong;&slong;e of heorte.
+
+</P><P>&THORN;us, wummon, &yogh;ef &thorn;u haue&slong;t were efter
+&thorn;i wil &amp; wunne, ba, of worlde&slong; weole, &thorn;e ne
+&slong;chal itiden. ant hwet &yogh;ef ha beo&eth; &thorn;e wone,
+&thorn;et tu nabbe &thorn;i wil wi&eth; him, ne weole now&eth;er, &
+schalt grenin godle&slong; in-wi&eth; westi wahe&slong;, &amp; te
+breades wone brede &thorn;i bearn-team; &amp; teke &thorn;i&slong;,
+liggen under la<MILESTONE N="64, back" UNIT="leaf">&eth;e&slong;t mon, &thorn;et, &thorn;ah &thorn;u
+hefde&slong;t alle weole, he went hit te to weane; for, beo hit nu,
+&thorn;et te beo richedom riue, &amp; tine wide wahes wlonke &amp;
+weolefule, &amp; habbe monie vnder &thorn;e, hirdmen in halle, &amp;
+ti were&slong; beo &thorn;e wra&eth;, o&eth;er iwur&eth;e &thorn;e
+la&eth;, &slong;wa &thorn;et inker ei&thorn;er hea&slong;ci wi&eth;
+o&thorn;er; Hwet worltlich weole mei beo &thorn;e wunne?  Hwen he
+bi&eth; ute, haue&slong;t a&yogh;ein hi&slong; cume, &slong;ar, care,
+&amp; eie.  Hwel he bi&eth; et hame, alle &thorn;ine wide wanes
+&thorn;unche&eth; &thorn;e to nearewe; his lokunge on
+agea&slong;te&eth; &thorn;e; hi&slong; ladliche mir&eth;, &amp;
+hi&slong; untohe bere make&eth; &thorn;e to agri&slong;en.  Chit te
+&amp; cheowe&eth; &thorn;e, & &slong;cheomeliche &slong;chent te;
+tuke&eth; &thorn;e to bi&slong;mere, a&slong; huler hi&slong; hore;
+beate&eth; &thorn;e &amp; bu&slong;te&eth; &thorn;e, a&slong;
+hi&slong; ibohte &thorn;rel &amp; hi&slong; e&eth;ele
+&thorn;eowe. &thorn;ine bane&slong; ake&eth; &thorn;e, &amp; ti
+fle&slong;ch &slong;meorte&eth; &thorn;e,
+
+
+
+ 
+<PB N="44">
+&thorn;in heorte wi&eth;-inne &thorn;e &slong;welle&eth; of &slong;ar
+grome, &amp; ti neb utewi&eth; tendrei&eth; ut of teone. hwuch
+&slong;chal beo &thorn;e &slong;ompnunge bituhen ow i bedde? Me
+&thorn;eo &thorn;e be&slong;t luuie&eth;, ham to-beore&eth; ofte
+&thorn;rin, &thorn;ah ha na &slong;emblant ne makien ine marhen; ant
+ofte of moni nohtunge, ne luuien ha ham neauer &slong;wa, bitterliche
+bi ham &slong;eolf teoni&eth; ei&eth;er. heo &slong;chal hi&slong;
+wil, muchel hire unwil, wi&eth; muche weane ofte. alle hi&slong;
+fulitohchipe&slong; &amp; hi&slong; unhende gomene&slong;&mdash;ne
+beon ha neauer &slong;wa wi&eth; ful&eth;e bifunden, nomeliche i
+bedde&mdash;ha &slong;chal, wulle ha, nulle ha, &thorn;o<MILESTONE N="65" UNIT="leaf">lien ham
+alle. Cri&slong;t schilde euch meiden to freinin o&thorn;er to wilnin
+forte witen hwucche ha beon! for &thorn;eo &thorn;e fondi&eth; ham
+mea&slong;t, ifin&eth;e&eth; ham forcu&eth;e&slong;t, &amp;
+cleopie&eth; ham &slong;elie iwi&slong;&slong; &thorn;e nuten neauer
+hwet hit i&slong;, ant heatie&eth; &thorn;et ha hanti&eth;. ah
+hwa-&slong;e li&eth; i leifen deope bi&slong;uncken, &thorn;ah him
+&thorn;unche uuel &thorn;rof, he ne &slong;chal nawt up acouerin hwen
+he walde.
+
+</P><P>Bi&slong;ih &thorn;e, &slong;eli wummon, beo &thorn;e cnotte icnut
+eane&slong; of wedlac, beo he cangun o&eth;er crupel, beo he
+hwuch-&slong;e eauer beo, &thorn;u mo&slong;t to him halden.  &yogh;ef
+&thorn;u art feier, &amp; wi&eth; gleade chere bi-cleope&slong;t alle
+feire, ne &slong;chalt o nane wi&slong;e wite &thorn;e wi&eth; unword,
+ne wi&eth; uuel blame.  &yogh;ef &thorn;u art unwur&eth;liche ilatet,
+&thorn;u maht, ba to o&thorn;re &amp; to &thorn;i were, iwur&eth;en
+&thorn;e unwur&eth;re. &yogh;ef &thorn;u iwur&eth;e&slong;t him
+unwur&eth;, &amp; he a&slong; unwur&eth; &thorn;e, o&eth;er &yogh;ef
+&thorn;u him muche luue&slong;t &amp; he let lutel to &thorn;e, hit
+greue&eth; &thorn;e &slong;e &slong;wi&eth;e &thorn;et tu wult, inoh
+rea&eth;e, a&slong;e monie do&eth;, makien him poi&slong;un, &amp;
+&yogh;eouen bale ibote &slong;tude. o&eth;er hwa-&slong;e &slong;wa
+nule don, medi wi&eth; wicchen,
+
+
+
+ 
+<PB N="46">
+&amp; for&slong;aken, forte drahen hi&slong; luue towart hire,
+cri&slong;t &amp; hire cri&slong;tendom, &amp; rihte bileaue.
+
+</P><P>Nu, hwet bli&slong;&slong;e mei &thorn;eo&slong; bruken, &thorn;e
+luue&eth; hire were wel, &amp; ha habbe hi&slong; la&eth;&eth;e,
+o&thorn;er cunqueari hi&slong; luue o &thorn;ulliche wi&slong;e?
+Hwenne &slong;chuld ich al habben <MILESTONE N="65, back" UNIT="leaf">irikenet &thorn;et
+&slong;pringe&eth; bituhe &thorn;eo &thorn;e &thorn;us beo&eth;
+i&yogh;ederet?  &yogh;ef ha ne mei nawt temen, ha i&slong; icleopet
+gealde. hire lauerd luue&eth; hire & wur&eth;ge&eth; &thorn;e
+lea&slong;&slong;e; &amp; heo, a&slong; &thorn;eo &thorn;et
+wur&slong;t i&slong;, &thorn;rof bi-wepe&eth; hire wur&eth;e&slong;,
+&amp; cleope&eth; ham wunne &amp; weolefule &thorn;e teme&eth; hare
+teame&slong;.
+
+</P><P>Ah nu iwur&eth;e hit al &thorn;et ha habbe hire wil of
+&slong;treon, &thorn;et ha wilne&eth;; &amp; loki we hwuch wunne
+&thorn;rof hire iwur&eth;e.  I &thorn;e &slong;treonunge &thorn;rof,
+i&slong; anan hire fle&slong;ch wi&eth; &thorn;et ful&thorn;e ituket,
+a&slong; hit i&slong; ear i&slong;hawet.  I &thorn;e bur&eth;erne
+&thorn;rof, i&slong; heuine&slong;&slong;e, heard &slong;ar, eauer
+umbe &slong;tunde; In hi&slong; iborene&slong;&slong;e, alre
+&slong;tiche &slong;trenge&slong;t, &amp; dea&eth; o&eth;er
+hwile&slong;; in hi&slong; fo&slong;ttrunge for&eth;, moni earm hwile.
+Sone &slong;e hit lihte&eth; i &thorn;i&slong; lif, mare hit
+bringe&eth; wi&eth; him care &thorn;en bli&slong;&slong;e, nomeliche
+to &thorn;e moder; for &yogh;ef hit i&slong; mi&slong;boren, a&slong;
+hit ilome ilimpe&eth;, &amp; wonti ei of hi&slong; limen, O&eth;er
+&slong;um mi&slong;-feare, hit i&slong; &slong;orhe to hire, &amp; to
+al hi&slong; cun &slong;cheome, upbrud in uuel mu&eth;, tale bi mon
+alle. &yogh;ef hit wel iboren i&slong;, &amp; &thorn;unche&eth; wel
+forlich, fearlac of hi&slong; lure i&slong; anan wi&eth; him iboren;
+for ni&slong; ha neauer bute care le&slong;te hit mi&slong;feare, a
+&thorn;et ow&eth;er of ham twa ear leo&slong;e o&thorn;er. ant ofte
+hit itime&eth; &thorn;et tet leoue&slong;te bearn, &amp; iboht
+bitterluke&slong;t, &slong;orhe&eth; &amp; &slong;weame&eth;
+mea&slong;t hi&slong; ealdren on ende.  Nu hwet wunne haue&eth;
+&thorn;e
+
+
+
+ 
+<PB N="48">
+moder? &thorn;e <MILESTONE N="66" UNIT="leaf"> haue&eth;, of &thorn;et for-&slong;chuppet bearn,
+&slong;ar & &slong;cheome ba&eth;e; &amp; fearlac of &thorn;et
+for&eth;lich, a &thorn;et ha hit leo&slong;e for gode, &thorn;ah hit
+nere neauer for gode&slong; luue, ne for hope of heouene, ne for dred
+of helle.
+
+</P><P>&THORN;u ahte&slong;te, wummon, &thorn;i&slong; werc, for &thorn;i
+fle&slong;che&slong; hal&slong;chipe, for &thorn;i licome&slong; luue,
+&amp; ti bodie&slong; heale, ouer alle &thorn;ing to &slong;chunien;
+for, a&slong;e &slong;einte pawel &slong;ei&eth;, <Q>"Euch &slong;unne
+&thorn;et me de&eth; i&slong; wi&eth;ute &thorn;e bodi,"</Q> bute
+&thorn;i&slong; ane. alle &thorn;e o&thorn;re &slong;unen ne beo&eth;
+bute &slong;unnen; ah &thorn;i&slong; i&slong; &slong;unne, &amp; ec
+uncumeleche&eth; &thorn;e, &amp; unwurdge&eth; &thorn;i bodi,
+&slong;ule&eth; &thorn;i &slong;awle, &amp; make&eth; &slong;chuldi
+towart godd, &amp; fule&eth; &thorn;i fle&slong;ch ec. gulte&eth; o
+twa half: wrea&eth;e&slong;t &thorn;en al-wealdent wi&eth; &thorn;et
+&slong;uti &slong;unne, &amp; de&slong;t woh to &thorn;e &slong;eolf,
+&amp; tu al wille&slong; &slong;e &slong;cheomeliche tuke&slong;t.
+
+</P><P>Ga we nu for&eth;re, &amp; loki we hwuch wunne ari&slong;e&eth;
+&thorn;refter i bur&thorn;erne of bearne, hwen &thorn;et &slong;treon
+in &thorn;e awakene&eth; & waxe&eth;. &amp; hu monie earm&eth;en anan
+awakene&eth; &thorn;erwi&eth;, &thorn;e wurche&eth; &thorn;e wa inoh,
+fehte&eth; o &thorn;i &slong;eolue fle&slong;ch, &amp; weorri&eth;
+wi&eth; feole weanen o &thorn;in ahne cunde. &thorn;i rudie neb
+&slong;chal leanin, ant a&slong;e gre&slong; grenin. &thorn;ine ehnen
+&slong;chule do&slong;kin, & underneo&eth;e wonnin; &amp; of &thorn;i
+breine&slong; turnunge &thorn;in heaued aken &slong;are. Inwi&eth; i
+&thorn;i wombe, &slong;welin &thorn;i butte, &thorn;e bere&eth;
+&thorn;e for&eth; a&slong; a weater-bulge; &thorn;ine
+&thorn;earme&slong; &thorn;ralunge, & &slong;tiche&slong; i &thorn;i
+lonke, &amp; i &thorn;i lendene &slong;ar eche riue,
+<MILESTONE N="66, back" UNIT="leaf">heuine&slong;&slong;e in euch lim. &thorn;ine breo&slong;te&slong;
+bur&thorn;erne o &thorn;ine twa pappe&slong;, &amp; te milc
+&slong;trunden &thorn;e &thorn;e of &slong;trike&eth;.  Al i&slong;,
+wi&eth; a weolewunge, &thorn;i wlite ouerwarpen. &thorn;i mu&eth;
+i&slong; bitter, & walh al &thorn;et tu cheowe&slong;t. ant
+
+
+
+ 
+<PB N="50">
+hwet &slong;e &thorn;i mahe hokerliche underue&eth;; &thorn;et
+i&slong;, wi&eth; unlu&slong;t, warpe&eth; hit eft ut.  In-wi&eth; al
+&thorn;i weole, &amp; ti were&slong; wunne, forwur&eth;e&slong;t. a,
+wrecche!  &thorn;e care&slong;t a&yogh;ein &thorn;i pinunge
+&thorn;raen bineome&eth; &thorn;e nahte&slong; &slong;lepe&slong;.
+Hwen hit &thorn;enne &thorn;er-to kime&eth;, &thorn;et &slong;ore
+&slong;orhfule angoi&slong;e, &thorn;et &slong;tronge &
+&slong;tinkinde [sic] &slong;tiche, &thorn;et unrole&slong; uuel,
+&thorn;et pine ouer pine, &thorn;et wondrinde &yogh;eomerunge. hwil
+&thorn;u &slong;wenche&slong;t ter-wi&eth;, &amp; &thorn;ine
+dea&eth;e&slong; dute, &slong;cheome teke &thorn;er &slong;ar, wi&eth;
+&thorn;e alde wife&slong; &slong;cheome creft, &thorn;e cunnen of &thorn;et
+wa&slong;i&eth;.  hwas help &thorn;e bihoue&eth;, ne beo hit neauer
+&slong;e uncumelich. &amp; nede mo&slong;t hit &thorn;olien &thorn;et
+te &thorn;er-in itime&eth;.  Ne &thorn;unche &thorn;e nan uuel of; for
+we ne edwite&eth; nawt wife&slong; hare weanen, &thorn;et ure alre
+modre&slong; drehden on u&slong; &slong;eoluen; Ah we
+&slong;chawi&eth; ham for&eth; forte warni mei&eth;ne&slong;,
+&thorn;et ha beon &thorn;e lea&slong;&slong;e efterwart &slong;wuch
+&thorn;ing, & witen her-&thorn;urh &thorn;e betere, Hwet ham beo to
+donne.
+
+</P><P>Efter al &thorn;i&slong;, kime&eth; of &thorn;et bearn ibore
+&thorn;us, wanunge & wepunge, &thorn;e &slong;chal abute midniht makie
+&thorn;e to wakien, o&eth;er &thorn;eo &thorn;e hire &slong;tude halt,
+&thorn;e &thorn;u mo&slong;t forcarien. &amp; hwet &thorn;e cader
+ful&eth;en &amp; bearme&slong; <MILESTONE N="67" UNIT="leaf">umbe &slong;tunde? to fe&slong;kin
+&amp; to fo&slong;trin hit &slong;e moni earm hwile. &amp; hi&slong;
+waxunge &slong;e let, &amp; &slong;e &slong;law his &thorn;riftre;
+&amp; eauer habbe &slong;ar care, &amp; lokin efter al &thorn;is
+hwenne hit forwur&eth;e, &amp; bringe on hi&slong; moder
+&slong;orhe. &thorn;ah &thorn;u riche beo, & nurrice habbe, &thorn;u
+mo&slong;t, a&slong; moder, carien for al &thorn;et hire limpe&eth; to
+donne. &thorn;eo&slong;e &amp; o&thorn;re earm&eth;en &thorn;e of
+wedlac awakeni&eth;, Seinte pawel biluke&eth; in ane lut worde&slong;:
+Tribulacione&slong; carni&slong;, &amp; cetera. &thorn;et i&slong;, on
+
+
+
+ 
+<PB N="52">
+engli&slong;ch : <Q>"&thorn;eo &thorn;et &thorn;ulliche beo&eth;,
+&slong;chulen derf drehen."</Q> Hwa-&slong;e &thorn;enche&eth; on al
+&thorn;i&slong;, &amp; o mare &thorn;et ter i&slong;, &amp; nule
+wi&eth;buhe &thorn;et &thorn;ing &thorn;et hit al of awakene&eth;, ha
+i&slong; heardre iheortet &thorn;en adamantine&slong; &slong;tan,
+&amp; mare amead, &yogh;ef ha mei, &thorn;en i&slong; mead&slong;chipe
+&slong;eolf. hire ahne fa &amp; hire feont, heate&eth; hire
+&slong;eolfen.
+
+</P><P>Lutel wat meiden of al &thorn;i&slong; ilke weane of wife&slong;
+wa, wi&eth; hire were; ne of hare were &slong;e wleateful &thorn;e ha
+wurche&eth; i meane; ne of &thorn;et &slong;ar ne of &thorn;et
+&slong;uti i &thorn;e bur&thorn;erne of bearn, &amp; hi&slong;
+iborene&slong;&slong;e; of nurrice&slong; wecche&slong;, ne of hire
+wa-&slong;i&eth;e&slong; of &thorn;et fode fo&slong;trunge; hu muchel hit
+i&slong; ed eane&slong;, In hi&slong; mu&eth; famplin, now&eth;er to
+bigan hit, ne hi&slong; cader clute&slong;; &thorn;ah &thorn;i&slong;
+beon of to &slong;peokene vnwur&eth;liche &thorn;inge&slong;,
+&thorn;e&slong; &thorn;e mare ha &slong;chawi&eth; i hwuch
+&thorn;eodom wife&slong; beo&eth;, &thorn;e &thorn;ullich mote drehen,
+<MILESTONE N="67, back" UNIT="leaf"> ant meidne&slong;, i hwuch freodom, &thorn;e freo beo&eth; from ham
+alle. ant hwet &yogh;ef ich ea&slong;ki &yogh;et, &thorn;ah hit
+&thorn;unche egede, hu &thorn;et wif &slong;tonde, &thorn;e
+ihere&eth;, hwen ha kime&eth; in, hire bearn &slong;chreamen,
+&slong;i&eth; &thorn;e cat et te fliche, &amp; ed te hude &thorn;e
+hund?  hire cake bearnen o &thorn;e &slong;tan, &amp; hire kelf
+&slong;uken; &thorn;e crohe eornen i &thorn;e fur, &amp; te cheorl
+chide&eth;. &thorn;ah hit beo egede i&slong;ahe, hit ah, meiden, to
+eggi &thorn;e &slong;wi&eth;e &thorn;er-frommart, for nawt ne
+&thorn;unche&eth; hit hire egede &thorn;et hit fonde&eth;.  Ne
+&thorn;erf &thorn;et &slong;eli meiden &thorn;et haue&eth; al idon
+hire ut of &thorn;ullich &thorn;eowdom, a&slong; gode&slong; freo
+dohter, &amp; hi&slong; &slong;une&slong; &slong;pu&slong;e, drehe
+nawiht &slong;wucche&slong;. for &thorn;i, &slong;eli meiden,
+for-&slong;ac al &thorn;ulli &slong;orhe for utnume mede, &thorn;et tu
+ahte&slong;t to don wi&eth;-vten euch hure.
+
+
+
+ 
+<PB N="54">
+
+</P><P>For nu ich habbe ihalden min bihea&slong;te &thorn;ruppe: &thorn;et
+ich walde &slong;chawin wi&eth; fal&slong;chipe i&slong;me&eth;et,
+&thorn;et te moni an &slong;ei&eth; & &thorn;unche&eth; &thorn;et hit
+&slong;o&eth; beo, of &thorn;e &slong;elh&eth;e &amp; te &slong;y
+&thorn;et te iweddede habbe&eth;; &thorn;et hit ne feare&eth; nawt
+&slong;wa, a&slong; wene&eth; &thorn;et &slong;i&eth; utewi&eth;; ah
+feare&eth; al o&eth;er wei&slong;, of poure ba & riche, of la&eth;e ba
+&amp; leoue; &thorn;et te weane ihwer pa&slong;&slong;e&eth; &thorn;e
+wunne, &amp; te lure ouer al, al &thorn;e bigete.
+
+</P><P>Nu, &thorn;enne, &slong;eli meiden, &thorn;et daui&eth; cleope&eth;
+<Q>"dohter,"</Q> iher &thorn;i feader, &amp; hercne hi&slong; read,
+&thorn;et he &thorn;e i &thorn;e frum&eth;e of &thorn;i&slong; writ
+readde: <Q>"for&yogh;et ti folc"</Q> &thorn;et lihe&eth; &thorn;e of
+were&slong; &amp; worlde&slong; wunne,&mdash;&thorn;et beo&eth;
+&thorn;ine &thorn;ohte&slong;, &thorn;e &slong;wikelliche lea
+<MILESTONE N="68" UNIT="leaf">&eth;ie&eth; &thorn;e towart alle weane,&mdash;<Q>"&amp;
+for&slong;ac &thorn;i feader hu&slong;,"</Q> as hit i&slong;
+&thorn;ruppe iopenet, &amp; tac &thorn;e to him treowliche. wi&eth;
+him &thorn;u &slong;chalt wealden, a&slong; wi&eth; &thorn;i were
+iweddet, worlt buten ende, heouenliche wunnen.  Eadi i&slong;
+hi&slong; &slong;pu&slong;e, hwa&slong; mei&eth;had i&slong; unwemmet,
+hwen he on hire &slong;treone&eth;; &amp; hwen ha teme&eth; of him, ne
+&slong;winke&eth; ne ne pine&eth;.  Eadi i&slong; &thorn;e were hwen
+nan ne mei beo meiden bute &yogh;ef heo him luuie, ne freo bute
+&yogh;ef heo him &slong;erui; hwa&slong; &slong;treon i&slong;
+undea&eth;lich, &amp; hwa&slong; marhe&yogh;eue i&slong; &thorn;e
+kinedom of heouene.  Nu, &thorn;enne, &slong;eli meiden, &yogh;ef
+&thorn;e i&slong; weole leof, nim &thorn;e him to lauer&eth;,
+&thorn;et wealde&eth; al &thorn;et i&slong;, & we&slong;, &amp; eauer
+&slong;chal iwur&eth;en; for &thorn;ah he beo riche&slong;t, him ane,
+ouer alle, &thorn;e alre mea&slong;te poure &thorn;e him to were
+cheo&slong;e&eth;, i&slong; him wel icweme.
+
+
+
+ 
+<PB N="56">
+
+</P><P>&yogh;ef &thorn;et tu wilne&slong;t were &thorn;e muche wlite
+habbe, nim him of hwa&slong; wlite beo&eth; awundret-of &thorn;e
+&slong;unne &amp; te mone, up-o hwa&slong; neb&slong;cheft &thorn;e
+engle&slong; ne beo&eth; neauer fulle to bihalden; for, hwen he
+&yogh;eue&eth; feierlec to al &thorn;et i&slong; feier in heouene
+&amp; in eor&eth;e, Muchele mare he haue&eth;, wi&eth;-uten ei
+etlunge, ethalden to him &slong;eoluen; &amp; &thorn;ah hwen he
+&thorn;us i&slong; alre &thorn;inge fehere&slong;t, he underue&eth;
+bli&eth;eliche, &amp; bicluppe&eth; &slong;woteliche, &thorn;e alre
+ladluke&slong;te, &amp; make&eth; ham &slong;eoue&slong;i&eth;e
+&slong;chenre &thorn;en &thorn;e &slong;unne.
+
+</P><P>&yogh;ef &thorn;e were leof &slong;treon, nim &thorn;e to him,
+under hwam &thorn;u &slong;chalt, i &thorn;i mei&eth;had, te<MILESTONE N="68, back" UNIT="leaf">men
+dehtren &amp; &slong;unen of ga&slong;teliche teame&slong;, &thorn;e
+neauer deie ne mahen, ah &slong;chulen aa biuore &thorn;e pleien in
+heouene; &thorn;et beo&eth;, &thorn;e uertuz &thorn;et he
+&slong;treone&eth; in &thorn;e &thorn;urh hi&slong; &slong;wete grace,
+a&slong; rihtwi&slong;&slong;ne&slong;&slong;e & war&slong;chipe
+a&yogh;eine&slong; un&thorn;eawe&slong;; Me&slong;ure &amp; mete,
+&amp; ga&slong;telich &slong;treng&eth;e to wi&eth;&slong;tonde
+&thorn;e feond, Ant a&yogh;ein &slong;unne; Simplete of
+&slong;emblant, buh&slong;umne&slong;&slong;e &amp; &slong;til&eth;e,
+&thorn;olomodne&slong;&slong;e, &amp; reowfulne&slong;&slong;e of euch
+monne&slong; &slong;orhe; glead&slong;chipe i &thorn;e hali
+ga&slong;t, &amp; pe&slong; i &thorn;i breo&slong;te of onde & of
+wread&eth;e, of &yogh;i&slong;ceunge &amp; of euch
+un&thorn;eawe&slong; weorre; Metelec &amp; milt&slong;chipe, &amp;
+&slong;wotne&slong;&slong;e of heorte, &thorn;e limpe&eth; alre
+&thorn;inge be&slong;t to meihade&slong; mihte. &thorn;i&slong;
+i&slong; meidene&slong; team, gode&slong; &slong;une
+&slong;pu&slong;e, &thorn;et &slong;chal &aacute;&aacute; libben &
+pleien buten ende biuoren hire in heouene.
+
+</P><P>Ah &thorn;ah &thorn;u, meiden, beo wi&eth; unbruche of &thorn;i
+bodi, &amp; tu habbe prude, onde, o&eth;er wread&eth;e,
+&yogh;i&slong;ceunge, o&eth;er wac wil, inwi&eth; heorte, &thorn;u
+forhore&slong;t te wi&eth; &thorn;e unwiht of helle, &amp; he
+&slong;treone&eth; on &thorn;e &thorn;e team
+
+
+
+ 
+<PB N="58">
+&thorn;et tu teme&slong;t.  Hwen &thorn;i were, al wealdent, &thorn;et
+tu &thorn;e to wedde&slong;t, &slong;i&eth; &amp; under&slong;tont
+ti&slong;, &thorn;et hi&slong; fa forli&eth; &thorn;e, &amp; &thorn;et
+tu teme&slong;t of him &thorn;et him i&slong; teame la&eth;e&slong;t,
+he forhecche&eth; &thorn;e anan&mdash;a&slong; hit ni&slong; na
+wunder&mdash;& cwe&eth;e&eth; &thorn;e al cwite him &thorn;et tu of
+teme&slong;t; Ne kepe&eth; he wi&eth; na mon, &amp; hure wi&eth;
+hi&slong; famon, nan half dale. &thorn;e luuie&eth; eawiht <MILESTONE N="69" UNIT="leaf">buten him,
+ant hwet-&slong;e ha for him luuie&eth;, ha wrea&eth;e&eth; him
+&slong;wi&eth;e.
+
+</P><P>Ouer alle &thorn;ing, wite &thorn;e &thorn;et tu ne temi prude, bi
+&thorn;e&slong; deofle&slong; &slong;treonunge, for heo, of alle
+un&thorn;eawe&slong;, i&slong; hi&slong;&slong; ealde&slong;te dohter.
+Ear&slong;t ha wakenede of him &thorn;e &yogh;et he we&slong; in
+heouene, for neh wi&eth; him euen ald; &amp; &slong;wa hire
+kea&slong;te ure feader, &slong;one &slong;e ha ibore we&slong;, from
+&thorn;e he&slong;te heouene into helle grunde bute couerunge, &amp;
+makede of heh engel, eateluke&slong;t deofel. &thorn;e &thorn;us adun
+du&slong;te hire heouenliche feader, hwet wule he don bi hire
+eor&eth;liche modre&slong;, &thorn;e teme&eth; hire in horedom of
+&thorn;en la&eth;e unwiht, &thorn;e hellene &slong;chucke.  Hwen godd
+&slong;e wracfulliche fordemde hi&slong; heh engel &thorn;e
+&slong;treonede hire in heouene, hwet wule he don bi &thorn;et lam,
+&amp; wurmene mete, &thorn;e of &thorn;e deofel teme&eth; hire in
+eawbruche on eor&eth;e?
+
+</P><P>&yogh;ef &thorn;u haue&slong;t, wi&eth; mei&eth;had, meokelec &amp;
+mild&slong;chipe, godd i&slong; i &thorn;in heorte. ah &yogh;ef
+&thorn;er i&slong; ouerhohe o&eth;er ei prude in, he i&slong; utlahe
+&thorn;rof; for ne muhen ha nane&slong; wei&slong; beddin in a
+breo&slong;te; ne ne maken nawt &slong;omet eardin in
+heouene. &thorn;eonne godd weorp hire, &slong;one &slong;e ha iboren
+we&slong;; &amp; a&slong; &thorn;ah ha nu&slong;te hwuch wei ha come
+&thorn;eonewart, ne con ha neauer mare ifinden nan wei
+a&yogh;einwart. ah earm&eth;e her
+
+
+
+ 
+<PB N="60">
+on eor&eth;e, bihalt eche wununge alle hire modre&slong;, al beon ha
+meidne&slong;, wi&eth; hare awen <MILESTONE N="69, back" UNIT="leaf">riede [sic] feader in inwarde
+helle. wite &thorn;e, meiden, wi&eth; hire! ha cwikede of cleane
+cunde, a&slong; i&slong; in engle&slong; euene, &amp; cleane&slong;te
+breo&slong;ten brede&eth; hire &yogh;etten. &thorn;e be&slong;te ha
+a&slong;aile&eth;; &amp; wel ha der hopien to beo kempe ouer mon,
+&thorn;e ouercom engel.  Ni&slong; ha nawt i cla&eth;e&slong;, ne i
+feahunge utewi&eth;, &thorn;ah hit beo merke &thorn;rof, &amp; makunge
+o&eth;er hwile&slong;; ah under hwit o&eth;er blac, &amp; a&slong;e
+wel under grei, a&slong;e under grene, & &aacute;&aacute; ha lute&eth;
+i &thorn;e heorte.  Son &slong;e &thorn;u tele&slong;t te betere
+&thorn;en an o&eth;er&mdash; beo hit hweruore &slong;e hit eauer
+beo,&mdash;&amp; haue&slong;t of ei ouerhohe, &amp; &thorn;unche&eth;
+hofle&slong; &amp; hoker of eawt &thorn;et me &slong;ei&eth; &thorn;e
+o&eth;er de&eth; &yogh;etten, &thorn;u merre&slong;t &thorn;in
+mei&eth;had, &amp; breke&slong;t ti wedlac towart godd, &amp; of
+hi&slong; fa teme&slong;t.
+
+</P><P>Ne tele &thorn;u nawt e&eth;elich, al beo &thorn;u meiden, to
+widewen ne to iweddede; for, al&slong;wa a&slong; a charbuche i&slong;
+betere &thorn;en a iacinct i &thorn;e euene of hare cunde, ant
+&thorn;ah i&slong; betere a briht iacinct &thorn;en a charbucle won,
+al-&slong;wa pa&slong;&slong;e&eth; meiden, onon te mihte of
+mei&eth;had, widewen &amp; iweddede; &amp; tah i&slong; betere, a
+milde wif o&eth;er a meoke widewe, &thorn;en a prud meiden; for
+&thorn;eo&slong;, for hare &slong;unnen &thorn;et ha i
+fle&slong;che&slong; ful&eth;e folhi&eth;, o&thorn;er fulie&eth;,
+leote&eth; ham lahe &amp; e&eth;liche, &amp; beo&eth; &slong;are
+of-dret of gode&slong; lu&eth;ere eie; Ant al &thorn;e eadi
+&slong;unegilt Marie magdaleine, wi&eth; bittre wope&slong;,
+bireow&slong;e&eth; hare gulte&slong;, &amp; in-war&eth;luker
+luuie&eth; godd, al&slong;wa a&slong; heo <MILESTONE N="70" UNIT="leaf">dude, for hare
+for&yogh;euene&slong;&slong;e; &amp; te o&eth;re &thorn;e halde&eth;
+ham unforgult, &amp; cleane, beo&eth; a&slong;e &slong;ikere
+unlu&slong;ti & wlecche, unnea&eth;e i gode&slong; luue, wi&eth;-uten
+euch heate
+
+
+
+ 
+<PB N="62">
+of &thorn;e hali ga&slong;t, &thorn;e bearne&eth; &slong;e lihte,
+wi&eth;-vte wa&slong;tinde brune in alle hi&slong; icorene; &amp; te
+o&thorn;re, in an heate of an honthwile, beo&eth; imelt mare &amp;
+i&yogh;otten i godd, &thorn;en &thorn;e o&thorn;re in a wlecheunge al
+hare lif-&slong;i&eth;en.
+
+</P><P>For-&thorn;i, eadi meiden, gode&slong; &slong;unes
+&slong;pu&slong;e, ne beo &thorn;u nawt tru&slong;t ane to &thorn;i
+meidhad, wi&eth;-uten o&eth;er god &amp; &thorn;eawfule mihte&slong;,
+&amp; ouer al, milt&slong;chipe &amp; meoke&slong;chipe of heorte,
+efter &thorn;e forbi&slong;ne of &thorn;et eadi meiden ouer alle
+o&eth;re, Marie, gode&slong; moder. for, &thorn;a &thorn;e heh engel
+Gabriel grette hire, &amp; brohte hire to tidinge of gode&slong;
+akenne&slong;&slong;e, Loke hu &thorn;ah ha lette hire, &thorn;a ha
+ont&slong;werede &thorn;us, bi hire &slong;eoluen: <Q>"Efter &thorn;i
+word,"</Q> quo&eth; ha, <Q>"mote me iwur&eth;en! low, her mi
+lauerde&slong; &thorn;rel."</Q> ant tah ha ful were of alle gode
+&thorn;eawe&slong;, ane of hire meokelec ha &slong;eide &amp;
+&slong;ong to elizabeth: <Q>"for mi lauerd bi&slong;eh &thorn;i&slong;
+&thorn;uftene&slong; meokelec, me &slong;chulen cleopien,"</Q>
+quo&eth; ha, <Q>"eadi, alle leoden."</Q> Nim &yogh;eme, meiden, &amp;
+under&slong;tont her-bi, &thorn;et mare for hire meokelec &thorn;en
+for hire mei&eth;had, ha lette &thorn;et ha ifont &slong;wuch grace ed
+ure lauerd. for al mei&eth;had, meokelec i&slong; muche wur&eth;;
+&amp; mei&eth;had wi&eth;-uten hit i&slong; e&eth;elich &amp;
+unwur&eth;; for al&slong;wa i&slong; meiden i mei&eth;had, bu<MILESTONE N="70, back" UNIT="leaf">te
+meoke&slong;chipe, a&slong; i&slong;, wid-ute liht, eolie in a lampe.
+Eadi gode&slong; &slong;pu&slong;e! haue &thorn;eo&slong; ilke mihte,
+&thorn;et tu ne &thorn;unche &thorn;eo&slong;tri, ah &slong;chine
+a&slong;e &slong;unne &amp; ti were&slong; &slong;ih&eth;e. feahi
+&thorn;i mei&eth;had wi&eth; alle gode &thorn;eawe&slong;, &thorn;e
+&thorn;unche&eth; him feire.
+
+</P><P>Haue eauer i &thorn;in heorte &thorn;e eadie&slong;te of meidnes,
+&amp; mei&eth;hades moder; &amp; bi&slong;ech hire &aacute;&aacute;
+&thorn;et ha &thorn;e lihte, &amp; &yogh;eoue luue &amp;
+&slong;treng&eth;e forte folhin
+
+
+
+ 
+<PB N="64">
+i mei&eth;had hire &thorn;eawe&slong;. &thorn;ench o &slong;einte
+katerrine, o &slong;einte Margarete, &slong;einte Ennei&slong;, Seinte
+Iuliene, &amp; &slong;einte cecille, &amp; o &thorn;e o&thorn;re hali
+mei&eth;ne&slong; in heouene; hu ha nawt ane-ne for&slong;oken
+kinge&slong; &slong;une&slong; &amp; eorle&slong;, wi&eth; alle
+worldliche weolen & eor&eth;liche wunnen, ah &thorn;oleden
+&slong;tronge pinen ear ha walden neomen ham, &amp; derf dea&eth; on
+ende.  &THORN;ench hu wel ham i&slong; nu, &amp; hu ha
+bli&slong;&slong;i&eth; &thorn;eruore bituhe gode&slong; earme&slong;,
+cwene&slong; of heouene!  ant &yogh;ef hit eauer time&eth; &thorn;et
+tu licome&slong; lu&slong;t, &thorn;urh &thorn;e fal&slong;e feont,
+lea&eth;ie towart fle&slong;liche ful&eth;en, ont&slong;were i
+&thorn;i &thorn;oht &thorn;us. `Ne geine&eth; &thorn;e nawt,
+&slong;weoke! &thorn;ullich ich chulle beon in meidene&slong; liflade,
+ilich heouene e engel.  Ich chulle halde me hal, &thorn;urh &thorn;e
+grace of godd, a&slong; cunde me makede, &thorn;et parai&slong;e
+&slong;elh&eth;e underuo me, al &slong;wuch, a&slong; weren, ear ha
+agulten, hi&slong; eare&slong;te hinen.  Allunge, &slong;wuch ich
+chulle beon a&slong; i&slong; mi deore leofmon, mi deorewurde
+la<MILESTONE N="71" UNIT="leaf">uerd, &amp; a&slong; &thorn;et eadi meiden &thorn;e he him
+chea&slong; to moder. al &slong;wuch ich chulle wite, treowliche
+unwemmet, a&slong; ich am him iweddet. ne nulle ich nawt, for a
+lu&slong;t of ane lutle hwile, &thorn;ah hit &thorn;unche delit, awei
+warpe &thorn;et &thorn;ing, hwa&slong; lure ich &slong;chal biremen
+wi&eth;-vten couerunge, &amp; wi&eth; eche brune abuggen in
+helle. &thorn;u wrenchfule ful wiht! al for nawt &thorn;u
+proke&slong;t me to for-gulten, &amp; forgan &thorn;e
+bli&slong;&slong;e up-o bli&slong;&slong;e, &thorn;e crune up-o crune,
+of meidene&slong; mede; &amp; wille&slong; & walde&slong; warpe me
+a&slong; wrecche i &thorn;i leir-wite; &, for &thorn;et englene
+&slong;ong of mei&eth;hade&slong; men&slong;ke, wi&eth; &thorn;e &amp;
+wi&eth; &thorn;ine greden &aacute;&aacute;, &amp; granin, i &thorn;e
+eche grure of helle.
+
+
+
+ 
+<PB N="66">
+
+</P><P>&yogh;ef &thorn;u &thorn;us ont&slong;were&slong;t to &thorn;i
+licome&slong; lu&slong;t &amp; to &thorn;e feonde&slong; fondunge, he
+&slong;chal fleo &thorn;e wi&eth; &slong;cheome. ant &yogh;ef he
+alle&slong; efter &thorn;i&slong;, inoh rea&eth;e, et-&slong;tonde
+&amp; halt on to eili &thorn;i fle&slong;ch &amp; prokie &thorn;in
+heorte, &amp; ti lauerd godd hit &thorn;eaue&eth; him to muchli
+&thorn;i mede; for, a&slong; &slong;einte pawel &slong;ei&eth;, `ne
+bi&eth; nan icrunet, bute hwa-&slong;e treoweliche i &thorn;ulli feht
+fehte, &amp; wi&eth; &slong;trong cokkunge ouercume hire &slong;eolf'
+; for &thorn;enne i&slong; &thorn;e deofel, wi&eth; hi&slong; ahne
+turn, &slong;cheomeliche awarpen. hwen &thorn;u, a&slong; &thorn;e
+apo&slong;tle &slong;ei&eth;, ne &slong;chalt tu beon icrunet, bute
+&thorn;u beo a&slong;ailet; &yogh;ef godd wule cruni &thorn;e, he wule
+leote ful wel &thorn;e <MILESTONE N="71, back" UNIT="leaf"> unwiht a&slong;aili &thorn;e, &thorn;et tu
+earni &thorn;er-&thorn;urh, Kempene crune. for-&thorn;i hit i&slong;
+&thorn;e mea&slong;t god, &thorn;et, hwen he greued &thorn;e
+mea&slong;t, &amp; towart te wi&eth; fondunge wodeluker weorre&eth;,
+&yogh;ef &thorn;u wel wri&slong;t te under goder [sic] wengen; for,
+&thorn;urh hi&slong; weorre, he &yogh;arke&eth; &thorn;e, un&thorn;onc
+in hi&slong; te&eth;, &thorn;e bli&slong;&slong;e &amp; te crune of
+cri&slong;te&slong; icorene.  Ant ihesu cri&slong;t leue hire,
+&thorn;urh &thorn;i ble&slong;cede nome, alle &thorn;eo &thorn;e
+leaue&eth; luue of lami mon, forte beon hi&slong; leofmon; &amp; leue
+ham &slong;wa hare heorte halden to him, &thorn;et hare
+fle&slong;che&slong; eggunge, ne &thorn;e feonde&slong; fondunge, ne
+nan of hi&slong; eor&eth;liche limen, ne wori hare heorte wit, ne
+wrenche ham ut of &thorn;e wei &thorn;et ha beo&eth; in i&yogh;ongen;
+&amp; helpe ham &slong;wa in him to hehin towart heouene, a &thorn;et
+ha beon i&slong;tihe &thorn;ider, a&slong; hare brudlac &slong;chal,
+in al &thorn;et eauer &slong;el i&slong;, wi&eth; &thorn;ene
+&slong;eli brudgume &thorn;et &slong;ihe&eth; alle &slong;elh&eth;e
+of, &slong;itten buten ende!
+</P><TRAILER>AMEN!</TRAILER></DIV1>
+<DIV1 TYPE="manuscript">
+<PB N="3">
+<HEAD>HALI MEIDENHAD.  Cotton MS., Titus, D. 18</HEAD>
+<MILESTONE N="112 back" UNIT="leaf">
+<MILESTONE N="1" UNIT="col.">
+<P>AUDI, filia, &amp; uide &amp; inclina aurem tuam; &amp; obliviscere
+populum tuum, &amp; domum patris tui.  Dauid, &thorn;e
+&slong;almwrihte, &slong;peke&eth; i &thorn;e &slong;auter toward
+gode&slong; &slong;puse, &thorn;at i&slong;, euch meiden &thorn;at
+haue&eth; meidene &thorn;eawes, &amp; &slong;ei&eth;: 
+<Q>"Her me,
+dohter!  Bihald, &amp; buh &thorn;in eare, &amp; for&yogh;et ti folc
+&amp; tine fader hu&slong;."</Q> Nim &yogh;eme hwat euch word beo
+&slong;underliche to &slong;eggen.  
+<Q>" Iher me, dohter,"</Q> he
+sei&eth;.  
+<Q>"Dohter"</Q> he clepe&eth; hire, for-&thorn;i &thorn;at
+ha under&slong;tonde, &thorn;at he hire liues luue luueliche
+leare&eth;, a&slong;e fader ah hi&slong; dohter; &amp; heo him,
+a&slong;e fader, &thorn;e bli&eth;eluker lu&slong;tni.  
+<Q>"Iher me,<MILESTONE N="2" UNIT="col.">
+deore dohter:"</Q> &thorn;at i&slong;, &yogh;eorne lustne me wi&eth;
+earen of &thorn;in heaued.  
+<Q>"&amp; bihald"</Q>: &thorn;at i&slong;,
+opene, to vnder-&slong;tonde, &thorn;e ehne of &thorn;in heorte.
+<Q>"And bei &thorn;in eare"</Q> : &thorn;at i&slong;, beo buh&slong;um
+to mi lare.
+</P>
+<P>` Hwat i&slong; [nu &thorn;is lare] &thorn;at tu nime&slong;t
+&slong;e deopliche, & leares me &slong;e &yogh;eorne ? ` low,
+&thorn;i&slong;: 
+<Q>" for&yogh;et ti folc, & tine fader
+ 
+<PB N="5">
+hu&slong;."</Q> 
+<Q>"&THORN;i folc,"</Q> he clepe&eth;, dauid, &thorn;e
+Gederinge inwi&eth; &thorn;e of fleschliche &thorn;ohtes, &thorn;at
+leade&eth; &thorn;e, &amp; drahen wi&eth; hare pricunges of
+fleschliche ful&eth;en, to licomliche lu&slong;tes, &amp; egge&eth;
+&thorn;e to brudlac, &amp; to weres cluppinge, &amp; maken &thorn;e to
+&thorn;enchen hwuch delit were &thorn;rin, hwuch ei&slong;e, &thorn;e
+richedom &thorn;at tes lauedis hauen; Hu muche god mihte of inker
+&slong;treon waxen.  A, fals folc! of &slong;wike&slong; read a&slong;
+ti mu&eth; ule&eth;, a&slong; &thorn;u &slong;cheawe&slong;t for&eth;
+al &thorn;at God &thorn;uncke&eth;, &amp; hele&slong;t al &thorn;at
+bitter bale &thorn;at ter li&eth; under, &amp; al &thorn;at muchele
+lure <MILESTONE N="113" UNIT="leaf">&thorn;at ter-of ari&slong;e&eth;.  
+<Q>"For-&yogh;et al
+&thorn;is folc, deorewur&eth;e dohter,"</Q> &slong;ei&eth; dauid
+&thorn;e wite&yogh;e; &thorn;at i&slong;, &thorn;eos
+&thorn;ohte&slong; warp ut of &thorn;in heorte.  &THORN;is i&slong;
+Babilone&slong; folc, &thorn;e deueles here of helle, &thorn;at
+i&slong; umben for to leaden, in-to &thorn;e worldes &thorn;eowdom,
+Syonef dohter.
+</P>
+<P>Syon wa&slong; &slong;um hwile iclepet &thorn;e hehe tur of
+Ierusalem; And &slong;ei&eth; &slong;yon, a&slong;e muchel on
+englische leodene, a&slong;e heh &slong;ih&eth;e.  And bitacne&eth;
+&thorn;i&slong; tur, &thorn;e heh&slong;chipe of meidenhad, &thorn;at
+bihald, as of heh, alle widewen under hire, &amp; weddede
+ba&eth;e. for &thorn;eos, as fle&slong;ches &thorn;ralles, beo&eth; in
+worldes &thorn;eowdom, &amp; wune&eth; lahe on eor&eth;e.  Ah heo
+[words left out and sense confused in MS.] of &thorn;e hehe tur, in
+hehe tur in heouene. &thorn;at i&slong; bitacned &thorn;urh
+&thorn;i&slong;.  Of &thorn;at &slong;yon ha bihalt al &thorn;e world
+under hire; &amp; &thorn;urh englene liflade, &amp; heuenlich,
+&thorn;at leades, &thorn;ah ha licomliche wunie up-on eor&eth;e, and
+if, as in &slong;yon, &thorn;e hehe tur of hevene, freo ouer alle fram
+alle worldliche weanen.  Ah ! babilones folc &thorn;at ich ear
+nempnede, &thorn;e deoueles here of helle&mdash;
+ 
+<PB N="7">
+&thorn;at beo&eth;, <MILESTONE N="113, col. 2" UNIT="leaf">flesches lu&slong;tes, &amp; feondes
+egginge&mdash;weorre&eth; & warpe&eth; eauer toward ti&slong; tur for
+to ka&slong;ten hit adun, &amp; drahen hire in-to &thorn;eowdom
+&thorn;at &slong;tond &slong;e hehe &thorn;er-in, &amp; i&slong;
+icleopet for-&thorn;i `syones dohter.'
+</P>
+<P>And ni&slong; ha witerliche aka&slong;t, &amp; in-to &thorn;eowdom
+idrahen, &thorn;at,&mdash;of &slong;e &slong;wi&eth;e heh &slong;tal,
+of &slong;e muche dignete & &slong;wuch wur&eth;&slong;chipe, a&slong;
+hit i&slong; to beo godes &slong;pu&slong;e, Ihesu cri&slong;tes
+brude, &thorn;e lauerdes leofmon, &thorn;at alle kinges
+buhe&eth;,&mdash;of all &thorn;e world lauedi, a&slong; he i&slong; of
+al lauerd,&mdash;Ilich him in hal&slong;chipe, vnwemmet a&slong; he
+is, &amp; tat eadi meiden his deorewur&eth;e moder; Ilich his hali
+engles, &thorn;at his hea&slong;te halden; Se freo of hire &slong;elf,
+&thorn;at ha nawiht ne &thorn;arf of o&eth;er &thorn;ing &thorn;enchen
+bute an of hire leofmon, wi&eth; treowe luue cwemen; for he wile
+carien for hire, &thorn;at ha haued itaken to, of al &thorn;at hire
+biheoue&eth;, hwil ha riht luued him wi&eth; &slong;o&eth;e bileaue
+;&mdash;Ni&slong; ha &thorn;enne sariliche (as ich &slong;eide ear)
+aka&slong;t, & in-to &thorn;ewdom idrahen, &thorn;at, fram &slong;e
+<MILESTONE N="113, col. 3" UNIT="leaf">muchel heh&slong;cipe &amp; &slong;e &slong;eli freodom, &slong;chal
+lihte &slong;e lahe in-to a monne&slong; &thorn;eowdom, &slong;wa
+&thorn;at ha naue&eth; nawt freo of hire &slong;eluen, &amp; trukie,
+for a mon of lam, &thorn;e heuenliche lauerd, &amp; lutlin hire
+lafdi&slong;chipe, a&slong;e muchel as hire latere were i&slong;
+la&slong;&slong;e wur&eth;, &amp; le&slong;&slong;e haue&eth;,
+&thorn;en hauede ear hire earre; &amp; of godes brude, &amp; his freo
+dohter (for ba to-Gederes ha i&slong;), bicume&eth; &thorn;eow under
+mon, &amp; his &thorn;rel, to don al &amp; drehen &thorn;at him
+like&eth;, ne &slong;itte hit hire &slong;e uuele; & of &slong;e
+&slong;eli &slong;ikerne&slong;&slong;e a&slong; ha was in, &amp;
+mahte beon under Godes warde, de&eth; hire in-to
+ 
+<PB N="9">
+drecchunge, to dihten hus &amp; hinen, &amp; to &slong;e moni
+earm&eth;en, to carien for &slong;e feole &thorn;ing, Teonen
+&thorn;olien, &amp; gromen &amp; &slong;chomen, umbe &slong;tunde,
+drehen &slong;e moni wa, for &slong;wa wac huire a&slong; te world
+for&yogh;elt eauer at ten ende.  Ni&slong; &thorn;eos witerliche
+aka&slong;t?  Nis tis &thorn;eowdom inoh, a&yogh;ain &thorn;at ilke
+freolaic <MILESTONE N="113, back, col. 2" UNIT="leaf"> &thorn;at ha hefde hwil ha was &slong;yones dohter?
+</P>
+<P>And tah ni&slong; imunget her nawt of heouenliche luren, &thorn;at
+pa&slong;&slong;e&eth; alle o&eth;re wi&eth;uten eueninge.  Sekerliche
+&slong;wa hit fare&eth;.  
+<Q>"Serue Godd ane, &amp; alle &thorn;inge
+&slong;chulen &thorn;e turnen to Gode."</Q> And tac &thorn;e to him
+treoweliche, &amp; tu &slong;chalt beo freo fram alle worldliche
+weanen, ne mei nan uuel harmen &thorn;e; for, a&slong; &slong;ente
+pawel &slong;ei&eth;, 
+<Q>"Alle &thorn;inge turne&eth; &thorn;e Gode to
+god"</Q>; ne mai na &thorn;ing wonti &thorn;e, &thorn;at bere&slong;t
+him &thorn;at al welt inwi&eth;-in &thorn;i breo&slong;te.  And
+&slong;wuch &slong;wetne&slong;&slong;e &thorn;u &slong;chalt ifinden
+in his luue &amp; in his &slong;erui&slong;e, &amp; habbe &slong;e
+muche murh&eth;e &thorn;rof, &amp; likinge i &thorn;in heorte,
+&thorn;at tu naldes chaungen &thorn;at tu liue&slong;t in, for to beo
+cwen icrunet.  Se hende i&slong; ure lauerd, &thorn;at nule nawt
+&thorn;at hi&slong;e icorene beon wi&eth;ute mede her. for &slong;e
+muche confort i&slong; in his grace, &thorn;at al ham &slong;it,
+&thorn;at ha &slong;eo&eth;; And tah hit &thorn;unche o&eth;re men
+&thorn;at ha drehen harde, hit ne gre<MILESTONE N="114" UNIT="leaf">ue&eth; ham nawt, ah
+&thorn;unche&eth; ham &slong;ofte; & habbe&eth; mare delit &thorn;rin
+&thorn;en anie o&eth;re habbe&eth; i likinge of &thorn;e
+worlde. &thorn;i&slong; ure lauerd &yogh;iue&eth; ham her, a&slong; on
+erles of &thorn;e eche mede &thorn;at &slong;chal cume &thorn;rafter.
+&THORN;us hauen godes freond al &thorn;e fruit of &thorn;is world,
+&thorn;at ha for&slong;aken habbe&eth;, o wunderliche wi&slong;e, And
+heuene at ten ende.
+ 
+<PB N="11">
+</P>
+<P>Nu &thorn;enne, on o&eth;er half, nim &thorn;e to &thorn;e worlde;
+&amp; eauer &slong;e &thorn;u mare haues, &slong;e &thorn;e
+&slong;chal mare trukie; &amp; &slong;eruen, hwen &thorn;u naldes
+godd, &thorn;is fikele world &amp; frakele; &amp; &slong;chalt beo
+&slong;are iderued under hire, a&slong; hire &thorn;ral, on a
+&thorn;u&slong;and wi&slong;en; A&yogh;aines an likinge, habben twa
+of-&thorn;unchunges, And &slong;e ofte beon imaket arm of an
+e&eth;eliche mon &thorn;at tu li&slong;t under, for noht o&eth;er
+nohtunge, &thorn;at te &slong;chal la&eth;i &thorn;i lif, &amp;
+bireowe &thorn;at &slong;i&eth; &thorn;at tu eauer dide&slong; te into
+&slong;wuch &thorn;eowdom <MILESTONE N="114, col. 2" UNIT="leaf">for worldliche wunne &thorn;at tu wendes to
+bi&yogh;eten, &amp; haue&slong;t ifunden weane &thorn;rin, &
+wondra&eth;e riue.  And i&slong; &thorn;at tu wende&slong;t Gold,
+iwur&eth;en to mea&slong;tling; &amp; nis nawt a&slong; ti
+folc&mdash;of hwam i &slong;pec &thorn;ruppe&mdash;bihet te to
+ifinden.  Nu &thorn;u &slong;e&slong;t &thorn;at ha habbe&eth;
+itricchet te a&slong; treitres; for under weole, in wunne &slong;tude
+&thorn;u haue&slong;t her ofte helle; &amp; bute &thorn;u
+wi&eth;-breide &thorn;e, brede&slong; te &thorn;at o&eth;er.
+</P>
+<P>A&slong;ke &thorn;es cwenes, &thorn;es riche cunta&slong;&slong;es,
+&thorn;es modie lafdis of hare liflade.  So&eth;liche,
+&slong;o&eth;liche, &yogh;if ha bi&thorn;enche&eth; ham riht, &amp;
+icnawleche&eth; &slong;o&eth;, Ich habbe ham to witne&slong;&slong;e,
+ha licke&eth; huni of &thorn;orne&slong;. ha buggen al &thorn;at
+&slong;wete wi&eth; twa dale of bittre; &amp; tat &slong;chal
+for&eth;re i &thorn;is writ beon openliche i&slong;cheawet.  Nis hit
+nower neh gold al &thorn;at ter &slong;chine&eth;, nat tah na mon bute
+ham &slong;elf hwat ham <MILESTONE N="114, back" UNIT="leaf">&slong;tiche&eth; ofte.  Hwen &thorn;us
+i&slong; of &thorn;e riche, hwat wene&slong; tu of the poure,
+&thorn;at beo&eth; wacliche i&yogh;eouen and bi&slong;et uuele, as
+gentille wimmen me&slong;t alle nu o worlde, &thorn;at nabbe&eth;
+hwer-wi&eth; buggen ham brudgume onont ham,
+ 
+<PB N="13">
+&amp; &yogh;eoue&eth; ham in-to &thorn;eowdom of an e&eth;elicher mon,
+wi&eth; al &thorn;at ha habbe&eth;.  Weilawei ! ihesu godd! hwuch
+unwur&eth;e chaffere! wel were ham, weren ha on hare brudlakes dei
+iboren to bi-burien!  for-&thorn;i, &slong;eli meiden, 
+<Q>"for&yogh;et
+ti folc,"</Q> as daui&eth; bit.  Do awei &thorn;e &thorn;ohtes
+&thorn;at perkien &thorn;in heorte &thorn;urh licomliche
+lu&slong;te&slong;, &amp; leare&eth; &thorn;e &amp; egge&eth; toward
+&thorn;ulli &thorn;eowdom for fle&slong;chliche
+ful&eth;en. 
+<Q>"for&yogh;et ec &thorn;i fader hus,"</Q> a&slong;
+daui&eth; read &thorn;rafter: 
+<Q>"&THORN;i fader,"</Q> he cleope&eth;
+&thorn;at un&thorn;eaw &thorn;at &slong;treonde &thorn;e of &thorn;i
+moder, &thorn;at ilke unhende flesches brune, &thorn;at bearninde
+&yogh;ec&eth;e of &thorn;at licomliche lu&slong;t, bifore &thorn;at
+wlatefulle werc, &thorn;at bea&slong;te<MILESTONE N="114, col. 4" UNIT="leaf">liche Gederinge, &thorn;at
+&slong;chomele&slong;e &slong;omnunge, &thorn;at ful&eth;e of
+ful&eth;e &slong;tinkende & untohe dede.
+</P>
+<P>Hit i&slong; tah in wedlac &slong;ummes weis to &thorn;olien,
+a&slong; men &slong;chal after iheren.  &YOGH;if &thorn;u
+a&slong;ke&slong; hwi Godd &slong;chop &slong;wuch &thorn;ing to beon,
+ich &thorn;e on&slong;werie: Godd ne &slong;chop hit neauer
+&slong;wuch; Ah Adam &amp; eue turnden hit to beo &slong;wuch
+&thorn;urh hare &slong;unne, &amp; merden ure cunde; &thorn;at
+i&slong; ti&slong; un&thorn;eawes hus, &amp; haue&eth; mare
+harm. i&slong; al to muchel lauerd-dom &amp; mei&slong;trie
+&thorn;rinne, &thorn;is cunde imerred tu&slong;, &thorn;at daui&eth;
+clepe&eth; &thorn;us 
+<Q>"ti faderes hus,"</Q> &thorn;at i&slong;, te
+lu&slong;t of leccherie &thorn;at rixle&eth; &thorn;er-wi&eth;-innen.
+<Q>"for&yogh;et,"</Q> &amp; Ga ut &thorn;rof wi&eth; wil of &thorn;in
+heorte; &amp; Godd wile, after &thorn;e wil, &yogh;eoue &thorn;e
+&slong;treng&eth;e &slong;ikerliche of hi&slong; deore grace. ne
+&thorn;arf &thorn;e bute wilnen, &amp; lete Godd wurchen.  Haue
+tru&slong;t on his help. ne &slong;chal tu na &thorn;ing Godes
+bi&slong;echen, ne bigunnen, &thorn;at he hit nule enden. Eauer bide
+hi&slong; grace, &amp; ouerkum, wi&eth;<MILESTONE N="115" UNIT="leaf"> hire help, &thorn;at ilke
+wake cunde &thorn;at
+ 
+<PB N="15">
+drahe&eth; into &thorn;eowdom, &amp; in-to ful&eth;e fennuliche
+aka&slong;te&eth; &slong;e monie.  
+<Q>"At concupi&slong;cet rex
+decorem tu[um]."</Q> Ant &thorn;enne wile, &slong;ei&eth; daui&eth;,
+&thorn;e king wilni &thorn;i wlite: &THORN;e king of alle kinge&slong;
+defire &thorn;e to leofmon; &amp; &thorn;u, &thorn;enne, &slong;eli
+meiden, &thorn;at art ilote to him wi&eth; meidenhades menske, ne brec
+&thorn;u nawt tat &slong;eil &thorn;at &slong;eiled inc
+to-Gedere&slong;!  Hald ti nome &thorn;urh hwam &thorn;u art to him
+iweddet; ne leaf &thorn;u neauer, for a lu&slong;t &amp; for an
+e&eth;elich delit of an hond-hwile, &thorn;at ilke &thorn;ing
+&thorn;at ne mei neauer beon acouered.
+</P>
+<P>Meidenhad i&slong; &thorn;at tre&slong;or, &thorn;at, beo hit eanef
+forloren, ne be&eth; hit neauer ifunden.  Meidenhad is te
+blo&slong;me, &thorn;at, beo ha eanes fulliche forcoruen, ne
+&slong;prute&eth; ha neauer eft; Ah &thorn;ah ha falewi &slong;um
+chere mid mi&slong;liche &thorn;ohtes, Ha mei eft<MILESTONE N="115, col. 2" UNIT="leaf"> grenen neauer
+&thorn;e latere.  Meidenhad i&slong; te &slong;teorre, &thorn;at, beo
+ha eanes of &thorn;e ea&slong;t igan adun to &thorn;e we&slong;t,
+neauer eft ne ari&slong;e&eth; ha.  Meidenhad i&slong; tat an
+&yogh;eoue i&yogh;ettet te of heouene: do &thorn;u hit eane&slong;
+awei, ne schal tu neauer nan o&eth;er al &slong;wuch acoueren; for
+meidenhad i&slong; heuene cwen, &amp; worldes
+ale&slong;ne&slong;&slong;e, &thorn;urh hwan we beon iburhen. mihte
+ouer alle mihte&slong;, &amp; cweme&slong;t crist of alle. for&thorn;i
+&thorn;u ahe&slong;t, meiden, &slong;e deorewur&eth;liche to witen
+hit; for hit i&slong; &slong;e heh &thorn;ing, &amp; &slong;e
+&slong;wi&eth;e leof godd, &amp; &slong;e licwur&eth;e. for&thorn;i
+hit i&slong; an lure &thorn;at i&slong; wi&eth;ute coueringe. &yogh;if
+hit i&slong; godd leof, &thorn;at i&slong;, him &slong;elf &slong;wa
+ilich, Hit nis na wunder; for he i&slong; leofluke&slong;t &thorn;ing,
+&amp; wi&eth;uten eauer-euch bruche, &amp; we&slong; eauer, &amp;
+i&slong;, cleane ouer alle &thorn;ing, & ouer alle &thorn;ing
+luue&eth; cleanne&slong;&slong;e.  And hwat is luf<MILESTONE N="115, col. 3" UNIT="leaf">&slong;umre
+&thorn;ing, &amp; mare to herien bimong eor&eth;liche &thorn;inges,
+&thorn;en &thorn;e mihte of meidenhad? bute bruche
+ 
+<PB N="17">
+&amp; cleane, ibroiden on him&slong;eluen, &thorn;at make&eth; of
+eor&eth;lich mon & wimmon, heouene engel; of heane, hine ; of fa,
+freond; help, of &thorn;at te harme&eth;.  Vre flesch i&slong; ure fa,
+&amp; heane&eth; u&slong; &amp; harme&eth;, &slong;e ofte a&slong; ha
+u&slong; fule&eth;.  Ah &yogh;if &thorn;at ha wit hire wi&eth;ute
+bruche, cleane, ha i&slong; u&slong; &slong;wi&eth;e god freond &amp;
+help, of treowe hure; for in hire &amp; &thorn;urh hire, &thorn;u
+ofearne&slong;t, meiden, to beo engle euening i &thorn;e he&yogh;e
+bli&slong;&slong;e of heuene, &amp; wi&eth; God rihte, hwen &thorn;u
+hare lif-lade i &thorn;i bruchele flesch wi&eth;ute bruche
+leade&slong;t.
+</P>
+<P>Engel &amp; meiden beon euening in uertu of meidenhades mihte,
+&thorn;ah eadine&slong;&slong;e ham twinni &yogh;ette &amp; to-tweane.
+And tah hare meidenhad beo eadiure nu&eth;e, &thorn;in i&slong; te
+mare &slong;treng&eth;e to halden, & &slong;chal wi&eth; mare mede
+beon &thorn;e for&yogh;ulden.  &THORN;is mihte i&slong; &thorn;at an
+&thorn;at i &thorn;is deadlich <MILESTONE N="115, back, col. 2" UNIT="leaf"> lif &slong;cheawe&eth; in hire
+e&slong;tat of &thorn;e bli&slong;&slong;e undeadlich i &thorn;at eadi
+lond, a&slong; brud ne nime&eth; gume, ne brudgume bruide, &amp;
+teche&eth; her on eor&eth;e, in hire liflade, &thorn;e liflade of
+heuene; &amp; i &thorn;is world, &thorn;at i&slong; icleopet lond of
+unlicne&slong;&slong;e, athalt hire bur&eth;e i licne&slong;&slong;e
+of heuenliche cunde, &thorn;ah ha beo utlahe &thorn;rof, &amp; in
+licome of lam &amp; in bea&slong;tes bodi, neh liue&eth; heuenlich
+engel.  Ni&slong; ti&slong; mihte, of alle &slong;wi&eth;e to herien?
+&THORN;is i&slong; &yogh;et &thorn;e uertu &thorn;at halt ure bruchele
+feat, &thorn;at i&slong;, ure feble fle&slong;ch&mdash;as sente pawel
+leare&eth;&mdash;in hal haline&slong;&slong;e.  And a&slong; tat
+&slong;wote &slong;mirles, &amp; deore&slong;t of o&eth;re, &thorn;at
+i&slong; icleopet ba&slong;me, wit &thorn;at deade licome &thorn;at
+i&slong; ter-wi&eth; i&slong;mittet, from rotunge, al&slong;wa de&eth;
+meidenhad meidene&slong; cwike fle&slong;ch,
+ 
+<PB N="19">
+wi&eth;ute wemmunge halt alle hire limen &amp; hire wittes,
+&slong;ih&eth;e & heringe, &slong;mecchunge &amp; &slong;meallunge,
+&amp; euch limes felunge; &thorn;at ha ne merren, ne forme-alten,
+<MILESTONE N="116" UNIT="leaf">&thorn;urh licomliche lu&slong;tes i fle&slong;ches ful&eth;e.
+&thorn;at godd haue&eth;, &thorn;urh hi&slong; grace, &slong;e muche
+luue vnned, &thorn;at ha ne beo&eth; of &thorn;a iliche, bi hwam hit
+i&slong; iwriten &thorn;us &thorn;urh &thorn;e prophete, &thorn;at ha
+in hare wur&eth;unge as eaueres forroteden; &thorn;at i&slong;,
+eauer-euch wif &thorn;at i&slong; hire were &thorn;ral, & liue&eth; i
+wur&eth;inge, he &amp; heo ba&eth;e.  Ah ni&slong; hit nawt bi
+&thorn;eose iseid, &thorn;at ha forrotie&eth; &thorn;rin, &yogh;if ha
+hare wedlac laheliche halden.  Ah &thorn;a ilke &slong;ari wrecches,
+&thorn;at i &thorn;at ilke fule wur&eth;inge, unweddede, walewi&eth;,
+beo&eth; &thorn;e deueles eaueres, &thorn;at rit ham &amp;
+&slong;piure&eth; ham to don al &thorn;at he wile. &thorn;eos
+walewe&eth; in wur&eth;inge, &amp; forrote&eth; &thorn;rin, a
+&thorn;at ha ari&slong;en &thorn;urh burew&slong;unge, &amp; healen
+ham wi&eth; &slong;o&eth; &slong;chrift &amp; wi&eth; deadbote.
+</P>
+<P>Eadi meiden! under&slong;tond in hu heh dignete &thorn;e mihte of
+meidenhad halt te. Ah &slong;e &thorn;u herre &slong;tonde&slong;t,
+beo &slong;arre offearet to fallen, for, &slong;e herre degre,
+&slong;e &thorn;e fal is wur&slong;e.<MILESTONE N="116, col. 2" UNIT="leaf"> &THORN;e ondfule deuel bihalt
+te, &slong;e hehe i&slong;tihen toward heuene, &thorn;urh meidenhades
+mihte, &thorn;at him i&slong; mihte lade&slong;t; for, &thorn;urh ure
+lafdi meidenhad, &thorn;at hit bigon ear&slong;t, &thorn;e meiden
+marie, he forleas te lauerddom on moncun on eor&eth;e; &amp; we&slong;
+helle irobbed, &amp; heuene be&eth; ifulled. He &slong;e&eth; &thorn;e
+folhen hire treoden. meiden!  Gan a&slong; heo dude, &thorn;at offrede
+hire meidenhad ear&slong;t to ure lauerd, for hwen &thorn;at he cheas
+hire bimong alle wimmen for to beon his moder, &amp; &thorn;urh hire
+meidenhad moncun ale&slong;en. nu bihalt te alde feond, &amp;
+&slong;eo&eth;
+ 
+<PB N="21">
+&thorn;e in &thorn;i&slong; mihte &slong;tonden &slong;e hehe, ilich
+hire &amp; hire &slong;une, a&slong; engel in heuene in meidenhades
+men&slong;ke; &amp; to-&slong;wolle&eth; of grome, &amp;
+&slong;chote&eth; niht &amp; dai hi&slong;e earewen, idrencte of an
+attri haliwei, toward tin heorte, to wundi &thorn;e wi&eth; wac wil,
+&amp; makien <MILESTONE N="116, back, col. 1" UNIT="leaf">to fallen, a&slong; cri&slong;t te forbede.  And eauer
+&slong;e &thorn;u &slong;trongluker &slong;tonde&slong;t a&yogh;ain
+him, &slong;e he, o tene &amp; o grome, wodeluker weorre&eth;, for
+&slong;wa muchel &thorn;e hokerlucher him &thorn;unche&eth; to beon
+ouercumen; &thorn;at &thorn;ing &slong;e feble as fle&slong;ch
+i&slong;, &amp; nomeliche of wummon, &slong;chal him ouer&slong;tihen.
+</P>
+<P>Euch fle&slong;che&slong; wil &amp; lu&slong;t of leccherie
+&thorn;at ari&slong;e&eth; i &thorn;in herte, i&slong; &thorn;e feondes
+flan.  Ah hit ne wunde&eth; &thorn;e nawt bute hit fe&slong;tni o
+&thorn;e, &amp; leaue &slong;e longe &thorn;at tu walde&slong;t
+&thorn;at ti wil were i-broht to werke.  Hwil &thorn;i wit
+at&slong;tond, &amp; cha&slong;tie&eth; &thorn;i wil, &thorn;at ti
+lu&slong;t ne beore &thorn;e to &thorn;at te lef were, ne harme&eth;
+hit te nawiht, ne &slong;ule&eth; &thorn;i &slong;awle; for wit
+i&slong; hire &slong;cheld, under gode&slong; grace.  Hwil &thorn;e
+&slong;cheld i&slong; hal, &thorn;at is, te wi&slong;dom of &thorn;i
+wit, &thorn;at hit ne breke ne beie, &thorn;ah &thorn;i
+fle&slong;chliche wil fal&slong; beo &thorn;er-under, &amp; walde as
+hire luste, &thorn;e feonde&slong; flan fleo&eth; awei a&yogh;ain on
+<MILESTONE UNIT="col. 2">him &slong;eluen.  And loke hwarfore: vre licomes lu&slong;t i&slong;
+te feondes fo&slong;ter; vre wit i&slong; godes dohter; &amp; ba&eth;e
+beo&eth; u&slong; inwi&eth;; for-&thorn;i, &thorn;er i&slong; a feht,
+&amp; mot beon ai nede; for ne truke&eth; neauer mare, hwil we here
+wunie&eth;, weorrre ham bitwenen.  Ah wel i&slong; him &thorn;at
+folhe&eth; wit, gode&slong; dohter, for ha halt wi&eth; meidenhad
+&thorn;at i&slong; hire &slong;u&slong;ter.
+</P>
+<P>Ah &thorn;i wil, on o&eth;er half, of &thorn;at licomliche
+lu&slong;t, halt wi&eth; leccherie, &thorn;at i&slong; deouele&slong;
+&slong;treon, a&slong; heo i&slong;, &amp; &slong;unne hire moder.
+Leccherie,
+ 
+<PB N="23">
+o meidenhad, wi&eth; help of fleschliche wil, weorre&eth; o
+&thorn;i&slong; wi&slong;e: Hire forme ful&slong;t i&slong;
+&slong;ih&eth;e: &YOGH;if &thorn;u bihalde&slong; ofte
+&slong;tikelinde on eni mon, leccherie ananriht grei&eth;e&eth; hire
+wi&eth; &thorn;at to weorren o &thorn;i meidenhad, &amp;
+&slong;eche&eth; ear&slong;t upon hire, nebbe to nebbe.  Speche
+i&slong; hire o&eth;er help.  &YOGH;if &yogh;e &thorn;rafter
+&thorn;enne &slong;peken to-Gedere folliche, &amp; talke&eth; of
+unnet, leccherie &slong;ei&eth; `&slong;cho<MILESTONE N="117" UNIT="leaf">me &thorn;e men&slong;ke
+of &thorn;i meidenhad,' &amp; tuke&eth; hire to wundre, &amp;
+&thorn;reat to don hire &slong;chome &amp; harmen &thorn;rafter.
+&amp; hald hire foreward; for &slong;one &slong;e cos cume&eth;
+for&eth;, &thorn;at i&slong; hire &thorn;ridde ful&slong;t;
+&thorn;enne &slong;pit leccherie, to &slong;chome &amp; to
+bi&slong;mere, meidenhad o &thorn;e nebbe.  &THORN;e feor&eth;e
+ful&slong;t to merre meidenhad, &thorn;at i&slong; unhende
+felunge. wite hire &thorn;enne! for &yogh;if &yogh;e &thorn;enne
+Hondlen ow in ani &slong;tude untoheliche, &THORN;enne &slong;mit
+leccherie o &thorn;e mihte of meidenhad, &amp; wunde&eth; hire
+&slong;are: &thorn;at dreori dede on ende &yogh;iue&eth; &thorn;at
+dea&eth;es dunt.  Weila &thorn;at reow&eth;e!  ne acwike&eth; neauer
+meidenhad after &thorn;at wunde.  Hwa &thorn;at &slong;ehe &thorn;enne
+hu &thorn;e engles beo&eth; i&slong;weamed, &thorn;at &slong;eo&eth;
+hare &slong;u&slong;ter &slong;wa &slong;orhfulliche afallet, And te
+deoueles hoppen & kenchinde beaten hondes to-Gederes, &slong;tani were
+his heorte &yogh;if ha ne mealte i teares.
+</P>
+<P>Wite &thorn;e, <MILESTONE N="117, col. 2" UNIT="leaf">&slong;eli meiden!  Man &slong;ei&eth; &thorn;at
+ei&slong;e make&eth; &thorn;eof. flih alle thinge&slong;, &amp;
+forhuh &yogh;eorne, &thorn;at tus unbotelich lure of mahe
+ari&slong;en; &thorn;at i&slong;, on alre ear&slong;t, &thorn;e
+&slong;tude &amp; te time, &thorn;at mahten bringe &thorn;e on
+mi&slong; for to donne.  Wi&eth; o&eth;re un&thorn;eawe&slong;, men
+mai &slong;tondinde fehten; Ah a&yogh;ain leccherie, &thorn;u
+mo&slong;t turne &thorn;e rug &yogh;if &thorn;u wult ouercumen, &amp;
+wi&eth; fluht
+ 
+<PB N="25">
+fehten.  And &slong;o&eth;e&slong;, &yogh;if &thorn;u
+&thorn;enche&slong; &amp; bihalde&slong;t on heh to-ward te muchele
+mede &thorn;at meidenhad abide&eth;, &thorn;u wult lete lihtliche,
+&amp; abeore bli&eth;eliche &thorn;e derf &thorn;at tu drehe&slong;t
+onont ti fle&slong;chliche wil, &amp; ti licome&slong; lu&slong;t,
+&thorn;at tu forbere&slong; her, & ane hwile leaue&slong;t, for
+bli&slong;&slong;e &thorn;at cume&eth; &thorn;rof, wi&eth;uten ani
+ende.
+</P>
+<P>And hwuch is te bli&slong;&slong;e?  low, godd him&slong;elf
+&slong;ei&eth; &thorn;urh &thorn;e prophete: 
+<Q>"&THORN;eo &thorn;at
+habbi&eth; fram ham icoruen fle&slong;che&slong; lu&slong;tes, &amp;
+halde&eth; mine &slong;abaz,"</Q> &thorn;at i&slong;, halden ham i
+re&slong;te fram &thorn;at fle&slong;chliche werc, &amp; halden me
+fore<MILESTONE N="117, back, col. 1" UNIT="leaf">ward, 
+<Q>"Ich behate ham,"</Q> he &slong;ei&eth;, 
+<Q>"i mi
+kineriche to &yogh;iuen ham &slong;tude, &amp; betere nome &thorn;e[n]
+&slong;unen &amp; dohtren."</Q> Hwa mihte wilni mare?  Eunuchus qui
+&slong;eruauerit &slong;abbata mea &amp;c.  Hwa mei &thorn;enne<NOTE ID="n6"> ? for &thorn;enche</NOTE>&thorn;e weole, &thorn;e winne &amp; te bli&slong;&slong;e, &thorn;e
+heh&slong;cipe of &thorn;e mede, &thorn;at ti&slong; ilke lut
+worde&slong; bicluppen abuten?  
+<Q>"Ichulle,"</Q> he &slong;ei&eth;,
+<Q>"&yogh;eouen ham &slong;tude &amp; nome betere &thorn;en
+&slong;unen & dohtren."</Q> &THORN;ulli bihea&slong;te; &amp; hit
+i&slong; ilich &thorn;at &thorn;at ham i&slong; bihaten to
+&slong;ingen wi&eth; engle&slong;, hwa&slong; felahe&slong; ha
+beo&eth;, &thorn;urh liflade of heuene, &thorn;at &yogh;et &thorn;er
+ha wune&eth; fle&slong;chliche on eor&eth;e. to &slong;inge &thorn;at
+&slong;wote &slong;ong &amp; &thorn;at englene dream, ut-nume murie,
+&thorn;at nane halwes ne mahen, bute meidene&slong; ane, &slong;ingen
+in heuene; &amp; folhen godd almihti, euch godes ful, hwider &slong;e
+he eauer wende&eth;, a&slong; &thorn;e o&eth;re ne mahen nawt,
+&thorn;ah ha beon alle hi&slong;e &slong;unnen &amp; alle hi&slong;e
+dehtren.  Ne nan of &thorn;e o&eth;re&slong; crunen, ne hare wlite, ne
+hare weden, ne <MILESTONE N="117, col. 4" UNIT="leaf">mahen euenen to hare, &slong;e unimete brihte ha
+beo&eth;, &amp; &slong;chene to bi&slong;eon on.
+ 
+<PB N="27">
+</P>
+<P>And hwat be&eth; hare ane&slong; &slong;ong, &amp; after godd hare
+ane&slong; gong, hwider-&slong;e he eauer turne&eth;?  and hare fare,
+&slong;o feire biforen alle o&eth;re?  Vnder&slong;tond, &amp; nimy
+&yogh;eme.  Al hare &slong;ong in heuene i&slong; for to &thorn;onki
+godd of hi&slong; grace &amp; of hi&slong; goddede.  &THORN;e iweddede
+&thorn;onken him &thorn;at, ha lauhure hwen ha alles walden fallen
+duneward, ne fellen nawt wi&eth; alle adun, for wedlac ham ikepte,
+&thorn;at ilke lahe &thorn;at godd haue&eth; i&slong;tald for &thorn;e
+un&slong;tronge. for wel wi&slong;te ure lauerd, &thorn;at alle ne
+mihten nawt halden i &thorn;e hehe of meidenhades mihte: ah
+&slong;eide, &thorn;a he &slong;pec &thorn;rof, 
+<Q>"Non omne&slong;
+capiunt hoc uerbum: Ne underneome&eth; nawt,"</Q> quo&eth; he,
+<Q>"&thorn;i&slong; ilke word alle.  Qui pote&slong;t capere, capiat.
+Hwa&slong;e hit me underneomen, underneome, ich reade,"</Q> quo&eth;
+he.  O&eth;er i&slong; &thorn;at godd hat; &amp; o&eth;er i&slong; tat
+he reades.  &THORN;a ilke &thorn;inges &thorn;at he hat, &thorn;eo mot
+mon <SIC>mot</SIC><MILESTONE N="118" UNIT="leaf"> nede halden, &thorn;at wile beon iburhen; &amp; &thorn;eo beon to
+alle men o liue iliche meane: hi&slong; reade&slong; beo&eth; of heh
+&thorn;ing, &amp; to hi&slong;e leoue&slong;te freond, &thorn;e lut i
+&thorn;is worlde, &amp; derue beo&eth; to fullen, &amp; lihte
+&thorn;ah hwa&slong;e haue&eth; riht luue to him, &amp; treowe
+bileaue.  Ah hwa&slong;e halt &thorn;a, he earne&eth; him, ouerfullet,
+ful & ouereorninde, met of heuenliche mede.  Swuch i&slong;
+meidenhade&slong; read, &thorn;at godd ne hat nawt, ah read.  Hwuch-&slong;e wile beon of &thorn;e lut of hi&slong; leoue&slong;te freond,
+&amp; a&slong; hi&slong; deore derling, don hi&slong; read, & earnin
+him crune upo crune.  Al&slong;wa &slong;ente pawel &yogh;iue&eth;
+read to meidenes, to beon as he was, &amp; sei&eth;, &thorn;at 
+<Q>"wel
+i&slong; ham &thorn;at &slong;wa ham mahen halden"</Q>; ne hat he hit
+nan o&eth;re&slong; weis. for eauer fe deorre
+ 
+<PB N="29">
+&thorn;ing, &slong;e i&slong; derure to biwitene.  And &yogh;if hit
+were ihaten, & nawt ta ihalden, &thorn;e bruche [were] deadliche
+&slong;unne.
+</P>
+<P>For-&thorn;i was wedlac ilahet in hali chirche, <MILESTONE N="118, col. 2" UNIT="leaf">a&slong; bed to
+&slong;eke, to ihente &thorn;e un&slong;tronge, &thorn;at ne mahten
+nawt &slong;tonden in &thorn;e hehe hul, &amp; &slong;e neh heuene,
+a&slong; meidenhades mihte.  &THORN;i&slong; i&slong;, tenne, hare
+&slong;ong, &thorn;at beon i lahe of wedlac, &thorn;onki godd &amp;
+herien, &thorn;at he grei&eth;ede ham, lanhure &thorn;a ha walden of
+meidene&slong; heh&slong;cipe, a &slong;wuch &slong;tude in to lihten,
+&thorn;at ha neren nawt ihurt, &thorn;ah ha weren ilahet, And hwat
+&slong;e ha &thorn;rin hurten ham, wi&eth; ealmes deden healden.
+&THORN;is &slong;inge&eth;, &thorn;enne, iweddede, &thorn;at ha,
+&thorn;urh godes milce, &amp; merci of his grace, &thorn;a ha driuen
+duneward, in wedlac at&slong;tutten, &amp; in &thorn;e bed of his lahe
+&slong;ofteliche lihten.
+</P>
+<P>For hwa&slong;e &slong;wa falle&eth; of meidenhede&slong;
+men&slong;ke, &thorn;at wedlake&slong; heueld bed nawt ham ne ihente,
+&slong;e ferliche ha driuen dun to &thorn;e eor&eth;e, &thorn;at al
+ham i&slong; tolimet li&eth; ba &amp; lire.  &THORN;eos ne
+&slong;chulen neauer &slong;ong &slong;ingen in heuene, ah
+&slong;chulen weimeres leod ai mare in helle, bute <MILESTONE N="118, back, col. 1" UNIT="leaf"> &yogh;if
+bireow&slong;inge areare ham to liue, & heale ham wi&eth;
+&slong;o&eth; &slong;chrift &amp; wi&eth; deadbote.
+</P>
+<P>For &yogh;if ha beo&eth; acwiket &amp; imaket hale, ha beo&eth; i
+widewene ring, &amp; &slong;chulen, i widewene ring, bifore &thorn;e
+iweddede &slong;ingen in heuene: &thorn;at i&slong;, tenne, hare
+&slong;ong, to herien hare drihtin, & &thorn;onken him &yogh;eorne
+&thorn;at hi&slong; mihte held ham i clean&slong;chipe cha&slong;te,
+after &thorn;at ha hefden ifondet fle&slong;ehc&slong; ful&eth;e, &
+&yogh;ettede ham i &thorn;i&slong; world to bete hare &slong;unnen.
+Swote beo&eth;
+ 
+<PB N="31">
+&thorn;eos &slong;onge&slong;.  Ah al i&slong; meidene&slong;
+&slong;ong unilich &thorn;eo&slong;e, wi&eth; engle&slong; imeane:
+dream ouer al &thorn;e dreame&slong; in heuene.  In heore ring
+&thorn;er [i&slong;] godd &slong;elf; &amp; hi&slong; deore moder,
+&thorn;e deorewur&eth;e meiden, &thorn;e heuenliche cwen, leat i
+&thorn;at eadi trume of &slong;chimerinde meidene&slong;: ne moten
+nane bute heo hoppen ne &slong;ingen, for &thorn;at i&slong; ai hare
+&slong;ong, &thorn;onken godd, &amp; herien, &thorn;at he on ham
+&slong;e muche grace &yogh;ef of him &slong;eluen, &thorn;at ha
+for&slong;oken for him euch eor&eth;lich mon, &amp; helden ham <MILESTONE N="118, back, col. 2" UNIT="leaf">cleane
+ai fra fle&slong;chliche ful&eth;en i bodi &amp; i breo&slong;te;
+&amp; i &slong;tude of mon of lam, token liues lauerd, &thorn;e king
+of &thorn;e hehe bli&slong;&slong;e; for hwi he men&slong;ke&eth; ham
+&slong;e muchel biforen alle &thorn;e o&eth;re, as te brudgume de&eth;
+hi&slong; weddede &slong;puse.  &THORN;i&slong; &slong;ong, ne mahen
+nane bute heo &slong;ingen.
+</P>
+<P>Alle, a&slong; ich &slong;eide ear, folhen ure lauerd, &amp; tah
+nawt ouer al; for, i &thorn;e men&slong;ke of meiden[had] &amp; in
+hire mihte, ne muhe nane folhen him, ne &thorn;at eadi meiden, englene
+lafdi, &amp; meidene&slong; men&slong;ke, bute meidene&slong; ane.
+And for-&thorn;i i&slong; hare aturn &slong;e briht &amp; &slong;e
+&slong;chene biforen alle o&eth;re, &thorn;at ha Ga&eth; eauer
+ne&slong;t godd, hwider&slong;e he turne&eth;.  And alle ha beo&eth;
+icruned &thorn;at bli&slong;&slong;ed in heuene, wi&eth; kempene
+crune.  Ah &thorn;e meidene&slong; habben upo &thorn;at, &thorn;at
+i&slong; to alle iliche imeane, a gerlaunde&slong;che &slong;chinende
+&slong;chenre &thorn;en &thorn;e &slong;unne: `Auriole' ihaten o
+latine&slong; ledene.  &THORN;e flur&slong; &thorn;at beo&eth; idrahe
+&thorn;ron, ne &thorn;e &yogh;im&slong;tanes <MILESTONE N="119" UNIT="leaf">&thorn;rin, te tellen of
+hare euene, ne i&slong; na monne&slong; &slong;peche.  &THORN;us feole
+priuilege&slong; &slong;cheawe&eth; ful &slong;utelliche hwucche beon
+&thorn;e meidne&slong;, &amp; &slong;undre&eth; ham fram &thorn;e
+o&eth;re wi&eth; &thorn;us feole men&slong;ken, world buten ende.
+ 
+<PB N="33">
+</P>
+<P>Of &thorn;eos &thorn;re had, meidenhad &amp; widewehad, &amp; te
+&thorn;ridde, wedlachad, &thorn;u maht, bi &thorn;e degrez of hare
+bli&slong;&slong;e, icnawen hwuch, &amp; bi hu muchel, &thorn;e an
+pa&slong;&slong;e&eth; &thorn;e o&eth;re. for wedlac haue&eth; hire
+frut &thorn;ritti-fald in heuene; widewehad, &slong;ixti fald;
+Maidenhad, wi&eth; hundred fald, ouer-Gea&eth; ba&eth;e.  loke,
+&thorn;enne, her-bi, hwa &slong;e of hire maidenhad lihte&eth; in-to
+wedlac, bi hu moni degrez ha falle&eth; duneward.  Ha is an hundred
+degrez ihehet toward heuene, hwil ha meidenhad halt, a&slong;
+&thorn;at frut preoue&eth;; &amp; leape&eth; in-to wedlac, &thorn;at
+i&slong; duneward to &thorn;e &thorn;rittu&eth;e, ouer &thorn;rie
+twenti &amp; &yogh;et ma bi tene. ni&slong; ti&slong;, at an chere, a
+muche lupe duneward?  &amp; tah hit i&slong; <MILESTONE N="119, col. 2" UNIT="leaf">to &thorn;olien.  And
+godd haue&eth; ilahed hit, as ich ear &slong;eide, le&slong;te hwa
+&slong;e leope, &amp; tenne lauhure nawt nere hwat kep to [read kepte]
+him, &amp; driue adun &slong;wirefor&eth;, wi&eth;uten ikepunge, deope
+in-to helle.  Of &thorn;eos nis nawt to &slong;peken, for ha beo&eth;
+i&slong;crepte ut of liues writ in heuene.
+</P>
+<P>&para;Ah &slong;cheawe witerluker, as we ear biheten, hwat drehen
+&thorn;e iweddede, &thorn;at tu icnawe &thorn;erbi hu murie &thorn;u
+maht liuen, meiden i &thorn;i meidenhad, ouer &thorn;at heo libben,
+teke &thorn;e murh&eth;e &amp; te men&slong;ke in heuene, &thorn;at
+mu&eth; ne mai nummnen.  Nu &thorn;u art iwedded, &amp; of &slong;e
+heh &slong;e lahe iliht,&mdash;of englene ilicne&slong;&slong;e, of
+ihesu cri&slong;te&slong; leofmon, of leafdi in heuene,&mdash;in-to
+fle&slong;che&slong; ful&eth;e, in-to bea&slong;te&slong; liflade,
+in-to monne&slong; &thorn;eowdom, &amp; in to worldes weane.  &YOGH;ei
+nu, hwat frut, &amp; for hwuch &thorn;ing mea&slong;t hit is: al for
+&thorn;i, o&eth;er ane deale &thorn;er fore. beo nu &slong;o&eth;
+ 
+<PB N="35">
+cnawe&slong;, for to kele &thorn;i lu&slong;t wi&eth; ful&eth;e of
+&thorn;i lico<MILESTONE N="119, back, col. 4" UNIT="leaf"> me, for to habbe delit of &thorn;i fle&slong;chliche
+wil of monne&slong; imeane; for gode, hit i&slong; wlateful &thorn;ing
+for te &thorn;enke &thorn;ron; &amp; for to &slong;peke &thorn;er-of,
+&yogh;et wlatefulre. loke, &thorn;enne, hw[u]ch beo &thorn;at
+&slong;elue &thorn;ing, &amp; &thorn;at dede to donne.  Al &thorn;at
+fule delit i&slong; wi&eth; ful&eth;e aleid, a&slong; tu turne&slong;t
+&thorn;in hond.  Ah &thorn;at la&eth;liche bea&slong;t leaue&eth;
+&amp; la&slong;t for&eth;; And te of-&thorn;unchinge &thorn;rof longe
+&thorn;er-after.  <NOTE ID="n7"> Rubbed out in Titus MS., supplied from Bodley.</NOTE>[Ant te unseli horlin]ges &thorn;at unlaheliche hit
+haunte&eth; in inwarde helle: for &thorn;at hwilende lu&slong;t,
+endele&slong; pine, bute &yogh;if ha hit leauen, &amp; hit on
+eor&eth;e under &slong;chrift bitterliche beten. forhohe for to don
+hit &thorn;at te &thorn;unche&eth; uuel of, &amp; eil for to
+heren. for hwen hit i&slong; &thorn;ullich, &amp; muche dale
+la&eth;luker &thorn;en eni wel-itohe mu&eth; for &slong;chome mahe
+&slong;eggen, hwat make&eth; hit iluued bituhhe bea&slong;tliche men,
+bute hare muchele un&thorn;eaw, &thorn;at bere&eth; a&slong;
+bea&slong;te&slong; to al &thorn;at ham lu&slong;te&eth;, as tah ha
+nefden wit in ham ne <MILESTONE N="119, back, col. 4" UNIT="leaf">tweire schead as mon haue&eth;, ba of god &amp;
+of uuel, of cumelich &amp; of uncumelich, na mare &thorn;en
+bea&slong;tes, &thorn;at dumbe neb habbe&eth;.  Ah, lea&slong;&slong;e
+&thorn;en bea&slong;tes &yogh;et; for &thorn;eos do&eth; hare cunde
+(wi&eth;ute wit &thorn;ah ha beon) in a time of &thorn;e &yogh;er.
+Moni halt him til an make, ne nule after &thorn;at lure neauer nimen
+o&eth;er.  And mon &thorn;at &slong;chulde haue wit, &amp; do al
+&thorn;at he dude after hire wi&slong;&slong;inge, folhe&eth;
+&thorn;at ful&eth;e in eauer-euch time; &amp; nime&eth; an after an,
+&amp; monie &thorn;at i&slong; wur&slong;e, monie to-Gedere&slong;.
+</P>
+<P>Loke hu &thorn;i&slong; un&thorn;eaw ne euene&eth; &thorn;e, nawt
+ane to witle&slong;e bea&slong;tes dumbe &amp; broke-rugget, ibuhe
+toward te eor&eth;e; &thorn;e &thorn;at art i wit iwraht to
+gode&slong; ilicne&slong;&slong;e, &amp; i riht, ba bodi up & heaued
+toward heuene; for
+ 
+<PB N="37">
+&thorn;i &thorn;at tu &slong;chulde&slong;t &thorn;in herte heouen
+&thorn;iderward as tin heritage i&slong;, &amp; eor&eth;e forhohien.
+Nim &yogh;eme hu &thorn;i&slong; un&thorn;eaw ne make&eth; <MILESTONE N="120" UNIT="leaf">&thorn;e
+nawt ane euening ne ilich him, ah de&eth; muchel etiluker, &amp; mare
+to witen, &thorn;at for&slong;chuppe&slong; te &slong;elf,
+wille&slong; &amp; walde&slong;, in-to hare cunde; &THORN;at
+leo&slong;e&eth; &thorn;enne &slong;e heh &thorn;ing, &thorn;e mihte
+&amp; te biheoue of meidenhade&slong; men&slong;ke, for &slong;e ful
+ful&eth;e as i&slong; i&slong;cheawet &thorn;ruppe.  Hwa&slong;e, of
+engel, lihte&eth; to iwur&eth;en lahere &thorn;en a bea&slong;t, for
+&slong;e la&eth;li chaffere, loke hu ha &slong;pede!
+</P>
+<P><Q>"Nai,"</Q> &thorn;u wult &slong;eggen, 
+<Q>"for &thorn;at
+ful&eth;e, ni&slong; hit nawt; Ah monne&slong; elne i&slong; muche
+wur&eth;; &amp; me biheoue&eth; hi&slong; help to fluttunge &amp; to
+fode; Of wif &amp; were&slong; Gederinge, weorlde&slong; wele
+awakene&eth;, &amp; &slong;treon of feire children, &thorn;at gladien
+muchel &thorn;e ealdren."</Q> Nu &thorn;u haue&slong;t i&slong;eid
+tus, &amp; &thorn;unche&eth; &thorn;at tu &slong;eggef &slong;o&eth;.
+Ah Ichulle &slong;cheawen hit al wi&eth; falschipe i&slong;me&eth;et.
+Ah on alre ear&slong;t, nu, hwat weole o&eth;er hwat wunne &slong;e
+&thorn;er eauer of cume, to deore hit beo&eth; aboht, &thorn;at tu
+&thorn;e&slong;elf &slong;ule&slong;t fore, &amp; &yogh;eue&slong;t
+&thorn;in ahne <MILESTONE N="120, col. 2 " UNIT="leaf">dere bodi to tuken &slong;wa to wundre, &amp; fare
+wi&eth; &slong;e &slong;chomeliche, wi&eth; &slong;wuch uncouerlich
+lure a&slong; meidenhade&slong; men&slong;ke i&slong; &amp; te mede
+ba&eth;e, for worldliche bi&yogh;eate. wa wur&eth;e &thorn;at
+chaffere, for eni hwilende weole &slong;ullen meidenhad awei,
+&thorn;at cwen i&slong; of heuene ; for, al &slong;wa as of
+&thorn;i&slong; lure nis nan acoueringe, al &slong;wa i&slong; euch
+wur&eth; unwur&eth; her toward.
+</P>
+<P>&THORN;u &slong;ei&slong;t &thorn;at muche confort haue&eth; wif of
+hire were, &thorn;at beo&eth; wel iGedered, &amp; ei&eth;er i&slong;
+alle&slong; weis ipaied of o&eth;er.  &YOGH;ea.  Ah hit if &slong;elt
+ 
+<PB N="39">
+&slong;ene on eor&eth;e.  Beo nu &thorn;ah &slong;wuch: hare confort
+&amp; hare delit, hwerin i&slong; hit al mea&slong;t, bute i
+fle&slong;che&slong; ful&eth;e o&eth;er in weorlde&slong; uanite,
+&thorn;at wur&eth;e&eth; al to &slong;orhe &amp; to care on ende?
+nawt ane on ende, ah eauer umbehwile; for moni &thorn;ing &slong;chal
+ham wra&eth;&eth;en &amp; gremen, &amp; makie to carien, &amp; for
+hore o&eth;re&slong; uuel &slong;orhen &amp; &slong;iken.  Moni
+&thorn;ing ham &slong;chal <MILESTONE N="120, back, col. 1" UNIT="leaf">twinnen &amp; tweinen, &thorn;at la&eth;
+e&slong; leouie men; &amp; dea&eth;e&slong; dunt on ende, ei&eth;er
+fram o&eth;er.  Swa &thorn;at ne be&eth; hit nane&slong; weis
+&thorn;at tat elne ne &slong;chal enden in earm&eth;e; &amp; eauer
+&slong;e hare murh&eth;e we&slong; mare toGedere&slong;, &slong;e
+&thorn;e &slong;orhe i&slong; &slong;arre at te twinninge. wa i&slong;
+him for&thorn;i, as &slong;eint Au&slong;tin &slong;ei&eth;, &thorn;at
+i&slong; wi&eth; to muche luue to eni eor&eth;liche &thorn;ing iteiet,
+for eauer be&eth; &thorn;at &slong;wete aboht wi&eth; twa dale of
+bittre, &amp; a fal&slong; winne wi&eth; moni &slong;ar tene.  Ah wel
+is hire &thorn;at luue&eth; godd; for him ne mai ha nanes
+weis,&mdash;bute &yogh;if ha lihe him, &amp; his luue
+leaue&mdash;neauer mare leo&slong;en.  Ah &slong;chal ifinden him ai
+&slong;wettere &amp; &slong;auurure, fram worlde in-to worlde, a on
+ecne&slong;&slong;e.
+</P>
+<P>&THORN;u &slong;peke &thorn;ruppe of monne&slong; help to fluttunge
+&amp; to fode.  Weila!  lutel &thorn;arf &thorn;e carien for &thorn;in
+anes liuene&eth;, a meke meiden a&slong; tu art, &amp; his deore
+leofmon &thorn;at is alre &thorn;inge lauerd, &thorn;at he ne mahe
+lihtliche, &amp; &thorn;at he nule gladluche ifinde &thorn;e
+largeliche al &thorn;at te biheoue&eth;.  And tah &thorn;u wone
+hefde&slong;t, o&eth;er <MILESTONE N="120, back, col. 2" UNIT="leaf">drehde&slong;t ani derf for his
+deorewur&eth;e luue, a&slong; &thorn;e o&eth;re de&eth; for monnes, to
+goderheale &thorn;in He hit &thorn;ole&eth;, to fonde &thorn;e
+hwe&eth;er &thorn;u beo treowe; &amp; grei&eth;e&eth; &thorn;i mede
+monifald in heuene.  Vnder monne&slong; help &thorn;u &slong;chalt
+&slong;are beon iderued for his &amp; for &thorn;e worldes
+ 
+<PB N="41">
+luue, &thorn;at beo&eth; ba&eth;e &slong;wikele, &amp; wakien i moni
+care, nawt ane for &thorn;e-&slong;elf as &thorn;arf gode&slong;
+spuse, ah &slong;chalt for monie o&eth;re, a&slong;e wel for &thorn;e
+la&eth;e ofte a&slong; for &thorn;e leue; &amp; mare beon idrecchet
+&thorn;en eni driuel i &thorn;e hus, o&eth;er eni ihured hine, &amp;
+tin ane&slong; dale bruken ofte wi&eth; bale, &amp; bitterliche
+abuggen. litel witen her of &thorn;e &slong;elie godes
+&slong;pu&slong;es, &thorn;at i &slong;e &slong;wote ei&slong;e,
+wi&eth;ute &slong;wuch trubuil, in ga&slong;telich e&slong;te &amp; i
+breo&slong;te re&slong;te, luuie&eth; &thorn;e &slong;o&eth;e luue,
+&amp; in his ane&slong; &slong;erui&slong;e hare lif leade&eth;.  Inoh
+wel ham i&slong; her, &amp; unilich elleshwer.  Alle worldes wele ham
+is inoh riue.  Al ha habbe&eth; &thorn;erof &thorn;at ha wel
+wilne&eth;. Al &thorn;at eauer godd i&slong;eo&eth;, &thorn;at ham
+wule framien.  Ne mei na worldlich unhap bireauen [ham] <MILESTONE N="121" UNIT="leaf">hare weole,
+for ha beo&eth; riche &amp; weolefule iwi&eth; i &thorn;e herte.
+</P>
+<P>Al &thorn;e e&slong;te &amp; al &thorn;e ei&slong;e i&slong; her
+a&slong; &thorn;e o&eth;re beo&eth; godle&slong;e &amp;
+ignahene,&mdash; nabben ha neauer &slong;e muchel wi&eth;uten i
+&thorn;e worlde,&mdash;for &thorn;at ha beon eauer feard for to
+lo&slong;en, & &yogh;i&slong;ce&eth; &thorn;ah after muchel, muchele:
+wi&eth; earm&eth;e biwinne&eth; hit, wi&eth; fearlac biwite&eth; hit,
+forleo&slong;en hit wi&eth; &slong;orhe.  Swinken to bi&yogh;eotene,
+Bi&yogh;eten for to leo&slong;en, leo&slong;en for to &slong;orhen.
+&THORN;us ti&slong; worlde&slong; hweol warpe&eth; ham
+abuten. &thorn;eoues hit &slong;telen ham.  Reauere&slong; hit
+robbe&eth;.  Hare ouerherren witi&eth; ham &amp; wra&eth;&eth;e&eth;.
+Moh&eth;e fret te cla&eth;e&slong;, &amp; cwalm &slong;la&eth;
+&thorn;at ahte; &amp; tah nan of &thorn;eos ne makien to forwur&eth;en
+weole, &thorn;er a&slong; muchel is, eauer &slong;e &thorn;er mare is,
+&slong;e ma beo&eth; &thorn;at hit wa&slong;te&eth;. &amp; nat ich
+neauer hwi mon &slong;ei&eth; &thorn;at heo hit al welde&eth;,
+&thorn;at, wullen ha nullen ha, biwinne&eth; &amp; biwite&eth; hit to
+&slong;e monie
+ 
+<PB N="43">
+o&eth;re, nawt ane to hare freond, ah to hare fulle fan, ne habben ne
+mahen <MILESTONE N="121, col. 2" UNIT="leaf">&thorn;rof, &thorn;ah ha hit hefden &slong;worn, bute hare anes
+dale.  &THORN;is is nu for-&thorn;i i&slong;eid, &thorn;at tu
+&slong;eide&slong; &thorn;ruppe, &thorn;at ter walde wakenen of wif
+&amp; were&slong; &slong;omninge, riche&slong;ce &amp; worldes weole;
+&thorn;at tu under&slong;tonde hu lutel hit frame&eth; ham &yogh;et
+her, i &thorn;is worlde, teke &thorn;at hit reaues ham &thorn;e hehe
+riche of heuene, bute ha poure beon &thorn;rin, with
+haline&slong;&slong;e of heorte.
+</P>
+<P>&THORN;us, wummon, &yogh;if &thorn;u haue&slong;t were after
+&thorn;i wil &amp; wunne, ba, of weorlde&slong; weole, &thorn;e
+&slong;chal nede itiden.  And hwat &yogh;if ha beo&eth; &thorn;e wone,
+&thorn;at tu nabbe &thorn;i wil wi&eth; him, ne weole now&eth;er,
+&amp; &slong;chalt greni godles inwi&eth; wa&slong;ti wahes, &amp; in
+breades wone bredes ti barnteam; &amp; teke &thorn;is, liggen under
+la&eth;e&slong;t mon, &thorn;at, tah &thorn;u hafde&slong;t alle
+weole, went him te to weane; for, beo hit nu, &thorn;at te beo
+richedom riue, &amp; tine wide wahes wlonke & welefulle, &amp; habbe
+<MILESTONE N="121, back" UNIT="leaf">monie under &thorn;e, hirdmen in halle, &amp; ti were beo &thorn;e
+wra&eth;, &amp; iwur&eth;e &thorn;e la&eth;, &slong;wa &thorn;at inker
+ei&eth;er hea&slong;ci wi&eth; o&eth;er; hwat worldlich weole mei beo
+&thorn;e wunne?  Hwen he beo&eth; ute, haue&slong;t a&yogh;ain his
+ham-cume, &slong;ar, care, &amp; eie.  Hwil he bi&eth; at hame, alle
+&thorn;ine wide wane&slong; &thorn;unche&eth; &thorn;e to narewe; His
+lokinge on &thorn;e aga&slong;te&eth; &thorn;e; His ladliche murh&eth;
+&amp; hi&slong; untohe bere make&eth; &thorn;e to agri&slong;en.  Chit
+te &amp; cheowe&eth; &thorn;e, &amp; &slong;chent te
+&slong;chomeliche; tuke&eth; &thorn;e to bi&slong;mere, as huler his
+hore; Beate&eth; &thorn;e &amp; bu&slong;te&eth; &thorn;e, a&slong;
+hi&slong; ibohte &thorn;rel &amp; hi&slong; e&eth;ell &thorn;eowe.
+&THORN;ine bane&slong; ake&eth; &thorn;e, &amp; ti fle&slong;ch
+ 
+<PB N="45">
+&slong;merte&eth;, &thorn;in heorte in-wi&eth; &thorn;e
+&slong;welle&eth; of &slong;ar grome, & ti neb ute-wi&eth; tendre&eth;
+ut of tene.  Hwuch &slong;chal beo &thorn;e &slong;omnunge bituhhen ow
+bedde?  Me &thorn;eo &thorn;at be&slong;t luuie&eth;, ham
+tebeore&eth; ofte &thorn;rin, &thorn;ah ha &thorn;erof na
+&slong;emblaund ne makien inne marhen; &amp; ofte moni nohtunge, ne
+luuien ha ham neauer &slong;wa, bitterliche bi ham &slong;elf
+teone&eth; ei&eth;er o&eth;er.  Ha &slong;chal his wil, muchel <MILESTONE N="121, back, col. 2" UNIT="leaf"> hire
+unwil, drehen, ne luue ha him neauer &slong;wa wel, wi&eth; muche
+weane ofte.  Alle hi&slong;e fulitohe&slong;chipe&slong; &amp;
+hi&slong;e unhende gomenes&mdash;ne beon ha neauer &slong;wa wi&eth;
+ful&eth;e bifunden, nomeliche i bedde&mdash;ha &slong;chal, wulle ha,
+nulle ha, &thorn;olien ham alle.  Cri&slong;t &slong;childe euch
+meiden to freinen o&eth;er to wilnen for to wite hwucche ho beon !
+for &thorn;eoa &thorn;at fonde&eth; ham mea&slong;t, ifinde&eth; ham
+forcu&eth;e&slong;t, & clepe&eth; ham &slong;elie iwi&slong; &thorn;e
+nuten neauer hwat hit is, &amp; hatie&eth; &thorn;at ha haunte&eth;.
+Ah hwa&slong;e li&eth; i leiuen deope bi&slong;unken, &thorn;ah him
+&thorn;unche uuel &thorn;rin, he ne &slong;chal nawt up acoueren hwen
+he walde.
+</P>
+<P>Bi&slong;ih &thorn;e, &slong;eli meiden, beo &thorn;e cnot icnut
+eane&slong; of wedlac, beo he cangun o&eth;er crupel, beo he
+hwuch-&slong;e he eauer beo, &thorn;u mo&slong;t to him
+halden. &yogh;if &thorn;u art feir, &amp; wi&eth; glad chere
+biclepe&slong;t alle feire, ne &slong;chaltu o nane wi&slong;e wite
+&thorn;e wi&eth; unwor&eth; ne wi&eth; uuel blame.  &YOGH;if &thorn;u
+art unwur&eth;lich & wra&eth;eliche ilatet, &thorn;u maht, ba to
+o&eth;re &amp; to &thorn;i were, <MILESTONE N="121, back, col. 2" UNIT="leaf">iwur&eth;en &thorn;e unwur&eth;ere.
+&YOGH;if &thorn;u iwur&eth;e&slong;t him unwur&eth;, & he a&slong;e
+unwur&eth; &thorn;e, o&eth;er &yogh;if &thorn;u him muche luue&slong;t
+&amp; he let lutel to &thorn;e, hit greue&eth; &thorn;e &slong;e
+&slong;wi&eth;e &thorn;at tu wilt, inoh ra&eth;e, as monie awariede
+do&eth;, makien pui&slong;un, &amp; &yogh;eouen bale i bote
+&slong;tude.  O&eth;er hwa-&slong;e &slong;wa nule don,
+ 
+<PB N="47">
+medi<NOTE ID="n8"> ? for medli.</NOTE> wi&eth; wicchen, &amp; for&slong;aken, for to drahen his luue
+toward hire, cri&slong;t &amp; hire cri&slong;tendom, &amp; rihte
+bileaue.
+</P>
+<P>Nu, hwat bli&slong;&slong;e mei &thorn;eos bruken, &thorn;at
+luue&eth; hire were wel, &amp; habbes his la&eth;&eth;e, o&eth;er
+cuncweari his luue o &thorn;ulliche wi&slong;e ?  Hwenne &slong;chulde
+ich al habbe irekened &thorn;at &slong;pringe&eth; bituhhe &thorn;eo
+&thorn;at tus beon iGedered?  &yogh;if ha ne mei nawt teamen, ha is
+iclepet gealde.  Hire lauerd luue&eth; hire &amp; wur&eth;chipe&eth;
+&thorn;e lea&slong;&slong;e; &amp; heo, as &thorn;eo &thorn;at
+wur&slong;t is, &thorn;rof biwepe&eth; hire wurde&slong;, &amp;
+cleope&eth; ham wunne &amp; weolefulle &thorn;at teamen hare
+teame&slong;.
+</P>
+<P>Ah nu iwur&eth;e hit al &thorn;at ha habbe hire wil of
+&slong;treon, &thorn;at ha wilne&eth;; &amp; loke we hwuch wunne
+&thorn;er-of cume.  <MILESTONE N="22, col. 2" UNIT="leaf">I &thorn;e &slong;treonunge &thorn;rof, i&slong; on
+ear&slong;t hire flesch wi&eth; &thorn;at ful&eth;e ituked, as hit
+i&slong; ear i&slong;cheawet.  I &thorn;e bur&thorn;erne &thorn;er-of,
+is heauiness &amp; hard &slong;ar, eauer umbe &slong;tunde; in his
+iborene&slong;&slong;e, alre &slong;tiche &slong;tronge&slong;t, &amp;
+dea&eth; o&eth;er hwiles; in his fo&slong;trenge for&eth;, moni arm
+hwile.  Sone &slong;e hit lihtes i &thorn;is lif, mare hit bringe&eth;
+wi&eth; him care &thorn;en bli&slong;&slong;e, nomeliche to &thorn;e
+moder; for &yogh;if hit is mi&slong;born, as hit ilome limpe&eth;,
+&amp; wont eni of his limen, o&thorn;er sum mi&slong;fare, hit
+i&slong; &slong;orhe to hire, &amp; to al his cun &slong;chome, vpbrud
+in uuel mu&eth;, tale bimong alle. &YOGH;if hit wel iborn i&slong;, &
+&thorn;unche&eth; wel for&eth;lich, fearlac of hi&slong; lure is anan
+wi&eth; him iboren; for ni&slong; ha neauer wi&eth;ute care
+le&slong;te hit ne mi&slong;-feare, a &eth;at ow&eth;er of ham twa ear
+lo&slong;e o&eth;er.  And ofte hit time&eth; &thorn;at tat
+leoue&slong;te bearn, &amp; iboht bitterluke&slong;t, &slong;orhe&eth;
+& &slong;weame&eth; mea&slong;t his ealdren on ende.  Nu hwat wunne
+haue&eth;
+ 
+<PB N="49">
+&thorn;e moder?  Ha haue&eth;, of &thorn;e for&slong;chuppet bearn,
+<MILESTONE N="122, back, col. 1" UNIT="leaf">&slong;ar care & &slong;chome ba&eth;e, &amp; fearlac of &thorn;at
+for&eth;lich, a &eth;at ha hit leo&slong;e for gode, &thorn;ah hit
+neauer nere for gode&slong; luue, ne for hope of heuene, ne for dred
+of helle.
+</P>
+<P>&THORN;u ahte&slong;t, wummon, &thorn;i&slong; were, for &thorn;i
+fle&slong;che&slong; hal&slong;chipe, for &thorn;i licome&slong; luue,
+&amp; ti bodies heale, ouer alle &thorn;ing to &slong;chunien ; for,
+as seint pawel &slong;ei&eth;, 
+<Q>"euch &slong;unne &thorn;at men
+de&eth; is wi&eth;ute &thorn;e bodi,"</Q> bute &thorn;is ane. Alle
+o&eth;re &slong;unnen ne beo&eth; bute &slong;unnen; ah &thorn;is
+i&slong; &slong;unne, &amp; ec uncunneliche&eth; &thorn;e, &amp;
+unwur&eth;che&eth; &thorn;i bodi, Sule&eth; &thorn;i &slong;awle,
+&amp; make&eth; &slong;chuldi toward godd, &amp; fule&eth; &thorn;i
+fle&slong;ch ec.  Gulte&eth; o twa half: wra&eth;&eth;e&eth; &thorn;en
+alwealdent wi&eth; &thorn;at &slong;uti &slong;unne, &amp; do&slong;t
+woh to &thorn;e &slong;elf, &thorn;at tu &slong;e &slong;chomeliche
+tuke&slong;t.
+</P>
+<P>&para; Ga we nu for&eth;re! loke we hwuch wunne ari&slong;e&eth;
+&thorn;erafter i bur&eth;erne of bearne, hwen &thorn;at &slong;treon i
+&thorn;e awakene&eth; &amp; waxe&eth;.  Hu moni earm&eth;en <MILESTONE N="122, back, col. 2" UNIT="leaf"> anan
+awakene&eth; &thorn;er-wi&eth;, &thorn;at wurche&eth; &thorn;e wa
+inoh, fehte&eth; o &thorn;i &slong;elue fle&slong;ch, &amp;
+weorre&eth; wi&eth; fele weanen o &thorn;in ahne cunde.  &THORN;i
+rudie neb &slong;chal leanen, &amp; as gre&slong; grenen.  &THORN;in
+ehnen &slong;chulen do&slong;kin, &amp; under &thorn;on wonnen; &amp;
+of &thorn;i breine&slong; turnunge &thorn;in heaued ake &slong;are.
+Inwi&eth; &thorn;i wombe, &slong;welin &thorn;e bitte, &thorn;at
+beore&eth; for&eth; as a water bulge; &THORN;ine &thorn;arme&slong;
+&thorn;ralinge, &amp; &slong;tiches i &thorn;i lonke, &amp; i &thorn;i
+lendene &slong;ar eche riue, Heuine&slong;&slong;e in euch lime.
+&THORN;ine bre&slong;te&slong; bur&eth;en o &thorn;ine twa pappes,
+&amp; te milc &slong;trunden &thorn;at te of &slong;trike&eth;.  Al
+is, wi&eth; a welewunge, &thorn;i wlite ouer warpen.  &THORN;i mu&eth;
+i&slong; bitter, &amp; walh al &thorn;at tu cheowe&slong;t, &amp; hwat
+ 
+<PB N="51">
+mete &slong;e &thorn;i mahe hokerliche underfe&eth;; &thorn;at
+i&slong;, wi&eth; unlu&slong;t, warpe&eth; hit eft ut.  Inwi&eth; al
+&thorn;i wel, &amp; ti were&slong; wunne, forwur&eth;e&slong;t.  ah,
+wrecche!  &THORN;e care a&yogh;ain &thorn;i pinunge &thorn;rahen
+binime&eth; &thorn;e nihte&slong; &slong;lepes.  Hwen hit &thorn;er-to
+cume&eth;, &thorn;at &slong;are &slong;orhfule angoi&slong;e,
+&thorn;at &slong;tronge &amp; &slong;tikinde &slong;tiche, &thorn;at
+unroles uuel, &thorn;at pine upo <MILESTONE N="123" UNIT="leaf">pine, &thorn;at wondrende
+&yogh;eomerunge.  Hwil &thorn;u &slong;wenche&slong;t te
+&thorn;er-wi&eth;, i &thorn;i dea&eth;es dute, Schome teke &thorn;at
+&slong;ar, wi&eth; alle &thorn;e alde wiues &slong;chome creft,
+&thorn;at cunnen of &thorn;at wa&slong;i&eth;.  Hwas help &thorn;e
+bihoue&eth;, ne beo hit neauer &slong;e uncumelich.  Ha moten nede
+witen al &thorn;at te &thorn;er-in time&eth;.<NOTE ID="n9"> or cune&eth;.</NOTE> ne &thorn;unche
+&thorn;e nan uuel of; for we ne edwiten nawt wiues hare weanen,
+&thorn;at ure alre modres drehden on us &slong;eluen; Ah we
+&slong;cheawe&eth; ham for&eth; for to wearnen meidnes, &thorn;at ha
+beon &thorn;e la&slong;&slong;e afterward &slong;wuch &thorn;ing,
+&amp; witen her-&thorn;urh &thorn;e beter, hwat ham beo to don.
+</P>
+<P>After al &thorn;i&slong;, cume&eth; of &thorn;at bearn iboren
+&thorn;us, wanunge & wepunge, &thorn;at &slong;chal abute mid-niht
+makie to wakien, o&eth;er &thorn;eo &thorn;at ti &slong;tede halt,
+&thorn;at tu mo&slong;t fore carien.  And hwat te ca&eth;er ful&eth;en
+&amp; barmes umbe &slong;tunde? to fe&slong;kin &amp; to fo&slong;tren
+hit &slong;e moni earm hwile. &amp; his waxunge &slong;e lat, &amp;
+&slong;e &slong;law his &thorn;rifti <MILESTONE N="123, col. 2" UNIT="leaf">; And eauer habben &slong;ar
+care, &amp; loken after al &thorn;is hwen hit forwur&eth;e, &amp;
+bringe on his moder &slong;orhe up-o &slong;orhe.  &THORN;ah &thorn;u
+riche beo, &amp; nurice habbe, &thorn;u mo&slong;t, as moder, carien
+for al &thorn;at hire limpe&eth; to donne.  &THORN;eos &amp; o&eth;re
+arm&eth;en &thorn;at of wedlac awakene&eth;, seint pawel biluke&eth;
+in ane lut worde&slong;: 
+<Q>"Tribulationes
+ 
+<PB N="53">
+carnis &amp;c."</Q> &thorn;at is, on englich: 
+<Q>"&THORN;eo &thorn;at
+&thorn;ulliche beo&eth;, &slong;chulen derf drehen."</Q> Hwa-&slong;e
+&thorn;enche&eth; on al &thorn;is, &amp; o mare &thorn;at ter is,
+&amp; nule wi&eth;huhe &thorn;at &thorn;ing &thorn;at hit al of
+awakene&eth;, Ha is hardre iheorted &thorn;en adamantines &slong;tan,
+&amp; mare amad, &yogh;if ha mei beo, &thorn;en i&slong;
+mad&slong;chipe &slong;elf.  Hire ahne fa & hire fend, Hate&eth; hire
+seluen.
+</P>
+<P>Lutel wat meiden of al &thorn;is ilke weane of wiue&slong; wa,
+wi&eth; hire were; ne of hare werc &slong;e wlateful &thorn;at ha
+imeane wurchen; ne of &thorn;at &slong;ar ne of &thorn;at &slong;uti i
+&thorn;e bur&eth;erne of bearn, &amp; his iborene&slong;&slong;e <MILESTONE N="123, back" UNIT="leaf"> ;
+of nurice&slong; wecches, ne of hire wa&slong;i&eth;es of &thorn;at
+fode fo&slong;trunge; hu muchel ha &slong;chule at eanes in his
+mu&eth; famplen, now&eth;er to muchel ne to lutel; &THORN;ah &thorn;is
+beo of to &slong;peken unwur&eth;liche &thorn;inges, &THORN;ah
+&thorn;e mare ha &slong;chawe&eth; i hwuch &thorn;eowdom wiues beon,
+&thorn;at &thorn;ullich moten drehe, And meidnes, i hwuch fredom,
+&thorn;at freo beo&eth; fram ham alle.  And hwat &yogh;if ich
+ea&slong;ki &yogh;et, &thorn;ah hit &thorn;unche egede, hu &thorn;at
+wif &slong;tonde, &thorn;at ihere&eth;, hwen ha cume&eth; in, hire
+bearn &slong;creamen, Seo&eth; &thorn;e cat at te flicke, &amp; te
+hund at te huide?  Hire cake bearne&eth; o &thorn;e &slong;tan, &amp;
+hire calf &slong;uke&eth;; &thorn;e croh eorne&eth; i &thorn;e fur,
+&amp; te cheorl chide&eth;.  &THORN;ah hit be egede &slong;ahe, hit
+ah, meiden, to eggi &thorn;e &slong;wi&eth;re &thorn;erframward, for
+nawt ne &thorn;unche hit hire egede &thorn;at hit fonde&eth;.  Ne
+&thorn;arf &thorn;at &slong;eli meiden &thorn;at haue&eth; al idon hire
+ut of &thorn;ullich &thorn;eowdom, a&slong;e godes fre dohter, &amp; <MILESTONE N="123, back, col. 2" UNIT="leaf">
+his &slong;unes &slong;puse, drehe nawt &slong;wucches. for&thorn;i,
+&slong;eli meiden, for&slong;ac al &thorn;ullich &slong;orhe for
+utnume mede, &thorn;at tu ahe&slong; to don wi&eth;uten euch huire.
+ 
+<PB N="55">
+</P>
+<P>Nu ich habbe ihalden mine bihea&slong;te &thorn;ruppe: &thorn;at
+ich walde &slong;cheawen wi&eth; fal&slong;chipe i&slong;me&eth;et,
+&thorn;at te moni an &slong;ei&eth; & &thorn;unche&eth; &thorn;at hit
+&slong;o&eth; beo, of &thorn;e &slong;elh&eth;e &amp; te &slong;wete
+&thorn;at te iweddede habben; &thorn;at hit ne fare&eth; nawt
+&slong;wa, as wene&eth; &thorn;at i&slong;eo&eth; utewi&eth;; ah
+fare&eth; al o&eth;er weis, of poure ba &amp; riche, of la&eth;e &amp;
+ec of leouie; &thorn;at te weane eihwer pa&slong;&slong;e&eth;
+&thorn;e winne, &amp; te lure ouer al, al &thorn;e bi&yogh;eate.
+</P>
+<P>Nu, &thorn;enne, &slong;eli meiden, &thorn;at daui&eth; cleope&eth;
+<Q>"dohter,"</Q> Iher &thorn;i fader," &amp; hercne his read, &thorn;at
+he i &thorn;e frum&eth;e of &thorn;is writ readde: 
+<Q>"for&yogh;et ti
+folc"</Q> &thorn;at lihe&eth; &thorn;e of weres &amp; worldes wunne
+;&mdash;&thorn;at beo&eth; &thorn;ine &thorn;ohtes, &thorn;at
+&slong;wikeliche leade&eth; &thorn;e toward alle weane ;&mdash;
+<Q>"&
+for&slong;ac &thorn;i fader hus,"</Q> as hit is &thorn;er-uppe
+iopenet, &amp; tac &thorn;e to him treowliche. wi&eth; him &thorn;u
+&slong;chalt wealden, as wi&eth; &thorn;i were iwedded, world <MILESTONE N="124" UNIT="leaf">buten
+ende, heuenriche winnen.  Eadi i&slong; his &slong;puse, hwas
+meidenhad i&slong; unwemmed, hwen he on hire &slong;treone&eth;; &amp;
+hwen ha teame&eth; of him, ne &slong;winke&eth; ne ne pine&eth;.  Eadi
+i&slong; te were hwen nan ne mei beo meiden bute &yogh;if ha him
+luuie, ne freo bute &yogh;if ha him &slong;erui; Hwa&slong;
+&slong;treon i&slong; undeadlich, &amp; hwas marhe-&yogh;iue i&slong;
+te kinedom of heuene.  Nu, &thorn;enne, &slong;eli meiden, &yogh;if
+&thorn;e is weole leof, nim &thorn;e him to lauerd, &thorn;at
+wealde&eth; al &thorn;at is, &amp; was, & eauer &slong;chal
+iwur&eth;en; for &thorn;ah he beo riche&slong;t, him ane, ouer alle,
+&thorn;e alre mea&slong;t poure &thorn;at him to were
+cheo&slong;e&eth;, is him wel icweme.
+ 
+<PB N="57">
+</P>
+<P>&YOGH;if &thorn;at tu wilne&slong;t were &thorn;at muche wlite
+habbe, nim him of hwas wlite beo&eth; awundret &thorn;e &slong;unne
+&amp; te mone, upo hwas neb&slong;chaft &thorn;e engles ne beo&eth;
+neauer fulle to bihalden; for, hwen he &yogh;iue&eth; feirlec to al
+&thorn;at is feir in heuene &amp; in eor&eth;e, muche mare he
+haue&eth;, wi&eth;uten eni etlunge, at-halden to him &slong;eluen; &
+tah hwen <MILESTONE N="124, col. 2" UNIT="leaf">he &thorn;us is alre &thorn;inge feirest, he vnderfe&eth;
+bli&eth;eliche, &amp; bicluppe&eth; &slong;woteluche, &thorn;e alre
+la&eth;luke&slong;t, & make&eth; ham &slong;eoue&slong;i&eth;e
+&slong;chenre &thorn;en &thorn;e &slong;unne.
+</P>
+<P>&YOGH;if &thorn;e were &slong;treon leof, nim &thorn;e to him,
+under hwam &thorn;u &slong;chalt, i &thorn;i meidenhad, teamen dohtren
+&amp; &slong;unen of ga&slong;tliche teames, &thorn;at neauer ne
+deiene mahen, ah &slong;chulen ai bifore &thorn;e pleien in heuene;
+&thorn;at beon, &thorn;e uertuz &thorn;at he &slong;treone&eth; in
+&thorn;e &thorn;urh his &slong;wete grace, As
+rihtwi&slong;ne&slong;&slong;e &amp; war&slong;chipe a&yogh;aines
+un&thorn;eawes; Me&slong;ure &amp; mete, &amp; ea&slong;tliche
+&slong;treng&eth;e to wi&eth;&slong;tonde &thorn;e feond, &amp;
+a&yogh;ain &slong;unne; Simplete of &slong;emblaunt, &amp;
+buh&slong;umne&slong;&slong;e &amp; &slong;til&eth;e,
+&thorn;olemodne&slong;&slong;e & reowfulne&slong;&slong;e of euch
+monnes &slong;orhe; Glad&slong;chipe i &thorn;e hali ga&slong;t, &amp;
+pes i &thorn;i breo&slong;te of onde &amp; of wra&eth;&eth;e, of
+&yogh;i&slong;cinge &amp; of euch un&thorn;eawes worre; Mekelec &amp;
+mild&slong;chipe, & &slong;wotne&slong;&slong;e of heorte, &thorn;at
+limpe&eth; alre &thorn;inge be&slong;t to meidenhades mihte. &thorn;is
+is <MILESTONE N="124, back" UNIT="leaf">meidenes team, godes &slong;unes &slong;puse, &thorn;at
+&slong;chal hire ai libben &amp; pleien buten ende bifore hire in
+heuene.
+</P>
+<P>&para; Ah &thorn;ah &thorn;u, meiden, beo wi&eth;ute bruche of
+&thorn;i bodi, &amp; tu habbe prude, onde, o&eth;er wra&eth;&eth;e,
+&yogh;i&slong;cinge, o&eth;er wac wil, inwi&eth; i &thorn;in heorte,
+&thorn;u forhore&slong; te wi&eth; &thorn;e unwiht of helle, &amp; he
+&slong;treone&eth; on &thorn;e &thorn;e teames
+ 
+<PB N="59">
+&thorn;at tu teame&slong;t.  Hwen &thorn;i were, al wealdent,
+&thorn;at tu &thorn;e to wedde&slong;t, &slong;e&eth; &amp;
+under&slong;tond tis, &thorn;at his fa forli&eth; &thorn;e, &
+&thorn;at tu teame&slong;t of him &thorn;at him i&slong; teame
+la&eth;e&slong;t, He forhohe&eth; &thorn;e anan&mdash;as hit nis na
+wunder&mdash; &amp; cwe&eth;e&eth; &thorn;e al cwite him &thorn;at tu
+of teame&slong;t; ne kepe&eth; he wi&eth; na mon, & hure wi&eth; his
+famon, na half dale. hwa &thorn;at luue&eth; eawiht bute him, &amp;
+hwat-&slong;e ha for him ne luue&eth;, ha wra&eth;&eth;e&eth; him
+&slong;wi&eth;e.
+</P>
+<P>Ouer alle &thorn;ing, wite <MILESTONE N="124, back, col. 2" UNIT="leaf">&thorn;e &thorn;at tu ne teami prude bi
+&thorn;e deoule&slong; &slong;treonunge, for heo, of alle
+un&thorn;eawes, i&slong; his ealde&slong;te dohter.  Earst ha wakenede
+of him &thorn;a &yogh;et &thorn;a he wes in heuene, for neh wi&eth;
+him euen hald; &amp; &slong;wa ha ca&slong;t hire fader, &slong;one
+&slong;e ha iboren wes, fram &thorn;e heh&slong;te heuene in-to helle
+grunde wi&eth;ute couerunge, &amp; makede of heh engel,
+eateluke&slong;t deouel.  Heo &thorn;at tus adu&slong;te hire
+heuenliche fader adun, hwat wile ha don bi hire eor&eth;liche modres,
+&thorn;at teame&eth; hire in horedom of &thorn;en la&eth;e vnwiht,
+&thorn;e hellene fchucke.  Hwen Godd &slong;e wracfulliche fordemde
+his heh engel &thorn;at &slong;treonede hire in heuene, hwat wile he
+don bi &thorn;at lam, &amp; wurmene mete, &thorn;at of &thorn;e deouol
+teame&eth; hire on eor&eth;e?
+</P>
+<P>&YOGH;if &thorn;u haues, wi&eth; meidenhad, meokelec &amp;
+mild&slong;chipe, godd is <MILESTONE N="125" UNIT="leaf">i &thorn;in heorte.  Ah &yogh;if &thorn;er
+is ouerhohe o&eth;er eni prude in, he is utlahe &thorn;rof; for ne
+muhen ha nanes weis bedden in a breo&slong;te; ha ne muhen nawt
+&slong;omen earden in heuene. &thorn;eone godd warp hire, &slong;one
+&slong;e ha [iboren wes; &amp; as ha nuste hwuch wei ha<NOTE ID="n10"> From Bodley MS.</NOTE>] come
+&thorn;eneward, ne con ha neauer mare ifinden na wei a&yogh;ainward.
+Ah eardinde her on eor&eth;e, bihat
+ 
+<PB N="61">
+eche wununge alle hire modres, al beon ha meidne&slong;, wi&eth; hare
+awariede fader in inwarde helle.  Wite &thorn;e, meiden, wi&eth; hire!
+Ha cwikede of cleane cunde, a&slong; i&slong; in engle&slong; euene,
+&amp; clenne&slong;te bre&slong;ten brede&eth; hire <MILESTONE N="125, col. 2" UNIT="leaf"> &yogh;ette.
+&THORN;e be&slong;te ha a&slong;a&yogh;ile&eth;; & wel ha dar hopien
+to beo kempe ouer mon, &thorn;at ouercom engel.  Nis ha nawt in
+cla&eth;es, ne in feahunge utewi&eth;, &thorn;ah hit beo merke
+&thorn;rof, &amp; munegunge o&eth;er hwiles; Ah under hwit o&eth;er
+blac, &amp; a&slong;e wel vnder grei, as under Grene &amp; gra, ha
+lute&eth; i &thorn;e heorte.  Sone &slong;o &thorn;u telles te betere
+&thorn;en an o&eth;er&mdash;beo hit hwer-fore &slong;e hit eauer
+beo,&mdash;&amp; haue&slong;t of eni ouerhohe, &amp; &thorn;unche&eth;
+hofles & hoker of ewt &thorn;at mon &slong;ei&eth; &thorn;e o&eth;er
+de&eth; &yogh;ette, &thorn;u marres ti meidenhad, &amp; brekes ti
+wedlac toward godd, &amp; of his fa temes.
+</P>
+<P><MILESTONE N="125, back" UNIT="leaf"> Ne telle &thorn;u nawt e&eth;elich, al beo &thorn;u meiden, to
+widewen ne to iweddede; for, al&slong;wa as a charbucle i&slong;
+betere &thorn;en a iacinct i &thorn;e euene of hare cunde, &amp; tah
+is betere a briht iacinct &thorn;en a charbucle won, Al&slong;wa
+pa&slong;&slong;e&eth; meiden, onont te mihte of meidenhad, widewen
+&amp; iweddede; &amp; tah is betere, a milde wif o&eth;er a meoke
+widewe, &thorn;en a prud meiden; for &thorn;eos, for hore &slong;unnen
+&thorn;at ha i fle&slong;ches ful&eth;e folhen, leoten ham lahe &amp;
+e&eth;eliche, &amp; beo&eth; &slong;are offeared of godes lu&eth;ere
+eie; And as te eadi &slong;unegild marie Magdalene, wi&eth; bittre
+wopes, bireow&slong;e&eth; hare gultes, & inwardluke&slong;t
+luuie&eth; godd, al&slong;wa as heo dide, for hare
+for&yogh;eouene&slong;&slong;e; <MILESTONE N="125, back, col. 2" UNIT="leaf">And te o&eth;re &thorn;at halden ham
+vnforgult & cleane, beon a&slong;e &slong;ikere unlu&slong;tie &amp;
+wlecche, liue&eth; i godes luue,
+ 
+<PB N="63">
+wi&eth;uten euch heate of &thorn;e hali ga&slong;t, &thorn;at
+bearne&eth; &slong;e lihte, wi&eth;ute wa&slong;tinde brune in alle
+hi&slong;e icorene; And te o&eth;re, in a heate of an hondhwile, beon
+imealt mare &amp; i&yogh;otten in godd, &thorn;en &thorn;e o&eth;re in
+a wlecchunge al hare lif&slong;i&eth;e.
+</P>
+<P>For&thorn;i, eadi meiden, gode&slong; &slong;une &slong;puse, ne
+beo &thorn;u nawt to tru&slong;ti ane to &thorn;i meidenhad,
+wi&eth;uten o&eth;er God &amp; &thorn;awfule mihtes, &amp; ouer al,
+milt&slong;chipe &amp; meoke&slong;chipe of heorte, after &thorn;e
+bisne of &thorn;at eadi meiden ouer all o&eth;re, marie, godes
+moder. for, &thorn;a &thorn;e hehe engel Gabriel grette hire, &amp;
+brohte hire &thorn;e tidinge of godes akenne&slong;&slong;e, loke hu
+lah ha <MILESTONE N="126" UNIT="leaf"> lette hire, &thorn;a ha on&slong;werede &thorn;us bi hire
+&slong;elue: 
+<Q>"low, her mi lauerdes &thorn;ralle!  After &thorn;i
+word,"</Q> quo&eth; ha, 
+<Q>"mote me iwur&eth;en!"</Q> And tah ha ful
+were of alle gode &thorn;eawes, hane of hire mekelec ha &slong;eide &
+&slong;ong to Helizabeth: 
+<Q>"for mi lauerd bi&slong;eh his
+&thorn;ufftenes mekelac, me &slong;chulen clepien,"</Q> quo&eth; ha,
+<Q>"eadi, alle leoden."</Q> Nim &yogh;eme, meiden, &amp;
+under&slong;tond herbi, &thorn;at mare for hire mekelec &thorn;en for
+hire meidenhad, ha lette &thorn;at ha ifond &slong;wuch grace a&eth;
+ure lauerd. for al meidenhad, mekelec is muche wur&eth;; & meidenhad
+wi&eth;uten hit is e&eth;eliche &amp; unwur&eth;; for al &slong;wa is
+meiden i meidenhad, wi&eth;ute mekelec, as is, wi&eth;ute liht, eoile
+in a laumpe.  Eadi gode&slong; &slong;puse !  haue &thorn;is ilke
+mihte, &thorn;at tu ne &thorn;unche &thorn;eo&slong;tri, ah
+&slong;chine as te &slong;unne i &thorn;i weres &slong;ih&eth;e. feahe
+&thorn;i meidenhad wi&eth; alle gode &thorn;eawes, &thorn;at
+&thorn;unche&eth; him feire.
+</P>
+<P>Haue eauer i &thorn;in herte &thorn;e eadie&slong;te of meidnes,
+&amp; <MILESTONE N="126, col. 2" UNIT="leaf">meidenhades mo&eth;er; &amp; bi&slong;ech ai hire &thorn;at ha
+&thorn;e lihte, &amp; &yogh;iue luue & &slong;treng&eth;e for
+ 
+<PB N="65">
+to folhe in meidenhad hire &thorn;eawes.  &THORN;ench o Seint
+Katerine, o Margarete, Enneis, Iuliene, Lucie, Cecille ; &amp; o
+&thorn;e o&eth;re hali meidnes in heuene; Hu ha nawt ane
+for&slong;oken kinge&slong; &slong;unnes & eorles, wi&eth; alle
+worldliche weolen &amp; eor&eth;liche wunnen, Ah &thorn;oleden
+&slong;tronge pines ear ha walden nimen ham, &amp; derf dea&eth; on
+ende.  &THORN;ench hu wel ham is nu, &amp; hu ha
+bli&slong;&slong;e&eth; &thorn;erfore bituhhe godes arme&slong;,
+cwenes of heuene!  And &yogh;if hit eauer time&eth; &thorn;at ti
+licome&slong; lu&slong;t, &thorn;urh &thorn;e fal&slong;e feond,
+leade&eth; &thorn;e toward fle&slong;chliche ful&eth;e, on&slong;were
+i &thorn;i &thorn;oht tus: `Ne Geine&eth; &thorn;e nawt, &slong;weoke!
+&thorn;ullich ichulle beon i meidenes liflade, Ilich heuene engel.
+Ichulle halde me hal, <MILESTONE N="126, back" UNIT="leaf">&thorn;urh &thorn;e grace of godd, a&slong;
+cunde me makede, &thorn;at parai&slong;e &slong;elh&eth;e underfo me,
+all &slong;wuch a&slong; weren, ear ha Gulten, his ear&slong;te
+heamen.  Allunge, &slong;wuch ichulle beon as i&slong; mi deore
+leofmon, mi derewur&eth;e lauerd, &amp; as i&slong; tat eadi meiden
+&thorn;at he him chea&slong; to moder.  Al &slong;wuch ichulle wite
+me, treoweliche unwemmet, a&slong; ich am him iweddet. ne nul ich
+nawt, for a lu&slong;t of a lute hwile, &thorn;ah hit &thorn;unche
+delit, awai warpe &thorn;at &thorn;ing, hwas lure ichulle biremen
+wi&eth;ute couerunge, & wi&eth; eche brune abuggen in helle. &thorn;u
+wrech-wile-ful wiht!  al for nawt &thorn;u proke&slong;t me to
+forgulten, &amp; forgan &thorn;e bli&slong;&slong;e up-o
+bli&slong;&slong;e, &thorn;e crune up-o crune of meidene&slong; mede;
+&amp; willes & waldes warpe me as wrecche i &thorn;i leirwite; And,
+for &thorn;at englene &slong;ong <MILESTONE N="126, back, col. 2" UNIT="leaf">of meidenhades men&slong;ke, wi&eth;
+&thorn;e &amp; wi&eth; &thorn;ine greden ai & granen i &thorn;e eche
+grure of helle.'
+ 
+<PB N="67">
+</P>
+<P>&YOGH;if &thorn;u &thorn;us on&slong;weres to &thorn;i licomes
+lu&slong;t &amp; to &thorn;e feondes fondinge, he &slong;chal fleo
+&thorn;e wi&eth; &slong;chome.  And &yogh;if he alles after &thorn;is,
+inoh ra&eth;e, at&slong;tonde &amp; halt on to eili &thorn;i
+fle&slong;ch &amp; prokie &thorn;in herte, &thorn;i lauerd godd hit
+&thorn;ole&eth; him to muccli &thorn;i mede; for, as &slong;ente pawel
+&slong;ei&eth;, `ne be&eth; nan icrunet, bute hwa&slong;e treoweliche
+i &thorn;ulli feht fihte, &amp; wi&eth; &slong;trong cockunge ouercume
+hire fle&slong;ch'; for &thorn;enne i&slong; te deouel, wi&eth;
+hi&slong; ahne turn, &slong;chomeliche awarpen.  Hwen &thorn;u,
+a&slong; te apo&slong;tle &slong;ei&eth;, ne &slong;chalt beon
+icrunet, bute &thorn;u beo a&slong;ail&yogh;et; for [&yogh;if] godd <MILESTONE N="127" UNIT="leaf">
+wile cruni &thorn;e, he wile leote ful wel &thorn;e unwiht
+a&slong;ail&yogh;e &thorn;e, &thorn;at tu earni &thorn;er-&thorn;urh,
+crune upo crune. for-&thorn;i hit i&slong; &thorn;e mea&slong;t god,
+&thorn;at, hwen he greue&eth; &thorn;e mea&slong;t, &amp; toward
+&thorn;e wi&eth; fondinge wodeluker weorre&eth;, &yogh;if &thorn;u wel
+hile&slong; te under godes wenge&slong;; for, &thorn;urh
+&thorn;i&slong; weorre, he &yogh;arke&eth; &thorn;e, un&thorn;onc
+hi&slong;e te&eth;, &thorn;e bli&slong;&slong;e &amp; te crune of
+cri&slong;tes icorene.  And ihesu cri&slong;t leue &thorn;e,
+&thorn;urh his ble&slong;cede nome, &amp; alle &thorn;eo &thorn;at
+leauen luue of lami mon, for to beon his leofmon ; &amp; leue
+&slong;wa hare heorte halden to him, &thorn;at hare fle&slong;ches
+eggunge, ne &thorn;e feondes fondunge, ne nan of his eor&eth;liche
+limen, ne weorri hare heorte wit, ne wrenche ham ut of &thorn;e wei
+&thorn;at ha beo&eth; in gongen; And helpe ham &slong;wa in him to
+hihen toward heuene, a &eth;at ha beon i&slong;tihe &thorn;ider,
+a&slong; hare brudlac &slong;chal, in al &thorn;at eauer &slong;el
+i&slong;, wi&eth; &thorn;ene &slong;eli brudgume &thorn;at
+&slong;ihe&eth; alle &slong;elh&eth;e of, &slong;itten buten ende!
+AMEN!
+    </P>
+
+</DIV1>
+  </BODY></TEXT>
+</TEI.2>
+
+
+
+
+
+

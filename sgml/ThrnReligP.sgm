@@ -1,0 +1,2854 @@
+<!DOCTYPE TEI.2 PUBLIC "-//TEI//DTD cme//EN">
+<TEI.2>
+<TEIHEADER>
+<FILEDESC>
+<TITLESTMT>
+<TITLE TYPE="245">Religious Pieces in Prose and Verse / edited ... by George G. Perry [electronic text]</TITLE>
+<RESPSTMT><NAME>Thornton, Robert, fl. 1440</NAME><RESP>scribe</RESP></RESPSTMT>
+<EDITOR> Perry, G. G. (George Gresley), 1820-1897</EDITOR>
+<RESPSTMT>
+<NAME>Anne Noakes, University of Michigan Humanities Text Initiative</NAME>
+<RESP>creation of machine-readable edition</RESP></RESPSTMT>
+<RESPSTMT>
+<NAME>Jean Borger, University of Michigan Humanities Text Initiative</NAME>
+<RESP>proofing of machine-readable edition</RESP></RESPSTMT>
+<RESPSTMT>
+<NAME>Cliff Ando, University of Michigan Humanities Text Initiative</NAME>
+<RESP>correction of machine-readable edition</RESP></RESPSTMT>
+<RESPSTMT>
+<NAME>Kevin Butterfield, University of Michigan Humanities Text Initiative</NAME><RESP>creation of TEI header</RESP></RESPSTMT>
+</TITLESTMT>
+<EXTENT>ca. 162 kb</EXTENT>
+<PUBLICATIONSTMT>
+<PUBLISHER>University of Michigan Humanities Text Initiative</PUBLISHER>
+<PUBPLACE>Ann Arbor, Mich.</PUBPLACE>
+<IDNO>ThrnReligP</IDNO>
+<AVAILABILITY><P>These texts may be copied freely by individuals for personal use, research, and teaching (including distribution to classes) as long as this statement of availability is included in the text.  It may be linked to freely in Internet editions of all kinds, including for-profit works. Redistribution by commercial or not-for-profit content providers is expressly forbidden.</P></AVAILABILITY>
+<DATE>1997</DATE>
+</PUBLICATIONSTMT>
+<SOURCEDESC>
+<BIBLFULL><TITLESTMT><TITLE>Religious Pieces in Prose and Verse</TITLE>
+<AUTHOR>Robert Thornton</AUTHOR>
+<RESPSTMT><RESP>edited from Robert Thornton's MS. (Cir. 1440) by</RESP>
+<NAME>George G. Perry</NAME></RESPSTMT></TITLESTMT>
+<EDITIONSTMT><EDITION>Re-collated with the MS., enlarged and revised 1913</EDITION></EDITIONSTMT>
+<PUBLICATIONSTMT>
+<PUBPLACE>London</PUBPLACE>
+<DISTRIBUTOR>Early English Text Society</DISTRIBUTOR>
+<PUBLISHER>Kegan Paul, Trench Tr&uuml;bner ;&amp; Co.</PUBLISHER>
+<ADDRESS><ADDRLINE>68-74 Carter Lane, E.C.</ADDRLINE></ADDRESS>
+<DATE>1867, 1914</DATE>
+<PUBPLACE>Oxford</PUBPLACE>
+<PUBLISHER>Oxford University Press</PUBLISHER>
+<ADDRESS><ADDRLINE>Amen Corner, E.C.</ADDRLINE></ADDRESS>
+<DATE>1867, 1914</DATE>
+</PUBLICATIONSTMT>
+<SERIESSTMT><TITLE>Early English Text Society (Series). Original Series<NUM>26</NUM><DATE>1867, 1914(for 1913)</DATE></TITLE></SERIESSTMT>
+<NOTESSTMT><NOTE><P>Call no.: 820.6 E13 no.26 1914</P></NOTE></NOTESSTMT>
+</BIBLFULL>
+</SOURCEDESC>
+</FILEDESC>
+<ENCODINGDESC>
+<EDITORIALDECL><P>This electronic rendition of Religious Pieces in Prose and Verse consists only of the first three prose pieces, including "Dan Jon Gaytryge's Sermon," "The Mirror of Saint Edmund," and "The Abbey of the Holy Ghost."  They were scanned at the University of Michigan HTI, where OCR was subsequently performed with ScanWorx.  All material, excluding  table of contents, preface, glossary, index, and marginal glosses , is included, and is represented in the electronic edition as it was in the print edition (so far as is possible). Footnotes are included as notes. Subsequent to OCR review of the scanned text, the text was marked up by Anne Noakes, proofread by Jean Borger, and the markup reviewed by Jason Chu.</P><P>In "The Mirror of Saint Edmund," Perry has appended the numbers I, II, &amp;c. to mark the chapters in the original Latin work; these numbers do not appear in the Thornton manuscript and are not included in the electronic text. </P></EDITORIALDECL>
+</ENCODINGDESC>
+</TEIHEADER>
+<TEXT>
+
+<BODY>
+<!-- 0001.p1.txt -->
+<PB N="1">
+
+
+<DIV1 TYPE="tract">
+	<HEAD TYPE="editorial">I.  DAN JON GAYTRYGE'S SERMON.</HEAD>
+
+<MILESTONE ED="Thornton MS., Lincoln Cathedral Library" N="213 back" UNIT="leaf">
+<OPENER>Here begynnes a Sermo&ntail; &thorn;at Da&ntail; Io&hbar;n Gaytryge
+made, &thorn;e whilke teeches how scrifte es to be made, & whare-of,
+and in scrifte how many thynge&yogh; solde be consederide.  Et est
+Petrus sentenciarum discrecione prim&abreve;.</OPENER>
+
+ 
+<DIV2 N="1" TYPE="section"><HEAD TYPE="supplied">The Fourteen Articles of the Creed</HEAD>
+<P>Als a grett Doctour schewes in his buke, of a&llbar; <CORR
+SIC="ye" RESP="Perry">&thorn;e</CORR>
+<NOTE ID="n1">When y stands for &thorn;, &thorn; is printed. F.</NOTE>creatoures &thorn;at Gode made in heue&ntail; and in erthe, in water
+and in ayere, or in oghte elles, &thorn;e Souerayne cause & &thorn;e
+sky&llbar; whi He mad &thorn;a&mtail; was His awe&ntail; gud wi&llbar;
+and His gudnes, Thurg&hbar; &thorn;e whilke gudnes, alls He es
+a&llbar; gude, He walde &thorn;at some creatures of &thorn;ase
+&thorn;at He made ware communers of &thorn;at blyse &thorn;at
+euer-mare lastis.  And for &thorn;at na creatoure myghte come to
+&thorn;at blyse<MILESTONE N="214" UNIT="leaf"> with- owtte&ntail; knaweyng of God&dtail;, als
+&thorn;at clerkes teches, He made ski&llbar;wyse creatours Angelle and
+man, of witt and wysdo&mtail; to knawe God Almyghty&ntail;, and,
+thorowe &thorn;aire knawynge, lufe Hym and serue Hy&mtail;, and so
+come to &thorn;at blyse &thorn;at &thorn;ay ware made to.  This manere
+of knawynge had oure forme-fadyrs in &thorn;e state of Innocence
+&thorn;at &thorn;ay ware mad I&nmacr;; and so sulde we hafe hade, if
+&thorn;ay had noghte synnede.  Noghte so meki&llbar; als hally saules
+hase now in heue&ntail;, Bot meki&llbar; mare &thorn;an ma&ntail; hase
+now in erthe.  For oure fourme-fadyrs synned, sayse &thorn;e prophete,
+and we bere &thorn;e wykkydnes of &thorn;aire mysdedis; For &thorn;e
+knawyng &thorn;at &thorn;ay had of God&dtail; A&llbar;-myghte&ntail;,
+they had it of Goddes gyfte at &thorn;aire begynnynge,
+with-owtte&ntail; trauayle, or tray, or passinge of ty&mtail;.  And
+a&llbar; &thorn;e knaweyng &thorn;at we hafe in &thorn;is werlde of
+Hym, es of heryng, and of lerynge, and of techyng of o&thorn;er, of
+&thorn;e law and &thorn;e lare &thorn;at langes ti&llbar; Haly
+ 
+<!-- 0002.p2-3.txt -->
+<PB N="2">
+
+
+Kyrke, &thorn;e whilke a&llbar; creatours &thorn;at lufes God
+Almyghte&ntail; awe to knawe and to cu&ntail;, and lede &thorn;aire
+lyfe afti&rtail;, and swa come to &thorn;at blysse &thorn;at neuer
+mare blynnes.</P>
+
+<P>And for-thi &thorn;at meki&llbar; folke now in &thorn;is werlde ne
+ere noghte wele ynoghe lerede to knawe God Almyghty, ne lufe Hy&mtail;
+ne serue Hy&mtail; als &thorn;ay sulde do, and als &thorn;aire dedys
+oftesythes opynly schewes, in gret pere&llbar; to &thorn;a&mtail;, to
+lyfe and to saule ; and perawnter &thorn;e defaute may be in
+thay&mtail; &thorn;at hase &thorn;ai&rtail; saules for to kepe, and
+thay&mtail; sulde teche, &mdash; als prelates and persons, vicars and
+prestes, &thorn;at ere halde&ntail; by dett for to lere
+&thorn;a&mtail; &mdash; For-thi ou&rtail; Fadi&rtail; &thorn;e byschope
+&thorn;at God Almyghty saue, &thorn;at, als Say&ntail; Paule sayse in
+his pysti&llbar;, wi&llbar; &thorn;at a&llbar; me&ntail; be safe, and
+knawe God Almyghte&ntail;, and namely &thorn;ase vndirlowttes
+&thorn;at ti&llbar; hym langes, hase tretide and Ordeyned for &thorn;e
+como&ntail; profett, thorowe &thorn;e counce&llbar; of his clergy,
+&thorn;at ilkane &thorn;at vndi&rtail; hym hase cure of saule,
+Opy&ntail;ly, one ynglysche, apo&ntail; sonnondayes, preche and teche
+&thorn;ay&mtail; &thorn;at &thorn;ay hase cure off, &thorn;e lawe and
+&thorn;e lare to knawe God Almyghty, &thorn;at principally may be
+schewede in theis sexe thynges &mdash; [1] In &thorn;e fourtene poyntes
+&thorn;at falles to &thorn;e trowthe, [2] In &thorn;e ten
+commandementes &thorn;at Gode hase gyfe&ntail; vs, [3] In &thorn;e
+Seue&ntail; Sacramentes &thorn;at er in Haly Kyrke, [4] In &thorn;e
+Seue&ntail; werkes of mercy vnti&llbar; oure eue&ntail; crysty&ntail;,
+[5] In &thorn;e seue&ntail; vertus &thorn;at ilke ma&ntail; sa&llbar;
+vse, [6] And in &thorn;e Seue&ntail; dedly Synnes &thorn;at ilke
+ma&ntail; sa&llbar; refuse.  And he byddes and commandes in a&llbar;
+&thorn;at he may, &thorn;at a&llbar; &thorn;at hase cure or kepynge
+vndi&rtail; hy&mtail; Enioyne &thorn;ai&rtail; parischennes and
+&thorn;ai&rtail; sugettes &thorn;at &thorn;ay here and lere &thorn;ise
+ilke sex thynges, and oftesythes reherse &thorn;a&mtail; ti&llbar;
+&thorn;at &thorn;ay cu&ntail; &thorn;a&mtail;, and sythe&ntail; teche
+&thorn;a&mtail; &thorn;ai&rtail; childi&rtail;, if &thorn;ay any haue,
+whate ty,&mtail; so &thorn;ay are of elde to lere &thorn;a&mtail;.
+And &thorn;at persouns and vycars and a&llbar; parische prestis,
+Enquere delygently of &thorn;ai&rtail; sugettes In &thorn;e
+lenty&ntail; ty&mtail;, whe&ntail; &thorn;ay come to scryfte,
+whe&thorn;er &thorn;ay knawe and cu&ntail; &thorn;ise sex thynges; and
+if it be funde&ntail; &thorn;at &thorn;ay cu&ntail; &thorn;a&mtail;
+noghte, &thorn;at &thorn;ay Enjoyne &thorn;a&mtail; appo&ntail; his
+behalfe, and Of payne of penance, for to cu&ntail; &thorn;a&mtail;.
+And for-thi &thorn;at nane sa&llbar; excuse thaym thurghe
+vnknawlechynge for to cu&ntail; &thorn;a&mtail;,
+
+<PB N="3">
+
+ou&rtail; haly Fadir <MILESTONE N="214 bk." UNIT="leaf">&thorn;e beschope, of his gudnes, hase ordaynede
+and bedy&ntail; &thorn;at &thorn;ay be schewede opynly one ynglysche
+amanges &thorn;e folke.</P>
+
+<P>Whare-fore, anence &thorn;e fyrste of &thorn;ise sex thynges
+&thorn;at es to knawe, &thorn;e articles &thorn;at falles to &thorn;e
+trouthe, &mdash; als gret clerkes teches and schewes in thaire bukes,
+&mdash; Thare Falles to &thorn;e faythe<NOTE ID="n2">'faythe' crost thru in the MS.</NOTE> fourtene poyntes; Of &thorn;e
+whilke seue&ntail; Falles to Goddes Goddhede, and o&thorn;er
+seue&ntail; Falles to Cristes manehede.  &para; The firste poynte
+&thorn;at we sa&llbar; trowe of &thorn;e Godhede, Es to trow
+stedfastely In a trewe God&dtail;, and &thorn;at na no&thorn;er es for
+to trowe In.  &para; The to&thorn;er es, &thorn;at &thorn;e heghe
+Fadir of heue&ntail; es stedfaste and sothefaste God&dtail;
+Almyghty&ntail;.  &para; The thirde es, &thorn;at Ihesu Criste, Goddes
+Sone of heue&ntail;, es sothefastly Gode, eue&ntail; ti&llbar; His
+Fadi&rtail;.  &para; The ferthe es, &thorn;at &thorn;e Haly Gaste,
+&thorn;at samenly commes of bathe &thorn;e Fadir and &thorn;e Sonne,
+es sothefaste Godde, eue&ntail; to &thorn;ay&mtail; bathe; and
+&thorn;e whethir noghte twa Goddes, &thorn;e Fadi&rtail; and &thorn;e
+Sonne, ne thre Goddes, &thorn;e Fadir and &thorn;e Sonne & &thorn;e
+Haly Gaste, Bot thre sere persouns, and noghte bot a God&dtail;.
+&para; The fyfte arctecle es, &thorn;at &thorn;e Trynyte, &thorn;e
+Fadir and &thorn;e Sonne and &thorn;e Haly Gaste, thre persouns and a
+Godd, es makere of heue&ntail; and erthe and of a&llbar; thynges.
+&para; The Sexte artycle es, &thorn;at Haly Kirke, oure modire, es
+hallyly ane thorow-owte &thorn;e werlde, that es, comonynge and
+felawrede of a&llbar; criste&ntail; folke &thorn;at comouns
+to-gedi&rtail; in &thorn;e sacramentes, and in o&thorn;er haly thynges
+&thorn;at falles ti&llbar; Haly Kyrke, with-owtte&ntail; &thorn;e
+whilke ne es na saule hele.  &para; The Seuen&dtail; article &thorn;at
+vs awe to trowe es, vppe-rysynge of flesche, and life
+with-owtte&ntail; Ende.  For when &thorn;e dede hase sundyrde oure
+bodyes and oure saules for a certayne tym, als oure kynd askes, vnto
+whe&ntail; &thorn;at God sa&llbar; deme &thorn;e qwykke and &thorn;e
+dede, Thane oure saules sa&llbar; turne agayne ti&llbar; oure bodyes,
+and we &thorn;ase ilke (and nane o&thorn;er &thorn;a&ntail; we are
+nowe), sothefastely sa&llbar; ryse vp in body and saule, &thorn;at
+neuer mare sa&llbar; sundire, fra &thorn;at ty&mtail; furthe, bot
+Same&ntail; (if we wele doo whiles we er here) wende with God&dtail;
+to &thorn;at blysse &thorn;at euer-mare lastes.  And if we euy&llbar;
+do, ti&llbar; Endles payne.
+ 
+<!-- 0003.p4-5.txt -->
+<PB N="4"></P>
+
+
+<P>&para; Thir are o&thorn;er seue&ntail; poyntes of Cristes Manhede
+&thorn;at are nedfu&llbar; to trowe, ti&llbar; a&llbar; &thorn;at are
+crysty&ntail;.  &para; The fyrste es, &thorn;at Ihesu Criste, Goddes
+Sone of heue&ntail;, was sothefastely conceyuede of &thorn;e
+made&ntail; Marie, and tuke flesche and blude, and become ma&ntail;
+thurghe &thorn;e myghte and &thorn;e strenghe of &thorn;e Haly Gaste,
+withowtte&ntail; any merryng of hir modirhede, with-owtte&ntail; any
+mynynge of hir mayde&ntail;hede.  &para; The to&thorn;er artecle es,
+&thorn;at we sa&llbar; trowe &thorn;at He, God&dtail; and man bathe in
+a persoune, was sothefastely of &thorn;at blessyde mayde&ntail;,
+God&dtail; gety&ntail; of His Fadire be-fore any tyme, and ma&ntail;,
+born of His modir, and broghte furthe in tyme.  &para; The thirde
+poynte &thorn;at we sa&llbar; trowe es, Cristes Passione that He
+tholede bodyly for synfu&llbar; ma&ntail;-kynde, How He was betraysede
+with His disciple, and take&ntail; with &thorn;e Iewes, bete&ntail;
+with scourges, &thorn;at na skyn&ntail; helde, naylede one &thorn;e
+rude, and corounde with thornes, and many o&thorn;er harde paynes, and
+dyede at &thorn;e laste.  &para; The ferthe artecle es, &thorn;at
+whene He was dede, and His body tane dou&ntail;, and wonde&ntail; and
+dolue&ntail;, &yogh;it &thorn;e whi&llbar;s His body lay in &thorn;e
+graue, &thorn;e gaste with &thorn;e Godhede wente vnto Helle, and
+heryede it, and tuke owte &thorn;ase &thorn;at ware &thorn;are-in, als
+Adam and Eue and o&thorn;er <MILESTONE N="215" UNIT="leaf">Forme-fadyrs whilke He in His forluke
+walde &thorn;at ware sauede.  &para; The fyfte poynte es, &thorn;at
+one &thorn;e thirde day after &thorn;at He dyede, He rase fra dede to
+lyfe, Sothefaste God&dtail; and ma&ntail; in body and in saule.  For
+als He dyede in seknes of oure manhede, So He rase thurghe strenghe of
+His Godhede, and swa dystroyed oure dede thurg&hbar; His diynge, and
+quykkynd vs unto lyfe thurghe His rysesynge.  &para; The sexte artecle
+es, &thorn;at we sa&llbar; trowe &thorn;at one &thorn;e fourtede day
+eftyr &thorn;at He rase, Thurg&hbar; strenghe of Hym-selfe, He steye
+in-ti&llbar; Heue&ntail;, whare oure kynde es nowe in His blyssyde
+personne, noghte anely euynne ne mete ti&llbar; His ange&llbar;s, Bot
+hey coround kynge abowne a&llbar; His ange&llbar;s, &thorn;at be-fore
+ty&mtail; was lesse &thorn;an &thorn;e kynde of ange&llbar;s.  &para;
+The seuend article es, &thorn;at righte als He dyede, and eftirwarde
+rase, and stey in-ti&llbar; heue&ntail;, Righte swa sa&llbar; He come
+apo&ntail; &thorn;e laste day, Bathe for to deme &thorn;e qwykke and
+&thorn;e dede, whare a&llbar; &thorn;e folke &thorn;at euer was, or
+es, or sa&llbar; be, sa&llbar; sothefastely be schewede and
+
+sene be-fore Hy&mtail;, and ilke a ma&ntail; answere of his awe&ntail;
+dedis, and be saued or dampnede whe&thorn;er so he serues; For, als
+His ryghtwysenes now es mengede with mercy, swa sa&llbar; it thane be
+with-owtte&ntail; mercy.</P></DIV2>
+
+<DIV2 N="2" TYPE="section">
+<HEAD>Secundo.</HEAD>
+<HEAD TYPE="sub">Decem precepta Dei.</HEAD>
+<HEAD TYPE="sub">The ten Commandementis.</HEAD>
+
+<P>&THORN;E secund thyng of &thorn;e Sex to knawe God Almyghte&ntail;
+es, &thorn;e te&ntail; Commandmentes &thorn;at He hase gyffe&ntail;
+vs. Of &thorn;e whilke te&ntail;, &thorn;e thre &thorn;at ere firste,
+awe us hallyly to halde anence oure God&dtail;; and &thorn;e
+Seue&ntail; &thorn;at ere eftyre, anence oure eue&ntail;
+criste&ntail;.  &para; The firste comandement charges vs, and teches
+vs, &thorn;at we leue ne lowte na false goddes. And in &thorn;is
+commandement es forbode&ntail; vs alky&ntail; mysbyleues and a&llbar;
+mawmetryes, a&llbar; false enchauntementes, and a&llbar; soceryes,
+a&llbar; false charmes, and a&llbar; wichecraftes, &thorn;at me&ntail;
+of myssehyleue traystes appo&ntail;, or hopes any helpe I&ntail;,
+with-owtte&ntail; God Almyghte&ntail;.  &para; The to&thorn;er
+commandement byddes vs noghte take in ydillchipe, ne in vayne,
+&thorn;e name of oure Lorde God&dtail;, so &thorn;at we trowe noghte
+in His name bot &thorn;at es sothefaste, &thorn;at we swere noghte by
+His name bot it be byhouely, and &thorn;at we neue&ntail; noghte His
+name bot wirchipfully.  &para; The thirde commandement es, &thorn;at
+we halde and halowe oure haly day, &thorn;e Sonondaye, and a&llbar;
+o&thorn;er &thorn;at falles to &thorn;e &yogh;ere, &thorn;at er
+ordeynede to halowe thurg&hbar; Haly Kyrke.  In &thorn;e whilke dayes
+a&llbar; folke, bathe lerede and lawede, awe to gyffe &thorn;a&mtail;
+gudly to Goddes seruyce, to here and say it efter &thorn;aire state
+es, in wirchipe of Godd All-myghty and of His gud halowes, noghte
+&thorn;a&ntail; for to tente to tary with &thorn;e werlde, ne lyffe in
+lykynge ne luste, &thorn;at &thorn;e flesche &yogh;ernes, Bot gudly to
+serue God&dtail; in clennes of lyfe.  &para; The fert&hbar;e
+commandement byddes vs doo wyrchipe to Fadire and to modire, noghte<MILESTONE
+N="215 bk." UNIT="leaf">
+anely to fleschely fadyr and modire, &thorn;at getes vs and fosters vs
+furthe in &thorn;e werlde, bot ti&llbar; oure gastely Fadire &thorn;at
+hase heuede of vs, and teches vs to lyffe ti&llbar; hele of
+ 
+<!-- 0004.p6-7.txt -->
+<PB N="6">
+
+oure saules, and ti&llbar; oure gastely modyr, &thorn;at es, Haly
+Kyrke, to be bouxome &thorn;are-to, and saue &thorn;e ryghte of it,
+For it es modir ti&llbar; a&llbar; &thorn;at cristenly lyffes, and
+alswa ti&llbar; ilke ma&ntail; &thorn;at wyrchipfu&llbar; es, for to
+do wyrchipe eftere &thorn;at it es. &para; The fyfte comandement
+byddes vs &thorn;at we sla na ma&ntail;, &thorn;at es to say, bodyly
+ne gastely no&thorn;er; For als many we sla, in &thorn;at at we may,
+als we sclaundire or bakbyte or falsely dcffames, or fandes for to
+confounde &thorn;aym &thorn;at noghte serues, or withdrawes lyfelade
+fra &thorn;a&mtail; &thorn;at hase nede, if we be of hauynge for to
+helpe &thorn;a&mtail;.  &para; The sexte commandment forbeddes us to
+sy&ntail; or for to foly fleschely with any woma&ntail;, ow&thorn;er
+sybbe or fremmede, wedde or vnwedde, or any fleschely knawynge or dede
+haue with any, o&thorn;er &thorn;an &thorn;e Sacrament of matremoyne
+excuse&yogh;, and &thorn;e lawe and &thorn;e lare of Haly Kyrke
+teches.  &para; The seuen&dtail; byddis vs &thorn;at we sa&llbar;
+noghte stele: In whilke es forbode&ntail; vs robbyng and reuyng, and
+a&llbar; wrangwyse takynge or with-haldynge, or hydynge or helelynge
+of o&thorn;er menes gudes, agaynes &thorn;aire witt and &thorn;aire
+wi&llbar; &thorn;at hase ryghte to &thorn;ay&mtail;.  &para; The
+aughte&ntail; commandement byddes vs &thorn;at we sa&llbar; bere no
+false wytnes agaynes oure eue&ntail; criste&ntail;: In &thorn;e whilke
+es forbode&ntail; vs a&llbar; manere of lesynges, False consperacye
+and false swerynge, whare-thurghe oure eue&ntail; cristy&ntail; may
+lese &thorn;ayre cate&llbar;, Fait&hbar;, Fauour or Fame, or anything
+e&llbar;s, whe&thorn;er it be in gastely or in bodyly gudes.  &para;
+The nyende commandement es, &thorn;at we &yogh;erne noghte oure
+neghtboure house: In whilke es forbode&ntail; a&llbar; wrangwyse
+couetyse of land or of lythe, or of oghte elles &thorn;at may noghte
+be lyftede ne raysede fra &thorn;e grounde, als thynge &thorn;at es
+stedfaste, and may noghte be styrrede.  &para; The ten&dtail;
+commandement an &thorn;e laste es, &thorn;at we &yogh;erne noghte
+&thorn;e wyefe of oure neghteboure ne of oure euy&ntail;
+criste&ntail;, ne his mayde&ntail;, ne his knaue, ne his oxe, ne his
+asse : In &thorn;e whilke es forbode&ntail; vs to &yogh;erne or to
+take any thynge &thorn;at may be styrride of o&thorn;er
+m&emacr;&nmacr;s gudes, als robes or reches or o&thorn;er cate&llbar;,
+&thorn;at we hafe na gude titi&llbar; ne na ryghte to; For what thyng
+so we take or getes one o&thorn;er wyse &thorn;an &thorn;e lawe and
+&thorn;e lare of Haly Kyrke teches, we may noghte be assoylede of
+&thorn;e trespase bot if we
+
+<PB N="7">
+
+make assethe, in &thorn;at &thorn;at we may, to &thorn;a&mtail;
+&thorn;at we harmede with haldande &thorn;aire gude.  And in case
+&thorn;at we hafe thurghe false athes, als in assises or o&thorn;er
+enquestes, wetandly or willfully gerte oure eue&ntail; cristy&ntail;
+lesse &thorn;aire patremoyne or &thorn;aire heritage, or falsely be
+dyssessede of lande or of lythe, or false deuorce be made, or any
+ma&ntail; da&mmacr;pnede, &thorn;ofe a&llbar; we do &thorn;at we may
+to &thorn;e party, &yogh;it may we noghte be assoylede of &thorn;e
+trespas, bot of oure beschoppe, or of hym &thorn;at hase his powere,
+For swylke caas es ryuely reseruede ti&llbar; hy&mtail; selue&ntail;.
+&para; Thise te&ntail; commandemente&yogh; &thorn;at I hafe now
+rekkenede er vmbylowkede in twa of &thorn;e gospe&llbar;e.  The tane
+es, &thorn;at we luffe God&dtail; ouer a&llbar; thynges; The
+to&thorn;er<MILESTONE N="216" UNIT="leaf"> es, &thorn;at we lufe oure eue&ntail; criste&ntail;
+hallely in oure herte als we do oure selue&ntail;; For Godd awe vs to
+lufe hally with herte, with a&llbar; oure myghte, with a&llbar; oure
+thoghte, with worde and with dede. Oure euy&ntail; cryste&ntail;,
+als-swa awe vs to lufe vn-to &thorn;at ilke gude &thorn;at we lufe
+oure-selfe, &thorn;at es, &thorn;at &thorn;ay wele fare in body and in
+saule, and come to &thorn;at ilke blysse &thorn;at we thynke to ; and
+whate-so-euer &thorn;at he bee, &thorn;at &thorn;ise twa wele
+&yogh;emes, a&llbar; &thorn;e te&ntail; commandementes forsothe he
+fulfilles.</P></DIV2>
+
+<DIV2 N="3" TYPE="section">
+
+<HEAD>Tertio.</HEAD>
+<HEAD TYPE="sub">Septem sunt Sacramenta Ecclesie.</HEAD>
+<HEAD TYPE="sub">The Seuene Sacramentes of Haly Kyrke.</HEAD>
+
+<P>&THORN;E thirde thynge of &thorn;e Sex &thorn;at I firste touchide,
+es &thorn;e Seue&ntail; Sacramentes &thorn;at Haly Kirke gyffes,
+thurg&hbar;e prelates and o&thorn;er prestes &thorn;at hase &thorn;e
+powere.  Of whilke seue&ntail;, the first fyve ilke criste&ntail;
+ma&ntail; awe lawefully to take efter his elde es; and twa lyes in
+&thorn;aire will &thorn;at ressayues &thorn;ay&mtail;.  &para; The
+firste sacrament of seue&ntail; es oure `bapty&mtail;,' &thorn;at we
+take &thorn;e firste ty&mtail; &thorn;at we be-co&mtail;
+cristy&ntail;.  In whilke, bathe &thorn;e firste syn&ntail; &thorn;at
+we ere borne wit&hbar;, and alky&ntail; o&thorn;er synnes, ere
+wasche&ntail; awaye, &thorn;at we ere fylede wit&hbar; are we take it;
+and &thorn;e trouthe of Haly Kyrke es take&ntail; &thorn;are-i&ntail;,
+with- owtte&ntail; whilke na synfu&llbar; mans saule may be sauede.
+And ti&llbar; &thorn;is sacrament Falles foure thynges, if it
+sa&llbar; ryghtely be tane als Haly Kirke teches.  Ane es, ryghte
+sayeyng and carpyng
+ 
+<!-- 0005.p8-9.txt -->
+<PB N="8">
+
+of &thorn;e wordes &thorn;at hym awe for to say &thorn;at gyffes
+&thorn;is sacrament, &thorn;at ere &thorn;ise : &mdash; ` I Baptise &thorn;e
+in &thorn;e name of &thorn;e Fadir and &thorn;e Sonne and &thorn;e
+Haly Gaste.'  Ane o&thorn;er es, &thorn;at it be done anely in watire,
+For na no&thorn;er licoure es lefulle &thorn;are-fore.  &THORN;e
+thirde es, &thorn;at he &thorn;at gyffes &thorn;is sacrement be in
+witt and in wi&llbar; for to gyffe it.  And &thorn;e ferthe es,
+&thorn;at he &thorn;at takes it be, no&thorn;er of lerede nor of
+lewde, Baptisede be-fore; For if &thorn;e preste be in were of hym
+&thorn;at sa&llbar; take it, whethire he be baptisede or he be noghte,
+&thorn;an sa&llbar; he say &thorn;e wordes one &thorn;is wyese, `If
+&thorn;ou be noghte baptisede, I baptise &thorn;e in &thorn;e name of
+&thorn;e Fadire and &thorn;e Sone and &thorn;e Haly Gaste.'  &para;
+The secunde sacrament es `confermynge,' &thorn;at &thorn;e byschope
+gyffes to &thorn;a&mtail; &thorn;at ere baptisede, &thorn;at gyffes
+thorowe his powere to &thorn;a&mtail; &thorn;at takes it &thorn;e
+grace and &thorn;e gyfte of &thorn;e Haly Gaste, to make
+&thorn;ay&mtail; mare stalleworthe &thorn;an &thorn;ay ware be-fore,
+to stande agaynes &thorn;e fende and dedly sy&ntail;; &thorn;at nane
+hase powere to do bot &thorn;e byschope allane, &thorn;at hase the
+state and &thorn;e stede of Cristes Appostilles.  &para; The thirde
+sacrament es callede `penance,' &thorn;at es, sothefaste forthynkynge
+&thorn;at we hafe of oure sy&ntail;, with-owtte&ntail; wi&llbar; or
+thoghte to turne agayne to it.  And &thorn;is sacrament must haue thre
+thynges: &mdash; Ane es, sorowe in oure herte &thorn;at we hafe synnede.
+Ano&thorn;er es, opy&ntail; scrifte of mouthe, how we hafe synnede.
+The [third es, satisfaccion, &thorn;at we maun do for oure sy&ntail;].<NOTE ID="n3">A sentence is here wanting through error of the scribe.  [For 'satisfaccion' see Wm. of Shoreham's Poems 39/1078, 'Sorwe, schryfte, and edbote.' F.]</NOTE>  <MILESTONE
+N="216 bk." UNIT="leaf">&para; &THORN;ise thre, with gud wi&llbar; to forsake oure
+sy&ntail;, clense&yogh; vs and wasches vs of alky&ntail; sy&ntail;.
+&para; The ferthe es, `&thorn;e Sacrament of &thorn;e Autyr,' Cristes
+awe&ntail; body in lyknes of brede, als hale als He tuke it of
+&thorn;e blysside mayde&ntail;, the whilke, ilke ma&ntail; and
+woma&ntail; &thorn;at of elde es, awe for to rescheyue anes in
+&thorn;e &yogh;ere, &thorn;at es at say, at &thorn;e pasc&hbar;, als
+Haly Kyrke vses, when &thorn;ay ere clensede of sy&ntail; thurg&hbar;e
+penance, O payne of doynge owte of Haly Kyrke, bot if &thorn;ay
+forbere it by ski&llbar;wyse cause, &thorn;at awe to be knawe&ntail;
+to &thorn;a&mtail; &thorn;at sa&llbar; gyffe it; For he &thorn;at tase
+it worthily, tase his saluacyone; and wha-so takes it vnworthily,
+<PB N="9">
+tase his dampnacione. &para; The fyfte sacrament es `&thorn;e laste
+Enoyntynge with oyle,' &thorn;at es halowede and handelyde of prestes;
+&thorn;e whilke sacrament awe anely to be gyffe&ntail; to
+&thorn;a&mtail; &thorn;at he wate ere of skillwyse elde, and &thorn;at
+he sese sekyrly in pere&llbar;e of dede, in lyghtenes and alegeance of
+&thorn;aire sekenes, if Godde wi&llbar; &thorn;at &thorn;ay turne
+agayne to &thorn;e hele, and als in forgyffnes of venial synnes, and
+in lessynge of payne if &thorn;ay passe he&thorn;e&ntail;.  &para; The
+Sexte sacrament of Haly Kyrke es `ordire,' &thorn;at gyffes powere to
+&thorn;am &thorn;at ryghtwysly tase it, For to serue in Haly Kirke
+efter &thorn;aire state es, and to &thorn;a&mtail; &thorn;at takes
+&thorn;e ordyre of preste, for to synge messe, and for to mynystre
+&thorn;e Sacramentes of Haly Kyrke, &thorn;at to &thorn;a&mtail;
+fallys, Eftyr &thorn;e state &thorn;at &thorn;ay hafe, and &thorn;aire
+degre askes.  &para; The seuen&dtail; Sacrament es ` Matrymoyne,'
+&thorn;at es, lawefu&llbar; festynnynge be-twyx ma&ntail; and
+woma&ntail; at &thorn;aire bathere assente, for to lyffe same&ntail;
+with-owtte&ntail; any lowssynge, whi&llbar;s &thorn;aire lyfe lastes,
+in remedy of sy&ntail; and getynge of grace, if it be tane in gude
+Entente and clennes of lyfe.</P></DIV2>
+
+<DIV2 N="4" TYPE="section">
+<HEAD>The Ferthe thyng of &thorn;e Sex.</HEAD>
+<HEAD TYPE="sub">These be &thorn;e Seuene werkes of Mercy Bodyly.</HEAD>
+
+<P>&THORN;e ferthe thynge of &thorn;e Sex to knawe God&dtail;
+Almyghty, &thorn;at vs byhoues fullfi&llbar; in a&llbar; &thorn;at we
+maye, ere &thorn;e seue&ntail; dedis of mercy vnti&llbar; oure
+eue&ntail; criste&ntail;, &thorn;at God&dtail; sa&llbar; reherse vs
+apo&ntail; &thorn;e dredfu&llbar; day of dome, and wiet howe we haue
+done &thorn;a&mtail; here in &thorn;is lyfe, als sayne Mathewe makes
+mynde in his gospe&llbar;e.  &para; Of whilke, &thorn;e firste es, to
+fede &thorn;ay&mtail; &thorn;at er hunngry.  &para; The to&thorn;er
+es, to gyffe &thorn;aym drynke &thorn;at er thristy.  &para; The
+thyrde es, for to clethe &thorn;a&mtail; &thorn;at er clatheles or
+nakede.  &para; The ferthe es, for to herber &thorn;a&mtail; &thorn;at
+er houseles.  &para; The fyfte es, for to vesete &thorn;a&mtail;
+&thorn;at lyes in sekenes.  &para; The Sexte es, for to helpe
+&thorn;a&mtail; &thorn;at lyes or er in presou&ntail;.  &para; The
+Seuen&dtail; es, to bery dede me&ntail; &thorn;at hase myster.  &para;
+&THORN;ise ere the Seue&ntail; bodyly dedis of mercy &thorn;at ilke
+ma&ntail; awe to doo &thorn;at es myghtty.  &para; &THORN;ar are of
+mercy alswa Seue&ntail; gastely dedis &thorn;at vs awe to doo
+ti&llbar; &thorn;a&mtail; &thorn;at hase nede ti&llbar; vs.  &para;
+Ane es, to consaile and wysse &thorn;a&mtail; &thorn;at are wy&llbar;.
+&para; Ano&thorn;er es, to
+ 
+<!-- 0006.p10-11.txt -->
+<PB N="10">
+
+chasty &thorn;a&mtail; &thorn;at wyrkkys i&llbar;.  &para; &THORN;e
+thyrd <MILESTONE N="217" UNIT="leaf">es, to solauce thaym &thorn;at er sorowefu&llbar;, and comforthe
+thay&mtail;.  &para; The ferthe es, to pray for thay&mtail; &thorn;at
+ere synfu&llbar;.  &para; &THORN;e fyfte es, to be thole-mode
+whe&ntail; me&ntail; mysdose vs.  &para; &THORN;e Sexte es, Gladly to
+forgyffe when me&ntail; haues greuede vs.  &para; The seuen&dtail;,
+when me&ntail; askes vs for to lere thaym, if we cu&ntail; mare
+&thorn;an &thorn;ay, for to lere thaym.  &para;, &THORN;ise
+vn-ti&llbar; oure neghtebours ere fu&llbar; nedfu&llbar;, and to
+&thorn;am &thorn;at duse thay&mtail; wondi&rtail; medefu&llbar;;
+Fo&rtail; he sa&llbar; Mercy &thorn;at Mercyfu&llbar; es ; and
+ma&ntail; with-owtte&ntail; Mercy, of Mercy sall mysse.</P>
+
+<P>vij. opera misericordie corporalia:,: vnde versus : &mdash;  Vestio, cibo,
+poto, redimo, tego, colligo, condo.</P>
+
+<P>vij. opera misericordie spiritualia : &mdash;  Consule, castiga, solare,
+remitte, fer, ora, Instrue, si poteris, sic Christo carus
+haberis.</P></DIV2>
+
+
+<DIV2 N="5" TYPE="section">
+<HEAD>The Fifte thyng of &thorn;e Sex.</HEAD>
+<HEAD TYPE="sub">The seuene gastely vertus.</HEAD>
+
+<P>&THORN;E fyfte thynge of &thorn;e Sex to knawe God Almyghte&ntail;,
+are &thorn;e Seue&ntail; vertus &thorn;at Haly Writte teches.  Of
+whilke seue&ntail;, &thorn;e thre first &thorn;at are hede thewes,
+teches vs how to hafe vs vn-to God Almyghtty; and &thorn;e foure
+teches vs swa for to lyffe &thorn;at it be bathe lykande to God&dtail;
+and to ma&ntail;.  &para; &THORN;e firste vertu es `trouthe,'
+wharethurghe we trow anely in God&dtail; &thorn;at made a&llbar;
+thynges, with a&llbar; &thorn;e o&thorn;er vertus I touchede be-fore.
+And &thorn;is es nedfu&llbar; ti&llbar; a&llbar; &thorn;at cristenly
+lyffes ; For trouthe es begynnynge of a&llbar; gude dedis; For
+no&thorn;er es trouthe worthe with-owtte&ntail; gud werk, ne na werke
+with-owtte&ntail; trouthe may pay God&dtail; Almyghtty.  &para;
+&THORN;e to&thorn;er gude thewe or vertue es ` hope,' &thorn;at es, a
+sekyr habydynge of gastely gude, thurghe Goddes gudnes and oure gude
+dedis, for to co&mtail; to &thorn;at blysse &thorn;at neuer mare
+blynnes, Noghte anely in trayste of Goddes gudnes, ne allanly in
+trayste of oure gude dedis, Bot in trayste of thay&mtail; bathe
+whe&ntail; &thorn;ay are bathe Samme&ntail;; For no&thorn;er sa&llbar;
+we fa&llbar; sa ferre in-ti&llbar; whanhope &thorn;at we ne sa&llbar;
+traiste to hafe
+
+<PB N="11">
+
+&thorn;at blysse if we wele do; Ne we sa&llbar; noghte co&mtail; so
+ferre in-to ouerhope for to trayste so meki&llbar; in Goddes gudnes
+&thorn;at we sa&llbar; hope to haue &thorn;at blysse with-owtte&ntail;
+gude dedys.  &para; &THORN;e thirde vertue or thewe es `charyte,'
+&thorn;e whylke es a dere lufe &thorn;at vs awe vn-ti&llbar;
+God&dtail; Almyghtty als for Hym selfe, and ti&llbar; oure
+euencriste&ntail; for God Almyghtty&ntail;; For &thorn;e tane may
+noghte be lufede with-owtte&ntail; &thorn;e to&thorn;er, als Sayn
+Io&hbar;n &thorn;e gospellere sayse in his pysti&llbar;.  ` &THORN;at
+commandement,' he saise, ` hafe we of God&dtail;<MILESTONE
+N="217 bk." UNIT="leaf">  &thorn;at
+wha-sa-euer lufes Gode, lufes his euencristy&ntail;.  For he &thorn;at
+lufes noghte his bro&thorn;er wha&mtail; he may see, how sulde he lufe
+God wha&mtail; he sese noghte ?` &para; &THORN;e ferthe vertue or
+thewe es `ryghtwysenes,' &thorn;at es, to &yogh;elde to a&llbar;
+me&ntail; &thorn;at we awe &thorn;a&mtail;, For to do to ilke a
+ma&ntail; &thorn;at vs awe to doo, for to wirchipe tha&mtail;
+&thorn;at ere worthy, For to helpe &thorn;e pure &thorn;at er nedy, to
+do no gyle ne wrange vn-to na ma&ntail;, Bot for to do &thorn;at
+ski&llbar; es vnti&llbar; ilke mane.  &para; &THORN;e fyfte vertue or
+thewe es `sleghte or sleghenes,' &thorn;at wysses vs to be-warre with
+wathes of &thorn;e werlde; For it kennes vs to knawe &thorn;e gud and
+&thorn;e i&llbar;, and alswa to sundire &thorn;e tane fra &thorn;e
+to&thorn;er, and for to leue &thorn;at es euy&llbar;, and take to
+&thorn;e gude, and of twa gud thynges for to chese &thorn;e better.
+&para; &THORN;e Sexte vertue es `strenghe or stalworthnes,' noghte
+anely of body, bot of herte and wi&llbar;, euynly to suffire &thorn;e
+wele and &thorn;e waa, welthe or wandret&hbar;, whethire so betyde,
+and &thorn;at oure herte be noghte to hye for na wele-fare, ne
+ouermekill vndire for nane euy&llbar; fare, Bot styffely for to stande
+agaynes oure faas, whethir &thorn;ay be bodyly or &thorn;ay be
+gastely, swa &thorn;at na fulle fandynge make vs to falle ne be false
+in oure fayt&hbar;e agaynes God Almyghtty. &para; &THORN;e Seuend
+vertue and &thorn;e laste es, `methe or methefulnes,' &thorn;at kepes
+vs fra owterage and haldes vs in euenhede, lettes fulle lykynge and
+luste of &thorn;e flesche, and &yogh;emes vs fra &yogh;ernynges of
+werldly gudes, and kepes in clennes of body and of saule.  For methe
+es mesure and mett of a&llbar; &thorn;at we do, if we lyffe skillwysly
+als &thorn;e lawe teches.
+ 
+<!-- 0007.p12-13.txt -->
+<PB N="12"></P></DIV2>
+
+<DIV2 N="6" TYPE="section"><HEAD>The sexte thyng and &thorn;e laste.</HEAD>
+
+<P>&THORN;E sexte thynge, and &thorn;e laste of &thorn;ase I firste
+towchede es, &thorn;e Seue&ntail; heuede or dedly synnes &thorn;at
+ilke a ma&ntail; and woma&ntail; awe for to knawe to flee and forhewe,
+For folkes may noghte flee &thorn;a&mtail; bot &thorn;ay knawe
+thay&mtail;.  &para; Pride &para; and Enuye, &para; Wreth &para; and
+Glotonye, &para; Couetyse &para; and Slouthe, &para; and Lecherye.
+And for-&thorn;i er &thorn;ay callede Seue&ntail; heuede Synnes, for
+&thorn;at all o&thorn;er commes of thay&mtail;; and for-&thorn;i er
+&thorn;ay callede dedely synnes, for &thorn;ay gastely slaa ilke manes
+& womanes saule &thorn;at es haunkede in a&llbar;e or in any of
+thay&mtail;.  Whare-fore &thorn;e wyese ma&ntail; byddes in his buke `
+als fra &thorn;e face of &thorn;e neddyre, fande to flee sy&ntail;.'
+For als &thorn;e veny&mtail; of &thorn;e neddire slaas manes body, Swa
+&thorn;e veny&mtail; of syn slaas manes saule.  &para; The firste of
+&thorn;ise Seue&ntail; synnes es callede `Pryde,' &thorn;at es, a
+lykande heghenees of a manes herte, Of offyce or of heghe state, or
+o&thorn;er noblaye &thorn;at he ou&thorn;er haues of kynde or of
+grace, or he hopes &thorn;at he haues mare &thorn;a&ntail;
+anothire. And of &thorn;is wikkede syn&ntail; commes some sere spyces:
+&mdash; Boste and <MILESTONE N="218" UNIT="leaf">auauntynge and vn-bouxsomnes, despite, and ypocrisy
+and vnhamlynes, and o&thorn;er &thorn;at ofte ere sene amanges prowde
+me&ntail;.  &para; The secunde dedely syn&ntail; es hatte&ntail;
+`Enuy,' &thorn;at es, a sorowe and a syte of &thorn;e wele-fare, and a
+ioy of &thorn;e euy&llbar; fare, of oure eue&ntail;cristen: Of whilke
+syn&ntail;, many spyces sprenges and spredes.  Ane es, hateredy&ntail;
+to speke or here oghte be spoke&ntail;, &thorn;at may sow&ntail; vn-to
+gude to &thorn;aym &thorn;at &thorn;ay hate.  Ane-o&thorn;er, false
+juggynge or dome of &thorn;aire dedis, and ay turne vn-to euy&llbar;
+&thorn;at es done to gude.  &THORN;e thirde es `bakbyttynge,' to saye
+be-hynde &thorn;a&mtail;, &thorn;at we wi&llbar; noghte avowe ne saye
+be-fore &thorn;a&mtail; ; whare noghte anely he &thorn;at spekes
+&thorn;e euy&llbar;, bot he &thorn;at heres it be spoke&ntail;, es for
+to blame; For, ware &thorn;are na herere, &thorn;are ware na
+bakbyttere.  &para; &THORN;e thirde dedly syn&ntail; or heuede
+sy&ntail; es `wrethe,' &thorn;at es, a wykkede stirrynge or bollenynge
+of herte, whare-fore a man wilnes for to wreke hy&mtail;, or wykkydly
+to venge hym, appon his euy&ntail;cristy&ntail;.  And of &thorn;is
+wykkede sy&ntail; commes stryvynge and
+
+<PB N="13">
+
+flytynge, with many false athes and many foule wordes, Sclaundere, for
+to for-do a man's gude fame, Feghtynge and Felony, and ofte
+manes-slaughtere, and many ma &thorn;at nowe es [na] nede for to be
+neuenede.  &para; &THORN;e fferthe dedly syn&ntail; me&ntail; calles
+`glotonye,' &thorn;at es, ane vnskilwyse lykynge or lufe in taste or
+in takynge of mete or of drynke. And &thorn;ise trespas me&ntail; duse
+apponne sere wyse : &mdash; Ane es, ou&thorn;er ouer arely or ouer late, or
+ouer oftesythe, for to ete or drynke bot if nede gere it. Ane
+o&thorn;er es, for to lyffe ouer delycately.  &THORN;e thirde es, for
+to ete or drynke ouer meky&llbar;.  &THORN;e fert&hbar;e es, ouer
+hastely to ete or to drynke.  &THORN;e fifte es, to compas & caste
+appo&ntail; whate wyese we may gette dylicious metis or drynkes to
+fulfi&llbar; &thorn;e lykynges and &thorn;e lustes of &thorn;e
+flesc&hbar; o&thorn;er &thorn;an we may gudly lede oure lyffe with,
+Secundum<NOTE ID="n4">MS. 'Sonde,' the probable miscopying of some contraction. Mr. J. A. Herbert suggests 'Secundum,' as the Latin words (not a verse) which follow mean 'Very hastily, delicately, too eagerly, anxiously,' state 4 of the abovesaid 5 ways to be avoided in eating and drinking.</NOTE> versum,</P>
+
+
+<P>Prepropere, laute, nimis ardenter, studios&egrave;.</P>
+
+<P>&para; &THORN;e fyfte dedly sy&ntail; es callede `Couetyse,'
+&thorn;at es, a wrangwyse wilnynge or &yogh;ernynge to haue any maner
+of gude vs awe noghte.  And &thorn;is es donne pryncypally appo&ntail;
+twy&ntail; wyese.  Ane es, wrangwysely to get any thynge &thorn;at
+oure likynge or oure lufe lyghtes apo&ntail;, als be Sacrelege or by
+symony, falsehede or okyr, or o&thorn;er gelery, whilke &thorn;ise
+worldely me&ntail; er wounte for to vse &thorn;at castes &thorn;aire
+conaundenes swa vn-to couetyse &thorn;at &thorn;ay ne rekke
+whe&thorn;er it be with ryghte or with wrange, bot &thorn;at &thorn;ay
+may gette &thorn;at at &thorn;aire herte &yogh;ernes.  Ano&thorn;er
+es, wrangwisely to halde &thorn;at at es gety&ntail;, &thorn;at es,
+whe&ntail; we wi&llbar; noghte do to God&dtail; Almyghte&ntail; ne
+ti&llbar; Haly Kyrke, ne ti&llbar; oure eue&ntail;cristy&ntail;,
+&thorn;at vs awe for to do by dett and by lawe, bot anely haldes
+&thorn;at we hafe for ese of oure selfe&ntail;, whare noghte anely he
+&thorn;at wrangwysly getes, bot he &thorn;at wrangwysely haldes,
+falles in &thorn;e syn&ntail;.  &para; &THORN;e sexte dedly syn&ntail;
+es `slewthe or slawenes,' &thorn;at es, a hertly angere or anoye
+ti&llbar; vs of any gastely gud &thorn;at we sa&llbar; do.  <MILESTONE
+N="218 bk." UNIT="leaf">And of
+&thorn;is wikkede synn comes sere spyces: &mdash; Ane es, latesommes
+or lyte to drawe apo&ntail; lenghte or to lache
+ 
+<!-- 0008.p14-15.txt -->
+<PB N="14">
+
+any gude dedis &thorn;at we sa&llbar; do &thorn;at may turne vs
+ti&llbar; helpe or hele of oure saules. Ano&thorn;er es, a `dullnes or
+heuenes of herte' &thorn;at lettes vs for to lufe oure Lorde God
+Almyghte&ntail;, or any lykynge to hafe in His seruyse.  &THORN;e
+thirde es, `ydillchipe,' &thorn;at ouer meky&llbar; es hauntede,
+&thorn;at makes lathe to begyn&ntail; any gude dedis, and lyghtly dose
+vs to leue whe&ntail; oghte es begu&ntail;, and &thorn;are whare we
+ere kyndely borne for to swynke, als &thorn;e feule es kyndely brede
+for to flie, It haldes vs euermare in ese agayne oure kynde, For
+Idillnes es Enemy to criste&ntail; ma&ntail; saule, stepmodire and
+stamerynge agaynes gude thewes, and witter- wyssynge and waye
+ti&llbar; alky&ntail; vices.  &para; &THORN;e Seuen&dtail; dedely
+sy&ntail; es hatte&ntail; `lychery' &thorn;at es, a foule lykynge or
+luste of &thorn;e flesche.  And of &thorn;is foule sy&ntail; comes
+many sere spyces: &mdash; Ane es `Fornycacyone,' a fleschely synn be-twyxe
+ane anlypy ma&ntail; and ane anlypy woma&ntail;: and for-thi &thorn;at
+it [es] agaynes &thorn;e lawe, & &thorn;e leue and &thorn;e lare
+&thorn;at Haly Kirke haldes, it is dedly sy&ntail; to &thorn;aym
+&thorn;at it duse.  Ano&thorn;er es `Avowtry, and &thorn;at es
+spousebreke, whe&thorn;er it be bodyly or it be gastely, &thorn;at
+greuosere and gretter es &thorn;an &thorn;e to&thorn;er. &THORN;e
+thirde es `Incest,' &thorn;at es, whe&ntail; a ma&ntail; synnes
+fleschely with any of his sybb frendes, or any o&thorn;er &thorn;at es
+of his affynyte gastely or bodyly, whe&thorn;er so it be.  O&thorn;er
+spyces many sprynges of &thorn;is sy&ntail; &thorn;at ouer mekill es
+knawe&ntail; and kende in &thorn;is werlde with &thorn;aym &thorn;at
+ledes &thorn;aire lyfe als &thorn;aire flesche &yogh;ernes.</P>
+
+<P>&para; &THORN;ise are &thorn;e sex thynges &thorn;at I hafe spoken
+off, &thorn;at &thorn;e lawe of Haly Kirke lyes maste in ; The whilke
+we er halde&ntail; to knawe and to cu&ntail;, if we sa&llbar; knawe
+God Almyghty, and come ti&llbar; His blysse.  &para; And for to gyffe
+&yogh;ow better wy&llbar; for to cu&ntail; thaym, Oure ffadir &thorn;e
+beschope grauntes of his grace Fourty dayes of pardou&ntail; ti&llbar;
+a&llbar; &thorn;at cunnes thaym, and ratyfyes alswa &thorn;at
+o&thorn;er me&ntail; gyffes, Swa meki&llbar; coueites he &thorn;e hele
+of &yogh;our saules.  For &yogh;ife &yogh;e conandely knawe &thorn;ise
+Sex thynges, thurg&hbar; thaym sa&llbar; &yogh;e cu&ntail; knawe
+God&dtail; Almyghty, whaym, als Sayne Io&hbar;n sayse in his gospelle,
+cunnandely for to knawe swylke als He es, It es endles lyfe and
+lastande blysse.  To &thorn;e whilke blysse He brynge vs,
+<PB N="15">
+oure Lorde Gode Almyghty! Ame&ntail; ! Ame&ntail;! Ame&ntail;!  Per
+Dominum nostrum Iesum Christum, qui cum Deo <CORR SIC="patri" RESP="Perry">patr&ebreve;</CORR> et Spiritu
+Sancto viuit et regnat omnipotens deus in secula seculorum.  Amen!
+Amen! Amen !
+ 
+<!-- 0009.p16-17.txt -->
+<PB N="16"></P></DIV2></DIV1>
+
+
+<DIV1 TYPE="tract">
+
+<HEAD TYPE="editorial">II. THE MIRROR OF SAINT EDMUND.</HEAD>
+
+<MILESTONE
+ED="Robert Thornton's Manuscript, Lincoln Cathedral Library" N="197" UNIT="leaf">
+
+<HEAD>&para; Incipit Speculum Sancti Edmundi Cantuarensis Archipiscopi in
+Anglicis. <NOTE ID="n5"><HI REND="i">Verbis</HI> understood.</NOTE></HEAD><HEAD>Here begynnys The Myrrour of Seynt Edmonde &thorn;e Ersebechope of
+Canterberye.</HEAD>
+
+
+
+<P>VIDETE vocacionem vestram. This wordes, sayse Saynte Paule in his
+pisty&llbar;, and thay are thus meki&llbar; to saye one ynglysche,
+`Seese &yogh;owre callynge.'  This worde falles ti&llbar; vs folke of
+religiou&ntail;: and &thorn;at sais he, ti&llbar; excite vs ti&llbar;
+perfeccyone.  And ther-fore, what houre &thorn;at I thynke of
+my-selfe, one nyghte or on day, On a syde hafe I gret Ioye, and on
+ano&thorn;er syde gret sorowe : &mdash; Ioy, for &thorn;e haly
+religio&ntail;; sorowe and confusyo&ntail; for my febi&llbar;
+conuersasione.  And &thorn;at es na wondire, for I hafe gret
+encheso&ntail;.  Als &thorn;e wyese man saise in his sermo&ntail;, he
+sais, `to com to Religio&ntail; es souerayne perfeccyone; and there-in
+noghte perfitly to lyffe, es souerayne dampnacyone.'  And thar-for
+&thorn;are es na turne of &thorn;e way bot ane, to come in
+congregacyone, &thorn;at es, to drawe to perfeccione als &thorn;ou
+wi&llbar; &thorn;i saluacyone, to leue a&llbar; &thorn;at es in this
+worlde and a&llbar; &thorn;at &thorn;er-to langys, and sett thi myghte
+to lyffe perfitly.  To lyffe perfitly, as Sayne Bernarde vs kennys,
+&THORN;at es, to lyffe honourabilly, mekely, & lufesomly.
+Honourabilly, als to God, &thorn;at &thorn;ou sett thy&ntail; Entente
+to do Hys wi&llbar;, &thorn;at es [at] say in a&llbar; thynges
+&thorn;at &thorn;ou sa&llbar; thynke in hert, or say with mouthe, or
+doo in dede, with any of &thorn;i fyve wittes; alls with seynge of
+eghe,
+<PB N="17">
+Herynge of Ere, Smellynge of neese, Suellynge of throtte, towchynge of
+hande, Gangand, or standande, Lygand, or sittande, thynke at &thorn;e
+begynnynge if &thorn;at it be Goddes wi&llbar; or noghte.  And if it
+be Goddis wi&llbar;, do it at thy powere.  And if it be noghte Hys
+wi&llbar;, do it noghte, for to suffre &thorn;e dede.</P>
+
+<P>Bot now may &thorn;ou aske mee `what es Goddes wy&llbar; ?` I say
+&thorn;e, His wi&llbar; es na no&thorn;er thynge bot &thorn;i
+halynes. Als &thorn;e Apposti&llbar; in his pysti&llbar; : &mdash;
+&para; Hec est Voluntas Dei, Sanctificacio vestra: &THORN;at es to
+say, &thorn;at es Goddes wi&llbar;, &thorn;at &yogh;e be haly. Bot now
+may &thorn;ou aske me: `What mase man haly ?` I say &thorn;e, twa
+thynges with-owtte&ntail; ma, &thorn;at es, knaweynge and lufe.
+Knaweyng of sothefastnes, and Lufe of gudnes.  Bot to &thorn;e
+knaweynge of Godde, &thorn;at es sothefastnes, ne may &thorn;ou noghte
+co&mtail; Bot be knaweynge of thi selfe; ne &yogh;it to &thorn;e luf
+of Godde may &thorn;ou noghte co&mtail;, bet thurghe &thorn;e luf of
+thyn&ntail; evy&ntail;-crysty&ntail;.  To &thorn;e knaweyng of
+&thorn;i selfe may &thorn;ou co&mtail; with besy vmby- thynkynge; And
+to &thorn;e knaweynge of Godde thurghe pure contemplacionne.  To
+&thorn;e knaweynge of &thorn;i selfe &thorn;ou may co&mtail; o&ntail;
+&thorn;is manere: Thynke besely and ofte what &thorn;ou erte, what
+&thorn;ou was, and what &thorn;ou sa&llbar; be.  Fyrste, als vn-to
+&thorn;i body: &thorn;ou erte now vylere &thorn;a&ntail; any mukke;
+&thorn;ou was gety&ntail; of sa vile imatire and sa gret fylt&hbar;e,
+&thorn;at it es schame for to nevyn&ntail;, and abhomynacyo&ntail; for
+to thynke; &thorn;ou sa&llbar; be delyuerde to tades and to neddyrs
+for to ete.  What &thorn;ou has bene and what thow erte, now sa&llbar;
+&thorn;ou als to &thorn;i saule, thynke, For what &thorn;ou<MILESTONE
+N="197 bk." UNIT="leaf"> sa&llbar;
+be &thorn;ou may noghte wyete nowe.  Vmbethynke &thorn;e nowe how
+&thorn;ou has dn&ntail; gret sy&nmacr;s and many, and how thou has
+lefte gret gudnes and many.  Thynke how lange &thorn;ou hase lyffede,
+and what thow has rescheyuede, and how &thorn;ou has dyspende it.  For
+ilke an houre &thorn;at &thorn;ou has noghte thoghte one Godde,
+&thorn;ou has it tynte.  For &thorn;ou sa&llbar; &yogh;elde resonne of
+ilke-ane ydi&llbar; thoghte, of ilke-ane ydi&llbar; dede, of ilke-ane
+ydi&llbar; worde.  And righte as &thorn;ou has noghte ane hare of thi
+heuede &thorn;at it ne sa&llbar; be gloryfyede, if swa be &thorn;ou be
+safede, Righte swa sa&llbar; eschape nane houre &thorn;at it ne
+sa&llbar; [be] accountede.  A Ihesu, mercy ! If a&llbar; &thorn;is
+worlde ware fu&llbar; of
+ 
+<!-- 0010.p18-19.txt -->
+<PB N="18">
+
+sma&llbar;e powdire, wha sulde be sa qwaynte &thorn;at he sulde or
+moghte Iugge ilke a thoghte, ilke a sawe, ilke a dede by
+&thorn;a&mtail; selfe, and twy&ntail; ilke ane fra o&thorn;er? Certis
+na thynge bot &thorn;e saule, &thorn;at es a thowsande sythes gretter
+&thorn;an a&llbar; &thorn;is worlde, if it ware a thowsande sythes
+gretter &thorn;an it es.  And it es so fu&llbar; of dyuerse thoghtes,
+lykynges and &yogh;ernynges, wha moghte &thorn;an thus seke his herte
+&thorn;at he moght knawe a&llbar; &thorn;at es &thorn;are-in or thynke
+it ? See nowe, my dere hertly frende, howe &thorn;ou has gret nede of
+knawynge of thi selfe.  Sythe&ntail; aftyrwarde take gude hede whate
+&thorn;ou erte nowe, als vn-to &thorn;i saule; howe &thorn;ow has
+litty&llbar; of gude in the, and litti&llbar; of witte and
+litti&llbar; of powere; For &thorn;ou &yogh;ernys ilke a daye
+&thorn;at at noghte avayles the, and euer mare ouer lattly &thorn;at
+at may availe the.  Dere frende, &thorn;ou erte dessayfede sa ofte
+with vayne Ioye; nowe trauelde with drede, nowe erte &thorn;ou lyftede
+one lofte with false trayste.  See now on &thorn;e to&thorn;er syde :
+&mdash; &THORN;ou ert chaungeabi&llbar;: &thorn;at at &thorn;ou
+wi&llbar; doo to day, &thorn;ou wi&llbar; noghte to morne.  And ofte
+sythes &thorn;ou erte anoyede eftire many thynges, and turment if
+&thorn;ou hafe thaym noghte.  And sythen when &thorn;ou has
+&thorn;a&mtail; at &thorn;i wi&llbar;, &thorn;an erte &thorn;ou of
+thaa thynges annoyede.  Thynke &yogh;itt one &thorn;e to&thorn;er
+syde, how &thorn;ou erte lyghte to fande, frele to agaynestande, and
+redy to assente.  Off a&llbar; &thorn;ese wrechidnes now has &thorn;e
+delyuerde Ihesu &thorn;i spouse, and delyuers &thorn;e ylke day mare
+and mare.  For whe&ntail; &thorn;ou was noghte, He mad &thorn;e in
+saule aftire His awe&ntail; lyknesse and His ymage, and &thorn;i body
+made of foule stynkande sky&umacr;&mmacr; of &thorn;e erthe, whare-of
+es abhomynacyone to thynke, He mad &thorn;e in witte and in membirs sa
+nobi&llbar; and sa faire &thorn;at nane ca&ntail; deuyse.  Thynke now
+besyly, &yogh;e &thorn;at has fleschely frendis and kynredy&ntail;,
+why &yogh;e luffe &thorn;a&mtail; sa derely and sa tendirly. If
+&thorn;ou say &thorn;at &thorn;ou lufes &thorn;i fadire or &thorn;i
+modire for-thi &thorn;at &thorn;ou ert of &thorn;aire blude and of
+flesche gety&ntail;, Sa are &thorn;e wormes &thorn;at comes of
+&thorn;a&mtail; day be day.  On a-no&thorn;er syde &thorn;ou has
+no&thorn;er of &thorn;a&mtail; body ne saule, Bot &thorn;ou &thorn;an
+has of God thurghe thay&mtail;.  For whate sulde &thorn;ou hafe bene
+if &thorn;ou had duellyde swilke as &thorn;ou was of thay&mtail;, when
+&thorn;ou genderide in fylthe and in sy&ntail; ? One &thorn;e
+to&thorn;er syd, if &thorn;ou lufe brethire or
+<PB N="19">
+systers or o&thorn;er kynredy&ntail;, for-thi &thorn;at &thorn;ay are
+of &thorn;e same flesche of fadir or of modire, and of &thorn;aire
+blude, by &thorn;e same sky&llbar; solde &thorn;ou lufe a pece of
+&thorn;aire flesche if it [ware] schorne a-waye; and &thorn;at solde
+be errour gret with-owtte&ntail; mesure.  &yogh;yfe &thorn;ou say
+&thorn;at &thorn;ou lufes &thorn;am for-thi &thorn;at &thorn;ay hafe
+fleschely fegure in lyknes of ma&ntail;, and for-thy &thorn;at
+&thorn;ay <MILESTONE N="198" UNIT="leaf"> haue saule ryghte als &thorn;ou has, &thorn;an es
+&thorn;i bro&thorn;er fleschely na nerre &thorn;an ano&thorn;er; bot
+in als meki&llbar; als &thorn;ou and he hase bathe a fadire and a
+modire fleschely, The begynnynge of &thorn;i flesehe, &thorn;at es, a
+lytti&llbar; filt&hbar;, stynkande and fu&llbar; to see.  Thare-fore
+&thorn;ou sa&llbar; lufe Hym of whaym a&llbar; &thorn;i fairenes
+commes.  And &thorn;ou sa&llbar; lufe gastely ilk a man, and flee fra
+now-forthwarde to lufe flesc&hbar;ly.</P>
+
+<P>And swa sall &thorn;ou doo certaynly if &thorn;ou conabilly thynke
+of gudes &thorn;at He has done gudly for &thorn;e; and mare sall doo
+if &thorn;ou lufe Hym enterely; For, als I saide at &thorn;e
+begynnynge, &mdash; when &thorn;ou was noghte, He made &thorn;e of noghte;
+and when &thorn;ou was tynte, He fande &thorn;e; and whe&ntail;
+&thorn;ou was peryschede, He soghte &thorn;e; and whe&ntail; &thorn;ou
+was saulde with sy&ntail;, &thorn;an He boghte &thorn;e; and
+whe&ntail; &thorn;ou was dampnede, &thorn;an He sauede &thorn;e.  And
+whe&ntail; &thorn;ou was borne in sy&ntail;, He bapty&yogh;ede
+&thorn;e; and sythe&ntail; aftirwarde, whe&ntail; &thorn;ou synnede sa
+foully and sa ofte, &thorn;an He sufferde &thorn;e so frely, and
+habade thynne amendemente sa lange, and sythe&ntail; rescheyuede
+&thorn;e sa swetly, and &thorn;e has sett in sa swete a falachipe.
+And ilke a day when &thorn;ou mysdose, &thorn;an He reprofes &thorn;e;
+and whe&ntail; &thorn;ou repentis &thorn;e, &thorn;an He forgyffes
+the; and when &thorn;ou erris, &thorn;an He amendis &thorn;e; and when
+&thorn;ou dredis &thorn;e, &thorn;an He leris &thorn;e; and wbe&ntail;
+&thorn;ou hungers, &thorn;an He fedis &thorn;e; and when &thorn;ou
+erte calde, &thorn;a&ntail; He warmes &thorn;e; and whe&ntail;
+&thorn;ou has hete, &thorn;an He kelis &thorn;e; and when &thorn;ou
+slepis, &thorn;an He saues &thorn;e; and whe&ntail; &thorn;ou rysez
+vpe, &thorn;an He vphaldes &thorn;e; and euer-mare when &thorn;ou erte
+at male eese, &thorn;an He comforthes &thorn;e.  Thyre gudnes, and
+many o&thorn;er, hase done vnto &thorn;e thi swete spouse Ihesu
+Criste.  And &thorn;e swettnes of His herte sa&llbar; &thorn;ou thynke
+euer-mare, and euer speke &thorn;are-of, and euer-mare lofe Hym, and
+euer thanke Hym, and that bathe nyghte & day, if &thorn;ou oghte
+ka&ntail; of lufe.</P>
+
+<P>And &thorn;are-for, when &thorn;ou ryses of &thorn;i bedde at morne
+or at
+ 
+<!-- 0011.p20-21.txt -->
+<PB N="20">
+
+
+mydnyghte, thynke als tite how many thowsand me&ntail; & wome&ntail;
+ere perischede in body or in saule &thorn;at nyghte: Some in fyre,
+Some in o&thorn;er manere, als in water or one lande; Some robbide,
+woundide, Slayne, dede sodanly with-owtty&ntail; sacramentis, and
+fally&ntail; in-ti&llbar; dampnacione ay lastande.  Thynk alswa how
+many thowsande &thorn;at nyghte are in peri&llbar; of saule, &thorn;at
+es to say, in dedly sy&ntail;, als in glotony, lechery, Couetyse, in
+manes-slaynge, and in many o&thorn;er folyes.  And of a&llbar;
+&thorn;ise i&llbar;es, the has delyuered thy swete Lorde Ihesu,
+with-owtte&ntail; &thorn;i deserte.  What seruyce hase &thorn;ou
+donne, whare-fore He hase &thorn;usgate keped &thorn;e, and many
+o&thorn;er loste and forsake&ntail; ? For sothe, if &thorn;ou take gud
+kepe how gret gude He has done &thorn;e on ilk a syde, &thorn;ou
+sa&llbar; fynd hym ocupiede aboute &thorn;i profet, als He did
+na&ntail; o&thorn;er thynge, bot anely ware entendande to &thorn;e and
+to &thorn;i hele, als if He had forgety&ntail; a&llbar; &thorn;is
+worlde for to be anely intendan&dtail; vn-to &thorn;e.  &para; And
+when &thorn;ou hase &thorn;is thoghte, lyfte vpe thi handis and thanke
+thi Lorde of &thorn;is and of a&llbar;<MILESTONE N="198 bk." UNIT="leaf"> o&thorn;er gudes, and say one
+&thorn;is manere, `My <NOTE ID="n6">These prayers are first given in the MS. in Latin &mdash;Gracias tibi ... In manus tuas...&mdash;the translation immediately following. It did not seem necessary to print the Latin as well, the English being a full equivalent. The translation in the first case is introduced with the words 'This Oryso&ntail; es &thorn;us to say one Inglysche my Lorde,' &amp;c.; and in the second 'And &thorn;is orysone es &thorn;us mekill to saye Lorde' &amp;c.</NOTE> Lorde Ihesu Criste ! grace I &yogh;elde, and
+thanke &thorn;e, &thorn;at me, thyne vnworthy seruande, &thorn;ou hase
+kepid couerde and vesete in &thorn;is nyghte (Or in &thorn;is day),
+hale, safe, and wemles vn-to &thorn;is ty&mtail; &thorn;ou hase made
+to come, and for a&llbar; o&thorn;er gudes and benefitis &thorn;at
+&thorn;ou hase geffy&ntail; me, anely thurghe &thorn;i gudnes and
+&thorn;i pete, &thorn;ou &thorn;at lyffes and regnes endles.
+Ame&ntail;.'  Dere frende, in &thorn;is same manere sall &thorn;ou say
+when &thorn;ou rysez at morne, and when &thorn;ou lygges dow&ntail; at
+evy&ntail;.  And whe&ntail; &thorn;ou has done swa, &thorn;an
+sa&llbar; &thorn;ou besyly thynke how &thorn;ou hase spende &thorn;at
+day (or &thorn;at nyghte), and pray Go&dtail; of mercy of &thorn;e
+i&llbar; &thorn;at &thorn;ou hase done, and of &thorn;e gude &thorn;at
+&thorn;ou hase lefte vn-ti&llbar; &thorn;at ty&mtail;.  And, dere
+frende, do na thynge in &thorn;is lyfe ti&llbar; &thorn;ou commend
+&thorn;i selfe, and thi frendes qwykke and dede, in the handis of thi
+swete Lorde Ihesu Criste, and say one &thorn;is maner, `Lorde Ihesu
+Criste! in
+<PB N="21">
+&thorn;i handis, and in &thorn;e handis of thy&ntail; haly
+Ange&llbar;s, I gyffe in &thorn;is nyghte (or in &thorn;is day) my
+saule and my body, my Fadir and my Modire, my brothire and my systirs,
+frendis and seruandes, neghtburs and kynredy&ntail;, my gude-doers,
+and a&llbar; folke righte trowande.  Kepe vs, Lorde, in &thorn;is
+nyghte (or &thorn;is day) thurg&hbar; &thorn;e gud dedis and &thorn;e
+prayere of &thorn;e blyssed mayde&ntail; Marie and a&llbar; thi
+halous, fra vices and fra wykked &yogh;ernyngez, fra synns and fra
+fandynges of &thorn;e deue&llbar;, fra sodayne and avysede dede, and
+fra &thorn;e paynes of helle.  Lyght my herte of the Haly Gaste and of
+thi haly grace! Lorde! &thorn;ou make me to be bouxsome euer-mare to
+&thorn;i byddynges, and suffire me neuer mare to twy&ntail; fra the,
+endles Ihesu, Lorde in Trinite!  Amen!'  My dere frende, if &thorn;ou
+hase &thorn;is manere, &thorn;an sa&llbar; &thorn;ou hafe verray
+knaweynge of thi selfe, For thus saise haly Writte, `If &thorn;ou<MILESTONE
+N="199" UNIT="leaf">
+trayste one thy selfe, to &thorn;i selfe &thorn;ou sa&llbar; be
+taky&ntail;; and &yogh;if &thorn;ou trayste one Gode and noghte one
+&thorn;i-selfe, to God &thorn;ou sa&llbar;bhe gyffe&ntail;.'  And
+&thorn;is maner of consederatyone es callede 'medytacyone,' For by
+&thorn;is maner of knawynge of &thorn;i selfe, & by &thorn;is maner of
+medytacyone, sa&llbar; &thorn;ou come to &thorn;e knaweynge of Gode,
+by haly contemplacyone.</P>
+
+<P>Wiet &thorn;ou &thorn;at &thorn;are es thre manere of
+contemplacyone.  The fyrste es in creaturs.  The to&thorn;er es in
+haly scripture.  The thirde es in Gode hym-selfe in His nature.  Thow
+sa&llbar; wyet &thorn;at contemplacyone es na no&thorn;er thynge bot
+thoghte of Godde in gret lykynge in saule, And to se His gudnes in His
+creaturs.  His gudnes in His creaturs may &thorn;ou see one &thorn;is
+manere.  Thre thynges pryncypaly ere in Gode, &thorn;at es to say,
+Myghte, Wysdome, and gudnes.  Myghte es appropirde to Godd &thorn;e
+Fadire. Wysdome, to God &thorn;e So&ntail;.  Gudnes, to God &thorn;e
+Haly Gaste. Thurg&hbar; Goddes myghte ere a&llbar; thynges made, and
+thurg&hbar; His wysdome ere a&llbar; thynges meruailously ordaynede;
+and thurg&hbar; His gudnes ilke a day ere a&llbar; thynges waxande.
+His powere may &thorn;ou see by &thorn;aire gretnes and by thaire
+makynge; His wysdo&mtail; by &thorn;aire fairenes of&thorn;aire
+ordaynynge; His gudnes may &thorn;ou see by &thorn;aire Encressynge.
+&THORN;aire gretnes may &thorn;ou see by &thorn;aire four partynges,
+&thorn;at es to saye, by &thorn;aire heghte, and by
+ 
+<!-- 0012.p22-23.txt -->
+<PB N="22">
+
+
+&thorn;aire depnes, and by &thorn;aire largenes, and by paire lenghe.
+His wysdo&mtail; may &thorn;ou see if &thorn;ou take kepe how He hase
+gyffe&ntail; to ylke a creature to be.  Some He hase gyffe&ntail; to
+be anely, with-owtte&ntail; mare, als vn-to stanes.  Ti&llbar;
+o&thorn;er to be & to lyffe, als to grysse and trees. Ti&llbar;
+o&thorn;er to be, to lyffe, to fele, als to bestes.  Ti&llbar;
+o&thorn;er to be, to lyffe, to fele, and with resone to deme, als to
+mane and to ange&llbar;s For stanes erre, bot &thorn;ay ne hafe nogte
+lyffe, ne felys noghte, ne demes noghte.  Trees are; &thorn;ay lyffe,
+Bot thay fele noghte.  Me&ntail; are; &thorn;ay lyffe, &THORN;ey fele,
+and &thorn;ay deme, and &thorn;ay erre with stanes, [&thorn;ay] lyffe
+with trees, &thorn;ay fele with bestes, and demys with
+ange&llbar;s. Here sa&llbar; &thorn;ou thynke besyly &thorn;e
+worthynes of manes kynde, how it ouer-passes ilke a creature. And
+&thorn;are-fore saise Saynt Austy&ntail;, `I wald noghte hafe &thorn;e
+stede of ane ange&llbar;e, if I myghte hafe &thorn;e stede &thorn;at
+es purvayede to ma&ntail;.'  Thynk also &thorn;at ma&ntail; es worthy
+gret schenchipe &thorn;at will noghte lyffe eftyre hys degre and
+eftyre his condicyone askis; For a&llbar; &thorn;e creaturs in
+&thorn;e worlde ere made anely for ma&ntail;.  &THORN;ase &thorn;at
+ere meke, ere made for thre skylles; For to helpe vs at trauayle, als
+nate, Oxe&ntail;, kye and horse; For to couer vs & clet&hbar;e vs, als
+lyne, and wolle and lethire; for to fede vs and vphalde vs, als
+bestes, Corne of &thorn;e ert&hbar;e, Fysche of &thorn;e See; and
+&thorn;e noyande creaturs, als i&llbar; trees and venemous bestes,
+&thorn;e wylke are made for thre thynges, For euro chastyyng, for oure
+amendement, and for euro kennynge.  We ere chastied and puneschet,
+when we ere hurte.  And &thorn;at es gret mercy of Godde, &thorn;at He
+wi&llbar; chasty vs bodyly &thorn;at we be noghte punescht lastandly.
+<MILESTONE N="199 bk." UNIT="leaf">We erre amendid whe&ntail; we thynke &thorn;at a&llbar; &thorn;ese ere
+broghte vs for oure sy&ntail;.  For whe&ntail; we see &thorn;at sa
+lytti&llbar; creaturs may noye vs, &thorn;a&ntail; we thynke one oure
+wrechidnes, and &thorn;a&ntail; we ere mekyde.  We ere Eftir- warde
+kende, for-&thorn;i &thorn;at we see in &thorn;ise creaturs &thorn;e
+wondirfu&llbar; werkes of God oure Makere.  For mare vs availes
+ti&llbar; oure ensampi&llbar; and Edifycacione, &thorn;e werkes of
+&thorn;e pyssmowre &thorn;an dose &thorn;e strenghe of &thorn;e lyone
+or of &thorn;e bere.  Als-swa, righte als I haue said of bestes, reght
+swa vndirstande of trees; and when &thorn;ou hase donne on &thorn;is
+manere, Raise vp thy herte vn-ti&llbar;
+<PB N="23">
+God&dtail;, and thynke how it es grete myghte to make a&llbar; thynges
+of noghte, and to gyffe &thorn;am to bee, and grete wysdo&mtail; to
+ordayne &thorn;am in sa gret fairenes, and in swa gret bounte, to
+multyply &thorn;a&mtail; ilk a day for oure prowe.  A! mercy
+God&dtail;! how we are vnkynde! We dyspende a&llbar; His creaturs, and
+He &thorn;am makes !  We confound &thorn;a&mtail;, and He
+&thorn;a&mtail; gouernes.  We distruy &thorn;a&mtail; ilke a day, and
+He &thorn;am multyplies.  And &thorn;are-fore say ti&llbar; Hym in thi
+herte, `Lorde ! for-&thorn;i &thorn;at &thorn;ou arte, &thorn;ay ere,
+and for-&thorn;i &thorn;at &thorn;ou arte fayre, &thorn;ay are faire ;
+and for-&thorn;i &thorn;at &thorn;ou arte gude, &thorn;ay are gude.
+With gud ryghte &thorn;ay loue &thorn;e, and Onoures &thorn;e, and
+gloryfyes &thorn;e, a&llbar; thy creatures.  O blyssed Godd in
+Trinyte! with gud ryghte &thorn;ay loue &thorn;e for &thorn;aire
+gudnes, with gud ryghte &thorn;ay anoure&ntail; &thorn;e for thaire
+fairenes, with gud righte &thorn;ay glorifye &thorn;e for &thorn;aire
+profet, a&llbar; &thorn;i creaturs, blyssed Trinyte !  Of wha&mtail;
+a&llbar; thynges ere thurg&hbar; His powere made; Thu[r]g&hbar; whaym
+a&llbar; thynges are thurg&hbar; Hys wysdo&mtail; gouernede; In whaym
+a&llbar; thynges are thurg&hbar; His bounte multipliede; Ti&llbar; Hym
+honour and louynge with-owte&ntail; [ende].  Ame&ntail; !'</P>
+
+<P>&THORN;E to&thorn;er degre of contemplacyone es in Haly Wryte. Bot
+nowe may &thorn;ou say to me, `I &thorn;at knawes na letters, how may
+I euer mare com to contemplacyone of Haly Writte ?'  Now, my dere
+frende, vndirstande me swetely, and I sa&llbar; say perchance to
+&thorn;e a&llbar; &thorn;at es wrete&ntail;, if &thorn;ou ka&ntail;
+noghte vndirstand Haly Writt.  Here gladly &thorn;e gud &thorn;at
+me&ntail; saise &thorn;e: and whe&ntail; &thorn;ou heres Haly Wryte,
+ow&thorn;er in sermo&ntail; or in priue collacyone, take kepe als
+tyte, if &thorn;ou here oghte &thorn;at may availe &thorn;e ti&llbar;
+edyfycacyo&ntail;, to hate sy&ntail; and to lufe vertue, and to dowte
+payne, and to &yogh;erne Ioye, To dispyse &thorn;is worlde, and to hye
+to blysse, and whate &thorn;ou sa&llbar; doo and whate &thorn;ou
+sa&llbar; lefe, and a&llbar; &thorn;at lyghtes &thorn;inne
+vndirstandynge in knawynge of sothefastnes, and a&llbar; &thorn;at
+kyndi&llbar;s &thorn;i lykynge in brynnynge of charite; For of
+&thorn;ise twa gudnes, es a&llbar; &thorn;at es wrety&ntail; in preue
+or in apperte.  Owte of haly writte sall &thorn;ou drawe and cu&ntail;
+witte, whilke are &thorn;e seue&ntail; dedly synnes, and &thorn;e
+seue&ntail; vertus, and &thorn;e ten <MILESTONE N="200" UNIT="leaf">comandmentis, and &thorn;e tuelfe
+artycles of &thorn;e trout&hbar;e, and &thorn;e seue&ntail;
+sacramentis of Haly Kyrke and &thorn;e
+ 
+<!-- 0013.p24-25.txt -->
+<PB N="24">
+
+
+seue&ntail; gyftis of &thorn;e Haly Gaste, and &thorn;e seue&ntail;
+werkes of mercy, and &thorn;e seue&ntail; vertuz of &thorn;e
+Gospe&llbar;, and &thorn;e seuen prayers of &thorn;e pater noster.</P>
+
+<P>&THORN;ir are &thorn;e seue&ntail; dedly synnes : &mdash; </P>
+
+<P>Pryde and Envy, Ire, Slout&hbar;, Couetyse, Glotony and Lechery.
+Pryde es lufe of vnkyndly heghyng; and &thorn;ar-of comes &thorn;ir
+seuen vnbouxomnes agayne God, or agayne souerayngne, &thorn;at es to
+say, to lefe &thorn;at &thorn;at es commandyd, and to do &thorn;at
+that es defendyde.  The to&thorn;er branc&hbar; of pride es surquytry,
+&thorn;at es, to vndirtake thyng ouer his powere, or wenys to be mare
+wyse &thorn;an he es, or better &thorn;an he es, and auauntez hym of
+gude &thorn;at he hase of o&thorn;er, or of i&llbar; &thorn;at he hase
+of hym-selfe.  The thrid braunche of pride es ypocrisye, &thorn;at es,
+whe&ntail; he feynys hym to hafe gudnes &thorn;at he hase noghte, and
+hydes &thorn;e wykkednes &thorn;at he hase.  The fert&hbar;
+braunc&hbar; of pride es despyte of thyne euencriste&ntail;, &thorn;at
+es, when man lesses gudnes of o&thorn;er, for-thi &thorn;at hym selfe
+suld seme &thorn;e bettir.  The fyfte braunche, &thorn;at es, when man
+makes lyknes be-twyx his awe&ntail; wykkednes and o&thorn;er mens
+wikkednes, &thorn;at his awe&ntail; may seme &thorn;e lesse.  The
+sexte braunche of Pryde es vnschamefulnes, &thorn;at es, when men hase
+noghte schame of i&llbar; ded aperte.  The seue&ntail; braunche of
+pryde es Elacio&ntail;, &thorn;at es, when a man hase heghe herte,
+&thorn;at he wi&llbar; no&yogh;te suffire to felawe ne mayster.  Dere
+frende, &thorn;ou sa&llbar; wit &thorn;at thre thynges ere, whare-of a
+man Enprides hym, &thorn;at es to say, of &thorn;e gudez &thorn;at he
+hase of kynde, als fairenes or streng&hbar;e or of gude witte or of
+nobi&llbar;e kynredy&ntail;.  The to&thorn;er thyng es &thorn;ait men
+hase of purchase, als cunnynge, Grace, gud loos, or dygnyte or offyce.
+The thirde thynge es erthely thynge or erthely gude, als clethynge,
+houssynge, Rentez, Possessio&ntail;, Men&yogh;e, horssyng, and honour
+of &thorn;is worlde.  Pride makes man to be of gret herte and heghe,
+to despyse his euencriste&ntail;, and to &yogh;erne heghenes and
+maystry ouer o&thorn;er.  The to&thorn;er dedly sy&ntail; es `Envy.'
+And &thorn;at es, Ioye of o&thorn;er mens harme, and sorowe of
+o&thorn;er mens wele-fare.  And &thorn;at may be in herte with
+lykynge, or in mout&hbar; with bakbyttynge, or in werke with of mens
+gudnes wythdrawyng, or e&llbar;s with i&llbar; procurynge.
+<PB N="25">
+
+
+Envye mase man to hafe &thorn;e herte hevy of &thorn;at he sese
+o&thorn;er men mare worthi &thorn;an he in any thyng.  The third dedly
+sy&ntail; es `wret&hbar;e,' &thorn;at es, ane vnresonaby&llbar;
+temperoure of herte; and of it comes stryfes and contekes
+schamefu&llbar;, and dyuerse wordes, and deuyouse and wikked
+sclandirs.  <MILESTONE N="200 bk." UNIT="leaf">The fert&hbar;e dedly sy&ntail; es `slouthe;' and
+&thorn;at mase manes herte hevy and slawe in gude dede, and makes
+ma&ntail; to yrke in prayere or halynes, and puttes man in wykkednes
+of wanhope, for it slokyns &thorn;e lykynge of gastely lufe.  &para;
+The fyfte dedly sy&ntail; es `couetyse,' and &thorn;at es, ane
+vn-mesurabi&llbar; luffe to hafe erthely gudes; and it destroyes &
+blyndes manes herte.  And &thorn;are-of commes tresones, False athes,
+wykked reste, Malice, and hardnes of herte agaynes mercy.  &para; The
+sexte dedly sy&ntail; es `glotony;' and &thorn;at makes ma&ntail; to
+serue and to be bouxome ti&llbar; wykked lykynges of &thorn;e
+flesc&hbar;e, &thorn;e whilke man suld maister and ouercome with
+mesure.  Of glotony commes vayne Ioy, lyghtnes, and litti&llbar;
+vndirstandynge.  &para; The seue&ntail; dedly sy&ntail; es `lecherye;'
+and &thorn;at mase manes herte to melte, and to playe thare &thorn;are
+his herte lykes, and heldes, and &thorn;at with-owte&ntail; gouernynge
+of resoune.  Of lechery commes blyndynge of herte, in prayere
+vnstabilnes and fulle hastynes, lufe of hym selfe, hatrede&ntail; of
+Godde, lufe of &thorn;is worlde, vgglynes, and whanhope of &thorn;e
+blysse of heue&ntail;.  &para; Dere frende, thire are &thorn;e
+seue&ntail; dedly synnes; and wele ere &thorn;ay callid dedly synnes,
+For Pride twynnes fra man his Godde, Envy his euencriste&ntail;, Ire
+hym-selfe twynnes, Slouthe hym tourmentes, Couetyse hym be-gyles,
+Glotony hym dessayues, and Lecherye hym in thraledome settis.</P>
+
+<P>Nowe hase &thorn;ou herde &thorn;e seue&ntail; sekenes of manes
+saule.  &para; Sythe&ntail; aftirwarde commes &thorn;e souerayne
+leche, and takes &thorn;ere medcynes, and waresche ma&ntail; of
+&thorn;ese seue&ntail; seknes, and stabi&llbar;s hym in &thorn;e
+seue&ntail; vertus&yogh;, thurg&hbar; &thorn;e gyftes of &thorn;e Haly
+Gaste.  &THORN;e whilke are &thorn;ese, &para; &thorn;e gaste of
+wysdom and vndirstandynge, &thorn;e gaste of consaile and of
+stalworthenes, &thorn;e gaste of cunnynge and of pete, and &thorn;e
+gaste of drede of Godde Almyghty. Thurghe &thorn;ese gyftes oure Lord
+Ihesu lerres ma&ntail; a&llbar; &thorn;at he hase myster ti&llbar;
+&thorn;e lyfe &thorn;at es callid actyfe, and til &thorn;e lyfe called
+contem-
+
+
+ 
+<!-- 0014.p26-27.txt -->
+<PB N="26">
+
+
+platyfe.  And se howe firste, ma&ntail; suld lefe &thorn;e euy&llbar;
+and do &thorn;e gude: lefe &thorn;e euy&llbar;, &thorn;at teches vs
+&thorn;e gaste of drede of Godd Almyghty; and do &thorn;e gude,
+[&thorn;at] leres vs &thorn;e gaste of pete.  And for-&thorn;i
+&thorn;at twa thynges are &thorn;at lettis vs to do gude, that es at
+saye, wele-fare and tribulacione of &thorn;is worlde; For wele-fare
+desayues vs with losengery, tribulacio&ntail; with hardnes of noyes &
+dysses; for-&thorn;i sa&llbar; &thorn;ou despyse &thorn;e wele-fare of
+&thorn;is worlde, &thorn;at &thorn;ou be noghte &thorn;er-with
+dessayued; and &thorn;at leres &thorn;e &thorn;e gaste of cunnynge;
+and &thorn;ou sa&llbar; stallwort&hbar;ly suffire tribulacyo&ntail;,
+&thorn;at &thorn;ou be noghte ouercomme&ntail; ; and &thorn;at teches
+vs &thorn;e gaste of stallworthenes.  And &thorn;ire foure suffice
+ti&llbar; &thorn;e lyfe &thorn;at es callid actyfe.  And &thorn;e
+to&thorn;er thre fallys to &thorn;e lyfe &thorn;at es callid
+contemplatyfe, <MILESTONE N="201" UNIT="leaf">For thre maners of contemplacio&ntail;.  Ane es in
+creaturs; and &thorn;at leres &thorn;e gaste of vndirstandynge.  The
+to&thorn;er es in Haly Writte, whare &thorn;ou sese whatte &thorn;ou
+doo & what &thorn;ou sa&llbar; lefe, and &thorn;at leres &thorn;e the
+gaste of consaile.  The thirde manere es in Godde Hym-selfe ; and
+&thorn;at leres vs &thorn;e gaste of wysdo&mtail;.  Now &thorn;ou sese
+thurg&hbar; &thorn;e gyftes of Ihesu, how He es besy abowte oure hele.
+Eftire &thorn;is sa&llbar; &thorn;ou wiete whilke ere &thorn;e
+te&ntail; comandementis.  &para; &THORN;e firste comandement es
+&thorn;is, `Thow sa&llbar; wirchippe bot a Godde, &thorn;i Lorde, and
+ti&llbar; Hym anely &thorn;ou sa&llbar; serue.'  &THORN;at es at say,
+wyrchipe Hym with righte trout&hbar;e, Serue vnti&llbar; anely with
+gude werkes.  Here sa&llbar; &thorn;ou thynke if &thorn;ou hafe lelly
+serued Godde & wirchiped Godde; if &thorn;ou hafe seruede Hym ouer
+a&llbar; thynge, if &thorn;ou hafe &yogh;olden Hym &thorn;at that
+&thorn;ou hyghte, or if &thorn;ou hafe done lesse penance, and if
+&thorn;ou hafe &yogh;oldy&ntail; Hym &thorn;at that &thorn;ou hyghte
+Hym in &thorn;i cristyndo&mtail;, That was, to forsake &thorn;e
+deue&llbar;e and a&llbar; his werkes, and in God lelly to trowe.  And
+thurg&hbar;e &thorn;is commandement es ma&ntail; ordaynede ynence God
+&thorn;e Fadire.  &para; &THORN;e to&thorn;er commandement es defendid
+to take Goddes name in vayne; and lying and falsenes &thorn;are-in es
+defendi&dtail;; and thurg&hbar;e &thorn;is commandement es man
+ordaynede ynence God&dtail; &thorn;e So&ntail;, &thorn;at saise
+Hym-selfe `I am sothefastnes.'  &para; &THORN;e thirde commandemente
+es, `vmbythynke &thorn;e &thorn;at &thorn;ou kepe &thorn;e
+haly-dayes,' &thorn;at es to saye, in &thorn;ine awe&ntail; herte, to
+kepe &thorn;e in riste and pees with-owtte&ntail; seruage of sy&ntail;
+or of bodyly
+<PB N="27">
+
+
+dedis.  And &thorn;is commandement ordaynes ma&ntail; to reschayfe
+&thorn;e Haly Gaste.  &THORN;ise thre commandmentes lerres ma&ntail;
+howgates he sa&llbar; hafe hym ynence God&dtail; &thorn;e Trynite, to
+whas lyknes he es made in saule.  &THORN;e o&thorn;er seue&ntail;
+commandementes leres man how he sa&llbar; hafe hym ynence his
+euencriste&ntail;.  &para; &THORN;e firste es, `&thorn;ou sa&llbar;
+honour &thorn;i fadire and &thorn;i modire fleschely and gastely, and
+&thorn;at in twa maners, &thorn;at es to say, &thorn;at &thorn;ou be
+bouxom to thaym in reuerence and honour, and &thorn;ou helpe
+&thorn;a&mtail; at thy powere in a&llbar; thynges &thorn;at &thorn;ay
+hafe myster, &thorn;at &thorn;ou be of lange lyfe in erthe; For if
+&thorn;ou wi&llbar; be of lange lyfe, it es reso&ntail; &thorn;at
+&thorn;ou honoure thay&mtail; of whaym &thorn;ou hase &thorn;e lyfe;
+For he &thorn;at wi&llbar; noghte honoure hym thurg&hbar; whaym he es,
+it es noghte righte &thorn;at he be mare &thorn;an he es.  &para;
+&THORN;e to&thorn;er commandement es &thorn;is, `&THORN;ou sa&llbar;
+sla na man.'  Here sa&llbar; &thorn;ou wyt &thorn;at slaughter es of
+many maneres.  For &thorn;er es manes-slaghter of hand, of tunge, of
+herte.  Mannes-slaynge of hande es when a ma&ntail; slaes ano&thorn;er
+with his handez, or when he duse hym in bandis of dede, als in
+preso&ntail; or in o&thorn;er stede &thorn;at may be encheso&ntail; of
+his dede.  Manes-slaynge of tunge es in twa maners, thurghe
+commandement, or thurg&hbar;e enticement.  Manes-slayng of herte es
+alswa one twa maners, &thorn;at es, whe&ntail; me&ntail; &yogh;ernys
+and couaytes ded of o&thorn;er, and when he suffyrs man to dy, <MILESTONE
+N="201 bk." UNIT="leaf">and
+wi&llbar; noghte delyuer hym if &hbar;e hafe powere.  &para; &THORN;e
+thirde commandement es &thorn;is: `&THORN;ou sa&llbar; do na lechery;'
+and &thorn;at es ryghte. Wha-sa wi&llbar; hafe &thorn;e lyfe
+with-owtte&ntail; corupcyone in &thorn;e Ioy of heue&ntail;, hym
+byhoues kepe his lyfe &thorn;at es dedly, with-owtte&ntail; corupcione
+of body.  &para; The ferthe commandement es &thorn;is, `&THORN;ou
+sa&llbar; do na thyfte ne na falsenes;' and &thorn;at es ryghte.  For
+he &thorn;at wi&llbar; safe o&thorn;er menes lyfe, he sa&llbar; noghte
+do away &thorn;at that moghte his lyfe sustayne.  &para; The fyfte
+commandement es &thorn;is, ` &THORN;ou sa&llbar; noghte bere false
+wittnes agaynes thyne euencristy&ntail; wit&hbar; hym &thorn;at
+wi&llbar; noye hym or sla hym.'  And &thorn;at es ryghte; For he
+&thorn;at wi&llbar; noghte sckathe his euencristy&ntail;, he sa&llbar;
+noghte consente, ne na consaile gyffe, to do hym i&llbar;.  &para;
+&THORN;e sexte commandement and &thorn;e seuen&dtail; er &thorn;ir,
+`&THORN;ou sa&llbar; noghte couaite &thorn;i neghtboure wyfe, ne
+&thorn;ou sa&llbar; noghte couaite his
+ 
+<!-- 0015.p28-29.txt -->
+<PB N="28">
+
+
+house, ne nane of his gude wrangwysly,' For he &thorn;at hase wykked
+wi&llbar; and i&llbar; Entente in his herte, he may noghte lang
+with-haldynge hym fra wykkide dede; and &thorn;er-fore, if &thorn;ou
+wi&llbar; noghte do lecherye, &thorn;ou sa&llbar; noghte consente to
+ma&ntail; ne to woma&ntail; &thorn;at it duse; and if &thorn;ou
+wi&llbar; noghte stele, &thorn;ou sa&llbar; noghte couayte o&thorn;er
+mennes thynges in &thorn;i herte.  Dere frende, &thorn;ir are &thorn;e
+ten commandementes &thorn;at God gafe ti&llbar; Moyses in the mounte
+of Synay.  The thre fyrste er pertenande to &thorn;e lufe of God, and
+the to&thorn;er seue&ntail; to &thorn;e lufe of &thorn;i-selfe and of
+thyne eue&ntail; crysty&ntail;.</P>
+
+<P>Now, efter, sa&llbar; &thorn;ou wyt whilke ere &thorn;e seue&ntail;
+vertus&yogh;, &thorn;at es to saye &para; Trouthe, Trayste, and lufe,
+Wysedo&mtail; and Rightwysenes, Mesure and Force.  Of &thorn;e same
+matire er &thorn;e seue&ntail; vertus &thorn;at &thorn;e te&ntail;
+commandementis, bot &thorn;is es &thorn;e varyance be-twyx thaym: The
+te&ntail; commandmentis kennes vs what we sa&llbar; do, and &thorn;e
+seue&ntail; vertus kennes vs how we sa&llbar; doo.  The thre fyrste,
+&thorn;at es to say, Trouthe, trayste and lufe, ordaynes the how
+&thorn;ou sa&llbar; lyfe als to God&dtail;: &thorn;e to&thorn;er foure
+how &thorn;ou sa&llbar; ordayne thyne awe&ntail; lyfe &thorn;at
+sa&llbar; lede till &thorn;e Ioye of heue&ntail;.  Dere frende, the
+awe to wyt &thorn;at we ere a&llbar; made for ane En&dtail;, &thorn;at
+es to say, for to knawe Godde, to hafe Hym, and to lufe Hym.  Bot thre
+thynges er nedefu&llbar; at puruaye ti&llbar; oure cunnynge, That es
+to wyte, whedyr we sa&llbar; ga, and &thorn;at we wy&llbar; comme
+thedyre, and &thorn;at we hafe trayste to com thedyre; For grete foly
+ware it to be-gy&ntail; &thorn;e thynge mane may noghte ende;
+&yogh;itte, one &thorn;e to&thorn;er syde, &thorn;e mane &thorn;at
+wi&llbar; wyele doo, hym nedide to hafe wysdo&mtail;, myghte, and
+wi&llbar;; &thorn;at es to say, &thorn;at he kon&ntail; doo, and
+&thorn;at he may doo, and &thorn;at he wy&llbar; doo.  Bot
+for-&thorn;i &thorn;at we hafe noghte cunnynge, myghte, ne wi&llbar;
+of oure selfe, for-&thorn;i hase Godde gyfe&ntail; vs trouthe, for to
+fulfi&llbar; &thorn;e defaute of oure myghte.  Sothefaste lufe es for
+to ordayne oure wi&llbar; to &thorn;e tane and to &thorn;e
+to&thorn;er.  Trouthe ordaynes vs to Godde &thorn;e So&ntail;, to
+whay&mtail; es appropyrde Wysdo&mtail;; Trayste, ti&llbar; God&dtail;
+&thorn;e Fadyre, to whaym es appropyrde myghte; Lufe, to &thorn;e Haly
+Gaste, ti&llbar; whay&mtail; es appropyrde gudnes.  And &thorn;are
+trouthe makes vs to hafe knawynge; and &thorn;at knaweynge vs sayse
+&thorn;at He es wondyrfu&llbar;; Fre es He &thorn;at
+<PB N="29">
+
+
+one &thorn;is manere and &thorn;us largely gyffes of His gudnes; and
+of &thorn;at comes trayste, and [of] &thorn;at knawynge, &thorn;at
+sais &thorn;at He es gude Commes &thorn;e thyrde Sothefastnes,
+&thorn;at es lufe, For ylke a thynge luffes kyndely &thorn;e gude.</P>
+
+<MILESTONE N="202" UNIT="leaf"><P> Dere frende, here sa&llbar; &thorn;ou wyte whilke are &thorn;e
+twelue artycles of &thorn;e trouthe.  &para; The firste es &thorn;is,
+&thorn;at Godde es ane in Hym-selfe and thre in persouns,
+with-owtte&ntail; begynnynge, and with-owtte&ntail; Endynge, and
+&thorn;at a&llbar; thynges [were] made of noghte with His worde.
+&para; &THORN;e to&thorn;er artecle es, &thorn;at Goddes so&ntail;
+tuke flesche and blode of &thorn;e blyssed mayde&ntail; Marie, and was
+borne of hire, sothefaste God&dtail; and sothefaste ma&ntail;. &para;
+&THORN;e thirde es, &thorn;at He was dede and graue&ntail;, noghte for
+nede, Bot for to by vs of His fre wi&llbar;. &para; The ferthe artecle
+es, &thorn;at &thorn;e same Ihesu rase fra dede to lyfe, and we
+sa&llbar; ryse alswa.  &para; The fyfte artecle es, &thorn;at &thorn;e
+same Sothefaste God and ma&ntail;, steig&hbar;e vp in ti&llbar;
+heue&ntail; in manhed and godhede; and we sa&llbar; steig&hbar;e vp
+alswa thurg&hbar; His grace. &para; &THORN;e sext artecle es baptymme,
+&thorn;at mase ma&ntail; clene of sy&ntail; &thorn;at he drawes of
+kynde, and gyffes grace to clense. &para; The Seuen&dtail; artecle es
+confirmacio&ntail;, &thorn;at confermys &thorn;e Haly Gaste one
+ma&ntail; &thorn;at es cristenede.  &para; &THORN;e aughtened artecle
+es penance, &thorn;at duse awaye a&llbar; maner of sy&ntail; dedly and
+venya&llbar;.  &para; &THORN;e nynde es &thorn;e Sacrament of &thorn;e
+Auter, &thorn;at confermys &thorn;e penance, and gyffes hym force
+&thorn;at he fa&llbar; noghte efte in sy&ntail;, and vphaldes
+hy&mtail; and reconsailles hym. &para; &THORN;e ten&dtail; artecle es
+Ordyre, &thorn;at gyffes powere ti&llbar; &thorn;ay&mtail; &thorn;at
+are ordeynede to do &thorn;aire Offece and to do &thorn;e sacramentis.
+&para; &THORN;e elleuen&dtail; artecle es Matrimone, &thorn;at
+defendis dedly sy&ntail; in werke of generacyo&ntail; by-twyx
+ma&ntail; and woma&ntail;.  &para; &THORN;e twelfed artecle es
+Enoyntynge, &thorn;at me&ntail; enoyntes &thorn;e seke in pere&llbar;
+of dede, for alegeance of body and saule.</P>
+
+<P>&para; Dere frende, aftyre sa&llbar; &thorn;ou wyt whilke are
+&thorn;e foure vertus cardynalles, thurg&hbar; whilke a&llbar; manes
+lyfe es gouernede in &thorn;is worlde, &thorn;at es, &para; Cunnynge
+and Rightwisnes, Force and Mesure.  Of thir foure, saise &thorn;e Haly
+Gaste in &thorn;e buke of Wysdo&mtail;, &thorn;at &thorn;are es na
+thynge mare profytabi&llbar; ti&llbar; man in ert&hbar;e; and so nowe,
+whare-fore, wha-sa walde any thynge wele do, firste hy&mtail; byhouys
+&thorn;at he kon&ntail; chese &thorn;e i&llbar; fra &thorn;e gude, and
+of twa gude, chese
+ 
+<!-- 0016.p30-31.txt -->
+<PB N="30">
+
+
+&thorn;e bettire and leffe &thorn;e lesse gude; and &thorn;is es the
+vertu &thorn;at es callede ryghtwysnes. <NOTE ID="n7">The description of the virtue of Prudence is here given to Righteousness or Justice, the account of which is omitted.</NOTE>  And for-&thorn;i &thorn;at
+twa thynges lettes ma&ntail; to do wele and lefe &thorn;e y&llbar;,
+&thorn;at es at say, wele-fare of &thorn;is worlde, for it dessayfes
+hy&mtail; with false vanytes; &thorn;e to&thorn;er es
+tribulacyo&ntail;, to putt hym dow&ntail; with many scharpnes: agaynes
+wele-fare sa&llbar; &thorn;ou hafe mesure, &thorn;at &thorn;ow be
+noghte ouer hye.  And &thorn;is vertu es called `temperance.'  And
+agayne aduersyte sa&llbar; &thorn;ou hafe `hardynes,' &thorn;at
+&thorn;ou be noghte caste&ntail; downne.  And &thorn;at vertue es
+callyde Force or streng&hbar;e.</P>
+
+<P>&para; Here-eftyre sa&llbar; &thorn;ou wyte whylke are &thorn;e
+seue&ntail; werkes of mercy. &para; The firste werke of Mercy es, to
+gyffe mete to &thorn;e hunngry.  The to&thorn;er es, to gyffe drynke
+to &thorn;e thrysty.  The thirde es, to clethe &thorn;e nakede.
+&THORN;e ferthe es, to herbere &thorn;e herberles.  &THORN;e fyfte es,
+to vesete &thorn;a&mtail; &thorn;at ere in prisonne.  <MILESTONE
+N="202 bk." UNIT="leaf">&THORN;e sexte
+es, to comfort&hbar; &thorn;e seke.  The Seuen&dtail;, to bery
+&thorn;e dede.  Thyse are &thorn;e seue&ntail; werkes of mercy
+&thorn;at are langande to &thorn;e body.  Bot nowe may &thorn;ou say
+to me, `how sulde I, &thorn;at es in Relygyo&ntail;, and noghte hase
+to gyffe at ete ne at drynke, ne clathes to &thorn;e nakede, ne
+herbery to &thorn;e herberles, For I am at o&thorn;er mens wi&llbar;,
+and noghte at my&ntail; awe&ntail; ? For-thi ware it better &thorn;at
+I ware seculere, &thorn;at I myghte do &thorn;ise werkes of mercy.'
+A, dere frende, be noghte begylede! Better it es to hafe pete and
+compassione in &thorn;i herte of hym &thorn;at hase mysese and
+wrechednes, Thane &thorn;ou hade a&llbar; &thorn;is werlde to gyffe
+for charyte; For it es bettir wyt&hbar; compassio&ntail; to gyffe
+&thorn;i-selfe als &thorn;ou erte, &thorn;an it es to gyffe &thorn;at
+that &thorn;ou hase.  There-fore, dere frende, gyffe thi-selfe; and
+&thorn;an gyffes &thorn;ou mare &thorn;an es in a&llbar; &thorn;is
+worlde.  Bot now may &thorn;ou Say me one &thorn;is manere : &mdash;
+`Sothe it es &thorn;at it es better to gyffe hy&mtail;-selfe &thorn;an
+it es to gyffe of his, bot better es &thorn;e tane and &thorn;e
+to&thorn;er &thorn;an es ane be it selfe, for lesse es a gud &thorn;an
+twa.'  It es noghte swa: For whethire es better be callede Godde, or
+His seruande.  Thow wate wele &thorn;at es better to be- callede
+God&dtail;.  Bot &thorn;ase &thorn;at suffirs hunngere, thryste,
+caulde and defaute, and o&thorn;er wrechidnes and mysese, calles oure
+Lorde
+<PB N="31">
+
+
+Ihesu Criste Hym-selfe ; For He saise &thorn;us in &thorn;e Gosepelle,
+`What als &thorn;ou dyde to &thorn;e leste of my&ntail;, &thorn;ou did
+to me.'  Saynt Barnarde says, 'Thire pure hase noghte in erthe, ne
+thire riche hase noghte in heue&ntail;; and &thorn;are-fore, if
+&thorn;e Riche wi&llbar; it hafe, thaym byhoues bye it at &thorn;e
+pure.'  Now wate I wele &thorn;ou couaytes to wyte whilke are verray
+pure, and whilke noghte.  Now herke&ntail; with deuocyo&ntail;.
+Su&mtail; are &thorn;at hase reches and lufes thaym, and &thorn;ase
+are &thorn;e haldande and &thorn;e couaytourse of &thorn;is worlde.
+Othere are &thorn;at hase &thorn;a&mtail; noghte, bot thay luffe
+thay&mtail;, and thay walde hafe thay&mtail; gladly; and &thorn;ase
+are &thorn;e wrechide beggers of &thorn;e worlde, and &thorn;e false
+folke in religyo&ntail;, and &thorn;ase are als riche and richere
+&thorn;a&ntail; &thorn;e o&thorn;er.  And of tha&mtail; Ihesu saise in
+&thorn;e gospe&llbar;e &thorn;at `lyghtere it ware a camelle to passe
+thurg&hbar;e a nedi&llbar; eghe, &thorn;an &thorn;e riche to co&mtail;
+in-to &thorn;e blysse of heue&ntail;.'  Su&mtail; are &thorn;at hase
+reches, bot thay lufe thaym noghte; Noghte for-thy &thorn;ay wi&llbar;
+wele hafe &thorn;a&mtail;; and &thorn;ase are &thorn;e gud me&ntail;
+of &thorn;e worlde &thorn;at dispendis wele that at &thorn;ay hafe.
+Bot fone are of &thorn;ase.  &YOGH;it it are o&thorn;er &thorn;at hase
+noghte reches, ne lufes noghte thaym, ne wi&llbar; noght hafe
+&thorn;a&mtail;; and &thorn;ase are &thorn;e gude folke &thorn;at are
+in religio&ntail; and &thorn;ase are sothefastly pure; and &thorn;airs
+es &thorn;e Ioye of heue&ntail;, For &thorn;at es the benyso&ntail; of
+&thorn;e pure.  Than it behufes &thorn;at &thorn;e riche hafe &thorn;e
+reuere of &thorn;at benyso&ntail;; and &thorn;arefore may I say,
+`Blyssede be &thorn;e pouer, for &thorn;aires es &thorn;e
+kyngdo&mtail; and &thorn;e Ioye of heue&ntail;.'  And swa may I say of
+&thorn;e riche, For &thorn;airs es pyne of helle.  Alswa pouer
+&thorn;ay are &thorn;at hase pouerte and lufes na reches; and pouer
+&thorn;ay are &thorn;at hase reches and lufes pouert.</P>
+
+<P>&para; Now aftire &thorn;is, awe &thorn;e to wyte whylke are
+&thorn;e seue&ntail; prayers of &thorn;e Pater noster, &thorn;at duse
+away a&llbar; i&llbar; and purchase a&llbar; gude.  And &thorn;ase
+seue&ntail; prayers er contende in &thorn;e Pater noster, &thorn;e
+whilke oure Lorde Ihesu Criste kennde ti&llbar; His discyples, how
+&thorn;ay [suld] pray Godd &thorn;e Fadire, and said thaym one
+&thorn;is manere, `Whe&ntail; &yogh;e<MILESTONE N="203" UNIT="leaf"> sa&llbar; praye, one &thorn;is
+wyese sa&llbar; &yogh;e say, Pater noster qui es in celis, &amp;c.'
+Now, my frende, wit &thorn;ou &thorn;at oure Lorde Ihesu Cryste kennes
+vs in &thorn;e gospe&llbar;e to make &thorn;is prayere.  And
+&thorn;are-fore I walde at &thorn;ou wyste at &thorn;e begynnynge
+whate es prayere or orysone, and sythy&ntail; &thorn;at &thorn;ou
+vndirstande
+ 
+<!-- 0017.p32-33.txt -->
+<PB N="32">
+
+
+&thorn;e prayere of &thorn;e pater noster.  Prayere or Oryso&ntail; es
+noghte elles bot &yogh;ernyng of saule, with certayne trayste
+&thorn;at it commes &thorn;at &thorn;ou prayes.  And in &thorn;at
+trayste vs settis Ihesu Criste whe&ntail; He kennes vs to call Godde
+oure fadyre &thorn;at es in heue&ntail;, For in Hym sa&llbar; man hafe
+certayne trayste &thorn;at He may and wi&llbar; a&llbar; gudnes gyffe
+&thorn;at oure saule ka&ntail; &yogh;erne, and meki&llbar; mare;
+&thorn;e whilke es betakynde by &thorn;ise wordes, Qui es in celis,
+&thorn;at es to say, &thorn;e whilke es in heue&ntail;.  For if Godde
+wi&llbar; ca&llbar; Hym-selfe oure fadyre, &thorn;an He makes vs to
+wiet &thorn;at He lufes vs als childyre, and at He wi&llbar; gyfe us
+a&llbar; &thorn;at we hafe myster of.  Bot certanly if a&llbar;
+&thorn;e lufe &thorn;at euer had fadire or modire vn-to &thorn;aire
+childyre, or a&llbar; othire lufes of &thorn;is worlde ware gedirde
+to-gedyre in a lufe, and &yogh;it &thorn;at lufe ware multipliede als
+meki&llbar; als mans herte moghte thynke, &yogh;it it moghte na thynge
+atteyne to &thorn;e lufe &thorn;at Godde oure fadyre hase vn-ti&llbar;
+vs, &thorn;are whare we are hys enmys.  And &thorn;at sa&llbar; we
+wele see thurg&hbar; &thorn;e grace of Godde, If we se one what manere
+He is oure Fadyr, and what He has do&ntail; for vs.  Wit &thorn;ou,
+&thorn;at whe&ntail; God made a&llbar; creaturs of noghte, we rede
+noghte &thorn;at He made any creature ti&llbar; His lyknes bot
+ma&ntail; allanne; and &thorn;are-fore Godd He es, and makere of
+a&llbar; thynges of &thorn;e worlde, Bot He es noghte &thorn;aire
+fadyre; Bot vn-ti&llbar; vs, thurghe His awe&ntail; myghte fu&llbar;
+of mercy, es He Godd and makere and Fadyr, For &thorn;at our saule es
+lelly lyke vn-ti&llbar; &thorn;e lyknes of &thorn;e Fadyr, and
+&thorn;e So&ntail;, and &thorn;e Haly Gaste, &thorn;at ere hallyly a
+God&dtail; and persons thre.  And a&llbar; &thorn;is werlde He hase
+made to serue man, whils mane wi&llbar; duelle in His lele lufe als
+His awe&ntail; childyre.  Bot als tyte als we twy&ntail; fra &thorn;at
+lele lufe, for lufe of &thorn;is lyfe, or for any o&thorn;er thynge,
+we losse &thorn;e lordechipe of &thorn;is worlde, and becommes
+thralles dreryly to &thorn;e deue&llbar;e, &thorn;are we ware be-fore
+fre, and ayers of &thorn;e erytage of &thorn;e kyngdo&mtail; of
+heue&ntail;, and to welde &thorn;e welthe of &thorn;is werlde.  Allas
+may saye, Allas! Allas! what here es a sorowfu&llbar; chaunge whasa it
+vndyrstode ! Wit &thorn;ou wele &thorn;at here es gret lykynge of
+lufe, when Godd &thorn;at es with-owtty&ntail; begynnynge, and es
+withowtte&ntail; chaungeyng, and duellys with-owtty&ntail; Endynge,
+for He es al-&thorn;ir-myghtyeste and al&thorn;irwyseste, and alswa
+al&thorn;ire-beste
+<PB N="33">
+
+
+
+&thorn;at mannes herte may noghte thynke, in whaym es lufe and Ioy
+endles, here, I say, es taky&ntail; of gret lufe, &thorn;at He deyned
+Hym to make vs ti&llbar; His awe&ntail; lyknes righte als we had bene
+His awen chose&ntail; childyre, and moghte hafe lefte vs to be a
+litti&llbar; vyle matire als we ware made of oure modyr, &thorn;at
+vile es to neue&ntail; ; or He moghte hafe made vs at His wi&llbar;
+anyky&ntail; o&thorn;er bestis; and &thorn;a&ntail; had we dyede
+to-gedire, bathe body and saule.  Bot when He hade made vs man, and
+gafe<MILESTONE N="203 bk." UNIT="leaf"> vs &thorn;e saule to His awe&ntail; lyknes, (louede and luffede
+be &thorn;at Lorde !) for to be ayers of &thorn;e Erytage of
+heue&ntail; and lyfe in &thorn;at gret Ioye with-owtte&ntail; Ende,
+Now es na herte sa herde &thorn;at it na moghte nesche, and lufe
+Swylke a God&dtail; with all his myghte.  And his herte suld melte,
+filled of Ioy, if it thoghte sothely of &thorn;at grace &thorn;at oure
+Lorde hase do&ntail; ti&llbar; vs by-fore a&llbar; o&thorn;er
+creaturs. And &yogh;itt did He mare thurg&hbar;e His meki&llbar;
+mercy; For, whene we ware, thurg&hbar;e oure Sorowfu&llbar; sy&ntail;,
+twynnede fra God&dtail;, oure Sweteste Fadire, and become thralles to
+&thorn;e i&llbar; gaste, Than He, thurg&hbar;e His maste mercy, Sente
+His awe&ntail; Sonne, &thorn;at with Hym es God&dtail; in His Godede,
+for to take flesche and blode of &thorn;e Virgy&ntail; Marie,
+Mayde&ntail; and modyr, lastand in Ioy; and one &thorn;is manere did
+He &thorn;e dede.  In state of thra&llbar;e tuke He oure flesc&hbar;e
+to suffre &thorn;e gylteste pouerte, and schame, and noyes, and
+paynnes, &thorn;at neuer dyd i&llbar; ne na maner of sy&ntail;, and
+Sythe&ntail; delyuerde Hym ti&llbar; &thorn;e vileste dede, and
+&thorn;e schamefulleste &thorn;at man moghte thynke, to delyuer vs
+wreches of sorowfu&llbar; bandis, and of &thorn;e pynand preso&ntail;
+puttid in he&llbar;, and to make vs to comme ti&llbar; &thorn;e heghe
+heue&ntail;, whare we sa&llbar; be als kynges corounde in blyse, if we
+do &thorn;e wi&llbar; of &thorn;at swet Lorde, &thorn;at for vs
+ordeynede Hym to dye one &thorn;e crosse als &thorn;ofe He had benne a
+wykkid thefe.  Dere Frende, nowe hase &thorn;ou here twa thyngez in
+&thorn;e whilke Godde hase schewede vs &thorn;at He es oure fadire,
+and &thorn;at He lufes vs als His awe&ntail; childyre &thorn;are we
+are agayne Hy&mtail; with oure wykked sy&ntail;.  The firste es,
+&thorn;at He made vs ti&llbar; His awe&ntail; lyknes; and &thorn;e
+to&thorn;er es, &thorn;at He boghte vs fra presou&ntail; with His
+precyouse dede of His manhede.  For &thorn;e fyrste, es man
+halde&ntail; ti&llbar; Hym, for to lufe Hym with a&llbar; his
+herte. Bot &thorn;an may &thorn;ou aske, `what sa&llbar; I do Hym for
+&thorn;e to&thorn;er
+
+
+ 
+<!-- 0018.p34-35.txt -->
+<PB N="34">
+
+
+thynge?  For if I sa&llbar; wit&hbar; pouerhede lofe God&dtail;
+&thorn;e Fadyr, and lufe Hym and serue Him with a&llbar; my saule and
+with a&llbar; my herte in a&llbar; thynges, for-&thorn;i &thorn;at He
+made me of noghte and gafe me saule aftir His awe&ntail; lyknes,
+&mdash; als it was commandyd in &thorn;e alde lawe be-fore Godde was
+borne and be-com man for vs, &mdash; what moghte I now do Hym,
+whe&ntail; He, for me wrechid synnere, sa meki&llbar; Hym lawede
+&thorn;at He walde becomme ma&ntail;, and He gafe Hym to me,
+whe&ntail; He, thurghe His sweteste mercy, walde dye for me, and of
+&thorn;e maste noyouse and &thorn;e moste vile dede &thorn;at euer was
+thoghte ? I wate neuer what I may say here; For if I myghte lyffe a
+hundrethe &yogh;ere, and if I moghte in &thorn;at tym, ilk a day at a
+ty&mtail;, dye als vile ded als He for me dide, &yogh;it ne ware it
+noghte ynence His gret gyftez, when He es sothely said Goddes Sonne of
+heue&ntail;, and gaffe Hym selfe ti&llbar; vs, &thorn;at tynte was for
+sy&ntail; thurg&hbar;, and put in to &thorn;e pyne of helle, and
+&thorn;are, in &thorn;e dispytte of Hym, seruede to &thorn;e deuelle.
+How sulde we &thorn;a&ntail; &yogh;elde Hym &thorn;e gude gret gyfte,
+whe&ntail; He walde sende His awe&ntail; Sone to be pynede for oure
+sy&ntail; ?`</P>
+
+<P>Now I sa&llbar; lere the, if God gyffe me grace, how oure dere
+Fadir askes nane o&thorn;er store bot that we, with herte, knawe oure
+awe&ntail; Febillnes and oure wrechidnes, &thorn;at we hafe for oure
+awe&ntail; sy&ntail;.  <MILESTONE N="204" UNIT="leaf">Thane sa&llbar; we be in bitternes of penance,
+and crye ti&llbar; Hym faste mercy, &thorn;at He vs saue for His haly
+name, For of oure selfe hafe we noghte Hym for to &yogh;elde ;
+&thorn;are-fore said the prophete in &thorn;e psalme, Quid retribuam
+Domino pro omnibus que <CORR SIC="retrebuit" RESP="Perry">retribuit</CORR> michi ?  Calicem salutaris accipiam,
+et nomen Domini invocabo, etc'. &thorn;at es, 'what sa&llbar; I
+&yogh;elde to God for a&llbar; His gud gyftes &thorn;at He me gyffes
+als Lorde,with-owtte&ntail; my deserte? The coppe of hele I sa&llbar;
+take, and ca&llbar;e &thorn;e name of my lorde.'  The cope of hele
+whare-of dranke oure Lord Ihesu oure Saueour, &thorn;at es, the
+bytternes of &thorn;e penance in His grete pynes, and &thorn;at man in
+a&llbar; his thoghtez calles Godez name, &thorn;at sothefastly knawes
+&thorn;at he hase noghte of hym-selfe bot sorowe and synne.  And wit
+thou &thorn;at, if sothefastenes be sett faste in thi saule, &thorn;e
+mare &thorn;at &thorn;ou knawes &thorn;e for wrechide and feby&llbar;,
+&thorn;e mare sa&llbar; &thorn;ou
+<PB N="35">
+
+
+
+meke &thorn;e, and ca&llbar;e on Hys mercy.  And &thorn;us it was of
+oure swete Lady, mayde&ntail; and modyr; For scho had mare of grace
+&thorn;ane any in this lyfe, man or woma&ntail; &thorn;at euer was
+borne, Thare-fore scho halde hir lesse and lawere &thorn;an any
+o&thorn;er wyghte, and mare cryede scho mercy &thorn;an any o&thorn;er
+man, whe&ntail; sothefaste Goddes So&ntail; lighte in hir wambe.  My
+dere frende, se now aftir-warde why oure Lord Ihesu kennes vs in
+&thorn;e Gospelle to saye `oure Fadire,' and noghte `my Fadir'; For by
+&thorn;at wi&llbar; He ken&ntail; vs &thorn;at we suld gedyre a&llbar;
+men with vs in oure prayers, For a&llbar; ere oure brethire, crystende
+and vncristen&dtail; me&ntail;, For &thorn;at a&llbar; of a
+gouernaylle hafe we a Fadyr.  And &thorn;at &thorn;ou may &thorn;is
+thynge, thurghe &thorn;e grace of Godd, clerelyere See, Gyffe gude
+Entente ti&llbar; &thorn;at at I say.  Hym calles &thorn;ou `thi
+fleschely bro&thorn;er,' &thorn;at hase his body of &thorn;e same
+ma&ntail; and woma&ntail; of whaym &thorn;ou hase thyne.  Thane
+sa&llbar; &thorn;ou wele halde hym &thorn;i bro&thorn;er &thorn;at
+hase his saule of &thorn;e Same fadir of heue&ntail; of whaym
+&thorn;ou hase &thorn;i saule, and of swylke a kynd, and of swylke a
+lyknes; For als wele made Godd ilke ma&ntail; ti&llbar; lyknes of
+&thorn;e Trinyte als He did &thorn;e.  And &thorn;is bro&thorn;erhede
+mare suld we lufe, and mare dere halde, &thorn;an &thorn;e
+bro&thorn;erhede of &thorn;e flesche, in als meki&llbar; als &thorn;e
+saule es mare noby&llbar; &thorn;an &thorn;i flesche, and in als
+meki&llbar; als God&dtail;, oure fadir, of heue&ntail;, es mare
+nobi&llbar;, and mare for to lufe, &thorn;an oure fleschly fadir. And
+&thorn;at suld we do if we saghe als clerely wit&hbar; oure gastely
+eghe als we do with oure bodyly eghe.  Bot for-thy &thorn;at we see
+noghte bot with &thorn;e fleschely eghe, als it ware bestes, we hafe
+na knawynge ne na lufe bot of &thorn;at bro&thorn;erhede &thorn;at
+commes of &thorn;e flesche stynkande and foule.  Allas! Allas! what
+sorowfu&llbar; thynge thus hase blyndid vs!  Certis, na thynge mare
+blyndis manes saule &thorn;ane lufe of erthely thynge &thorn;at sonne
+takes ende.  For-&thorn;i behufes ma&ntail; lefe his propire
+wi&llbar;, if he wi&llbar; perfitly knawe &thorn;e lufe-somest
+bro&thorn;erhede.  Whare-of now meki&llbar; I hafe spoke&ntail;, For
+whate-sa-euer we hafe in body or in saule of gudnes or of <MILESTONE
+N="204 bk." UNIT="leaf">fayrenes, we
+hafe it of oure fadyr of heue&ntail;, God&dtail;, &thorn;at es
+ti&llbar; vs fadir, and Euenly ti&llbar; a&llbar; His creaturs, noghte
+anely for His makynge of noghte, ne for His gouernyng of His grace,
+for His purchasyage &thorn;at He made of vs &thorn;at ware tynt
+
+
+ 
+<!-- 0019.p36-37.txt -->
+<PB N="36">
+
+
+childir, with His flesche and His blode &thorn;at He for vs gafe, als
+Saynt Austy&ntail; &thorn;e nobi&llbar; clerke witnes.  He sayse
+`&thorn;e Fadir gaffe His So&ntail;, thurg&hbar; whaym He walde by vs
+thralles; He gafe &thorn;e Haly Gaste, thurg&hbar; whay&mtail; He
+walde purchase &thorn;e thralles in His childire.  &THORN;e Sonn, He
+gafe in pryse of raunso&ntail;; &thorn;e Haly Gaste, in preuelege of
+purchase; and &thorn;ar-fore &thorn;e Fadir kepis Hym selfe in Erytage
+ti&llbar; His childir &thorn;at He purchase[d].'  And &thorn;arefore,
+dere frende, na ma&ntail; sa&llbar; mystrayste of &thorn;e lufe of His
+swete Fadirhede, and of His dere pete; For mare es His mercy
+&thorn;a&ntail; a&llbar; oure wykkednes; For wha sa calles ti&llbar;
+Hym with a&llbar; his herte, with-owtte&ntail; faile He wi&llbar; here
+hy&mtail;, for He es fu&llbar; of mercy. And &thorn;are-fore, als I
+be-fore saide, with &yogh;ernynge of saule and certayne trayste, calle
+apo&ntail; Hym trewely with a&llbar; thi herte.  He es &thorn;i Fadir
+pereles, &thorn;at purchacecez &thorn;e pees; and saye traystely
+ti&llbar; Hy&mtail; als Hym-selfe vs lerede, Pater noster qui es in
+celis, &thorn;at es to say, Oure Fadir that es in heue&ntail;;
+sanctificetur nomen tuum, &thorn;at es to say, halyed be &thorn;i
+name; adveniat regnum tuum, it co&mtail;, &thorn;i kyngedo&mtail;;
+Fiat voluntas tua, sicut in celo et in terr&acirc;, &thorn;i wi&llbar;
+be donne, swa in erthe als it es in heue&ntail;; panem nostrum
+cotidianum da nobis hodie, Oure ylke day brede &thorn;ou gyffe vs to
+day; Et dimitte nobis debita nostra, sicut et nos dimittimus
+debitoribus nostris, and forgyffe vs oure dettis als we forgyffe our
+dettours ; Et ne nos inducas in temptacionem, and suffire vs noghte be
+ledde in-to fandyngis, Set libera nos a malo, bot delyuer vs fra
+a&llbar; i&llbar; thynges Amen !  &THORN;at es to say, Swa mot it be!
+Now, my dere frende, &thorn;ou sa&llbar; wyt &thorn;at &thorn;is
+Oryso&ntail; passes a&llbar; o&thorn;er prayers, pryncypally in twa
+thynges, &thorn;at es to say, in worthynes and in profyte.  In
+worthynes, for &thorn;at God Hym-selfe mad it; and for-&thorn;i do
+&thorn;ay gret schame and gret vnreuerence ti&llbar; Ihesu, Goddes
+So&ntail;, &thorn;at takes &thorn;a&mtail; ti&llbar; wordis rynnand
+and curius, and leues &thorn;e prayere &thorn;at He vs kennede,
+&thorn;at wate a&llbar; &thorn;e wi&llbar; of God&dtail; &thorn;e
+Fadir, and &thorn;e whilke orysone commes mare ti&llbar; His plesynge,
+and whate thynges &thorn;e wrechede caytyfe hase myster at pray fore.
+Alswa, als I hafe sayde, He wate anely a&llbar; &thorn;e Fadir
+wy&llbar;, and He wate a&llbar; oure nede; and &thorn;are-fore a
+hundrethe thousande er
+<PB N="37">
+dyssayued with multyplicatione of wordes and of orysouns; For, when
+&thorn;ay wene &thorn;at &thorn;ay hafe grete deuocyo&ntail;,
+&thorn;a&ntail; hafe &thorn;ai a fulle fleschely lykynge, For-thy
+&thorn;at ilk a fleschely lykynge delytes &thorn;a&mtail; kyndely in
+swylke turnede langage ; and &thorn;are-fore I walde &thorn;at
+&thorn;ou war warre, For I say &thorn;e sykerly, &thorn;at it es a
+foule lychery for to delyte &thorn;e in rymmes and slyke gulyardy;
+&yogh;it one a-no&thorn;er syde, Saynt Austyne, and Saynt Gregore, and
+o&thorn;er halowes &thorn;at prayede als was &thorn;aire lykynge.  I
+blame noghte prayers, bot I blame &thorn;ase &thorn;at lefes &thorn;e
+prayere of God&dtail; &thorn;at Hym-selfe made, and lerede vs for to
+pray, &thorn;at es, Pater noster, and takes &thorn;a&mtail; ti&llbar;
+&thorn;e Orysons of a synfu&llbar; Saynte whare &thorn;ay fynde it
+wrette&ntail;, For oure Lorde Ihesus Hym-selfe sayse in the
+<MILESTONE N="205" UNIT="leaf">gospe&llbar;, `when &yogh;e wi&llbar; praye, prayes noghte with many
+wordes, bot praye one &thorn;is manere, Pater noster &amp;c'.'</P>
+
+<P>&para; Dere frende, &yogh;it sa&llbar; &thorn;ou wit one
+ano&thorn;er syde &thorn;at &thorn;e Pater noster passes a&llbar;
+o&thorn;er prayers in worthynes; For &thorn;are-in es contende
+a&llbar; thyngez what-sa we hafe myster of, ti&llbar; &thorn;is lyfe
+or ti&llbar; &thorn;e to&thorn;er.  For we praye &thorn;are-in
+God&dtail; &thorn;e Fadyr, &thorn;at He delyuer vs of a&llbar; illes,
+and &thorn;at He gyffe vs a&llbar; gudes, and &thorn;at He make vs
+swylke &thorn;at we may neuer do i&llbar;, ne &thorn;at we may noghte
+fayle of gude.  And now, a&llbar; &thorn;e i&llbar;e &thorn;at vs
+greues, ou&thorn;er es it, ille &thorn;at es donne, or it es i&llbar;e
+for to co&mtail;, or elles it es ille &thorn;at we suffire nowe.  Of
+&thorn;at ille &thorn;at es donne and passede, we praye oure swete
+Lorde &thorn;at He delyuer vs &thorn;er-of, whe&ntail; we say Dimitte
+nobis debita nostra, etc'.  We pray Hym delyuer vs of i&llbar;
+&thorn;at es for to co&mtail;, whe&ntail; we say et ne nos inducas in
+temptacionem.  Of illes &thorn;at we suffire nowe, we praye Hy&mtail;
+&thorn;at He delyuer vs, whe&ntail; we say Set libera nos a malo.
+&para; &YOGH;it, dere Frende, on a o&thorn;er syde, wit &thorn;ou
+&thorn;at a&llbar; maner of gude &thorn;at es, Ou&thorn;er it es
+erthely gude, or gastely gude, or gude lastande endles.  For erthely
+gude we praye, whe&ntail; we saye Panem nostrum cotidianum da nobis
+hodie; For gastely gude we praye, whe&ntail; we say Fiat voluntas tua,
+sicut in celo et in terra; For endles gude we praye, when we say
+Adveniat regnum tuum; and confermyng of a&llbar; this we praye,
+whe&ntail; we say Sanctificetur nomen tuum.
+
+
+ 
+<!-- 0020.p38-39.txt -->
+<PB N="38"></P>
+
+
+
+<P>&para; Now, my dere frende, &thorn;ese ere seue&ntail; prayers of
+&thorn;e Ewangelle &thorn;at oure Lorde Ihesu Criste kenne&dtail;
+ti&llbar; His dyscypi&llbar;s.  And &thorn;ou sa&llbar; wit &thorn;at
+&thorn;ese foure wordes &thorn;at comes be-fore, &thorn;at es to wit,
+Pater noster qui es in celis, leres vs how we sa&llbar; praye, and
+what oure selfe sa&llbar; be in prayere; For we sa&llbar;, in ylke ane
+Oryso&ntail;, haue foure thynges, &thorn;at es to say, perfite lufe
+ti&llbar; Hym ti&llbar; whaym we praye, and certayne trayste to haue
+&thorn;at at we praye fore, and stabi&llbar; trout&hbar; in Hym in
+whaym we trowe, and sothefaste mekenes of &thorn;at, that of oure
+selfe, na gude we haue.  Perfite lufe es vndirstande&ntail; in
+&thorn;is worde Pater, For ylke a creature kyndly lufes his Fadir.
+Certayne trayst es contende in &thorn;is worde noster; For if He be
+ours, &thorn;an may we sekerly trayst in Hym &thorn;at He es
+halde&ntail; ti&llbar; vs.  Stabi&llbar; trouthe es take&ntail; in
+&thorn;ise wordes Qui es ; For whe&ntail; we say qui es, &thorn;an
+graunt we wele &thorn;at God&dtail; es &thorn;at we neuer sawe; and
+&thorn;at es ryghte trout&hbar;e, For trouthe es na no&thorn;er thyng
+bot trowyng of thyng &thorn;at may noghte be sene.  Sothefaste mekenes
+es betakynde in &thorn;is worde In celis, For when we thynke how He es
+heghe in Ioy, and how we are here lawe in besynes, tha&ntail; we are
+mekide. Bot whe&ntail; we hafe festenede &thorn;ere foure thynges in
+oure hertes, &thorn;an may we hardyly praye, and saye with a&llbar;
+oure affeccyo&ntail;, Sanctificetur nomen tuum, &thorn;at es to say,
+`haly be thi name!' als swa stabi&llbar; &thorn;i name, &thorn;at es,
+Fadir, in vs, &thorn;at we be one &thorn;at manere &thorn;i childire
+&thorn;at we do na thyng &thorn;at be agaynes &thorn;i wi&llbar;, and
+that euer-mare we doo &thorn;at at commes to &thorn;i plesyng,
+thurg&hbar; grauntynge of &thorn;i grace.  And for-thi &thorn;at we
+may noghte euer-mare do &thorn;at perfitely whyls we ere in &thorn;is
+caytifede worlde, &thorn;are-fore pray we &thorn;us, and sayse,
+Adveniat regnum tuum, &thorn;at es to say, it co&mtail; ti&llbar; vs,
+&thorn;i kyngdo&mtail;, &thorn;at we regne in &thorn;e, Ihesu, in
+&thorn;is lyfe thurg&hbar; thi grace, and &thorn;ou in vs in &thorn;e
+to&thorn;er lyfe thurg&hbar; Ioy.  And &thorn;is ilke we praye for
+&thorn;ase &thorn;at are in purgatorie; and for-&thorn;i &thorn;at we
+neuer-mare may hafe <MILESTONE N="205 bk." UNIT="leaf">parte with Ioye of heue&ntail; if we do noghte thi
+wi&llbar; in erthe, &thorn;are-fore we praye thus, Fiat voluntas tua,
+sicut in celo et in terra, &thorn;at es to say, thi wi&llbar; be
+do&ntail;e, als in heue&ntail;, swa in erthe.  Alswa say `make vs to
+do &thorn;i wy&llbar;,' &thorn;at es to say, &thorn;ou gyffe
+<PB N="39">
+
+
+
+vs grace to do a&llbar; &thorn;at &thorn;ou commandes, and to lefe
+a&llbar; &thorn;at &thorn;ou defendis, and &thorn;at swa in erthe als
+in heue&ntail;, &thorn;at es to say, als Michaelle, and Gabrielle, and
+Raphaelle, Cheruby&ntail; and Seraphy&ntail;, and a&llbar; &thorn;e
+o&thorn;er ange&llbar;s and archange&llbar;s, and a&llbar; &thorn;ase
+&thorn;at are Ordeynede to &thorn;e endles lyfe in Ioy, in ilke a
+kynde, in ilke ane ordire, and in ilke ane elde, thi wille duse; and
+for-thi &thorn;at we may noghte do &thorn;i wi&llbar; whi&llbar;s we
+lyffe in &thorn;is body, if &thorn;ou ne sustayne vs noghte,
+&thorn;are-fore say we &thorn;us, Panem nostrum cotidianum da nobis
+hodie, &thorn;at es to say, Oure ilke day brede &thorn;ou gyffe vs
+to-day; als swa say `&thorn;ou gyffe vs Force in body and in saule,
+and hele, if it be &thorn;i wi&llbar;, of &thorn;e tane and offe
+&thorn;e to&thorn;er.'  And here es for to wit, &thorn;at &thorn;are
+es thre maners of brede, &thorn;at es, bodyly brede, &thorn;at es to
+say, Fode and clethynge; &thorn;are es brede gastely, &thorn;at es to
+say, of haly wrytte &thorn;e leryng; and &thorn;are es &thorn;e brede
+of Eukaryste, &thorn;at es &thorn;e grace in &thorn;e sacrament of
+&thorn;e autere, for to comfort&hbar;e &thorn;e kynde of &thorn;e tane
+and &thorn;e to&thorn;er.</P>
+
+<P>Bot for-thi &thorn;at we ere worthi na gudnes whills we ere
+bownde&ntail; in syn&ntail;, &thorn;are-fore say we &thorn;us, Dimitte
+nobis debita nostra, sicut et nos dimittimus debitoribus nostris,
+&thorn;is es to say, `Forgyffe vs oure dettis als we forgyffe oure
+dettours.' &thorn;ou sa&llbar; wyt &thorn;are oure synns byndis oure
+dettours to pynne; &thorn;are-fore we pray Ihesu to for-gyff vs
+synnes, &thorn;at es to say, a&llbar; &thorn;at we hafe synnede in
+thoghte, in worde and in dede; and &thorn;at ryghte als we for-gyffe
+ti&llbar; &thorn;ase &thorn;at hase mysdone agaynes vs.  And
+for-&thorn;i &thorn;at a lytti&llbar; vs helpes to hafe forgyfnes of
+sy&ntail;, if we may noghte kepe vs fra sy&ntail;, &thorn;are-fore
+pray we &thorn;us, Et ne nos inducas in temptacionem, and &thorn;is es
+to say, `lede us no&yogh;te in-to na fandyngis, als swa say, Suffere
+vs noghte be ouer-comme&ntail; in fandyngez of &thorn;e deue&llbar;,
+ne of &thorn;e flesc&hbar;, ne of &thorn;e werlde.  And noghte allanly
+we pray &thorn;at we be delyuered of a&llbar; euy&llbar; fandyngez,
+Bot alswa we pray &thorn;at we be delyuered of a&llbar; i&llbar;
+thyngis, whe&ntail; we say, Set libera nos a malo; and &thorn;is es to
+say, `Bot delyuer vs of a&llbar; i&llbar; thyngis,' &thorn;at es, of
+body and of saule, of sy&ntail; and of pyne, For sy&ntail; that now es
+or sa&llbar; be.  Say we Amen ! &thorn;at es to say, `swa be it!' and
+for-thi sayse oure Lorde
+
+
+ 
+<!-- 0021.p40-41.txt -->
+<PB N="40">
+
+
+Ihesu Criste in &thorn;e gospelle, `What sa &thorn;ou prayes my fadir
+in my name, He sa&llbar; do it;' and &thorn;er-fore say at &thorn;e
+Ende, Per Dominum nostrum Iesum Cristum, filium tuum, &amp;c'.</P>
+
+<P>And now, my dere frende, vndirstande noghte &thorn;at &thorn;ou
+sa&llbar; say &thorn;i Pater noster with mouthe, als I hafe it here
+wrety&ntail; be-fore &thorn;e.  Bot say a&llbar; anely &thorn;e nakede
+lettir with &thorn;i mouthe, and thynke in &thorn;i herte of this
+&thorn;at I hafe said here, of ilke a worde by it-selfe; and rekk
+noghte &thorn;of &thorn;ou ne multyply many Pater nosters; For it es
+better to say a Pater noster with gude deuocyo&ntail;, &thorn;a&ntail;
+a thousande with-owtte&ntail; deuocyo&ntail;; For &thorn;us sais
+Saynte Paule appertly; he sayse, `me ware leuer say fyve wordes in
+herte deuotely, &thorn;ane fyve thousande <MILESTONE N="206" UNIT="leaf">with my mouthe
+with-owtte&ntail; lykynge.'  And one &thorn;e same manere sa&llbar;
+&thorn;ou say and do at thyne offece in &thorn;e qweire ; for swa
+sayse &thorn;e prophete, Psallite sapienter; and &thorn;at es to say,
+Synges and versy wyesly,' &thorn;at es, to say or to syng wyesly,
+&thorn;at es, &thorn;at thi herte be one &thorn;at at &thorn;ou saise,
+and one &thorn;at at o&thorn;er saise, &thorn;at &thorn;ou here it
+besyly; For if &thorn;i body be at thi seruyce, and &thorn;i mouthe
+speke one a wyse, and thi herte thynke of wrechidnes caytefly,
+&thorn;an es &thorn;ou twynne&dtail;; For when &thorn;ou swa es
+twynne&dtail;, &thorn;ou tynes &thorn;e mede of &thorn;i seruyce; For
+&thorn;e awe to serue God&dtail; with a&llbar; &thorn;i herte, with
+a&llbar; &thorn;i saule, and with a&llbar; &thorn;i vertu; and swa
+&thorn;ou may pay &thorn;i God&dtail;.  Bot &thorn;are es many thynges
+&thorn;at ere cause of swylke wrechede twynnynge, als mete, drynke,
+Reste, cleythynge, layke, discorde, Thoghte, laboure, hethynge.  These
+makes hippynge, homerynge, of medles momellynge.  And &thorn;are-fore
+take kepe what oure Lorde Ihesu Criste saise in &thorn;e
+gospe&llbar;e: `Firste,' He saise, `sekes &thorn;e kyngdo&mtail; of
+heue&ntail;, and a&llbar; &thorn;at &yogh;e hafe myster of sa&llbar;
+be gyffe&ntail; &yogh;owe with-owtty&ntail; any askynge.'</P>
+
+<P>Thare-fore, dere Frende, &thorn;ou sa&llbar; wit what &thorn;ou
+sa&llbar; hafe in &thorn;e blysse of heue&ntail;. Wit &thorn;ou wele
+&thorn;at &thorn;ou sa&llbar; hafe Seue&ntail; gyftes in body, and
+Seue&ntail; in saule, &thorn;at es to say, Fairenes in body with-
+owtty&ntail; fylth, lyghtenes with-owtty&ntail; slewt&hbar;, Force
+with-owtte&ntail; Feblesce, Frenes with-owtte&ntail; thrall edome,
+lykynge with-owtte&ntail; noye, lufelynes with-owtty&ntail; envye,
+hele with-owtty&ntail; sekenes, lange lyfe with-owtty&ntail;
+ende. Thou sa&llbar; hafe in saule, Wysedome
+<PB N="41">
+
+
+
+with-owtte&ntail; ygnorance, Frenchipe with-owtte&ntail;
+hateredy&ntail;, Accorde with-owtte&ntail; discorde, Myghte
+with-owtte&ntail; wayknes, honour with-owtte&ntail; dishonour,
+Sekirnes with-owtte&ntail; drede, Ioy with-owtte&ntail; sorowe.  Bot
+&thorn;e wreches in helle, a&llbar; &thorn;e reuerce, bot&hbar; in
+body and in saule, &thorn;at es to say, Fylt&hbar; with-owtty&ntail;
+fairenes, Slouthe with-owtte&ntail; lyghtenes, Feblesce
+with-owtte&ntail; force, Thraldo&mtail; with-owtte&ntail; freenes,
+Angwyse with-owtte&ntail; lykynge, Sekenes with-owtte&ntail; hele, ded
+with-owtte&ntail; ende.  Thare sa&llbar; be in &thorn;air saules,
+Ignorance with-owtty&ntail; Wysdome, hatredy&ntail; with-owtt e&ntail;
+lufe, Discorde with-owtte&ntail; Accorde, feblesce with-owtte&ntail;
+powere, Schame with-owtte&ntail; honour, Drede with-owtte&ntail;
+sekernes, and Sorowe with-owtte&ntail; Ioy.  And for &thorn;is
+sa&llbar; &thorn;ou seke with a&llbar; &thorn;i myghte, &thorn;at
+&thorn;ou may wy&ntail; &thorn;e Ioye of heue&ntail;; For &thorn;are
+es sa gret Ioye and sa meki&llbar; swettnes &thorn;at, if &thorn;ou
+myghte lyffe fra &thorn;e begynnynge of &thorn;e worlde vn-ti&llbar;
+&thorn;e ende, and hafe a&llbar; &thorn;e lykynge &thorn;at &thorn;ou
+couthe ordeyne, &yogh;it &thorn;ou sulde with gret ryghte lefe
+a&llbar; &thorn;ase for to be a day in &thorn;e Ioy of heue&ntail;.
+And thus endys &thorn;e to&thorn;er degre of contemplacyone, &thorn;at
+es to say, &thorn;e contemplacione of haly writte; of &thorn;e whylke,
+if &thorn;ou take gud kepe in &thorn;i herte, it sa&llbar; be lyghte
+vnto &thorn;e, ilke a worde to halde.  One ane o&thorn;er syde, if
+&thorn;ou hafe mater to speke vn-to &thorn;e clerkez, be &thorn;ay
+neuer sa wyse, or to lewede men, be &thorn;ay neuer so ruyde, of
+&thorn;e clerkes &thorn;ou mofe som matirs of &thorn;is, and alswa at
+&thorn;ou may lere more.  And whe&ntail; &thorn;ou spekes ti&llbar;
+sympi&llbar; me&ntail;, and ruyde, <MILESTONE N="206 bk." UNIT="leaf">gladly &thorn;ou lere
+&thorn;a&mtail; with swettnes, For &thorn;ou hafe enoghe whare-of
+&thorn;ou may speke, and how &thorn;ou sa&llbar; &thorn;i lyfe amende
+and gouerne, and o&thorn;er menes alswa.</P>
+
+<P>&THORN;e thirde degre of contemplacyo&ntail; es in God&dtail;
+Hym-selfe.  And &thorn;at may be on twa maners, &thorn;at es,
+with-owtte&ntail; in His manhede, and in His Godhede so blyschede.
+For &thorn;us saise Saynt Austy&ntail;, For-&thorn;i be-come
+God&dtail; ma&ntail;, For to make mane to Se God&dtail; in his kynde;
+For whe&thorn;er so&mtail; he &yogh;ode with-in or with-owtte&ntail;,
+euer-mare moghte man fynde pasture ; with-owtte&ntail;, thurg&hbar;
+consederacyo&ntail; of His manhe&dtail;; with-in, thurghe
+contemplacyo&ntail; of His Godhede. Of His manhede sa&llbar; &thorn;ou
+thynke
+
+
+ 
+<!-- 0022.p42-43.txt -->
+<PB N="42">
+
+
+thre thyngez: &thorn;e meknes of His Incarnacyo&ntail;, &thorn;e
+swetenes of His conuersasio&ntail;, and &thorn;e grete charite of His
+passione. Bot &thorn;is may &thorn;ou noghte do a&llbar; att anes; and
+&thorn;are-fore hafe I twynned the thaym by &thorn;e Seue&ntail;
+houres of &thorn;e daye &thorn;at &thorn;ou saise in &thorn;e kyrke,
+Swa &thorn;at na&ntail; houre passe the, &thorn;at &thorn;ou ne
+sa&llbar; be swetely ocupye&dtail; in &thorn;i herte.  Bot nowe for to
+do &thorn;is, &thorn;an sa&llbar; &thorn;ou wit &thorn;at ti&llbar;
+ilke ane houre of &thorn;e daye es dowby&llbar; medytacyo&ntail;, ane
+of His passyo&ntail;, and ano&thorn;er of &thorn;e to&thorn;er
+seso&ntail;.  &para; Now, dere frende, before matyns sa&llbar;
+&thorn;ou thynke of &thorn;e swete byrt&hbar;e of Ihesu Cryste
+al-&thorn;er-fyrste, and sythy&ntail; eftyrwarde of His passio&ntail;.
+Of His byrt&hbar;, sa&llbar; thou thynke besyly &thorn;e ty&mtail;,
+and &thorn;e stede and &thorn;e houre, &thorn;at oure Lorde Ihesu
+Criste was borne of His modir Marie.  &THORN;e tyme was in
+myd-wyntter, whe&ntail; it was maste calde; &thorn;e houre was at
+mydnyghte, &thorn;e hardeste houre &thorn;at es; &thorn;e stede was in
+mydwarde &thorn;e strete, in a house with-owtte&ntail; walles.  In
+clowtis was He wonde&ntail;, and als a chylde was He bunde&ntail;; and
+in a crybbe by-fore ane oxe and ane asse, &thorn;at lufely lorde layde
+was, for &thorn;are was na no&thorn;er stede voyde.  And here
+sa&llbar; &thorn;ou thynke of &thorn;e kepynge of Marye, and of hir
+childe, and of hir spouse Iosep&hbar; &mdash; wat Ioye Ihesu &thorn;am
+sente.  Thou sa&llbar; thynke also of &thorn;e hyrdes &thorn;at saw
+&thorn;e taky&ntail; of His byrt&hbar;e; and &thorn;ou sa&llbar;
+thynke of &thorn;e swete felachippe of Ange&llbar;s, and rayse vpe thi
+herte and syng wit&hbar; &thorn;a&mtail;, Gloria in excelsis Deo,
+&amp;c.  Of &thorn;e passio&ntail; sa&llbar; &thorn;ou thynke how
+&thorn;at He was at swylke a ty&mtail; of &thorn;e nyghte betrayed by
+His descyple, and take&ntail; als a traytoure, and bownde&ntail; als a
+thefe, and ledde als a felo&ntail;.</P>
+
+<P>&para; Be-fore pryme &thorn;ou sa&llbar; thynke of &thorn;e
+passio&ntail; of Ihesu and of His Ioyfu&llbar; ryssynge.  Of His
+passyo&ntail; sa&llbar; &thorn;ou thynke how &thorn;e Iewes led&dtail;
+Hym into &thorn;aire counsaile, and bare false wytnes agayne Hym, and
+put appone Hym &thorn;at He had saide blasefeme, &thorn;at es,
+sclandyre in God&dtail;, and &thorn;at He had said &thorn;at He suld
+haue distroyede &thorn;e temple of God&dtail;, and make agayne
+ano&thorn;er with-in the thirde day; and &thorn;a&ntail; &thorn;ay
+byga&ntail; to dryfe Hym ti&llbar; hethyng, and to fulle Hym als a
+fule, and spite one Hy&mtail; in dispyte in His faire face; and
+sythy&ntail; thay hide His eghe&ntail;, and gafe Hy&mtail; bofetes
+grete, and sythe&ntail; asked Hy&mtail; whate He was &thorn;at Hym
+<PB N="43">
+
+
+
+smate; and sythe&ntail;, &thorn;ay ledde Hym dreryly to &thorn;e
+dede,  <MILESTONE N="207" UNIT="leaf">and &yogh;itt neuer He sayde ti&llbar; thaym anes why
+&thorn;ay swa dyde.  Many othyre wykkydnes &thorn;ay dide Hym,
+&thorn;at lange ware to telle.  &YOGH;itt before pryme sa&llbar;
+&thorn;ou thynke of &thorn;e haly rysesynge, &thorn;at at &thorn;at
+tyme of &thorn;e daye Ihesu Ioyfully rase fra dede to lyfe, whe&ntail;
+&thorn;at He hade destruyede helle and delyuerede haly sawles owte of
+&thorn;e powere of &thorn;e deuelle. &para; &YOGH;itt before vndrone
+sa&llbar; &thorn;ou thynke of &thorn;e passio&ntail; and of &thorn;e
+witsondaye.  Of &thorn;e passio&ntail; sa&llbar; &thorn;ou thynke, how
+&thorn;at tyme oure Lorde Ihesu Cryste dispytousely was dispuylede,
+nakkynde and bownde&ntail; ti&llbar; a tree in Pylate house, and swa
+wykkedly scourgede and dounge&ntail;, &thorn;at of His swete body, fra
+&thorn;e heued ti&llbar; &thorn;e fute, noghte was lefte hale. And at
+&thorn;at ilke houre &thorn;ou sa&llbar; thynke of &thorn;e
+witsonnday, how &thorn;e ty&mtail; of &thorn;e day oure Lorde Ihesu
+Criste sente &thorn;e Haly Gaste ti&llbar; His disciples, in liknes of
+fyre, and of tunnges, in takynnynge &thorn;at &thorn;ay sulde hafe
+abowndance in worde and brynnynge in lufe, and &thorn;at ryghte es
+&thorn;e purueance of oure Lorde puruayde; For in twa maners &thorn;e
+wykked gaste begylede ma&ntail; in paradyse, &thorn;at es to saye,
+with wykke&dtail; entycement of his tunge, and with &thorn;e caldnes
+of his veny&mtail;.  And for-&thorn;i come &thorn;e Haly Gaste in
+lyknes of tung, agayne &thorn;e Entycement of &thorn;e deuelle, and in
+fyre for to distruye &thorn;e caldnes of his veny&mtail;.  &para;
+Be-fore myddaye sa&llbar; &thorn;ou thynke of &thorn;e
+Anunciacyo&ntail;, and of Ihesu passio&ntail;.  And of &thorn;e
+Anunciacio&ntail; sa&llbar; &thorn;ou thynke of &thorn;e grete mercy
+of oure Lorde Ihesu Criste, whi &thorn;at He walde be-comme ma&ntail;,
+and For vs suffire &thorn;e dede in &thorn;at swete manhe&dtail;
+Se&ntail; He moghte hafe boghte vs agayne on o&thorn;er manere.  And
+&thorn;at dyde He for ti&llbar; drawe ti&llbar; Hy&mtail; &thorn;i
+luffe.  For if ane hade bene &thorn;i maker, and ano&thorn;er thi
+byere, and hade sufferde in thaire bodyes a&llbar; oure sorowe for to
+by a&llbar; oure lufe, Than hade noghte oure trouthe bene anely in
+ane.  Off &thorn;e passio&ntail; sa&llbar; &thorn;ou thynke at
+&thorn;at houre how oure Lorde Ihesu was done one &thorn;e Crosse
+be-twyx twa thefes, ane one His ryghte syde, and ano&thorn;er one His
+lefte syde, and Hym-selfe &thorn;ay hangede be-twix &thorn;a&mtail;
+twa, alls mayster of thefes.  For if all &thorn;e sekenes of &thorn;is
+werlde and a&llbar; &thorn;e sorowe ware in &thorn;e body of a
+ma&ntail; anely, and &thorn;at man myghte consayfe
+
+
+ 
+<!-- 0023.p44-45.txt -->
+<PB N="44">
+
+
+alls meki&llbar; noye and Angwysce and Sorowe in his body als a&llbar;
+&thorn;e me&ntail; of &thorn;is werlde moghte thynke, &yogh;itt it
+ware fu&llbar; litti&llbar; or e&llbar;s noghte to regarde of &thorn;e
+sorowe &thorn;at He sufferde for vs ane houre of &thorn;e daye.
+&para; Before nonne sa&llbar; &thorn;ou thynke of &thorn;e
+passio&ntail; and of &thorn;e gloriouse Ascencio&ntail;.  Of &thorn;e
+passione sa&llbar; &thorn;ou thynke, &thorn;at at swylke a ty&mtail;
+of &thorn;e daye dyede &thorn;e makere of lyfe, for &thorn;i lufe.
+And here sa&llbar; &thorn;ou thynke of &thorn;e wordes &thorn;at Ihesu
+spake o&ntail; &thorn;e crose, and of &thorn;e foure takynes &thorn;at
+be-fe&llbar;e in His dede.  The fyrste worde was &thorn;is &thorn;at
+He spake, `Fadire, for-gyffe &thorn;a&mtail; &thorn;is sy&ntail;, for
+&thorn;ay wate noghte whate &thorn;ay doo.'  The to&thorn;er worde was
+&thorn;is, &thorn;at He said to &thorn;e thefe, `For sothe I say the,
+&thorn;is day sa&llbar; &thorn;ou be with me in paradyse.'  The thirde
+was &thorn;at He saide to His modire of Sayne Jo&hbar;&ntail; His
+cosynne, `Woma&ntail;, lo &thorn;are thi so&ntail;!' And to &thorn;e
+discyple saide He, `Manne, lo &thorn;are thy Modire !'  The ferthe
+worde &thorn;at He saide was this, `God&dtail;, my God&dtail;,  <MILESTONE
+N="207 bk." UNIT="leaf">
+whi hase &thorn;ou lefte me &thorn;us.'  The fyfte was, `Scicio,'
+&thorn;at es to say, `I haf thriste.'  The sexte worde was this, `In
+manus tuas Domine, &amp;c'.' whilke es for to saye, `Fadir, in-to &thorn;i
+haundis I gyffe my sawle.'  The Seuen&dtail; worde was &thorn;is,
+Consummatum est, &thorn;at es to say, `Now es &thorn;e prophecye
+fulfillede,' and with &thorn;at worde He helde His hede downne, and
+gafe &thorn;e gaste.  Now &thorn;e takynes &thorn;at ware in His dede
+ere &thorn;ire.  Firste, a&llbar; &thorn;e erthe by-gane to tremble,
+and &thorn;e vaile of &thorn;e temple braste in twa and felle
+dou&ntail;, &thorn;e stanes raue in soundire, &thorn;e graues opyned
+and &thorn;e dede men rase, and &thorn;e sonne with-drewe his lyghte
+fra &thorn;e werlde fra myddaye to noune.  Of &thorn;e Ascencione
+sa&llbar; &thorn;ou thynke that swylke a ty&mtail; of &thorn;e daye
+wente vpe oure Lorde Ihesu Criste in-ti&llbar; &thorn;e mounte of
+Olyuete, Seande His discyples and His swete modire Marie, how He
+steig&hbar;e in-ti&llbar; heue&ntail;, and sett Hym one Fadir righte
+hande; and how His dysciples turnede agayne into &thorn;e Cete, and
+ware in fastynge and in prayere vnti&llbar; &thorn;e commynge of
+&thorn;e Haly Gaste; and &thorn;are ware togedire a hundret&hbar; and
+twentty in a house for to abyde &thorn;e commynge of &thorn;e Haly
+Gaste, als oure Lorde commande &thorn;a&mtail; before.  &para; Before
+euensnage sa&llbar; &thorn;ou thynke of Ihesu passio&ntail; and of His
+supere.  Of &thorn;e passio&ntail; sa&llbar; &thorn;ou thynke how
+Iosep&hbar;
+<PB N="45">
+
+
+
+of Aramathy purchaste Ihesu body of Pilate, and how &thorn;ey come to
+&thorn;e crosse &thorn;are He hange, and &thorn;ay brakke &thorn;e twa
+thee-banes of &thorn;e twa thefes.  And &thorn;are was a knyghte redye
+with a spere, and perchede &thorn;e syde of Ihesu, and smate Hym to
+&thorn;e herte; and als sone come rynnande downe &thorn;e precyouse
+blode and watire.  And &thorn;at was &thorn;e Rawnsone of &thorn;e
+whilke I be-fore spake &mdash; louede be that Lorde ! &mdash; And
+&thorn;a&ntail; Iosep&hbar; tuke Hym downe of &thorn;e crosse,
+for-&thorn;i &thorn;at na bodye sulde duelle on &thorn;e crosse in so
+hye a daye als was one &thorn;e morne.  Of &thorn;e supere of Ihesu
+sa&llbar; &thorn;ou thynke, how &thorn;at ty&mtail; He gafe His
+precyouse flesche and His blude in lyknes of brede and of wyne
+&thorn;at we may See; and it es sothefastely flesche and blude of
+Ihesu Criste, &thorn;at we may noghte See with bodyli eghe&ntail;.
+&THORN;e thirde thynge es gastely, &thorn;e grace &thorn;at we
+rescheyue whe&ntail; we take &thorn;at flesche and &thorn;at blude.
+We se &thorn;are lyknes of brede and of wyne, and it es noghte; bot we
+trowe &thorn;at &thorn;are es sothefastly &thorn;e flesche and
+&thorn;e blude of Ihesu Criste.  And noghte forthi &thorn;e lyknes of
+flesche ne may we noghte see.  And &thorn;are-fore, &thorn;are whare
+we sulde hafe vgglynes als vn-ti&llbar; oure body, for to ete flesche
+and drynke blude of ma&ntail;, Oure Lorde Ihesu Criste turnede His
+flesche and His blude in liknes of brede and of wyne, for to
+comfort&hbar;e oure bodily witte thurghe swylke fude als we ere wounte
+for to see, and alswa for to helpe oure trouthe thurghe &thorn;at,
+&thorn;at we see a thynge and trowes ano&thorn;er.  And
+&thorn;are-fore, dere frende, whe&ntail; &thorn;ou sa&llbar; gaa for
+to reschaife &thorn;at swete flesche and &thorn;at blude of Ihesu thi
+saueour, luke at &thorn;ou haue verray contricyo&ntail;, and
+repentance, and clensynge of thi sy&ntail; in thi herte; For
+&thorn;are &thorn;ou ressayfes in sacrament reghte als &thorn;ou
+ressayfede Hy&mtail; in flesche and blude &mdash; blescede be
+&thorn;at grace! &para; Be-fore comply&ntail; sa&llbar; &thorn;ou
+thynke how &thorn;at Iosep&hbar; and Nicodemus wande  <MILESTONE
+N="208" UNIT="leaf"> Ihesu body
+in faire schetis, and enoynte it with precyouse oynementes, and laide
+it in a monumente of stane, and sett &thorn;aire seles apo&ntail;
+&thorn;e stane, and knyghtes &thorn;at sulde it kepe.  The to&thorn;er
+thynge &thorn;at &thorn;ou sa&llbar; thynke in &thorn;e same tyme es
+&thorn;is, how Ihesus, in &thorn;e daye of supere, when He had
+souppede, He &yogh;ode in-ti&llbar; a gardy&ntail; with His discyples,
+and felle downe in Orysou&ntail;, and bygan&ntail; for
+
+
+ 
+<!-- 0024.p46-47.txt -->
+<PB N="46">
+
+
+to swete one swilke manere &thorn;at &thorn;e droppis of blode
+droppede of His blyssede face vn-ti&llbar; &thorn;e erthe.  Now hase
+&thorn;ou matire and manere for to thynke of Goddis manhede.  And
+eftirwarde sa&llbar; &thorn;ou wit how &thorn;ou sa&llbar; thynke one
+Hym in His heghe Godhede.  &para; To &thorn;at sa&llbar; &thorn;ou wit
+&thorn;at Godd temper&dtail; swa His knaweynge fra &thorn;e begynnynge
+of mankynde, &thorn;at He walde noghte a&llbar; hally schewe Hym to
+ma&ntail;, ne a&llbar; hally hele Hy&mtail; fra ma&ntail;. For if He
+hade a&llbar; hally schewede Hym to ma&ntail;, &thorn;an had&dtail;
+trouthe noghte bene worthe and mysbileue had noghte bene
+&thorn;a&ntail; ouercome&ntail;, For trouthe es of thynge &thorn;at
+may noghte be sene; &thorn;an &thorn;at at I see es noghte trouthe ;
+and if He had a&llbar; hallily helede fra ma&ntail;, &thorn;an had
+trouthe noghte bene helpede, and mysbileue hade bene excusede; and
+for-&thorn;i &thorn;a&ntail; walde He in party schewe Hy&mtail;, and
+in party hele Hy&mtail;.  Bot now may &thorn;ou aske me, `in how many
+maners He walde schewe Hy&mtail;.'  I say in twa maners, ane
+wit&hbar;-in, ano&thorn;er wit&hbar;-owtte&ntail;.  With-in He
+schewede Hy&mtail; thurgh reuelacyo&ntail; and thurgh
+reson&ntail;. With-owtte&ntail;, thurg&hbar; halye writte and
+thurg&hbar; creaturs.  Thurg&hbar; reuelacyo&ntail;, whe&ntail; He
+schewede Hym ti&llbar; any folke thurg&hbar; inspiracio&ntail; and
+thurghe myracle.  By reson&ntail;, commes He ti&llbar; &thorn;e
+knawynge of ma&ntail; one &thorn;is manere : &mdash; Ilke a ma&ntail;
+may wele see in hym-selfe &thorn;at at he es, and &thorn;at at he hase
+bene, bot he may wele wit &thorn;at he hase noghte bene ay, and for
+&thorn;at he wate wele &thorn;at su&mtail; ty&mtail; he be-ga&ntail;
+for to be; &thorn;an was &thorn;aire su&mtail; ty&mtail; whe&ntail; he
+was noghte.  Bot whe&ntail; he was noghte, &thorn;an moghte he one na
+wyese make hy&mtail;-selfe; and &thorn;is seghes ma&ntail; in his
+creature, For he sees ilke a day su&mtail; ga and su&mtail; co&mtail;,
+For-&thorn;i, se&ntail; ilke thynges erre, and &thorn;ay erre noghte
+of thay&mtail; selfe, &thorn;are-fore it behoues nede &thorn;at
+&thorn;are be ane to gyffe a&llbar; thynges to be, &thorn;at es to
+saye of whaym alle thynges are; &thorn;are-fore it behoues of force
+&thorn;at He thurg&hbar;e whaym alle thynges erre, be
+with-owtte&ntail; begynnynge.  For if He hade begynnyng, tha&ntail; it
+behoufede &thorn;at He had begynnyng of su&mtail; o&thorn;er;
+&thorn;a&ntail; had He noghte bene &thorn;e first autour and &thorn;e
+fyrste begynnyng of a&llbar; thyngez.  Bot &thorn;are was na thynge
+before Hy&mtail;, &thorn;an he come of na no&thorn;er, &thorn;a&ntail;
+hade He neuer na begynnynge.
+<PB N="47">
+
+
+And &thorn;are-fore it behoufes one a&llbar; maner of &thorn;e werlde,
+&thorn;at &thorn;are be a thynge &thorn;at neuer hade begynnynge.  And
+whe&ntail; reso&ntail; of ma&ntail; sese of force &thorn;at it may na
+no&thorn;er wysse be, &thorn;an he begynnys for to trowe stabilly
+&thorn;at a thynge &thorn;at was with-owtte&ntail; begynnynge,
+&thorn;at es Awtour, and makere, and gouernere of a&llbar; thynges
+&thorn;at ere.  And Hym calles me&ntail; God&dtail; by This skill, For
+&thorn;is worde Deus, &thorn;at es to say, God&dtail;, commes of a
+worde of grewe &thorn;at es called theos, and &thorn;at es  <MILESTONE
+N="208 bk." UNIT="leaf"> als
+meki&llbar; for to say als ane anely God&dtail;.  And &thorn;at
+betakyns &thorn;is worde God&dtail;.</P>
+
+<P>And, dere frend, &thorn;ou awe to wit &thorn;at &thorn;are ne es
+bot a God&dtail;, and &thorn;ou awe to wit &thorn;at na gude may faile
+to God&dtail;.  Bot for-&thorn;i &thorn;at swete thynge and gud thynge
+es comforthe of felaschepe, &thorn;an may noghte God&dtail; be
+with-owtte&ntail; gudnes of felaschipe.  Than be-houede it nede
+&thorn;at &thorn;are ware many persones in God&dtail;, &thorn;e
+hegheste gudnes.  And for-&thorn;i &thorn;at felyschepe may noghte be
+be-twyx faere &thorn;a&ntail; twa, &thorn;are-fore be-houes it be
+&thorn;at in God&dtail; be at &thorn;e leste twa persones. And
+for-&thorn;i &thorn;at felyschipe es litti&llbar; worthe whare
+&thorn;are es na&ntail; Alyance ne lufe, For-thi it behoues &thorn;at
+&thorn;e thirde perso&ntail; ware in God&dtail;, &thorn;at ware the
+Alyance and &thorn;e lufe be-twyx the twa.  And for-&thorn;i &thorn;at
+anehede es gude, and manyhede alswa, &thorn;are-fore it behouede nede
+&thorn;at anehede and manyhede bathe ware in God&dtail;.  And by
+&thorn;is ski&llbar; commes ma&ntail; to &thorn;e knaweynge of
+God&dtail;, &thorn;at He es a God&dtail; in Hy&mtail;selfe, and thre
+in persones.  And &thorn;is ilke may ma&ntail; see in hym-selfe, For
+he sese at &thorn;e begynnynge &thorn;at he hase in hym-selfe Powere,
+and sythe&ntail; eftir powere he hase wysdo&mtail;.  And sythe&ntail;
+be-gane he for to lufe &thorn;at wysdo&mtail;; and &thorn;an begynnes
+he for to knawe apertely &thorn;at &thorn;are es in &thorn;e saule
+Mighte, and of &thorn;at myghte commes wysdo&mtail;, and of thayme
+bathe comes lufe.  And when ma&ntail; sese &thorn;at it es one swylke
+manere in hym, Of &thorn;at awe hy&mtail; to wit &thorn;at one swylke
+ma&ntail; awe it to be in God&dtail; &thorn;at es aboue&ntail;
+hy&mtail;, &thorn;at es to say, &thorn;at in God&dtail; es myghte, and
+of &thorn;at commes his wysdo&mtail;e; and of powere and wysedo&mtail;
+bathe comes lufe.  And for-&thorn;i &thorn;at of &thorn;e fyrste
+personne commes &thorn;e to&thorn;er, and owte of thay&mtail; bathe
+comes &thorn;e thyrde, For-thi calles he &thorn;e firste personne
+God&dtail; &thorn;e Fadire, &thorn;e to&thorn;er God&dtail; &thorn;e
+Sonne, &thorn;e thirde
+
+
+
+<!-- 0025.p48-49.txt -->
+<PB N="48">
+
+
+God&dtail; &thorn;e Haly Gaste.  And for &thorn;at it wounte to be
+thus inmanges me&ntail;, &thorn;at &thorn;e Fadir was mare Febi&llbar;
+&thorn;an &thorn;e sonne, for his elde, and &thorn;e sonne mare vnwyse
+&thorn;an &thorn;e Fadire for his &yogh;outhe; and for &thorn;at a man
+sulde noghte wene &thorn;at it ware swa of God&dtail;, Tharefore es
+powere appropirde to God&dtail; &thorn;e Fadir, wysdo&mtail; to
+God&dtail; &thorn;e Sonne.  And for-&thorn;i &thorn;at &thorn;is worde
+Gaste sownnes sumwhate into fellenes, For-&thorn;i es swetnes, lufe,
+and gudenes appropirde to &thorn;e Haly Gaste. Oppo&ntail; &thorn;is
+maner commes ma&ntail; firste to &thorn;e knaweynge of his God&dtail;,
+how He es with-owtte&ntail; be-gynnynge, and whi He es called
+God&dtail;, ane in substance and thre in persones, and whi &thorn;e
+firste persone es callede God&dtail; &thorn;e Fadir, &thorn;e
+to&thorn;er, God&dtail; &thorn;e Sonne, &thorn;e thyrde, God&dtail;
+&thorn;e Haly Gaste; and whi powere es appropirde to God&dtail;
+&thorn;e Fadir, and wysdo&mtail; to God&dtail; &thorn;e Sonne, and
+gudnes to God&dtail; &thorn;e Haly Gaste.  In swylke manere sa&llbar;
+&thorn;ou knawe &thorn;i God&dtail;.</P>
+
+<P>The fyrste degre of contemplacio&ntail; es, &thorn;at &thorn;e
+saule be ledde agayne to &thorn;e selfe, and gedire it a&llbar;
+with-in &thorn;e selfe.  The to&thorn;er degre es, &thorn;at man see
+whate he es, swa gedyrde to-gedire.  The thirde degre es, &thorn;at he
+lefte hym selfe abouen hym-selfe, <MILESTONE N="209" UNIT="leaf">and payne hym for to luke one
+his God&dtail; in his awe&ntail; kynde.  Bot ti&llbar; selfe may he
+neuer mare comme, vnti&llbar; he hafe lerede to resayfe ilke a bodyly
+ymagynacyone erthely and gastely, &thorn;at commes to his awe&ntail;
+herte, ow&thorn;er of herynge, or of tastynge, or of sweloynge, or of
+any o&thorn;er bodily wite, to refuse it and to defule it, &thorn;at
+it may see the selfe swylke as it es with-owtte&ntail; &thorn;e bodye.
+Thare-fore, dere Frende, take gud hede how &thorn;e saule es
+wondirfu&llbar; in &thorn;e selfe, and howe it es ane in &thorn;e
+kynde, and noghte forthi &yogh;it it duse dyuerse thynges; For
+&thorn;e selfe, it sese &thorn;at at &thorn;ou sese with thy&ntail;
+eghne, heris with thyne eres, Swelawes with thi mouthe, Smelles with
+&thorn;i nese, and al swa &thorn;at at &thorn;ou touches with a&llbar;
+&thorn;i membris.  &para; Thynke &yogh;it Eftyrwarde, howe &thorn;i
+saule es grete, &thorn;at a&llbar; anely with a thoghte it may
+comprehende heue&ntail; and ert&hbar;e and a&llbar; &thorn;at in
+thay&mtail; are, if &thorn;ay ware a hundret&hbar; falde grettere
+&thorn;a&ntail; &thorn;ay are or may be.  &para; When manes lyfe es
+grete and swa nobi&llbar; &thorn;at na creature may
+<PB N="49">
+
+
+
+vndirstande it perfitly, Thane grete and nobi&llbar; es he &thorn;at
+swa nobi&llbar; thynge made of noghte.  He es aboue&ntail; a&llbar;
+thynge, and with-in all thynge, and with-owtte&ntail; all thynge, and
+be-net&hbar;e a&llbar; thynge.  He is aboue&ntail; a&llbar; thynge,
+a&llbar; thynge gouernande, Be-net&hbar;e a&llbar; thynge, berande
+a&llbar; thynge, with-in a&llbar; thynge, Fulfillande a&llbar;,
+with-owtte&ntail; a&llbar; thynge, abowte gangande a&llbar;.</P>
+
+<P>&para; Swylke manere of contemplacione Engendyrs in ma&ntail; Faste
+trouthe and sekire deuocyone. &para; Eftir &thorn;is sa&llbar;
+&thorn;ou thynke howe &thorn;at he es large: and &thorn;at may
+&thorn;ou see one many maners.  See at &thorn;e begynnynge howe
+&thorn;at he es large of erthely gude; how he gyfes his gudes als wele
+to &thorn;e i&llbar;e als to &thorn;e gude in alle thynges &thorn;at
+&thorn;ou sese in erthe.  Sythe&ntail; eftirwar&dtail; see howe
+&thorn;at he es large for to Forgyffe: For if a mane hym ane hade
+donne a&llbar;s meki&llbar; i&llbar;e als a&llbar;e &thorn;e men of
+&thorn;is werlde moghte doo, &yogh;itt sulde he be mare redy be
+&thorn;e hundrethe parte for to Forgyffe hym &thorn;an &thorn;at
+caytife sulde bee for to aske of hym forgyfenes.</P>
+
+<P>&para; Nowe, my dere Frende, if &thorn;ou lyfe eftir &thorn;is
+kennynge, &thorn;an sa&llbar; &thorn;ou lyfe honourabily, &mdash; and
+&thorn;at es &thorn;e fyrste parte of oure sermo&ntail; &thorn;at I
+touchede at &thorn;e begynnynge, &mdash; and eftir &thorn;at sa&llbar;
+&thorn;ou studye to lyffe lufely als to thyne euencryste&ntail;; and
+vnti&llbar; &thorn;at sa&llbar; &thorn;ou sette a&llbar; hally
+&thorn;i myghte to lufe and for to be lufede.  Thou sa&llbar; lufe
+a&llbar; menne in God&dtail;, &thorn;at es at say, anely in gudnes,
+and noghte for &thorn;aire fairenes of bodye for to lufe, ne for
+force, ne for na no&thorn;er bodily vertu.  For &thorn;ay &thorn;at
+lufes in swylke manere, &thorn;ay lufe noghte for Goddes sake; and for
+to lufe ma&ntail; in God&dtail; es na no&thorn;er thynge bot for to
+lufe hy&mtail; for any thynge &thorn;at may noghte be lufede
+with-owtte&ntail; God&dtail;, als for gudnes or for rightewysnes, or
+for sothefastenes.  If we do gude, &thorn;ane hafe we na frende bot
+gude, ne nane Enemy bot i&llbar;; and &thorn;ar-fore &thorn;ase
+&thorn;at er gude sa&llbar; we lufe, for-thi &thorn;at &thorn;ay er
+gude, and &thorn;e ille sa&llbar; we lufe for-&thorn;i &thorn;at
+&thorn;ay may be gude.  In &thorn;is manere lufe &thorn;ou na thynge
+bot gudnes, se&ntail; &thorn;at &thorn;ou lufes a&llbar; thynges for
+gudnes; and if &thorn;ou wi&llbar; be lufede, schewe thi selfe lufely.
+Ife &thorn;ou wi&llbar; be lufely, resayfe these thre wordes
+with-owtte&ntail; forgetynge.  Do &thorn;at at man biddis &thorn;e or
+praies &thorn;e &thorn;at gude es; Take &thorn;at at ma&ntail; gyffes
+&thorn;e; and gruche noghte;
+
+
+ 
+<!-- 0026.p50-51.txt -->
+<PB N="50">
+
+
+and &thorn;at at men wi&llbar; say &thorn;e, suffire it mekely, and
+wrethe the noghte.  If &thorn;ou lyfe &thorn;us lelely, &thorn;an
+lyfes thou lufely.</P>
+
+<P>Dere Syster and frende, Sye&ntail; eftirwarde sa&llbar; &thorn;ou
+studye for to lyffe mekely; and to &thorn;is sa&llbar; &thorn;ou
+ow&ntail; wit &thorn;at &thorn;are are twa maners of mekenes.  The
+tane commes of sothefastenes, and &thorn;e to&thorn;er commes of
+charite.<MILESTONE N="209 bk." UNIT="leaf">    By &thorn;e firste may &thorn;ou hafe knaweynge of thi
+selfe, For thou may noghte in na manere of &thorn;is worlde see
+&thorn;i selfe whate &thorn;ou arte in sothefastenes, if &thorn;ou be
+noghte mekyde.  The to&thorn;er manere of meknes may &thorn;ou hafe if
+thou thynke of &thorn;e meknes of Ihesu Criste, how &thorn;at he mekid
+hym &thorn;at neuer dyde sy&ntail; ; and swylke mekenes commes clenely
+of charyte.</P>
+
+<P>&para; Now, my dere syster and Frende, wate &thorn;ou whate it es
+to lyffe honourabili, lufely, and mekely; and &thorn;at es to lyffe
+perfitly.  Now oure swete Lorde Ihesu Criste gyffe vs grace, swa
+God&dtail; for to honour, and oure euencriste&ntail; for to lufe, and
+oure selfe for to meke, &thorn;at we may for oure honourynge be
+honourede, and for oure lufe be lufede, and for oure mekenes be
+lyftede vp in-to &thorn;e heghe blysse of heue&ntail; &thorn;at he
+boghte vs to, Ihesu with his swete blude and his preciouse
+passio&ntail;. Ame&ntail;!</P>
+
+<P><CORR SIC="expliculum" RESP="Perry">Explicit</CORR> speculum sancti Edmundi Cantuarensis Archiepiscopi.  Dulce
+nomen Domini nostri Ihesu Christi: sit benedictum in secula seculorum!
+Ame&ntail; !</P></DIV1>
+<PB N="51">
+
+<DIV1 TYPE="tract">
+<HEAD TYPE="main">III. THE ABBEY OF THE HOLY GHOST.</HEAD>
+
+<MILESTONE
+ED="Robert Thornton's MS., Lincoln Cathedral Library." N="271" UNIT="leaf">
+
+<HEAD>RELIGIO Sancti SPiritus.  RELIGIO MUNDA.</HEAD>
+
+<HEAD>OFF the abbaye of saynte Spirite, that es in a place that es
+callede conscyence.</HEAD>
+
+<P>A, dere brethir and systirs ! I see &thorn;at many walde be in
+religyo&ntail;, bot &thorn;ay may noghte, owthir for pouerte, or for
+drede of thaire ky&ntail;, or for band of Maryage; and for-thi I make
+- here a buke of &thorn;e religeon of &thorn;e herte, &thorn;at es, of
+&thorn;e abbaye of the Holy Goste, that a&llbar; tho &thorn;at ne may
+noghte be bodyly in religyo&ntail;, &thorn;at &thorn;ay may be
+gostely.  A, Ihesu, Mercy! whare may &thorn;is abbay beste be funded,
+and &thorn;is religione ?  Now certis nowhare so wele als in a place
+&thorn;at es called `conscyence'; and who so wi&llbar; be besy to
+funde &thorn;is holy religio&ntail;, and &thorn;at may ilke gud
+crysty&ntail; ma&ntail; and woman do, &thorn;at wi&llbar; be besy
+&thorn;er- abowte.  And at &thorn;e begynnynge it es by-houely
+&thorn;at &thorn;e place of thi conscience be clensed clene of
+sy&ntail;; to &thorn;e whilke clensynge &thorn;e Haly Goste sa&llbar;
+sende two maydyns &thorn;at ere conande: the one es callede `
+rightwysnes,' and &thorn;e to&thorn;er is called `luffe of clennes.'
+Thiese two sa&llbar; cast fro &thorn;e conscience and fro &thorn;e
+herte, all maner of fylthe of foule thoghtes and desyris.  Whe&ntail;
+&thorn;e place of &thorn;e conscience es wele clensed, than sa&llbar;
+&thorn;e grownde be mad lange and depe; and thies two maydenes
+sa&llbar; be made, &thorn;e one es callede `Mekenes,' &thorn;at
+sa&llbar; make &thorn;e grownde depe thorowe lowlynes of hir selfe,
+the to&thorn;er es callede `Pouerte,' i &thorn;at makis it large &
+wyde abowne, &thorn;at castis ouer ylke a halfe &thorn;e erthe owte,
+&thorn;at es to say, alle erthely lustes & worldely thoghtes ferre fro
+&thorn;e herte, &thorn;at, if &thorn;ay hase erthely gudis, with luffe
+&thorn;ay for-gete &thorn;ay&mtail; for &thorn;e ty&mtail;, & castis
+no lufe to &thorn;a&mtail;, nor hase noghte, ne settis noghte for
+&thorn;at tyme &thorn;aire hertes no thynge one &thorn;a&mtail;.  And
+thies ere called `pure in spyrite,' of wha&mtail; God spekes in
+&thorn;e gospelle, & sayse &thorn;at `thaires es &thorn;e
+
+
+ 
+<!-- 0027.p52-53.txt -->
+<PB N="52">
+
+
+kyngdo&mtail; of heue&ntail;, be thies wordes Beati pauperes spiritu,
+quoniam ipsorum est regnum * ` coelorum.  Blyssed es &thorn;a&ntail;
+&thorn;at religyo&ntail; &thorn;at es funndide in pouerte and in
+meknes.  This es agaynes many religyous &thorn;at are couetous and
+prowde.</P>
+
+<P>This abbaye also sa&llbar; be sett on a gud reuer, and &thorn;at
+sa&llbar; be &thorn;e reuer of teres.  For swylke abbayes &thorn;at
+ere sett one swylke gude ryuers, &thorn;ay are wele at ese, and
+&thorn;e more dylecyous duellyng es &thorn;er.  <MILESTONE
+N="271 bk." UNIT="leaf">One swylke a reuer
+was Mary Mawdelayne fowndide, For-thy grace and rechesse come a&llbar;
+to hir wi&llbar;, and for-thi sayde Dauid thus, Fluminis impetus
+letificat ciuitatem, &thorn;at es to saye, `the gude reuer mase
+&thorn;e Cete lykande,' for it es clene sekyr, & ryche of a&llbar;
+gude marchandyse.  And so &thorn;e reuer of teris clenses Goddis cete,
+&thorn;at es, mannes saule, &thorn;at es Goddes cete.  And also
+&thorn;e holy man sayse of fylthe of syn&ntail;, &thorn;at it brynges
+owte &thorn;e reches of vertus and of alle gude thewes.  And when
+&thorn;is grownde es made, &thorn;an sa&llbar; come a dameselle,
+Bowsomnes, on &thorn;e tone halfe, and dameselle Miserecorde one
+&thorn;e to&thorn;er halfe, for to rayse &thorn;e walles one heghte,
+and to make &thorn;am stalworthe, with a fre hert largely gyfande to
+&thorn;e pure, & to &thorn;a&mtail; &thorn;at myster hase. For
+whe&ntail; we do any gud werkes of charite thorow &thorn;e grace of
+Gode, als ofte sythis als we &thorn;am do in &thorn;e lufe and
+&thorn;e louynge of God, and in gud Entent, als many gud stonys we
+laye one owre howssynge in &thorn;e blysse of heue&ntail;, festenande
+togedir with &thorn;e lufe of Gode and oure eue&ntail;-cryste&ntail;.
+We rede &thorn;at Salomo&ntail; made his howssynge of gret precyouse
+stones.  Thiese precyous stones are almos-dedis and werkes of mercy, &
+holy werkes &thorn;at sa&llbar; be bownde&ntail; to-gedir with qwyke
+lyme of lufe & stedfaste by-leue.  And for-thi sayse Dauid, Omnia
+opera eius in fide, &thorn;at es to saye, `alle his werkes be done in
+stedfaste by-leue.'  And als a walle maye not laste with-owtte&ntail;
+syment, or more, also no werkes &thorn;at we wyrke, are noghte worthe
+to God, nor spedfu&llbar; ti&llbar; oure sawles, bot &thorn;ay be done
+in the lufe of God and in trewe by-leue. For alle &thorn;at &thorn;e
+synfu&llbar; dose, a&llbar;e es loste.  Sythe&ntail; Dameselle
+Sufferance and damese&llbar; Forte sa&llbar; rayse &thorn;e pelars, &
+vndirsett &thorn;a&mtail; so strangly, &thorn;at no wynde of wordes,
+<PB N="53">
+
+
+angre of stryffe, fleschely nor gastely, sowre ne swete, caste
+&thorn;a&mtail; downe.  A, dere brethir and systers, &yogh;itt
+by-houys &thorn;e cloystyre be made one foure corners; and it es
+callede cloyster' for it closys and steskys, and warely sa&llbar; be
+lokkede.  My dere bre&thorn;ir and systyrs, wylke of &yogh;ow as
+wi&llbar; halde this gastely religyo&ntail;, & be in ryste of sawle &
+in swetnes of hert, halde &thorn;e with-i&ntail; &thorn;e cloyster,
+and so sparre &thorn;ou &thorn;e &yogh;ates, and so warely kepe
+&thorn;ou &thorn;e wardes of &thorn;i cloyster, &thorn;at no
+no&thorn;er fand- yngez nor euy&llbar;e styrrynges hafe in-gate in
+the, & make &thorn;at thy Sylence, <MILESTONE N="272" UNIT="leaf">and for to [ ] the, or styrre the
+to syn&ntail; <NOTE ID="n8">There is some confusion in this sentence from the omission of one or more words.</NOTE> steke thy&ntail; eghne fro fowle syghtes, thy&ntail;
+heres fro foule herynges, thy Mouthe fro foule speche, and thy&ntail;
+herte fra foule thoghtes.  Scrifte sa&llbar; [make] thi chapitir,
+Predicacio&ntail; sa&llbar; make thi fratour, Oracio&ntail; sa&llbar;
+make thi chape&llbar;e, Con- templacione sa&llbar; make thi dortoure,
+&thorn;at sa&llbar; be raysede one heghte with heghe &yogh;ernynge,
+and with lufe qwykkynynge to Gode, and &thorn;at sa&llbar; be owte ofe
+worldly noyse and of worldly angyrse and besynes, als fere furthe als
+&thorn;ou may for &thorn;e ty&mtail; thorow grace for &thorn;e
+ty&mtail; of prayere.  Contemplacio&ntail; es a deuote rysynge of
+herte with byrnynge lufe to God to do wele, and in his delites Ioyes
+his saule, and somdele ressayves of that swetnes &thorn;at Goddis
+chose&ntail; childir sa&llbar; hafe in heue&ntail;.  Rewfulnes
+sa&llbar; make the fermorye, Deuocio&ntail; sa&llbar; make &thorn;e
+celere, Meditacion sa&llbar; make the gernere.</P>
+
+<P>And when a&llbar; &thorn;e howses bene made, &thorn;an be-houes
+&thorn;e Holy Gaste Ordeyne &thorn;e couent of grace & of vertu.  And
+&thorn;an sa&llbar; &thorn;e Holy Gaste &thorn;at &thorn;is religyone
+es of, bee warde&ntail; and visiture, the whilke God &thorn;e Fadir
+funded thorow his powere.  For &thorn;us saise Dauide, Fundauit eam
+altissimus, and this es to saye, `the heghe Gode &thorn;e Fadyr
+Fundide this relegyone.'  The So&ntail; thurg&hbar; his wysedo&mtail;
+&thorn;an ordayned it, als Sayne Paule witnes it, Que adeo ordinata
+sunt, &thorn;at es at saye, `a&llbar;e &thorn;at es of God the Sone,
+it rewlis & ordaynes.'  The Holy Goste &yogh;emys it and vesettes it;
+and &thorn;at saye [we] in holy kyrke whe&ntail; we saye &thorn;is,
+
+ 
+<!-- 0028.p54-55.txt -->
+<PB N="54">
+
+
+Veni Creator Spiritus, with Qui paraclitus diceris, &thorn;at es for
+to saye, `come, &thorn;ou God &thorn;e Haly Gaste, and thyne &thorn;ou
+vesete, and fulfi&llbar; &thorn;a&mtail; with grace.'  And than the
+gude lady Charite, als scho &thorn;at es most worthy by-fore alle
+o&thorn;er, sa&llbar; be abbas of this sely abbaye.  And also, als
+&thorn;ay &thorn;at are in relegyone sa&llbar; do no thynge, ne saye
+thynge, ne gange in-to no stede, ne take no gyfte, with-owtte&ntail;
+leue of &thorn;e abbasse.  Also gastely sa&llbar; none of swylke
+thyngys be done with-owtte&ntail; leue of charite, For thus commandes
+Sayne Paule, Omnia vestra in caritate fiant, &thorn;at es, ` what-so
+&yogh;e do, or saye, or thynke with herte, alle &yogh;e mon do in
+charite.'  A, dere bre&thorn;ir and systirs, whate here es harde
+eomandement ! Bot it es noghte fu&llbar; i&llbar; to oure sawles
+&thorn;at oure thoghtes & oure wordes & oure werkes be onely done for
+lufe.  Wayleawaye! if I durste saye! for many are in religione, bot to
+fewe relegious, &thorn;at &thorn;ay ne done &thorn;e comandment of
+saynte Paule, or &thorn;e conce&llbar;e of &thorn;e <MILESTONE
+N="272 bk." UNIT="leaf">gud lady
+Charite, &thorn;at 1 es abbesse of this cely relegyo&ntail;.  And
+for-thi &thorn;ay lose meki&llbar; ty&mtail;, and losses &thorn;aire
+mede, and ekes thaire payne gretly, bot if &thorn;ay amende &thorn;am,
+whare-fore, leue bre&thorn;ir and systirs, bese euer-more wakire and
+warre; and in a&llbar; &yogh;oure werkes, thynke depely &thorn;at
+whate-so &yogh;ee doo, be it done in &thorn;e lufe of Gode, and for
+&thorn;e lufe of &thorn;e lady Wysdome &thorn;at sa&llbar; be
+prioresse; for scho es worth i, Nam, pr ior omnium creata est
+sapiencia, &thorn;at es, `al-&thorn;ir-firste es Wysedcoe made'; and
+thurg&hbar; &thorn;e lare of hir, and &thorn;e concele cf &thorn;is
+prioresse, sa&llbar; we do alle &thorn;at we do; and this sayse Dauid,
+Omnia in sapiencia fecisti, &thorn;at es at saye, `alle &thorn;at
+&thorn;ou hase made, &thorn;ou hase made wysely.'  The gud lady Meknes
+&thorn;at aye Elyke makis hir selfe lowly and vndir alle o&thorn;er,
+sa&llbar; be supprioresse: hir sa&llbar; &yogh;e honoure and wirchipe
+with bouxomnes.  A Ihesu! blyssede &thorn;at abbaye, and cely es
+&thorn;at religyone, &thorn;at hase so haly ane abbas as Charyte, a
+prioresse as Wysedome, a supprioresse as Mekenes.  A, dere
+bre&thorn;ir and systirs, blyssede and Cely are &thorn;ay, &thorn;at
+es to say, those saules are eely &thorn;at haldis &thorn;e comandment
+of &thorn;e abbas lady Charite, and &thorn;e techynge of &thorn;e
+priores, lady Wysdome, and the concele of &thorn;e suppriorese, lady
+mekenes; For who-so es bouxome to
+<PB N="55">
+
+
+thir thre ladyse, and &thorn;aire lyffe rewlis aftir &thorn;aire
+techynge, the Fadir, the Sone, the Holy Goste, &thorn;am sa&llbar;
+comfurthe with many gostely Ioyes, and &thorn;am helpe and socoure in
+alle fandinges, in angirs, &thorn;at &thorn;ay ne be noghte
+ouercome&ntail;; &thorn;am thare drede no wrenkis ne no wylis of the
+fende, for why God es with &thorn;a&mtail;, and standis aye by
+&thorn;a&mtail; als a trewe kepere & a strange.  And for-&thorn;i says
+Dauid thus, Dominus protector vite mee, a quo trepidabo ? als if he
+sayd, ` God es my champyone staleworthe and trewe, &thorn;at for me,
+&thorn;at es so wayke and so vnmyghtfu&llbar;, agaynes my&ntail;
+Enemyse hase vndirtane for to fyghte: whame thare me &thorn;a&ntail;
+drede ? now trewly, righte none.'  We rede in a buke of Danyele
+&thorn;at a myghtfu&llbar; was &thorn;at me&ntail; callede
+Nabogodhonosore, &thorn;at sett in Rome thre me&ntail; &thorn;at solde
+do & ordayne and staby&llbar;, als baylyes, alle &thorn;e rewme, so
+&thorn;at &thorn;e kynge herde no noyse, ne no playnte, bot &thorn;at
+he myghte be in pese, & in Ioye, & in ryste in his rewme.  And righte
+so &thorn;e rewme of &thorn;e sawle &thorn;at thiese thre baylyes are
+I&ntail;, and &thorn;e religione &thorn;at thies thre prelates are
+I&ntail;, &thorn;at es, Charite, Wyse- dome and Mekenes, thare es
+pese, ryste, and lykynge in saule, and comforthe in lyfe.</P>
+
+<P>Damsele Discrecyone, &thorn;at es witty and be fu&llbar; ware,
+sa&llbar; be tresorere; scho sa&llbar; hafe in hir kepynge alle, <MILESTONE
+N="273" UNIT="leaf">and
+&yogh;ernely luke &thorn;at all go wele.  Orysone salle be
+chaunterese, &thorn;at with hertly prayers sa&llbar; trauele daye &
+nyghte.  And whate Orysoue es, &thorn;e haly ma&ntail; sayse, Oracio
+est Deo sacrificium, angelis solacium, diabolo tormentum, &thorn;at es
+to saye, á` Orysone es a lonely sacrafice to God, Solase and
+lykynge to Ange&llbar;s, and turment to &thorn;e fende.'  It witnes in
+the lyfe of Saynte Barthil- mewe, &thorn;at it es turment to &thorn;e
+fende; for &thorn;e fende cryede to hym and sayde Bartholomee !
+incendunt me oraciones tue, &thorn;at es to saye, ` Bertilmew, thi
+prayers byrnys me.'  And &thorn;at es lykynge to angels, Saynte
+Bartilinew wytnes it, and sayse, `whe&ntail; we praye with deuocyone
+of hert, the Angels standis byfore, daunsesande & prayeande, and beris
+oure prayers vp, and a present of &thorn;a&mtail; to &thorn;e Fadir of
+heue&ntail;.  &THORN;e whilke prayers oure Lorde commandes to wryte in
+&thorn;e buke of lyfe, &thorn;at es,
+
+
+ 
+<!-- 0029.p56-57.txt -->
+<PB N="56">
+
+
+sacrafyce to God: this are of &thorn;a&mtail; &thorn;at hym moste
+payes; and for-thi he askes vs it &thorn;er he sayse thus, Sacrificium
+1audis honorificabis me, &thorn;at es to saye, `&yogh;e salle wyrchipe
+wit&hbar; sacrifice of louynge.'  Iubilacio hir felowe sa&llbar;
+helpe; and, what Iubilacio&ntail; es, a seynt it telles, and sayse
+&thorn;at Iubylacio&ntail; es a grete Ioye &thorn;at es consayuede in
+teris, thorow brynnande luffe of spirite, &thorn;at may noghte be in
+a&llbar; schewede, no in alle hyde, als it fallis somtyme of tho
+&thorn;at God hertly lufes: &thorn;ere- eftir &thorn;at &thorn;ay hafe
+bene in prayere and in orysone, &thorn;ay ere so lyghte & so lykande
+in God &thorn;at, whare-so &thorn;ay go, &thorn;er hertes synges
+murnynge songes of lufe-longynge to &thorn;aire lefe, &thorn;at
+&thorn;ay &yogh;erne with armys of lufe semlyly to falde, and with
+gastely mourny[n]ge of his gudnes swetly to kysse, and &yogh;it
+vmwhile so depely, &thorn;at wordis &thorn;am wanttis, for
+luf-longynge so ferforthe rauesches thorow hertis, &thorn;at
+somty&mtail; &thorn;ay ne wote noghte whate &thorn;ay do.  Deuocione
+es celeresse, &thorn;at kepis &thorn;e wynnes, bothe &thorn;e white
+and &thorn;e rede, with depe vmbythynkynge of &thorn;e gudnes of God,
+& of &thorn;e paynnes & of &thorn;e anguyse &thorn;at he tholede, and
+of the Ioyes & &thorn;e delytes of paradyse, &thorn;at he hase
+ordayned to his chose&ntail;.  Penance sa&llbar; be kychynnere,
+&thorn;at with grete besynes trayue&llbar;s daye & nyghte for to plese
+a&llbar;e, and ofte swetis with bitter teris for angyre of hir synnes.
+Scho makes gud metis, &thorn;at es, many bitter sorowes alle for hir
+gyltez.  And <MILESTONE N="273 bk." UNIT="leaf"> theys metis fedis &thorn;e saule, bot scho sparis
+hir-selfe thorow abstynence, and etys bot litti&llbar;; For, do scho
+neuer so meki&llbar; ne so mony-folde of gude werkes, ay semys scho
+hir-selfe vnworthy and synfu&llbar;.  Atemperance seruede in the
+fratour &thorn;at scho to ylkone so lukes &thorn;at mesure be ouer
+alle, &thorn;at none ouer meki&llbar; nere ouer lytti&llbar; ete ne
+drynke.  Sobirnes redis at &thorn;e borde the lyues of the haly
+Fadirs, and synges and reherces whate lyfe &thorn;at &thorn;ay lede
+for to take gud Ensampi&llbar;e to do als &thorn;ay dyd, and
+&thorn;ere thorowe slyke mede to wy&ntail; als &thorn;ay now hafe.
+Pete es spensere, &thorn;at dose seruesse to gud, a&llbar; &thorn;at
+scho maye.  And Mercy hir syster sa&llbar; be ambynowre, &thorn;at
+gyffes to a&llbar;e, and noghte kane kepe to hir-selfe.  The lady
+Drede es portere, &thorn;at kepis besyly &thorn;e cloyster of &thorn;e
+herte, & of &thorn;e conscience
+<PB N="57">
+
+
+
+&thorn;at chases owte alle vnthewes, and calles In alle gud vertus, &
+so speres &thorn;e &yogh;atis of &thorn;e cloyster & &thorn;e wyndows,
+&thorn;at none evy&llbar;e hafe none Ingate to &thorn;e herte, thorowe
+&thorn;e &yogh;atis of &thorn;e mouthe, ne thorowe &thorn;e wyndows of
+&thorn;e eghne, nere of &thorn;e eris.  Honeste es Maystresse of
+&thorn;e nouyce, and teches &thorn;am alle curtasye, bow &thorn;ay
+sa&llbar; speke and gange, and sytt and stande, and how &thorn;ay
+sa&llbar; bere &thorn;a&mtail; with-owtte&ntail; and with-i&ntail;;
+howe to God, how to ma&ntail;, so &thorn;at alle &thorn;at
+&thorn;a&mtail; sese, of &thorn;am may take ensampi&llbar; of alle
+gudnes, and alle gude thewes.  Dameselle Curtasye sa&llbar; be
+hostelere; & &thorn;at &thorn;ay comande & byddes, &thorn;at scho
+sa&llbar; &thorn;am resafe hendely, so &thorn;at ylke one may speke of
+hir.  And for-thi &thorn;at now&thorn;er sa&llbar; be by
+&thorn;a&mtail; one enlange the gestes, &mdash; For it myghte falle
+&thorn;at dameselle Curtasye solde be oure balde a[nd] ouer hardy,
+&mdash; for-thi sa&llbar; scho hafe a felawe Damesele, Symplese; for
+&thorn;ay two alyede to-gedir thorowe felawchipe, are sekyre and
+semande, for &thorn;e tone with-owtte&ntail; &thorn;e to&thorn;er
+vmwhile es litti&llbar; worthe.  For ouer-grete symplesse may make of
+&thorn;e symple a sott, or ouer nyce, and ouer-grete curtasye may be
+somewhile o&thorn;er to lyghte chere or to glade, or ouer-balde, for
+to paye &thorn;e gestes; Bot fayre and wele, & with-owtte&ntail;
+fandynge of blame, may &thorn;ay do &thorn;aire Offece both
+to-gedir.</P>
+
+<P>Damesele Resone sa&llbar; be puruerere, For scho sa&llbar; ordayne
+with-in & with owtty&ntail; so skilfully, &thorn;at &thorn;ere ne be
+no defaute.  Damesele Lewte sa&llbar; be fermoresse, &thorn;at
+sa&llbar; trauelle abowte, & besely serue &thorn;e seke.  And
+for-&thorn;i sen &thorn;at in &thorn;e fermory of this religyo&ntail;
+are moo seke &thorn;a&ntail; hole, mo feby&llbar; &thorn;a&ntail;
+wighte, and es ouer-grete trauelle to serue &thorn;am alle hyr one, <MILESTONE
+N="274" UNIT="leaf">
+For-t&hbar;i sa&llbar; scho hafe a felawe, Damesele Largesse,
+&thorn;at sa&llbar; see full wele to ylkone after &thorn;at &thorn;am
+nedis.  Damesele Conande and Wysse, &thorn;at es callede Meditacyone,
+or Poleschesy, es garnere: scho sa&llbar; gedyre and semby&llbar; gude
+whete and o&thorn;er gud cornnes to-gedir, and &thorn;at fully, with
+grete plente, thorowe &thorn;e whilke alle &thorn;e gud ladyse of
+&thorn;e howse may hafe &thorn;aire sustenance.  Meditacio&ntail; es
+in gud thoghtes of God, & of his werkes, and of his wordes, and of his
+creaturs, and of his paynnens &thorn;at he tholede, and of his grete
+lufe &thorn;at he had and hase to &thorn;a&mtail;
+
+
+ 
+<!-- 0030.p58-59.txt -->
+<PB N="58">
+
+
+for whay&mtail; he tholede.  This garnere had &thorn;e gud kyng Dauid;
+For-&thorn;i was he ay riche & in plente, and for-&thorn;i he sayse in
+&thorn;e psaltyre, In omnibus oreribus tuis Meditabar die ac nocte,
+&thorn;at es to saye, `Lorde ! in thi lawe I thynke nyghte and daye.
+This es begynnynge of a&llbar; perfeccio&ntail;, tha&ntail; whe&ntail;
+ma&ntail; settis and staby&llbar;s his herte in depe thynkynge on God
+& on his werkes.  For ofte es better a gud thoghte in haly
+meditacyo&ntail; &thorn;an Many wordes sayd in prayere, For &thorn;e
+holy thoghtes in meditacio&ntail; cryes in Goddes eris.  Ofte it
+falles &thorn;at &thorn;e herte es so ouer-tane and so raueschede in
+holy meditacyo&ntail;, &thorn;at it wote noghte what it dose, heris,
+nor sayse, or seys; so depely es &thorn;e herte festenede in God and
+in his werkes, &thorn;at wordis hym wanttis; and &thorn;e stillere
+&thorn;at he es in slyke Meditacio&ntail;, the luddere he cryes in
+Goddes eris; and &thorn;er-fore sayd Dauid thus, Quoniam tacui dum
+clamarem tota die, as if he sayd, `Lorde! lo, here, the whi&llbar;s
+my&ntail; herte was in depe thoghtes in the and of thi werkes, it
+cryed one the in holy Medytacyons, and was sty&llbar;e, as beynge
+domme.'  And &thorn;er sayse &thorn;e glose, `the grete cryes
+&thorn;at we crye to God &thorn;an, are oure grete desyres and oure
+grete &yogh;ernynges.'  And this sayse Saynte Denyse, &thorn;at sayse,
+`When &thorn;e herte es lyfte and raueschede to &thorn;e lufe of God
+with gelouse &yogh;ernynges, he ne may sownde with worde &thorn;at
+&thorn;e herte thynkis.'  This holy Meditacione, &thorn;at es,
+&thorn;e gernare &thorn;at kepis &yogh;erely &thorn;e whete &thorn;at
+es rede with-owte and white with-i&ntail;, &thorn;at hase &thorn;e
+syde cloue&ntail;, of &thorn;e whilke men mase gud brede, &thorn;at es
+called Ihesu Criste, &thorn;at with-owtte&ntail; was rede of his
+awe&ntail; blode, and whitte with-i&ntail; tborow his awe&ntail;
+mekenes and clennes of lyfe, and hade <MILESTONE N="274 bk." UNIT="leaf"> his syde cloue&ntail; with a
+spere, &mdash; this es &thorn;e brede &thorn;at we ressayue and etis in
+&thorn;e Sacrament of &thorn;e altyr.  And wele &thorn;ou weite
+&thorn;at the gerner sa&llbar; be abow&ntail; &thorn;e Selare, also
+sa&llbar; be Meditacio&ntail; before deuocio&ntail;; and for-thi
+meditacio&ntail; sa&llbar; be gernare, Deuocio&ntail; Celerrere, and
+Pete pene- tancere <NOTE ID="n9">Sic in MS.; but <HI REND="i">?pittancere</HI>, i.e. the officer who served out the rations. The Prioress had charge of the discipline.</NOTE>.  Of thiese thre sayse &thorn;e profete Dauide <NOTE ID="n10">Ps. iv. 8.</NOTE> 
+A Fructu frumenti vini, et olei sui, multiplicati sunt, &thorn;at es
+at saye, ` Of
+<PB N="59">
+the fruyte of &thorn;e whete and wyne and oyle, &thorn;ay ere
+fulfillede.'  In &thorn;e alde lawe, ;n many stedis, Gode takis to bis
+chose&ntail; thiese thre.  `Serue me,' he sayse, `wele, & I sa&llbar;
+gyffe &yogh;owe plente of whete and wyne & oyle.'  Plente of whete es,
+hertly to thynke one &thorn;e croyce, and euer haffe &thorn;e
+passyo&ntail; of Ihesu Crist hertly in mynde.  This es
+Meditacio&ntail;.  Plente of wyne, &thorn;at es &thorn;e we&llbar;e of
+teres; wele for to wepe, this es Deuocio&ntail;.  Plente of oyle,
+&thorn;at es, for to hafe delyte and sauoyre in God; and this es
+comforthe, for &thorn;e oyle gyffes odoure to metis, and lyghtes in
+&thorn;e kyrke, and byrnys in &thorn;e lampe.  Also whe&ntail; Goddis
+seruandes hase depely thoghte with schire herte on Gode, & on his
+werkes, with lufe-longynge to &thorn;a&mtail;, &thorn;a&ntail; hase
+God pete of &thorn;a&mtail;, and sendis &thorn;am petance of comforthe
+and of gastely Ioye; and this gyffes hym at &thorn;e begynnyng
+Meditacio&ntail;, and &thorn;is es &thorn;e whete &thorn;at God
+hyghttes vs, and deuocyone &thorn;at mea consayues in
+medytacyo&ntail;.  Than sendis God sone after &thorn;e wyne, &thorn;at
+es, plente of teris ; and after, &thorn;e wyne of swete teris; than
+sendys he &thorn;e oyle of consolacio&ntail;, &thorn;at gyffes
+&thorn;a&mtail; Sauour, & lyghtnes his knaweliggynge, and schewes to
+&thorn;am of his heuenly priuatyse, &thorn;at es hide fro
+&thorn;a&mtail; &thorn;at folowes fleschely desyris, and gyffes
+&thorn;a&mtail; selfe a&llbar;e to &thorn;e wysedome of &thorn;e
+worlde and his fantesyse, and so enflawmes &thorn;am with &thorn;e
+blysse of his lufe &thorn;at &thorn;ay taste somedelle, & fele how
+swete he es, how gud he es, how luffande he es-bot noghte a&llbar;e
+fully.  I wote wele &thorn;at none may fele it fully, bot if his herte
+sulde bryste for lykynge of Ioye.  Sayne Austyne telles of a preste
+&thorn;at, whe&ntail; he herde any thynge of God &thorn;at lykynge
+ware I&ntail;, he weld be so raueschede in Ioye &thorn;at be walde
+fa&llbar; downe, and lygge als he ware dede.  And also in &thorn;at
+tyme, if mea layde byrnande fyre to his flesche nakide, he felid <MILESTONE
+N="275" UNIT="leaf"> it
+no more &thorn;an dose a dede corse.  Sayne Bernarde spekes of
+&thorn;e wordis of Iob, &thorn;er he sayse Abscondit lucem in manibus,
+&thorn;at es at say, `God hase lyghte hyde in his handis.'  &thorn;ou
+wote wele, he &thorn;at hase a candi&llbar; lyghte by-twene his
+handis, he may hyde it & schewe it at his owen&ntail; wi&llbar;.  So
+dose oure Lorde to his chose&ntail; Whe&ntail; he wi&llbar;, he opynis
+his handes, and lyghtenes &thorn;am with
+
+
+ 
+<!-- 0031.p60-61.txt -->
+<PB N="60">
+
+
+heuenly gladnes; and whe&ntail; he wi&llbar;, be closis his handis,
+and withdrawes &thorn;e lykynge & &thorn;e comforthe fro
+&thorn;a&mtail;.  He wi&llbar;c noghte &thorn;at &thorn;ay fele it
+fully aye, Bot here be gyffes &thorn;a&mtail; as for to taste & sauour
+somedele how swete he es, how gud he es: als Dauid sayse, Gustate &amp;
+videte quam suauis est Dominus, als ;f God sayd to vs, `be &thorn;;s
+comforthe and this lykynge &thorn;at &thorn;ou &thorn;is schorte
+ty&mtail; hase of me, &thorn;ou may taste & fele how swete, how gude I
+ame to my cbosy&ntail; ;n my blysse, ;n &thorn;e werlde with-
+owtte&ntail; ende'; and &thorn;us he dose, for to drawe vs fro worldly
+besynes, and &thorn;e lykynge &thorn;er-of, and for to enflawme oure
+hertes with lufe-&yogh;ernynges, For to wy&ntail; and to hafe &thorn;e
+lykynge of &thorn;at Ioye, a&llbar;e at &thorn;e fu&llbar; in body and
+saule, with hym for to be euer more with-owtte&ntail; ende.</P>
+
+<P>A dameselle wyse & wele taghte, &thorn;at me&ntail; calles Gelosye,
+&thorn;at es ay wakyre and besy euerylyke wele for to do, sa&llbar;
+kepe &thorn;e orloge, and sa&llbar; wakky&ntail; &thorn;e o&thorn;er
+ladyse, & make &thorn;a&mtail; arely to ryse, and go &thorn;e
+wyllylyere to &thorn;aire seruysse.  &THORN;er es orloges in towne
+&thorn;at wakyns me&ntail; to ryse to bodily trauayle, & &thorn;at es
+&thorn;e seke; and &thorn;er es orloges in &thorn;e cete &thorn;at
+wakynnes &thorn;e marchauntes to wende a-bowte &thorn;aire
+marchandyce, &thorn;at es &thorn;e wynde &thorn;at blawes daye.  And
+&thorn;er es orloges in religio&ntail; of contemplacio&ntail;.  And
+this es of this holy relegyo&ntail; &thorn;at es fundede of&thorn;e
+Haly Gaste, and &thorn;is es Ielosy; and t&hbar;is es sauoyre of
+perfeccio&ntail;.  & ofte it falles in relegio&ntail;, be-fore
+&thorn;at &thorn;e Orloge falles or any belles rynges, Goddes gostely
+seruandes are lange wakenede before, and hase wepede by-fore God, and
+hase wasche&ntail; &thorn;a&mtail; with &thorn;aire teris, and
+&thorn;aire spyrit hase <MILESTONE N="275 bk." UNIT="leaf"> vesete with deuote prayers and gastely
+comforthe.  And why rose &thorn;ay so arely & so tymly ? Witterly for
+&thorn;e orloge of lufe; and damesele Ielosye had wakened
+&thorn;a&mtail; be-fore &thorn;e tyme &thorn;at &thorn;e handmayde
+orloge fe&llbar;e.  A, dere bre&thorn;ir and syster! sely ar tho
+sawles &thorn;at &thorn;e lufe of God, and longyng ti&llbar; hym,
+wakyns, and slomers noghte, no slepis noghte, in &thorn;e slowthe of
+fleschly lustes.  For-thi be sayse in Canticis, Ecce dormio, et cor
+meum <CORR SIC="vigelat" RESP="Perry">vigilat</CORR>, &thorn;at es at saye, `when I slepe bodily, my flesche
+for
+<PB N="61">
+
+
+to cse & ryste, my herte es ay wakyre in gelosy and in lufe-
+&yogh;ernynge to Gode.'  That saule &thorn;at &thorn;us wakes to God,
+me thynke hole conscyence &thorn;at werldly me&ntail; thynke, and
+&thorn;at es this, Jeo ay le quer a leche, rauayle' par amours,
+&thorn;at es at saye, `My&ntail; herte es styrte fro me, wakened with
+lufe.'  Wbate es this &thorn;at mase &thorn;e herte fro &thorn;e
+flesche to wake, and for &thorn;at es it, as it were, fremde to hym?
+Wittirly Ieloussye with lufe, teres, & murnynge, with lufe-longynge
+consayuede in deuote vprysynge of herte.</P>
+
+<P>When this Abbaye was alle wele ordaynede, and Goddes wi&llbar;
+seruede in ryste, & in lykynge, & in pese of saule, than come a
+tyrante of &thorn;e lande thorowe his powere, and did in this holy
+Abbaye Foure doghtyrs &thorn;at he hade &thorn;at were lothely & of
+euy&llbar; maners, &thorn;at &thorn;e fende was fadyr of thiese
+doghtyrs.  &THORN;e firste &thorn;er-of, &thorn;is foule barne-tyme,
+highte Envye; the to&thorn;er highte Pride; the thirde highte
+Gruchynge; the ferthe highte False Demynge of o&thorn;er.  Thiese
+foure doghetirs &thorn;an base &thorn;e tyraunt, &thorn;e deue&llbar;
+of helle, for euy&llbar; wi&llbar; & malese, done in this holy Abbaye;
+and &thorn;ay, with &thorn;aire foule vnclennes, &thorn;e couent hase
+greuede and harmede, so &thorn;at &thorn;ay no riste ne no pete may
+hafe, nyghte nor daye, nor lykynge in saule. And when &thorn;e gud
+lady Charite saw this (&thorn;at was Abbas), and the lady Wysedome
+(&thorn;at was prioresse), and &thorn;e lady Mekenes, supprioresse,
+and &thorn;e to&thorn;er gude ladyse of this holy Abbaye, that the
+holy Abbaye was in poynte for to worthe to noghte thorowe &thorn;e
+wykkydnes <MILESTONE N="276" UNIT="leaf">of thir foure, Than range [&thorn;ay] &thorn;e chapetour
+belle, and gedirde &thorn;am alle to-gedir, and asked concele whate
+was beste to do.  A11d than lady Dyscrecyo&ntail; &thorn;a&mtail;
+concelde &thorn;at &thorn;ay solde alle falle in prayere to &thorn;e
+Holy Goste, &thorn;at of this Abbay es vesetour, &thorn;at he haste
+hym for to come, as &thorn;ay grete myster hade, &thorn;are for to
+helpe and vesete with his grace.  And &thorn;ay a&llbar;, at hire
+consaile, with grete deuocyo&ntail; of herte vnto hym, sange alle with
+a swete steue&ntail;, Veni, creator sriritus!  And also sone &thorn;e
+Holy Goste come at &thorn;aire desyrynge, and &thorn;am com- forthede
+with his grace, and chasede owte &thorn;e fowle wyghtes, &thorn;ose
+lothely fendis doghetirs, and clenesede &thorn;e Abbaye of all
+
+ 
+<!-- 0032.p62.txt -->
+<PB N="62">
+
+
+&thorn;e fylthe, and ordayned it, and restorede better &thorn;a&ntail;
+it was by-fore.  Now I pray &yogh;ow a&llbar; in charite of God,
+&thorn;at a&llbar; &thorn;a &thorn;at of this relegio&ntail; redis or
+heris, &thorn;at &thorn;ay be bouxome with a&llbar; &thorn;aire
+myghte, and suffire &thorn;at &thorn;e gud ladys be-fore namede do
+&thorn;aire offece ilke daye gastely with-in &thorn;aire hertes.  And
+luke ylkone wysely &thorn;at he ne do no trispase agayne &thorn;e
+rewle ne &thorn;e obedyence of &thorn;is relegio&ntail;, and of
+&thorn;ase lufe-frayners.  And if thorow vnhape fa&llbar;e &thorn;at
+any of thiese foure fendis doghetirs seke one any wyse any Ingate for
+to hafe with-in &yogh;oure hertes for to due&llbar;e, or Ingate hase
+wonne, and with &yogh;ow duellis, do so, after &thorn;e conce&llbar;e
+of &thorn;e lady Discrescio&ntail;, and gyffe &yogh;ow to
+deuocio&ntail; with hertly prayers, in hope of Goddes helpe and of his
+socoure, and &yogh;e sa&llbar; be delyuerde thurgh &thorn;e mercy of
+oure Lord Ihesu Criste there.  Blyssede mot he he with-owtte&ntail;
+ende! Ame&ntail;</P>
+
+<TRAILER>Explicit Relegio Sancti Spiritus.  Ame&ntail;.</TRAILER>
+      </DIV1>
+    </BODY>
+  </TEXT>
+
+
+
+</TEI.2>
+

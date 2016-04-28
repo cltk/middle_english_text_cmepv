@@ -1,0 +1,853 @@
+<?xml version="1.0"?>
+<DLPSTEXTCLASS><HEADER><FILEDESC><TITLESTMT><TITLE TYPE="245">The dethe of James Kynge of Scotis  / translated by John Shirley.</TITLE><TITLE TYPE="alt">Shirley Death Jas.</TITLE><AUTHOR>Shirley, John</AUTHOR></TITLESTMT><EXTENT>ca. 41 kB SGML-encoded text file</EXTENT><PUBLICATIONSTMT><PUBLISHER>University of Michigan, Digital Library Production Service</PUBLISHER><PUBPLACE>Ann Arbor, Michigan</PUBPLACE><DATE>2003</DATE><IDNO TYPE="notis">AAM1058</IDNO><IDNO TYPE="dlps">deathjas</IDNO><AVAILABILITY><P>These texts may be copied freely by individuals for personal use, research, and teaching (including distribution to classes) as long as this                 statement of availability is included in the text. It may be linked to freely in Internet editions of all kinds, including for-profit works.                 Redistribution by commercial or not-for-profit content providers is expressly forbidden. Please visit http://www.umdl.umich.edu for more information.</P></AVAILABILITY></PUBLICATIONSTMT><SOURCEDESC><BIBLFULL><TITLESTMT><TITLE>Here Folowing Begynnythe a Full Lamentable Cronycle of the Dethe and False Murdure of James Stewarde, Kyng of Scotys. Miscellanea Scotica : a collection of tracts relating to the history, antiquities, topography, and literature of Scotland ..., vol. 2 (1818), p. 5-29.</TITLE></TITLESTMT><EXTENT>[25 p. in v.2 of 4 v.]</EXTENT><PUBLICATIONSTMT><PUBLISHER>John Wylie &amp; Co.</PUBLISHER><PUBPLACE>Glasgow</PUBPLACE><DATE>1818</DATE></PUBLICATIONSTMT><NOTESSTMT><NOTE><P>Derived from MS. London, British Library, Additional 5467.</P></NOTE></NOTESSTMT></BIBLFULL></SOURCEDESC></FILEDESC><ENCODINGDESC><PROJECTDESC><P>Header created by hand based on text and MARC record on 2003-03-26.</P></PROJECTDESC><EDITORIALDECL N="4"><P>Encoding has been done using the recommendations for Level 4 of the TEI in Libraries Guidelines.</P></EDITORIALDECL></ENCODINGDESC><PROFILEDESC><LANGUSAGE><LANGUAGE ID="lat">Latin</LANGUAGE></LANGUSAGE><TEXTCLASS><KEYWORDS>
+
+       <TERM>English prose literature -- Middle English, 1100-1500.</TERM>
+       <TERM>English language -- Middle English, 1100-1500 -- Texts.</TERM>
+     </KEYWORDS></TEXTCLASS></PROFILEDESC></HEADER><TEXT><FRONT><EPB/><PB SEQ="00000001" N="[1]"/><TITLEPAGE><DOCTITLE><TITLEPART TYPE="main">HERE FOLOWING BEGYNNYTHE<LB/>
+A FULL LAMENTABLE CRONYCLE, OF THE<LB/>
+DETHE AND FALSE MURDURE OF JAMES<LB/>
+STEWARDE, KYNG OF SCOTYS, NOUGHT<LB/>
+LONG AGONE PRISONER YN ENG-<LB/>
+LANDE, THE TYMES OF THE<LB/>
+KYNGS HENRYE THE FIFTE<LB/>
+AND HENRYE THE<LB/>
+SIXTE.</TITLEPART><TITLEPART TYPE="sub">Princes shuld take hede, and draw it to thare memorie, of Maistre Johanes de Moigne counsell, thus said yn Frenche langage, II nest pas sires de son pays, quy de son peple n'est amez.</TITLEPART><TITLEPART TYPE="sub">FROM A MANUSCRIPT WRITTEN IN MCCCCXL.</TITLEPART></DOCTITLE><DOCIMPRINT><PUBLISHER>PRINTED FOR J. WYLIE &amp; CO.<LB/>By Robert Chapman.</PUBLISHER>
+<PUBPLACE>Glasgow</PUBPLACE>
+<DOCDATE>1818.</DOCDATE></DOCIMPRINT></TITLEPAGE><DIV1 NODE="deathjas:1" TYPE="foreword"><EPB/><PB SEQ="00000002" N="[3]"/><HEAD>ADVERTISEMENT.</HEAD><P>THIS MS. formerly belonged to Mr. Thoresby
+of Leeds, (see Nicolson's Historical Library,) now
+(1790) to Mr. Jackson of Clement's Lane, Lombard-street:
+written about 1440, as appears from
+a writing, and from a translation in the same MS.
+after this tract, of a book of morals by "John of
+Wiegnny, out of Frenshe into Englishe, by your
+humble servytoure John Shirley, att the full noble,
+honorable, and renomed cité of London, so as
+feblesse wold suffice, in his great and last age, the yere
+of oure lord a thousand, four hundreth fourty."</P><P>Mr. Pinkerton (in the Appendix to whose History of
+Scotland this tract first appeared) supposes
+that it was published in Scotland by authority;
+but we think it appears clearly from internal
+evidence to have been composed by a native of
+England. The following passage. Would certainly
+.never. have been written by a Scotchman, muchless
+published by authority: "The Kyng of Scottes
+hadde leve enlagissid, and had saufecondit of his
+maister the kyng of England, (for so the Kyng of
+Scottes clepid hym,) to return safe and sownde
+ayene. ynto his region of Scotteland."</P></DIV1></FRONT><BODY><EPB/><PB SEQ="00000003" N="[5]"/><DIV1 NODE="deathjas:2" TYPE="text"><HEAD>THE DETHE OF THE KYNGE OF SCOTIS.</HEAD><P>ROBERT STEWARD, the kyng of Scotis,
+hadde ii sonnys; of the whiche the eldere was a
+semely mane of persone, and knyght, clepid the
+duke of Roseye; and the yongor, clepid James
+Steward, that was bote of yeres yonge, and meane
+of stature. This Duke of Roseye perseyved in his
+reason the greet age of the Kyng his fadir, the
+ympotencye of his lymmes and membirs, the febilencise
+of his persone that sore vexed hyme yn his age,
+begane unlawefully to tak upon hym the Royall
+guvernance. Thurghe the whiche presumcion, orguyle
+and pruyde, he wexe full of viciousness yn
+his lyvyng, as yn dispusellyng and defowlyng of
+yong madyns; and yn brekyng the ordire of weddelok,
+by his fowle ambicious lust of that vuluptenus
+lust of advoutre. Wherfore the Lordes and the
+Nobles of the Rewme of Scotland, consideryng that
+vicious lyvyng of that said Duke...[a leaf torn out]
+
+<EPB/><PB SEQ="00000004" N="6"/>
+
+Thes traturs furters, and contractes, ended by the
+counsell and consente of bothe the parties of the
+Kynges, the Kyng of Scottes hadde leye enlagissid,
+and had saufecondit of his maister the kyng of England,
+(for so the Kyng of Scottes clepid hym,) to
+return safe and sownde ayene ynto his region of
+Scotteland.</P><P>Of whos cumyng the Erle Douglas and the Erle
+of Bowgham,<NOTE1 N="*" ID="DLPS1">John Stuart, son of Robert duke of
+Albany, and constable of France.</NOTE1>
+fully advertised to hemselfe in thaire
+owne misgovernance, he beyng Kyng and absent,
+ne durste nat abide his home-cumyng, for fere of
+the pitous dethe of the Duke of Rosey his brother,
+whome thay haved so mischevously murdered unlawfully
+yn prisone, as afore this cronycle made
+clere memorie, they ordeynd hem, for dowte of
+thare lyvys, with a gret nowmber of thare frendis
+and subjectes, with all possibilité to passe the
+see ynto France. From whense thay come never;
+bott both thay, with many other worshipfule capitaignes,
+knyghts, and swyers, and lordes of the
+Armynakes and Scottes, all enmyes to the Kyng of
+England, were slayne and takyne at the bataile of
+Vernoile yn Perch, withyne the revme of France,
+by that noble and so excellent prynce John of Loncaster,
+Duke of Bedeford, thene the Regent of
+France, to whome that day God granted the disconfitoure
+and victorye of the feld.</P><P>Remanyng at thare home the Duke Of Albayne,
+the Erle of Leynys, the Erle of Manthet, Watir
+Stuard, and other many lordes of Scotteland, thynkyng
+
+<EPB/><PB SEQ="00000005" N="7"/>
+
+that thay were so neghe of the Kynges blode
+of Scottes, and demyng also yn theire conseites that
+[thai] hade nat offended theire Kyng yn no Wise;
+bot so abode still yn the lande the Kyng's cumyng
+home out of England ynto Scotteland. Whome all,
+with many other of thare afinite, the saide Kynge
+of Scottis lete arrest, and hem severally yn diverse
+castell full hard prisoned, till he had fondon meanes
+and wais for to do hem lawfully to deth, as false
+traitours, because of the false murdure of his brother
+the duke of Rosay. Whos deth the people of the
+land sore grutched, and mowrnid; seying that thay
+suppoised and ymagynd that the Kyng did rather
+that vigorious execucion upon the Lordes of his
+kyne for the covetise of thare possessions and goodes,
+thane for any other rightfull cause, althofe he fonde
+colourabill wais to serve his entent yn the contrarye.</P><P>All thos thinges thus done, the saide kynge of
+Scottes, noght stanchid of his unsacionable and
+gredi avarice, ordeynd that tallage, and other
+imposicions upon his people, gretter and more
+chargeant then ever were acustumyd afore that tyme. So
+that the comoners of his land secretly clepid hym
+nat rightwes, bot a tirannous prynce, what for the
+outrageous imposicious importables of use, on taxes
+and tallages, upon his poure subjectes and peple.
+But after the wisdome of some philosophers the
+comone langage of the peiple oft spekith without
+reason. Nevertheless many of the Lordes of that
+land, dredyng sore of the harme that myght betide,
+drowghe hem to counsell how thay myght withstand
+and resist the Kynges tyranye, sithe he hade so litill
+pite of the dethe done to hyme of his Lordes, many
+
+<EPB/><PB SEQ="00000006" N="8"/>
+
+of hem beyng so negh of his roiall blode, and also
+of the gredi covatise that he oppressid and enpoverisid
+his comonalte. Withall the Kyng beyng present
+yn his said cownesell, rose up with a maneli
+swollon hart a knyght, clepid Sir Robert Grame, a
+grete gentilman and an Erles sune, a mane of grete
+wit and eloquence, wundir suttilye wittyd, and ex-
+pert in the lawe: saying thes wordes opynly to the
+Lordes, "Sirs, yf ye woll firmely stand by that at
+I shall say to the Kyng, yn youre audience, I trust
+to God that we shall fynde a good remedye and
+helpe." To the which sayng the Lordes cosentid:
+and saide that they trustyrig holly yn his prudent
+and discret manehode, wold conforme and consent,
+yn hie and low, to mayntene all that he wold tak
+on hand to say, for the general weele of hem, and
+of all that land, yn that mater by hym than mevid.</P><P>Upon this the Kyng lete to somond a parliament
+of the iii astatis of his rewme, where this same Sir
+Robert Grame, fully sette and asurid and purposid
+to performe that at he had behight and promysid
+unto the Lordes, as is afore rehersid: He rose upe
+with a grete corage, with a violent chere and
+countenance, sette handes upon the Kyng sayng thes
+wordes, "I arrest you yn the name of all the thre
+astates of your reume, here now assemblid yn this
+present parliament, for right as youre liege peple
+be bundun and sworne to obeye your Majeste noble
+riall, yn the same wise bene ye sworne and ensurid
+to kepe youre peple, to kepe and guverne youre
+lawe, so that ye do hem no wronge, bot yn all right
+mantene and defend hem."  And there and then
+forthwith the said Sir Robert Grame, asuryng hym
+
+<EPB/><PB SEQ="00000007" N="9"/>
+
+fully yn the promyse made unto hym bi the said
+Lordes, said, "Is hit nat thus as I say?" Unto
+the which sayng none of all the astates afore rehersid
+wold, ne durst speke oone word, bot kapid silence.
+The Kyng therwith percevyng all this presumptuous
+rebellion, and wirchyng of the said Sir Robert
+Grame, gretly movyd and stirryd ayenst him, as that
+reason wold, lete do hym arrest, and commandid to
+put hym yn sure and hard prisone.</P><P>This Sir Robert Grame, seyng hymself thus desavyd
+there of the said Lordes, spake and said yn
+this wise, "He that serveth a comon mane, he
+serveth by short procese of tyme." After this the
+Kynge exiled this Sir Robert Grame; and all his
+haritages and goodes deemed as forfaturs to the
+Kyng.</P><P>Upon his exile this Sir Robert Grame toke his
+[way] ynto the cuntreis of the Wild Scottis, wherthat
+he conspired and ymagynd  how that he myght
+destruye his Kyng. And furthwith he renounsed
+his legeance, and by wordes, and by writyng,
+defied hem, seying that he had destruyd hym, his
+wif, and his childerne, his haritages, and all his
+other godes, by his cruell tyranny. Wherfor he
+said he wold slee hym [with] his owne handes as
+his mortall enmye, yf wer he myght se tyme, and
+fynd wais and meanes. Therto the Kyng, hugely
+vexid in his spretes with the traturous and malicious
+rebellion of the said Sir Robert Grame, did mak an
+opyn proclamacion by all the rewme of Scotteland
+that whoso myght slee or tak hyme, and bryng hym
+to the Kynges presence, shuld have iii thousand
+
+<EPB/><PB SEQ="00000008" N="10"/>
+
+demyes of gold, every pece worth half an Englissh
+Noble.</P><P>Nocht long after this the Kynglete lete so ordeyne
+his parliament yn due forme, at Edenbourghe, somunde
+yn the yere of oure lord A Thousand, Foure
+Hundreth, Six and Thirtye, yn the fest of All Hallowen.
+To the which parliament the said Sir Robert
+Grame stired a full cruell vengance ayene the
+Kyng, sent privie messages and letturs to certayne
+men and servantes of the Duke of Albayne, whome
+the Kyng a litill afore hade done rigorusly to deth,
+lich as hit is entitild here afore, opynly, that if thay
+consent and faver hym, he wold uttirly take upon
+hym for to slee the Kyng, lest thurgh his tirannye
+and covetise he wold destruy this reume of Scotteland:
+and the corone of the land shall be yovon to
+Sir Robert Stuard, which is the Kyng's cosyn, and
+next of the right of the corone, bot yf the Kyng
+had a sune; the same Robert's fadir thenne liggyng
+in hostage to the  Kyng of England, for the said
+James Kyng of Scottes, yn the towre of  London,
+till that his fynaunce were fully content and paid.
+And the said Sir Robert's grantesire, the Erle of
+Athetelles, of that treison and counsell as hit was
+said; and by hymselfe secretly desirid and covetid
+to have the corone. For which causes the same
+Sir Robert Grame was half the better consentid to
+bryng thaire purpos to effecte. For this Sir Robert
+Stuard did ever abide yn the Kynges presence, full
+famulier aboute hyme at all houres, and most privey
+above all other; and was a full gentill squyer, fresh,
+lusty, and right amyable. Whome the Kyng entierly
+loved as his owne sone; and for the tendure
+
+<EPB/><PB SEQ="00000009" N="11"/>
+
+love that he had to hym he made [hym] Constable
+of all his host, and … at the sege of Edenbourgh.
+<NOTE1 N="*" ID="DLPS2">Sic. Roxburgh.</NOTE1></P><P>After this the Kyng sodanly avisid made a
+solempne fest of the Cristynmes at Perth, which is
+clepid Sant Johns towne, which is from Edenbourgh
+on that other side of the Scottesh See, the which
+is vulgarly clepid the Water of Lethe. Yn the
+myddis of the way thare arose a woman of Yreland,
+that clepid herselfe as a suthsayer. The which
+anone as she saw the Kyng she cried with lowde
+voise, sayng thus, "My Lord Kyng, and ye pase
+this water, ye shall never turne ayane on lyve."
+The Kyng heryng this was astonyed of her wordis;
+for bot a litill to fore he had red yn a prophesie,
+that yn the self same yere the Kyng of Scottes
+shuld be slayne. And therwithall the Kyng as he
+rode clepid to him oone of his knyghtis, and gave
+hym yn comaundment to torne ayene to speke with
+that woman, and ask of here what sheo wold, and
+what thyng sheo ment with her lowd crying? And
+sheo began, and told hym as ye hafe hard of the
+Kynge of Scottes, yf he passed that water. As
+now the Kynge askid her how sheo knew that?
+And sheo said that Huthart told her so. "Sire,"
+quod ho, "men may calant y tak non hede of yond
+womans wordes, for sheo nys bot a drunkine fule,
+and wot not what sheo saith." And so with his
+folk passid the water, clepid the Scottisshe
+See, toward Saynt Johnnes towne, bot iiii myles from the
+cuntreth of the Wild Scottes; where, yn a close of
+
+<EPB/><PB SEQ="00000010" N="12"/>
+
+Blakfriars withowt the said towne, the Kyng held
+a gret fest.</P><P>Where upon a day, as the Kyng plaid at the
+chesses with oone of his knyghtis, whome yn playng
+wise he clepid Kyng of Love, for he was a lusti
+man, full amorous, and much medeled hym with
+loves arte. And as hit came the Kyng to mynd
+of the prophecie spokyne tofore, the Kyng said to
+this knyght, "Sir Kyng of Love," quod he, "hit
+is nat" long agone sith I redd a prophecie, spokyne
+of tofore, that I saw how that this yere shuld a kyng
+be slayne yn this land. And ye wot wele Sir Alexander,
+there be no mo kynges yn this reume bot ye
+and I; and therfor I cownesell you that ye be well
+ware, for I let you wit that I shall ordeyne for my
+sure kepyng sufficiently, I trust to God, fo I am
+undir youre kynghood and yn the service of Love."
+And thus the Kyng yn his solas plaid with the knyght.</P><P>Withyn short tyme after this, the Kyng beyng
+in his chambur, talkyng and playng with the lordes,
+knyghtis, and squyers, that were abowte hyme, spak
+of many dyvers maters. Amonges was ther a squyer
+that was right acceptable to the Kyng, that speke,
+and said, "For sothe My Lord," quod he, "me
+dremed varelye to nyght that Sir Robert Grame
+shuld hafe slayne you." And that heryng the Erle
+of Orkeney thoo warnyd the squyer, that he shuld
+hald his peace, and tell nane such tales yn the Kynges
+presence. And therwith the Kyng herying this
+squyers dreme, remembred hymselfe how that same
+nyght how<NOTE1 N="*" ID="DLPS3">Heo?</NOTE1>  had a sweyvyn slepyng; and semyd
+
+<EPB/><PB SEQ="00000011" N="13"/>
+
+to hym varaly that a cruell serpent, and an horribill
+tode, assailid hym furiously yn his kynges-chambur.
+and how he was sore afright and aferd of hym, and
+that he had nothyng whetwith he myght socoure
+and defend hymselfe, bot oonly a paire of tanges
+that studyn yn the chymneth.</P><P>And many other tokyns, and tailes, liche to this,
+the which now may well be demyd by varay demonstracions,
+and also pronosticacions to the Kyng, of
+his deth and murdur, had he or the tyme of his
+deth fell. Also oone of kynges traitours, clepid
+Cristofere Chawmebur, that was a squyer of the
+Dukes hous of Albayne, iiii times he drugh hym to
+the Kynges presence, for he wold haf playnely
+opynd, and told hym of the purpos of all the traitours,
+that wer aboute to murdure hyme, bycause
+that the Kyng withowt any cause hatid hym rightfully.<NOTE1 N="*" ID="DLPS4">This,
+and several other sentences, are most obscurely expressed.</NOTE1>
+And thus, as hit is said by the old wise
+fadirs, many years or we were borne, what thyng
+that destyned to a person, be hit late be hit sone,
+at the last ever hit cumyth.</P><P>Thus, after this, cane fast apporoch the nyght,
+yn the which the said James Stward kyng of Scottes
+shuld falsely hym unwittyng, suffure his horribill
+deth by murdure; this which is pite that any gentill
+or gode man to thynk upon. So both afore
+soper, and long aftire ynto quarter of the nyght,
+in the which the Erle of Athetelles, and Robert
+Stward, were aboute the Kyng; where thay wer
+occupied att the playng of the chesse, att the tables,
+
+<EPB/><PB SEQ="00000012" N="14"/>
+
+yn redyng of Romans, yn syngyng, and pypyng,
+yn harpyng; and in other honest solaces, of grete
+pleasance and disport. Therwith came the said
+woman of Yreland, that clepid herself a dyvenourese,
+and entred the Kynges courte, till that she
+came streght to the Kynges chambur dore, where
+sheo stood, and abode bycause that hit was shitte.
+And fast sheo knokyd till at the last the ussher
+opynd the dure; marvelyng of that woman's beyng
+there that tyme of the nyght, and askyng here what
+sheo wold? "Let me yn Sire," quod sheo, "for
+I hal sumwhat to say, and to tell unto the Kyng;
+for I am the same woman that noght long agone
+desirid to haf spokyn with hym, at the Lithe, whan
+he shuld passe the Scottish See." The ussher went
+yn, and told hym of this woman. "Yea," quod
+the Kyng, "let hir cume to morrow:" bycause that
+he was occupied with suche disportes at that tyme,
+hym lit not to entend her as  thenne. The ussher
+came ayane to thee chamber dore, to the said woman;
+and there he told hit that the Kyng was besye in
+playng; and bid her cum soo ayane upon the morow.
+"Well," said the woman, "hit shall repent
+yow all, that ye wil nat let me speke nowe with the
+Kyng." Therat the ussher lughe, and held her bot
+a fule, chargyng her to go her way. And therwithall
+sheo went thens.</P><P>Withyn an owre the Kyng askid the voidee, and
+drank, the travers yn the chambure edraw, and
+every man depairtid and went to rist.  Then Robert
+Stward, that was right famylier with the Kyng,
+and had all his commandementes yn the chamber,
+was the last that departid; and he knewe well the
+
+<EPB/><PB SEQ="00000013" N="15"/>
+
+false purveid treison, and was consentid therto, and
+therfore left the Kynges chamburs doore opyne;
+and had brussed and blundird the lokes of hem, yn
+such wise that no man myght shute hem. And
+abowt mydnyght he laid certayne plaunches, and
+hurdelles, over the diches of the diche that environd
+the gardyne of the chambure, upon which the said
+traitours entred. That is to say the forsaid Sir
+Robert Grame, with other of his covyne ynto the
+nowmbre of Thre Hundreth persons; the Kyng
+that same tyme ther stondyng in his nyght gowne,
+all unclothid save his shirt, his cape, his combe, his
+coverchif, his furrid pynsons<NOTE1 N="*" ID="DLPS5">Slippers.</NOTE1> upon the forme, and
+the foote sheet; so stondyng afor the chymney
+playng with the Qwene, and other ladis and gentilwomen with
+here; cast offe his nyght gowne, for
+to have gone to bedd.</P><P>But he harkynd, and hard grete noise without,
+and grete clateryng of harnych, and men armyd,
+with grete sight of torches.  Than he remembred
+hym, and ymagynd anone that hit shuld be [the]
+false tratours knyght, his deedy enemy, Sir Robert
+Grame. And sodenly the Qwene, with all the other
+ladis and gentilwomen, rane to the chawmber dure,
+and fonde hit opyne; and thay wold have shitt hit,
+bot the lokes wer so blundrid, that thay nethir cowth
+ne myght shut hit. The Kyng prayd hem to kepe
+the same dore as wele as thay myght, and he wold
+do all his myght to kepe hym to withstond the false
+malice of his traitours and enmys; he suppoisyng
+to have brestyn the farrements of the chaumbur
+
+<EPB/><PB SEQ="00000014" N="16"/>
+
+wyndos, bot thay wer so sqware, and strongli sowdid
+yn the stonys with moltyne lede, that thay
+myght not be brostyne for hym, withowtyn more
+and strenger helpe.  For which cause he was ugly
+astonyd, and in hys mynd kouth thynk on none
+other socoure, bot start to the chymney, and toke
+the tonges of yren that men rightid the fire with,
+yn tyme of neede; and undir his fete he myghtily
+brest up a plaunch of the chambur flore, and therwithall
+cuverid hym ayane, and entred adowne lowe
+beneth amongis th' ordure of the privay, that was
+all of hard stone, and none wyndow ne isshue therupon,
+save a litill square hole, even at the side of the
+bothum of the pryvay, that at the makyng therof
+old tyme was levid opyne to clense and ferme the
+said privay. By the which the Kyng myght well
+escapid; bot he maid to let stop hit well iii dayes
+afore hard with stone, bicause that whane he playd
+there at the pawme, the ballis that he plaid withe
+oft ranne yn at that fowle hole, for ther was ordenyd
+withowt a faire playng place for the Kyng.</P><P>And so ther for the Kyng nether reschows, ne
+remedie, bot ther he must abide, ellas the while!
+The traitours withowt laid at the chaumbur dors,
+and at the privay dore also, with wawis, with levours,
+and with axes, that at the last thay brak up
+all, and entred, (bycause the durs were not fast
+shutte,) with swerdes, axis, glavis, billes, and other
+terribill and ferefull wepons. Amonges the grete
+prese of the which traitours, ther was a faire lady
+sore hurt yn the bak; and other gentilwemen hurt
+and sore wondid. With the which the ladis, and
+all the wemen, mayd a sorowfull skrye, and rane
+
+<EPB/><PB SEQ="00000015" N="17"/>
+
+away for the hidos fere of tho boistous and merciles
+men of armes. The traitours furiously passed forth
+ynto the chaumbures, and founde the Qwene so
+dismaid and abassid of that horribill and  ferfull
+guvernance, that she cowth nether speke, ne withdrawe
+here. And as sho stode ther so astonyd, as
+a cryature that had lost here kyndly reasone, oone
+of the traitours wowndid here full vilanysly, and
+wold have slayne here, ne had not bene oone of Sir
+Robert Grame's sones, that thus spek to hym and
+said, "What woll ye dow, for shame of youre selfe!
+to the Qwene? Sheo is bot a womane. Let us go
+and sech the Kyng." And then not wityng wele
+what sheo did, or shuld do, for that ferfull and
+terribill affray, fledd yn hir kirtill, her mantell
+hangyng aboute hir; the other ladyes yn a corner
+of the chaumbur, cryyng and wepyng, all destraite
+made a pitous and lamentable noyse with full hevy
+lokyng and chere.</P><P>And ther the traitours sought the Kyng yn all
+the chaumbur abowte, yn the withdrawyng chaumburs,
+yn the litters, undir the presses, the fourmes,
+the chares, and all other places, bot long they besily
+sought the Kyng. Bot they couth nat fynd hym,
+for they nether knew ne remembred the privay.
+The Kyng heryng of long tyme no noyse, ne stiryng of
+the traitours, wende and demyd that thay
+had all begone, cryed to the wemen that they shuld
+cume with shettes, and drawe hym up owt of that
+uncleyne place of the privay. The wemen at his
+callyng came fast to the pryvay dore, that was nat
+shutt, and so tha opynd hit with labure. And as
+they were abowteward to helpe upe the Kyng, oone
+
+<EPB/><PB SEQ="00000016" N="18"/>
+
+of the ladis, clepid Elizabeth Douglas, fell ynto the
+pryvay to the Kyng. Therwith oone of the said
+traitours, called Robert<NOTE1 N="*" ID="DLPS6">Sic.</NOTE1> Chaumbur, suppoisid
+varaly sith thay couth nat fynd, yn none of all the
+sayd chaumburs, the Kyng, that he of nessessite
+had hyd hym yn the pryvay. And therefore he
+said to his felawes, "Sirs," quod he, "wherto stond
+we thus idill, and lese owre tyme, as for the cause
+that we be cumne forehid ? Cumith on furth with
+me, and I shall redily tell you wher the Kyng is."
+For the said Thomas<NOTE1 N="*" ID="DLPS7">Sic.</NOTE1> Chaumbur had bene afore
+right familier with the Kyng yn all places; and
+therfore knewe he wele all the pryvay corners of
+thoo chaumburs. And so he went forth streght to
+the same pryray where the Kyng was, and persavyd
+wele an sawe how a plaunch of the flure was brokyn
+up, and lift hit up, and with a torch lokyd ynne,
+and saw the Kyng ther, and a woman with hyme.
+Sayng to his felows, "Sirs the spows is foundon,
+wherfore we bene cumne, and all this nyght haf
+carold here." Therwithall oone of the said tirantes
+and traitours, clepid Sir John Hall, descendid
+downe to the Kyng, with a grete knyf yn his hand;
+and the Kyng, dowtyng hym sore of his lif, kaught
+hym myghtily by the shuldurs, and with full grete
+violence cast hym under his fete. For the Kyng
+was, of his parsone and stature, a mane right manly
+strong. And seyyng another of that Hallis brethyrne
+that the Kyng had the betture of hym, went
+downe ynto the pryvay also, for to destroy the
+Kyng. And anone as he was ther descendid, the
+
+<EPB/><PB SEQ="00000017" N="19"/>
+
+Kyng kaught hym manly by the nek, and cast hym
+above that other; and so he defowlid hem both undir
+hyme, that all a long moneth after men myght
+see how strongly the Kyng had holdyn hem by the
+throtes. And gretely the Kyng strogild with hem,
+for to have berevyd thame thare knyvys; by the
+which labur his handis wer all forkute. Bot and
+the Kyng had bene yn any wise armyd, he myght
+well have escapid thare malice, by the lengthe of
+his fightyng with thoo ii false traitour. For yf the
+Kyng myght any while lengar have savyd hymselfe,
+his servantes, and much other peple of the towne,
+by sume fortune shuld haf had sume knawelege
+therof, and soo haf cumne to his socoure helpe.
+Bot, ellas the while, hit wol not be! Fortune was
+to hym adverse, as yn preserwyng of his life any
+longer.</P><P>Therwithall that odyus and false traitour Sir
+Robert Grame, seyng the Kyng labord so sore with
+thoo two false traitours, which he had cast undir
+his fete, and that he wer faynt and wery, and that
+he was weponelese, the more pite was, descenden
+downe also ynto the pryvey to the Kyng, with an
+horribill and mortall wepone yn his hand. And
+then the Kyng cried hym mercy. "Thow cruell
+tirant," quod Grame to hym, "thou hadest nevyr
+mercy of lordes borne of thy blode, ne of non other
+gentilman, that came yn thy dawnger. Therfor
+no mercy shalt thow have here." Thane said the
+Kyng, "I besech the that, for the salvacion of my
+soule, ye woll let me have a confessore." Quod
+the said Grame, "Thow shalt never have other
+confessore bot this same swerd." And therwithall
+
+<EPB/><PB SEQ="00000018" N="20"/>
+
+he smote hym thorogh the body, and therwithall
+the goode kyng fell downe, and lamentablé with a
+pitous voyce he cried him oft mercy, and behight
+to gyf hym half hys kyngdam, and much other
+good, to save his lif. And then the said Grame,
+seyng his Kyng and Soveran Lord ynfortuned with
+so much deseyse, angwesh, and sorowe, wold hafe
+so levyd, and done hym no more harme. The other
+traitors above, perceyvyng that, sayd onto the sayd
+Sir Robert, "We behote the faithfully, bot yf thow
+sle hym, or thow depart, thow shalt dye for hym
+on owre handys sone dowtlese." And then the said
+Sir Robert, with the other two that descendid first
+downe, fell upon that noble prynce, and yn full
+horribill and cruell wise they murdrid hym. Ellas
+for sorow, that so ynmesurably cruelte and vengance
+shuld be done to that worthy prynce, fer hit
+was reportid by true persons that sawe hym dede,
+that he had sixtene dedely woundes yn his breste,
+withowtyn many and other y dyverse places of his
+body.</P><P>And hit is rehersid and remembred, yn the historiall
+and trewe cronicles of Scotteland, that yn
+the self same place, by old tyme passed, there haf
+bene iii kynges of Scottes slayne.<NOTE1 N="*" ID="DLPS8">A fable. Not
+one king is commemorated as having been slain at
+Perth. <HI1 REND="i">Pink.</HI1></NOTE1></P><P>And whene this abhominable and horrible homycidie,
+and false treason of this cruell murdur, was
+thus done, the said traitours sought the Qwene;
+and yn thare furous cruelrye wold hafe slayne her,
+yn the same wise. Bot God, of his grace and goodnes,
+
+<EPB/><PB SEQ="00000019" N="21"/>
+
+preservyd and kepe here owt of thare handis.
+And upon this the noise arose, and sprang owt,
+both ynto the courte, and ynto the towne, of that
+horribill doyng and faite, of that at the said traitours
+hadde done. And anone forthwith all the
+Kynges servantes, that were logid yn his said court,
+and all the other peple of the same towne, with
+oone will and oone assent, as the Kynges trewe
+men, and his liege subjectes, comone with force and
+armes, with many a torch, and other lightis, and
+approched the Kynges court. And whene the traitours hard
+the noise and romore of those comones,
+thay with all hast possibill fled. Bot yit yn thare
+withdrawyng, or thaye were fully passed the diches
+of the Kynges place, a worthy knyght that was
+called Sir Davy Dunbarre, he allone, ascried and
+pursued hem, and with his owne hand sloghe oone
+of hem, and another he sore woundid. And as he faught
+with them yn thaire fleyng, thay kut of thre
+of his fyngurs of his oone hand, and sore woundid
+hym upon his hed. And thay slogh an other yong
+mane of the Kyngys chaumbur, that was good
+grome.</P><P>And yn this wyse Sir Robert Grame, with all
+the other traitours, escapid, and droghe hem to the
+cuntreth of the Wild Scottes. And thay said amonges
+hemselfe, "Ellas why sloghe we not the
+Qwene also; for and we had so done we shuld have
+bene out of muche disease, and trobill, which we
+bene now lich to have. With here we have cause
+gretely to drede here, lest sheo woll pursue, and
+laboure for to do vengance upon hus." And soth
+hit was the Qwene did suche diligence and pursuet,
+
+<EPB/><PB SEQ="00000020" N="22"/>
+
+ayanst the said felonouce traitours, that withyne a
+moneth next aftir that so abhomynable murdure,
+thay were all takyn, and byhedid at Edynburghe.
+The Qwene did herselfe grete worship for here trew
+acquitable. Hit hath not oft beene sene, so sodeynly
+vengaunce takyn upon so horribill and a cruell
+ded.</P><P>For furst was takyn Sir Robert Stuard, and
+Cristofere Chaumbur, and lad ynto strong prisone
+withyne the Castell of Edynburgh; and after by
+the sentance of the law they were drawne, and
+hangid, and quarterd. Furst ther was ordeynd a
+cart, wherupon was set a crose of grete heght, that
+was maid of tree. To the which crosse the said
+Robert Stuward was fast boundon, stondyng upright
+all nakid, boundon to the bak of the same,
+nothyng upon hem bot thare pryvay clothes. The
+hongman there stondyng above with hem, havyng
+in his handis a paire sharpe tangis, with the which
+he twitched and all to tare thare skynne and flessh,
+that the blode yn full grete quantite ranne downe
+from hem, that pite was to see. For they suffird
+paciently all the cruell paynes of turmentrye, that
+they put hem to; and said unto the said hongman,
+"Dowe whatever ye will, for we bene gilti, and haf
+well deservyd hit this payneful deth, and inwyse,
+and muche more."  And thus wer thay ladd,
+pynched and payned, by all the stretes, and thorowe
+oute Edynburgh. At the last thay lad on hegh,
+afore the Counecell-hows, clepid the Gildhall, there
+abydyng an oure and more, that all the peple myght
+behold and wondir on hem. After that they were
+drawin with horsses, all the towne, till thay cam till
+
+<EPB/><PB SEQ="00000021" N="23"/>
+
+a place wher was set ane heghe ynstrument of tymbire,
+upon which balastriars and bowyers usyn to
+hong thare harnysshid bowes to drie ayanst the
+sunne. Where the sayde hongman toke a rope,
+and knyt hit fast aboute thare birstes, undre thaire
+harmeholes, and drew hem to the heghest place of
+that ynstrument; and they there so hongyng confessid
+opunly to all the warld all the conspiration
+of the Kynges dethe, from poynt to poynt.  And
+from theise thay were caried ynto the middis of the
+marketh place there, where was ordyned an hie
+skaffald, upon which with an old rusty axe the said
+hongman smot of thare hedes, and there quartard
+hem. And yn this wyse was exsecucion done upon
+hem bothe, and thare heddes set upe of the gates
+of Sent Johannes Towne.</P><P>Soone after this was takyn the Erle of Athetelles,
+by the Erle of Angwis; and laid ynto the castell
+of Edenburghe to prisone. This same Erle of Athetelles
+was endited, arreyned, and dampned. Bot
+bycause of that this was nighe the fest of Pascue,
+the crosse was takyn adowne; and he lad to the
+polour yn the towne, and ther was he fast boundon,
+and a corone of papir put upon his hed, the which
+was all abowte depaynetid with jubettes, and for
+the more dispite and shame to hym was writyne
+with thes wordes, TRAITOUR, TRAITOUR, TRAITOUR.
+The Busshope of Urbinate, legate of owre
+Holy Fadir the Pope, then beyng in Scotteland,
+upon his ambassite, hard thare confessions. And
+then evyn forthwith the said Erle of Athetelles was
+heded; bot he went alwas to have grace and pardon,
+unto the tyme that the hangman had hym
+
+<EPB/><PB SEQ="00000022" N="24"/>
+
+upon the skaffald, to be there and then hedid. For
+he confessid, and said that he was not yn no wyse
+consentyng ne assentyng to the Kynges deth; but
+that he knew therof long, and kepte hit counesell,
+bycause that Sir Robert Stuward, that was oone of
+the grettest traitours, was his sonnes sonne, and
+therfore he told hit not to the Kyng. Bot yit nevyre
+the lesse when this Sir Robert wist therof and
+told hit to the Erle of Athetelles of the Kynges
+deth, he blamyd hyme sore, and defendid hym that
+in no wyse shuld he be consentyng to none such
+murdure of his Soveran Lord: weynyng veraly that
+nether he, ne none of all the other, the which bene
+rehersid afore, wold never have done that murdure
+yn effecte. And so the said Erle told, and confessid,
+at his lyvys end; and his hed, coroned with
+a corone of yryne, stondyng upon a spere shaft yn
+the myddis of Edenburghe.</P><P>After this Sir Robert Grame, with many other
+traitours of his coveene, beyng in captyvyte, were
+ladde to the towne of Strivellen, and there were
+thay tourmented and put to the deth. The said
+Sir Robert Grame stondyng there, at the wher he
+was tofore enditid of treison afore the Justice and
+the lawe there, upon his araynment, said playnely
+that thay had no lawe to do hym to deth, for he
+said he had nat offendit, bot slayne the Kyng his
+dedely enmye; for by his letturs, sealed with his
+seale of armes, long tyme afore he had defyed the
+Kyng, and renouncid his legeaunce, for causes
+reasonables as he said. And yf thay wold do hym
+lawe after the statuytes of armes, thay shuld delyver
+hym, and let hym go qwite, bicause the Kyng
+
+<EPB/><PB SEQ="00000023" N="25"/>
+
+wold have destruyd hym yf he had myght. And
+thus yn that he said he did no wrong nor synne,
+bot oonly that he sloughe Godes criature, his enemye.
+All thes reasons nether couth ne myght suffice for
+his excuse, the which he perceyvyd wele yn
+all wise of thare wirchynges. This same Sir Robert
+Grame, with manly hart and wele avisid, as a mane
+wele ynstructe yn lawe and letture, said thes wordes
+standyng at the bare afor the Juges, all the peple
+there assembled for that cause the selfe tyme. "O
+ye all so synfull, wreched, and mercilese Scottisshe
+folke, withoute prudens, and full replet of unavisid
+folie, I know wele that I shall nowe dye, and ma
+note escape youre venomous judiciall handes; for
+by will, and not be right ne lawe, ye have dampned
+my bodye to the dethe, the which God suffrethe
+me at this tyme to resave of you, for no desairt of
+this accusacion that ye condempne me ynne nowe,
+bot for other offences and trespas, that I yn the
+vayne tymes of my youth have displeasid hyme
+ynne. Yit doubt y nat that ye shall se the daye
+and the tyme, that ye shall pray my soule, for
+the grete good that I have done to you, and to all
+this reaume of Scottland, that I have thus slayne
+and delyveryd you of so cruell a tirant, the grettest
+enemye the Scottes or Scottland myghth have, consideryng
+his unstaunchable covetise, yn his youth,
+ayenst all nature, his tirannye ynmesurable, without
+pite or mercy to sibbe or to freme, to hie or to
+lawe, to poure or to riche."</P><P>All thes thynges the said Sir Robert Grame,
+with many other ynconvenyences, he rehersid there
+ayanst the Kyng; the whiche rehersale wole be
+
+<EPB/><PB SEQ="00000024" N="26"/>
+
+ynne Scotteland many a yere here after. For he
+was a mane of grete hart and manhode, and full
+discrete, and a grete legister of lawe positive, and
+canone, and civile bothe. Yit for all that, at the
+last he was dampned there by the Juges of the deth.
+This was the sentance of the jugesment there shuld
+be brought a cart, yn the mydward of the whiche
+there shuld be sette fast a tree uperight, longer then
+a mane, and with that same knyf that he sloughe
+the Kyng withall, was his hand all upon heghe nalid
+fast to that tree, and so was he had thorough oute
+the towne.  That edoone the hangmane was commandid,
+with that same knyfe,  to kut of that hand
+frome the arme. After that he was nalid nakynd,
+as he was first borne of his modir, drawen thurghe
+the towne withowte coerture of any parte of his
+body, as nature brought hym forth from his modirs
+wombe, and yn the same  wise ladd thorgh all the
+stretes of that towne; and the tourmentours on every
+side hym, withe hookid ynstrumentes of yryne,
+fuyre hote all red glowyng, thay pynchid and
+twynched his theghis, his legges, his armes, his
+sides, his bake, his shuldurs, his neke, his wombe,
+and over all his body, that was full seke and pitous
+to loke upon, wher thay suppoisid most to anoye
+hyme and greve, that hit was to any mans kynd to
+sorofull and pitous sight, and to abhomynable to se.
+With the ymportible payne of turment, he cried
+then pitously withe dedely voice, for the panys and
+pasions that he so suffird, sayng to them that thay
+did that durise to hym ayenst the lawe; "this that
+ye done to me is oonly by rigoure of ynmesurable
+tyrannye All the warld may clepe you Scottes
+
+<EPB/><PB SEQ="00000025" N="26"/>
+
+tirantes, for manekynd may not withe the lif suffur
+ne yndure the paynefull and tiranuous tourmentrye
+that ye put me unto. I doute me full sore that,
+and ye contynue thus your tourmentes upon my
+wretched person,  that for the payne ye will
+constrayne me to denye my Creature. And yf I so
+doo I appell you afor God, the Hie and Chyf Juge
+of all manekynde after there desertes at the unyversal
+dome, that ye bene the varay cause of the
+losse of my saule."</P><P>Thurghe the whiche speche some of the Lordes,
+so abidyng upon the execucion of this said  Sir
+Robert Grame, moevid of pite let tak him doune.
+And as he was all nakyd lappid yn  a rough Scottisshe
+mantell and cast hym ayane,  with a grete
+violence, ynto sore and full hard prisone.</P><P>In the meane tyme many of the  other traitours
+were boweld all qwik, and afterward were quarterd,
+as wele thay that receyvid the said Sir Robert, as
+thay that were with hym. Whane the exsecution
+of the said traison was done, and many  of tha that
+were with hym att the day of the Kyng confessid
+whane thay were spokyne to go with the said Sir
+Robert Grame, hit was not told unto hym of no
+purpos that was takyn for to destruye the Kyng,
+and put hym to dethe;  bot hit was said unto hem
+that thay shuld go with hym, to ravisshe a faire
+lady oute of the Kynges house, whame the said Sir
+Robert Stuward shuld have weddid the next day
+folowyng.</P><P>And after this thay ladd aftsounes the said Sir
+Robert Grame to the place where he shuld dye.
+And sodeynely thay droughe away the mantall, to
+
+<EPB/><PB SEQ="00000026" N="28"/>
+
+the which all his woundes were hardyned, and clave
+fast with his blode dried therto; forwith the said
+payne he fele downe yn a swonyng, and so lay along
+on the ground more than a  quarter of an owre.
+And then he revivid, and qwykynd ayane, seyng
+that ryvyng away so sodeinly  and rudely of that
+mantell was to hym gretter payne than any other
+that [he] had suffird afore. And after this, for the
+more grefe and sorow to hyme, thay boweld his
+sonne all quyke, and quarterd hym afor his eene,
+and drewe owt his hart of his  body: the which
+harte lepe thrise more than a fote of heghte, after
+hit was drawen owte of his body: and yn semblable wise
+the hangmane droughe  owte all his bowelles, and quarterd hym,
+and many other moo after hyme.</P><P>Bot the last of all Thomas Halle was hedid; for
+as hit was knawen and veraly wist by proof he was
+the pryncipall and the fynell cause of the Kynges
+deth. The sayd Chaumbur had the strengyst hart
+of all the other,  for he never repentid hym of the
+Kynges deth. The hede of hym, and the right
+hand, stande faste nalid at Edenburghe, undir the
+Erles hede of Athetelles.</P><P>And thus endyn thes sorofull and pitous cronycles:
+and all mene saye that the unsacionable covetise
+was the ground and cause of the Kynges
+dethe. Therfore prynces take hede, and
+drawe it to thare memorie of Maistre Johanes de
+Moigne counsell, thus said yn Frenche langage,<HI1 REND="i"> Il
+nest pas sires de son pays, que de son peple n'est amez</HI1>,
+the which is thusmuche to meene, yn oure Englesshe tonge,
+"A grete prynce may have no more
+
+<EPB/><PB SEQ="00000027" N="29"/>
+
+vice, ne hyme to greve thanne avarice. He nys
+no lord yn his cuntre, that of his mene hath no
+lufe." Leve ye me,</P><LG TYPE="stanza"><L>For wele may he be called a Lord,</L><L>Wham that his peple love of record.</L><L>Merk this wele I you beseche.</L><L>Adieux. To God I you beteche.</L></LG><P>And thus nowe here endethe this most pitevous
+cronicle, of th'orribill dethe of the Kyng of
+Scottes, translated oute of Latyne into oure
+moders Englisshe tong, bi youre symple subget
+John Shirley, in his laste age, after his
+symple understondyng, whiche he recommendethe
+to your supportacione and correccion, as
+that youre gentilnese vowchethe safe for his
+excuse, &amp;c.</P></DIV1></BODY><EPB/></TEXT></DLPSTEXTCLASS>

@@ -1,0 +1,1098 @@
+<!DOCTYPE ETS PUBLIC "-//UMDLPS//DTD Proof 1.0//EN">
+<ETS ID="AHA2700">
+<TEMPHEAD>
+<REVDESCR>
+<CHANGE>
+<DATE>9-20-00</DATE>
+<RESPSTMT>
+<NAME>lattaj</NAME>
+<RESP>MURP</RESP>
+</RESPSTMT>
+<ITEM>Added TYPE to DIV1 to validate. Proofed and corrected title page. No proof sheet or transcription corrections. No $s. No ligature problems. Corrected quotation marks and punctuation. No "errata" in original. Corrected italic &thorn;s. DONE. 20 mins.</ITEM>
+</CHANGE>
+</REVDESCR>
+</TEMPHEAD>
+<TEXT>
+<FRONT>
+<DIV1 TYPE="omitted front matter"><P>
+
+<PB REF="00000001.tif">
+
+</P>
+
+</DIV1>
+<TITLEPAGE><PB REF="00000002.tif">
+<DOCTITLE>
+
+<PB REF="00000003.tif" N="[iii]">
+<TITLEPART TYPE="main">Joseph of Arimathie:</TITLEPART>
+<TITLEPART TYPE="sub">OTHERWISE CALLED<LB>The Romance of the Seint Graal, or Holy Grail:<LB>AN ALLITERATIVE POEM WRITTEN ABOUT A.D. 1350, AND NOW FIRST PRINTED FROM THE UNIQUE COPY IN THE VERNON MS. AT OXFORD.
+<LB>WITH AN APPENDIX, CONTAINING "THE LYFE OF JOSEPH OF ARMATHY," REPRINTED FROM THE BLACK-LETTER COPY OF WYNKYN DE WORDE;<LB>"DE SANCTO JOSEPH AB ARIMATHIA," FIRST PRINTED BY PYNSON A.D. 1516;<LB>AND "THE LYFE OF JOSEPH OF ARMATHIA," FIRST PRINTED BY PYNSON A.D. 1520.</TITLEPART>
+</DOCTITLE>
+<BYLINE>EDITED, WITH NOTES AND GLOSSARIAL INDICES,<LB>BY THE<LB>REV. <DOCAUTHOR>WALTER W. SKEAT,</DOCAUTHOR> M.A., LATE FELLOW OF CHRIST'S COLLEGE, CAMBRIDGE; AUTHOR OF "A M&OElig;SO-GOTHIC GLOSSARY," EDITOR OF "PIERS THE PLOWMAN," ETC.</BYLINE>
+<DOCIMPRINT><PUBPLACE>LONDON:</PUBPLACE>
+<PUBLISHER>PUBLISHED FOR THE EARLY ENGLISH TEXT SOCIETY,<LB>BY N. TR&Uuml;BNER &amp; CO., 60, PATERNOSTER ROW.</PUBLISHER>
+<DOCDATE>MDCCCLXXI.</DOCDATE></DOCIMPRINT>
+
+<PB REF="00000004.tif" N="[iv]">
+<DOCEDITION>44</DOCEDITION>
+<DOCIMPRINT><PUBLISHER>JOHN CHILDS AND SON, PRINTERS.</PUBLISHER></DOCIMPRINT>
+</TITLEPAGE>
+<DIV1 TYPE="omitted front matter"><P>
+
+<PB REF="00000005.tif">
+
+<PB REF="00000006.tif" N="vi">
+
+<PB REF="00000007.tif" N="vii">
+
+<PB REF="00000008.tif" N="viii">
+
+<PB REF="00000009.tif" N="ix">
+
+<PB REF="00000010.tif" N="x">
+
+<PB REF="00000011.tif" N="xi">
+
+<PB REF="00000012.tif" N="xii">
+
+<PB REF="00000013.tif" N="xiii">
+
+<PB REF="00000014.tif" N="xiv">
+
+<PB REF="00000015.tif" N="xv">
+
+<PB REF="00000016.tif" N="xvi">
+
+<PB REF="00000017.tif" N="xvii">
+
+<PB REF="00000018.tif" N="xviii">
+
+<PB REF="00000019.tif" N="xix">
+
+<PB REF="00000020.tif" N="xx">
+
+<PB REF="00000021.tif" N="xxi">
+
+<PB REF="00000022.tif" N="xxii">
+
+<PB REF="00000023.tif" N="xxiii">
+
+<PB REF="00000024.tif" N="xxiv">
+
+<PB REF="00000025.tif" N="xxv">
+
+<PB REF="00000026.tif" N="xxvi">
+
+<PB REF="00000027.tif" N="xxvii">
+
+<PB REF="00000028.tif" N="xxviii">
+
+<PB REF="00000029.tif" N="xxix">
+
+<PB REF="00000030.tif" N="xxx">
+
+<PB REF="00000031.tif" N="xxxi">
+
+<PB REF="00000032.tif" N="xxxii">
+
+<PB REF="00000033.tif" N="xxxiii">
+
+<PB REF="00000034.tif" N="xxxiv">
+
+<PB REF="00000035.tif" N="xxxv">
+
+<PB REF="00000036.tif" N="xxxvi">
+
+<PB REF="00000037.tif" N="xxxvii">
+
+<PB REF="00000038.tif" N="xxxviii">
+
+<PB REF="00000039.tif" N="xxxix">
+
+<PB REF="00000040.tif" N="xl">
+
+<PB REF="00000041.tif" N="xli">
+
+<PB REF="00000042.tif" N="xlii">
+
+<PB REF="00000043.tif" N="xliii">
+
+<PB REF="00000044.tif" N="xliv">
+
+<PB REF="00000045.tif" N="xlv">
+
+<PB REF="00000046.tif" N="xlvi">
+
+<PB REF="00000047.tif" N="xlvii">
+
+</P>
+
+</DIV1>
+</FRONT>
+<BODY>
+<DIV1 TYPE="text"><PB REF="00000048.tif">
+
+<PB REF="00000049.tif" N="[1]">
+<HEAD>[Joseph of Aramathie.]<MILESTONE UNIT="vernon folio" N="403a"></HEAD>
+<LG TYPE="stanza">
+<L>. . . . sire," he seis &middot; "and sonenday is nouwe."</L>
+<L>&para; &thorn;enne alle lauhwhen an hei&yogh; &middot; &thorn;at herden his wordes,</L>
+<L>"Hit is two and fourti winter," &thorn;ei sei&yogh;en &middot; "trewely forso&thorn;e,</L>
+<L N="4">Si&thorn;en &thorn;ou sou&yogh;test &thorn;is put &middot; and to prison eodest!"</L>
+</LG>
+<LG TYPE="stanza">
+<L>"Now I &thorn;onke my lord," seide Ioseph &middot; "&thorn;at lente me of his grace;</L>
+<L>me &thorn;inke&thorn; but &thorn;reo ni&yogh;t &middot; al &thorn;is ilke &thorn;rowe."</L>
+<L>&para; &thorn;enne Ioseph askes fontston &middot; &amp; is I-folwed blyue;</L>
+<L N="8">&thorn;ei folewen him and his wyf &middot; &amp; with him ful monye.</L>
+<L>&para; Si&thorn;en com vaspasians &middot; and was furst sped,</L>
+<L>In &thorn;e nome of &thorn;e fader &middot; Ioseph him folewede,</L>
+<L>And hedde I-turned to &thorn;e fey&thorn; &middot; fifti with him-seluen.</L>
+<L N="12">&para; Si&thorn;en he fette his fader with a ferde &middot; and a-&yogh;eyn fondet,</L>
+<L>&thorn;er &thorn;ei bosked hem out &middot; &thorn;at hudden hem in huirenes,</L>
+<L>Made hem to huppe &middot; half an hundret foote,</L>
+<L>forte seche bo&thorn;em &middot; &thorn;er &thorn;ei non sei&yogh;en.</L>
+<L N="16">&para; &thorn;us &thorn;ei ladden &thorn;e lyf &middot; and lengede longe,</L>
+<L>&thorn;at luyte liked his leyk &middot; &thorn;er as he lengede.</L>
+<L>&para; Feole flowen for fert &middot; out of heore cu&thorn;&thorn;he</L>
+<L>in-to Augrippus lond &middot; was heroudes eir,</L>
+<L N="20">&thorn;ere monye lenginde weore &middot; for-let of heore oune.
+<PB REF="00000050.tif" N="2"></L>
+</LG>
+<LG TYPE="stanza">
+<L>&THORN;En com a vois to Ioseph &middot; and seide him &thorn;ise wordes,</L>
+<L>Biddes him and his wyf &middot; and his sone eke,</L>
+<L>And alle &thorn;at &thorn;ey mou&yogh;ten gete &middot; and to god tornen,</L>
+<L N="24">&para; Gon out of Ierusalem &middot; &amp; prechen hise wordes,</L>
+<L>And neuer more come a-&yogh;eyn &middot; whon &thorn;ei weore enes &thorn;enne.</L>
+<L>&para; In &thorn;e morwe he was sone boun &middot; don as he biddes;</L>
+<L>Ioseph and his cumpanye &middot; keueren on swi&thorn;e.</L>
+<L N="28">&para; Ioseph ferde bi-foren &middot; and &thorn;e flote folewede;</L>
+<L>in-to &thorn;e lond of betanye &middot; &thorn;is buirnes nou wenden.</L>
+<L>&para; &thorn;ei carke for here herbarwe &middot; summe be-hynde;</L>
+<L>whon Ioseph herde &thorn;er-of &middot; he bad hem not demay&yogh;en:</L>
+<L N="32">"He &thorn;at ledes vs &thorn;is wei &middot; vre herborwe schal wisse."</L>
+<L>&thorn;ei founden hit newely &middot; so wel weore &thorn;ei neuere.</L>
+<L>&para; A-morwe &thorn;ei weore di&yogh;t &middot; and don hem to &yogh;onge,</L>
+<L>And come to a Forest &middot; with floures ful feire,</L>
+<L N="36">&thorn;at was called Argos &middot; &thorn;at &thorn;e kyng ou&yogh;te,</L>
+<L>in &thorn;e lond of damas &middot; &thorn;e cuntre was dere.</L>
+</LG>
+<LG TYPE="stanza">
+<L>&THORN;Enne spekes a vois to Ioseph &middot; was Ihesu crist him|selue,</L>
+<L>"Iosep[h], marke on &thorn;e treo &middot; and make a luytel whucche,</L>
+<L N="40">Forte do in &thorn;at ilke blod &middot; &thorn;ou berest a-boute;</L>
+<L>&para; whon &thorn;e lust speke with me &middot; lift &thorn;e lide sone,</L>
+<L>&thorn;ou schalt fynde me redi &middot; ri&yogh;t bi &thorn;i syde,</L>
+<L>And, bote &thorn;ou and &thorn;i sone &middot; me no mon touche.</L>
+<L N="44">And Iosep[h], walk in &thorn;e world &middot; &amp; preche myne wordes</L>
+<L>to &thorn;e proudest men &middot; A parti schul &thorn;ei here.</L>
+<L>&para; &thorn;au&yogh; &thorn;ei &thorn;e of manas &middot; melen, and &thorn;e &thorn;reten,</L>
+<L>beo &thorn;ou no &thorn;ing a-dred &middot; for non schal &thorn;e derue."</L>
+<L N="48">&para; "lord, I was neuer clerk &middot; what and I ne cunne?"</L>
+<L>"Louse &thorn;i lippes a-twynne &middot; &amp; let &thorn;e gost worche;</L>
+<L>Speche, grace, &amp; vois &middot; schul springe of &thorn;i tonge,</L>
+<L>&amp; alle turne to &thorn;i mou&thorn; &middot; holliche atenes."
+<PB REF="00000051.tif" N="3"></L>
+<L N="52">&para; &thorn;enne he wawes his fot &middot; &thorn;e blod he with him fonges,</L>
+<L>and in &thorn;e nome of &thorn;e fader &middot; for&thorn;ward he weendes.</L>
+</LG>
+<LG TYPE="stanza">
+<L>&THORN;ei ferden to A Cite &middot; faste bi-syde,</L>
+<L>&thorn;at was called sarras &middot; &thorn;er sarsyns sprongen,</L>
+<L N="56">Erest &thorn;orw Abrahames wyf &middot; &thorn;at wonede &thorn;er-inne.</L>
+<L>Ioseph tei&yogh; to non hous &middot; bote euene to &thorn;e temple:</L>
+<L>He sei&yogh; &thorn;e kyng &thorn;er he sat &middot; and wuste &thorn;at he was wra&thorn;&thorn;ed,</L>
+<L>&amp; hopede he scholde him &middot; touward God turne;</L>
+<L N="60">For he and &thorn;o of Egipte &middot; han werret to-gedere,</L>
+<L>And &thorn;ei discounfitede him han &middot; and sca&thorn;et ful ofte.</L>
+<L>&para; &thorn;e kyng and his Baronage &middot; a counseil bi-gonnen;</L>
+<L>he wolde haue red of his folk &middot; and fare to hem &yogh;itte;</L>
+<L N="64">&amp; &thorn;ei forsaken hit han &middot; &amp; he vnsauht sittes.</L>
+</LG>
+<LG TYPE="stanza">
+<L>"SIre," seis Iosep[h] &middot; "or semblaunt is feble,</L>
+<L>In gret Anguisse &yogh;e ben &middot; &thorn;at nis not God grei&thorn;e;</L>
+<L>wolde &yogh;e herkene to me &middot; icholde ow bi-heete,</L>
+<L N="68">He &thorn;at is mi foundeor &middot; may hit folfulle,</L>
+<L>&thorn;at was ded on &thorn;e cros &middot; &amp; bou&yogh;te us so deore;</L>
+<L>I am not wor&thorn;i to seyn &middot; moni of his werkes."</L>
+<L>&para; "&thorn;ou schewest A symple skil," qua&thorn; &thorn;e kyng &middot; "of|scutered &thorn;ou semest</L>
+<L N="72">to speke of A ded mon &middot; what may he don &thorn;er-ate?"</L>
+<L>&para; "I schal sei ou," quod Ioseph &middot; "&amp; &yogh;e wol vndurstonde."</L>
+<L>"tel on," seis &thorn;e kyng &middot; "&thorn;i tale wol I here."</L>
+</LG>
+<LG TYPE="stanza">
+<L>"&THORN;At tyme &thorn;at Augustus Cesar &middot; was Emperour of Rome,</L>
+<L N="76">&thorn;is reson bi-gon &middot; &thorn;at I schal now rikenen,</L>
+<L>&para; whon god sende an Angel &middot; in-to Galile,</L>
+<L>to A Cite, bi nome &middot; Nazareth I-called,</L>
+<L>to A Maiden ful meke &middot; &thorn;at Marie was hoten,</L>
+<L N="80">And seide, 'Blessed beo &thorn;ou flour &middot; feirest of alle!</L>
+<L>&thorn;e holigost with-Inne &thorn;e &middot; schal lenden and lihte;</L>
+<L>&thorn;ou schalt beren a Child &middot; schal Ihesu bi hoten.'
+<PB REF="00000052.tif" N="4"></L>
+<L>he chaungede cher &amp; seide &middot; 'hou scholde I gon with childe</L>
+<L N="84">with-oute felauschupe of mon?' &middot; he bad hire not demayen;</L>
+<L>&para; '&thorn;ou schalt be mayden for him &middot; bi-foren, and after.</L>
+<L>Holliche with-outen wem &middot; wite &thorn;ou forso&thorn;e.'</L>
+<L>And heo grauntede &thorn;enne &middot; to ben at his grace;</L>
+<L N="88">And sone aftur &thorn;at gretnede &middot; &thorn;at grei&thorn;li Mayde.</L>
+</LG>
+<LG TYPE="stanza">
+<L>Whon he wolde ben I-boren &middot; at a Blisful tyme,</L>
+<L>he dude Miracles feole &middot; &thorn;at mony men sei&yogh;en;</L>
+<L>&thorn;re kynges of &thorn;e Est &middot; &thorn;roly &thorn;ei comen,</L>
+<L N="92">And vche put him in hond &middot; [a] present ful riche.</L>
+<L>&para; Soone Heroudes &thorn;e kyng &middot; herde of his bur&thorn;e;</L>
+<L>He lette sle for his sake &middot; selli mony children;</L>
+<L>Foure &thorn;ousend and seue score &middot; was &thorn;e summe holden,</L>
+<L N="96">&thorn;at weore I-slawe for his sake &middot; for certeyn hit telles;</L>
+<L>Bote &thorn;orw&yogh; &thorn;e grace of him-self &middot; gete him heo ne mi&yogh;t.</L>
+<L>His Mooder ay with him fleih &middot; for&thorn; in-to Egipte.</L>
+<L>&para; Whon he com in-to &thorn;e lond &middot; leeue &thorn;ou forso&thorn;e,</L>
+<L N="100">feole temples &thorn;er-inne &middot; tulten to &thorn;e eor&thorn;e,</L>
+<L>for heore false ymages &middot; &thorn;at &thorn;ei on leeueden.</L>
+<L>Do a-wei &thorn;i Maumetes &middot; &thorn;ei han trayed &thorn;e ofte;<MILESTONE N="403a:2" UNIT="folio"></L>
+<L>Let breken hem a-two &middot; and bren hem al to pouder,</L>
+<L>Schaltou neuer gete grace &middot; &thorn;orw&yogh; none suche goddes."</L>
+<L N="105">&para; &thorn;enne seis &thorn;e kyng &middot; "my wit mai not leeue,</L>
+<L>&thorn;at &thorn;ou ne melest wonderli &middot; &amp; most a-&yogh;eyn kuynde.</L>
+<L>Hou scholde a child come for&thorn; &middot; with-oute flescly dedes</L>
+<L>Bi-twene wommon and Mon? &middot; my wit may not leeue."</L>
+</LG>
+<LG TYPE="stanza">
+<L N="109">"SIre," seide Ioseph &middot; "&thorn;ou hi&yogh;test me to heere,</L>
+<L>And I schal preue &thorn;e tale &middot; &thorn;at I fore telle.</L>
+<L>&para; whon god sat in his blisse &middot; bosked in heuene,</L>
+<L N="112">He sei&yogh; &thorn;e peple &thorn;orw peine &middot; passen in-to helle.</L>
+<L>also wel &thorn;e holyeste &middot; heold &thorn;ider euene</L>
+<L>as &thorn;e moste fooles; &middot; and &thorn;e fader &thorn;ou&yogh;te
+<PB REF="00000053.tif" N="5"></L>
+<L>&thorn;at hit seemede nou&yogh;t &middot; and wolde his sone sende</L>
+<L N="116">forte bringe hem out &thorn;er-of &middot; and &thorn;erfore he lihte"&mdash;</L>
+</LG>
+<LG TYPE="stanza">
+<L>"What, mon?" qua&thorn; &thorn;e kyng &middot; "&thorn;ou castest &thorn;i|seluen.</L>
+<L>Toldest &thorn;ou not now bi-foren &middot; he nedde neuer fader,</L>
+<L>but elles, with-oute mon &middot; I-bore of a Mayden?</L>
+<L>And &thorn;ou seist now he has on &middot; hou may &thorn;is sitte same?"</L>
+<L>&para; "He was Fader," quod Ioseph &middot; "and for his sake called,</L>
+<L>&thorn;at was gostliche his halt &middot; ar he weore mon formed;</L>
+<L>And of two persones &middot; sprong out &thorn;e &thorn;ridde;</L>
+<L N="124">&thorn;at was &thorn;e holigost &middot; as I be-foren seide.</L>
+<L>His godhede lees he nou&yogh;t &middot; &thorn;ei&yogh; he come lowe,</L>
+<L>&thorn;at he nas god ay for&thorn; &middot; in his grete streng&thorn;e.</L>
+<L>&para; I sei &thorn;e Fader was God &middot; ar out was bi-gonnen,</L>
+<L N="128">Made alle &thorn;ing of nou&yogh;t &middot; &thorn;orw miht of him one,</L>
+<L>Dude &thorn;e prophetes to seye &middot; &thorn;at hem-self nuste,</L>
+<L>Bote as hit com heom to mou&thorn; &middot; and meleden &thorn;e wordes.</L>
+<L>&thorn;e kuynde of &thorn;e Moder &middot; &thorn;at he on eor&thorn;e tok,</L>
+<L N="132">&thorn;at di&yogh;ede a-wei &middot; for he hit most dredde.</L>
+<L>Bote &thorn;e kuynde of his Fader &middot; &thorn;at was &thorn;e furste kuynde,</L>
+<L>Holliche euere he heold &middot; for &thorn;at di&yogh;ede neuere.</L>
+<L>Bote he was gostliche of Fader &middot; and fleschliche of Moder,</L>
+<L N="136">So &thorn;at he com twies for&thorn; &middot; and bi two kuyndes."</L>
+</LG>
+<LG TYPE="stanza">
+<L>&THORN;Enne seis &thorn;e kyng &middot; "&thorn;e lengore I here,</L>
+<L>&thorn;e lesse reson I seo &middot; in &thorn;at &thorn;at &thorn;ou rikenest.</L>
+<L>&para; &thorn;ou toldest furst of his Fader &middot; and of his furste kuynde,</L>
+<L N="140">And &thorn;reo persones &middot; and alle &thorn;ei ben goddes."</L>
+<L>&para; "&YOGH;e, sire, bote I pertly vndo &middot; &thorn;at I haue &thorn;e profred,</L>
+<L>I am wor&thorn;i muche blame &middot; what mai I sei&yogh;e more?</L>
+<L>&para; &thorn;e sone, I tolde bi-fore &middot; fongede vr kuynde,</L>
+<L N="144">tok flesch and blod &middot; in a feir mayden;</L>
+<L>his Godhede luttulde not &middot; &thorn;ei&yogh; he lowe lihte,</L>
+<L>&thorn;at he nas euere of o mi&yogh;t &middot; mensked he wor&thorn;e!"
+<PB REF="00000054.tif" N="6"></L>
+<L>&para; &thorn;e kyng fette for&thorn; &middot; feole of his clerkes,</L>
+<L N="148">to spute with Ioseph &middot; &thorn;at spedes hem luite.</L>
+<L>Ioseph tok &thorn;e holy writ &middot; and tei for his teeme,</L>
+<L>and destruyede heore tale &middot; with-inne &thorn;reo wordes.</L>
+<L>&para; &thorn;e ky[n]g bi-heold on his face &middot; and on his limes lowore,</L>
+<L N="152">Say&yogh; he was barefot &middot; and bar him in herte,</L>
+<L>He<NOTE PLACE="foot">MS. "He he hedde."</NOTE> hedde I-ben of hei&yogh; blod &middot; hedde he ben I-bosket,</L>
+<L>And a ferli feir mon &middot; and witerli him rewes.</L>
+<L>&para; "what hettestou," seis &thorn;e kyng &middot; to Iosep[h] &thorn;enne.</L>
+<L N="156">"Ioseph of Aramathie &middot; is mi nome called."</L>
+<L>"I schal sei &thorn;e, Ioseph &middot; as my wit &thorn;inkes,</L>
+<L>&thorn;ow semest not ful good clerk &middot; to kenne suche wordes;</L>
+<L>&thorn;e tale is hei&yogh; in him-self &middot; &thorn;at &thorn;ou of tellest,</L>
+<L N="160">Hit is ful &thorn;ester to me &middot; &amp; moni a mon eke.</L>
+<L>&para; I schal seie &thorn;e, Ioseph &middot; I haue to done swi&thorn;e;</L>
+<L>I may not wel lenge now &middot; to-morwe meet me heere;</L>
+<L>&thorn;ow schalt haue liueraunce of In &middot; and al &thorn;at &thorn;e neodes;</L>
+<L N="164">whon vre leyser is more &middot; vre lustnynge is bettre."</L>
+<L>&para; "I haue felauschupe wi&thorn;-outen," seis Ioseph &middot; "wel a|boute fifti,</L>
+<L>Bo&thorn;e wymmen and men &middot; &thorn;at mote wi&thorn; me Inne."</L>
+<L>&para; &thorn;e kyng lette fette hem for&thorn; &middot; bi-foren him to seo,</L>
+<L N="168">what leodes &thorn;ei beon &middot; and where &thorn;ei weore boren;&mdash;</L>
+<L>"I trouwe &thorn;at beo &thorn;i sone" &middot; bi Iosaphe he seide.</L>
+<L>&para; "&YOGH;e, sire, so he is &middot; for so&thorn;e as I &thorn;e telle."</L>
+<L>"Con he out of clergye?" &middot; seis &thorn;e kyng &thorn;enne.</L>
+<L N="172">"leeue me forso&thorn;e, sire &middot; &thorn;er liues no bettre."</L>
+<L>&para; &thorn;e kyng lette lede hem &middot; in-to toun lowe,</L>
+<L>to a feir old court &middot; and Innes hem &thorn;ere.</L>
+</LG>
+<LG TYPE="stanza">
+<L>Now we leuen Ioseph &middot; and of &thorn;e kyng carpen;</L>
+<L N="176">As he lai at niht &middot; keuered in bedde,</L>
+<L>In &thorn;reo &thorn;ou&yogh;tes he was &middot; and &thorn;at weore &thorn;is ilke:</L>
+<L>&para; On for his grete folk &middot; &thorn;at him wi&thorn;-saken hedde;
+<PB REF="00000055.tif" N="7"></L>
+<L>&para; A-no&thorn;ur for Iosep[h]s tale &middot; &thorn;at wolde fayn he tornede;</L>
+<L N="180">&para; &thorn;e &thorn;ridde, How God scholde wi&thorn;-outen wem &middot; wonen in a Mayden.</L>
+</LG>
+<LG TYPE="stanza">
+<L>&para; &THORN;enne he seih in his chaumbre-flor &middot; &thorn;reo<NOTE PLACE="foot">May we read "&thorn;reo <I>treos</I>," inserting <I>treos</I> on the strength of 1. 191? The passage seems partly corrupt.</NOTE> souht vp at enes.</L>
+<L>&thorn;e braunches on hei&yogh; weoren &middot; alle of o leng&thorn;e;</L>
+<L>Bote &thorn;e bark of &thorn;at on &middot; semede dimmore</L>
+<L N="184">&thorn;en ou&thorn;er of &thorn;e o&thorn;er two &middot; trouwe &thorn;ou forso&thorn;e;</L>
+<L>&para; &thorn;at signede Ihesu crist &middot; for sake<NOTE PLACE="foot">MS. "forsake."</NOTE> of vre kuynde,</L>
+<L>was nout out-wi&thorn; so cler &middot; bote wi&thorn;-inne he was clene.</L>
+<L>&para; He calles on his chaumberleyn &middot; to kennen vncou&thorn;es,</L>
+<L N="188">And he rises a-non &middot; and for ferd falles.</L>
+<L>And he feres<NOTE PLACE="foot">So in MS. Perhaps we should read "beres." See the Glossarial Index.</NOTE> him vp &middot; and bad him not ben ferd;</L>
+<L>"&thorn;er schal falle non euel &middot; of &thorn;at is here formed."</L>
+<L>&para; &thorn;ei lihten two torches &middot; and to &thorn;is treos wenten;</L>
+<L>&thorn;ei weore semeli bi-neo&thorn;e &middot; &thorn;ei mihte not seo &thorn;e hei&yogh;&thorn;e,</L>
+<L N="193">sprongen wi&thorn; gret sped &middot; of a good spice.</L>
+<L>On vche braunche was a word &middot; of &thorn;reo maner enkes;</L>
+<L>Gold and Seluer he seis &middot; and Asur forso&thorn;e.</L>
+<L>&para; " '&thorn;is make&thorn;,' " quod &thorn;e wiht &middot; "&thorn;e marke of gold;"</L>
+<L>&para; "And '&thorn;is saues,' " qua&thorn; &thorn;at wiht &middot; "&thorn;e seyne of seluer;</L>
+<L>And '&thorn;is clanses' &middot; as &thorn;e Asur kennes."<MILESTONE N="403b:1" UNIT="folio"></L>
+<L>&para; &thorn;e kyng nuste wel forte seye &middot; bi wit &thorn;at he hedde,</L>
+<L N="200">whe&thorn;er &thorn;at he se&yogh;e &middot; was on forte sigge,</L>
+<L>o&thorn;er two, or &thorn;reo &middot; or what he mi&yogh;te telle.</L>
+<L>&para; &thorn;e kyng was a-bascht &middot; and to his bed buskes;</L>
+<L>and his Chaumberleyn so a-ferd &middot; &thorn;at neih he felde I|swowen.</L>
+<L N="204">&para; &thorn;enne he sei&yogh; a newe chaumbre-wouh &middot; wrou&yogh;t al of bordes,</L>
+<L>a dore honginge &thorn;er-on &middot; haspet ful faste,
+<PB REF="00000056.tif" N="8"></L>
+<L>A child cominge &thorn;orw &middot; his come was nout seene,</L>
+<L>Si&thorn;en lenges a while &middot; and a-&yogh;ein lendes,</L>
+<L N="208">wi&thorn;-outen faute o&thorn;er faus &middot; as &thorn;ei fore seiden.</L>
+<L>&para; &thorn;enne spekes a vois &middot; and on hei&yogh; sigges,</L>
+<L>"king, haue &thorn;ou no ferli &middot; of &thorn;at is heere formed,</L>
+<L>for so god with-outen wem &middot; wende in a Mayden."</L>
+</LG>
+<LG TYPE="stanza">
+<L N="212">Now we leuen &thorn;e kyng &middot; and of Ioseph carpen;</L>
+<L>"A! lord!" qua&thorn; Ioseph &middot; "how may &thorn;is limpe</L>
+<L>Of &thorn;is king Eualak &middot; &thorn;at con not vnderstonde?</L>
+<L>Bote &yogh;if I turne him bi &thorn;is poynt &middot; ar he henne passe,</L>
+<L N="216">beos he neuermore I-tornd &middot; treweli I trouwe.</L>
+<L>Nou I be-seche &thorn;e, Ihesu &middot; as &thorn;ou art ful of Ioye,</L>
+<L>&thorn;at speke to hem of Israel &middot; &thorn;orw Moyses speche,</L>
+<L>And bad &thorn;ei schulde leeuen &middot; for no-skunus &thorn;inge,</L>
+<L N="220">In non o&thorn;ur straunge god &middot; bote studefast &thorn;e holde:</L>
+<L>And wustest daniel in &thorn;e put &middot; &thorn;at he was inne I-worpe</L>
+<L>Among &thorn;e leones feole &middot; &thorn;at he no sca&thorn;e lau&yogh;te:</L>
+<L>And for-&yogh;af &thorn;e Maudeleyn &middot; mekelyche hire sunnes:</L>
+<L N="224">And si&thorn;en seidest to me &middot; mi preyere scholde sitte;</L>
+<L>&thorn;ou hei&yogh;test holichurche &middot; to haunsen hire streng&thorn;e,</L>
+<L>to hi&yogh;en &thorn;i godhed &middot; hit helpes nout elles;</L>
+<L>Nou, gloriouse kyng &middot; graunte me mi boone."</L>
+</LG>
+<LG TYPE="stanza">
+<L N="228">&THORN;enne spekes a vois &middot; and on hei&yogh; sigges,</L>
+<L>"Ioseph, haue &thorn;ou no care &middot; &thorn;e kyng schal sone torne:</L>
+<L>Go &thorn;ou most to &thorn;i wyf &middot; gete &thorn;ou most nede</L>
+<L>A child, Galaad schal be hoten &middot; &thorn;at goodnesse schal reise</L>
+<L>&thorn;e Auenturus of Brutayne &middot; to haunsen and to holden."</L>
+<L N="233">And he dos as he bad &middot; and to his bed buskes.</L>
+<L>&para; In &thorn;e morwe he was vppe &middot; and roises &thorn;is o&thorn;ure.</L>
+<L>&thorn;enne hit &thorn;ester bi-gon &middot; and &thorn;onderde swi&thorn;e,</L>
+<L N="236">&thorn;at &thorn;e graue quakede &middot; and &thorn;ei a-grisen alle.</L>
+<L>&para; He bi-&thorn;enkes him &thorn;o &middot; and to his whucche weendes,
+<PB REF="00000057.tif" N="9"></L>
+<L>And feole preiers he made &middot; &thorn;at Ihesu crist herde,</L>
+<L>And spekes to hem &middot; wi&thorn; loueliche wordes.</L>
+<L>&para; "I-blesset be &yogh;e to day &middot; alle myne leoue children"&mdash;</L>
+<L N="241">And he tolde hem of his crucifiing &middot; hou he [&thorn;e] cros sou&yogh;te,</L>
+<L>And of heore fadres bi-fore &middot; &thorn;at he fond vn-kuynde&mdash;</L>
+<L>"Er &thorn;ei speeken to me feire &middot; and faynede me wi&thorn; wordes,</L>
+<L N="244">Bote &thorn;ei hateden me &middot; and hedden de-deyn.</L>
+<L>Bote beo &yogh;e stable in oure fei &middot; and folewe&thorn; vre werkes,</L>
+<L>for &yogh;e han more of &thorn;e lawe &middot; &thorn;en prophetes hedden.</L>
+<L>&para; &THORN;ei nedden bote &thorn;e holygost &middot; and so &yogh;e han eke,</L>
+<L N="248">and si&thorn;en bodiliche me &middot; to ben at or wille.</L>
+<L>&para; I nul not fastenen on &thorn;e sone &middot; &thorn;e Fadres gultus,</L>
+<L>I for-&yogh;iue ow clene &middot; &thorn;e harm &thorn;at I hedde.</L>
+<L>And cum &thorn;ou hider, Iosaphe &middot; for &thorn;ou art Iugget clene,</L>
+<L N="252">And art digne &thorn;er-to &middot; &thorn;at dos me to lyke;</L>
+<L>Ichul bi-take &thorn;e to-day &middot; in a good tyme</L>
+<L>on &thorn;e hi&yogh;este &thorn;ing &middot; holden on eor&thorn;e,</L>
+<L>non o&thorn;er of me &middot; hit murili to habben,</L>
+<L N="256">but elles vche mon of &thorn;e &middot; &thorn;at takes hit aftur."</L>
+<L>He bad him lifte vp &middot; and &thorn;e lide warpes:&mdash;</L>
+</LG>
+<LG TYPE="stanza">
+<L>&THORN;enne he seos Ihesu crist &middot; in a sad Roode,</L>
+<L>and his fyue Angeles &middot; &thorn;at for&thorn; wi&thorn; him stoden,</L>
+<L N="260">As red as &thorn;e fuir &middot; and he hem bi-holdes.</L>
+<L>&para; &thorn;at on beres in his hond &middot; a cros of queynte hewe;</L>
+<L>&para; &thorn;at o&thorn;er beres in his hond &middot; &thorn;reo blodi nayles;</L>
+<L>&para; &thorn;e &thorn;ridde &thorn;e Coroune &middot; &thorn;at his hed keuerde;</L>
+<L N="264">&para; &thorn;e Feor&thorn;e, &thorn;e launce &middot; &thorn;at lemede him wi&thorn;-Inne;</L>
+<L>&para; And &thorn;e Fyf&thorn;e a blodi clo&thorn; &middot; &thorn;at he was inne i-braced,</L>
+<L>whon he lay after slauht &middot; in &thorn;e sepulcre.</L>
+<L>&para; &thorn;enne he falles for fere &middot; for&thorn; wi&thorn; &thorn;e w&yogh;ucche;</L>
+<L N="268">Eft he bad him rise vp &middot; he ros wi&thorn; &thorn;e bone.</L>
+<L>&para; &thorn;enne he sauh Ihesu crist &middot; I-strau&yogh;t vppon &thorn;e Roode,</L>
+<L>whuche &thorn;e Angel by-fore &middot; hedde in his hond;
+<PB REF="00000058.tif" N="10"></L>
+<L>And &thorn;e &thorn;reo nayles &middot; &thorn;at &thorn;e o&thorn;ur bi-foren hedde,</L>
+<L N="272">In his honden and his feet &middot; alle &thorn;ei weore faste;</L>
+<L>&para; Si&thorn;en stiken wi&thorn; &thorn;e spere &middot; blod and watur louses;</L>
+<L>Bi-holdes touward hise feet &middot; say fro hem renne;</L>
+<L>eornen al of red blod &middot; romynge a-boute;</L>
+<L N="276">Al priueliche his peyne &middot; a-pertliche he sauh.</L>
+</LG>
+<LG TYPE="stanza">
+<L>"WHi lengest &thorn;ou," quod Iosep[h] &middot; to his sone, "so longe?</L>
+<L>And so stille liggest &middot; lokynde in &thorn;e whucche?"</L>
+<L>"A! Fader, touche me not &middot; in &thorn;is ilke tyme,</L>
+<L N="280">For muche gostliche grace &middot; me is here I-graunted."</L>
+<L>&para; &thorn;enne &thorn;ei loken in atte w&yogh;ucche &middot; loueliche bo&thorn;e,</L>
+<L>&para; &thorn;enne &thorn;ei se&yogh;en Ihesu crist &middot; in &thorn;at ilke foorme,</L>
+<L>&thorn;at heo se&yogh;en him sodeynliche &middot; whon heo furst comen</L>
+<L N="284">aftur &thorn;e slau&yogh;t to him &middot; to &thorn;e sepulcre.</L>
+<L>&para; &thorn;enne comen two Angeles &middot; wi&thorn; twayles white,</L>
+<L>And ei&thorn;er bar in his hond &middot; a basyn of seluer;</L>
+<L>O&thorn;ur Tweyne aftur hem &middot; with cruetes sone,</L>
+<L>and wasscheles wi&thorn; haly water &middot; with hem &thorn;ei brou&yogh;ten;</L>
+<L N="289">And o&thorn;er two after hem &middot; with sencers <MILESTONE N="403b:2" UNIT="folio">soone,</L>
+<L>set wi&thorn; riche stones &middot; and a viole of sence.</L>
+<L>&para; &thorn;en com on, '&thorn;e streng&thorn;e of god' &middot; gabriel I-hoten,</L>
+<L N="292">wi&thorn; &thorn;e riccheste sege &middot; &thorn;at euer for seete seemes;</L>
+<L>And o&thorn;er two after him &middot; wi&thorn; crois and wi&thorn; Mitre,</L>
+<L>And o&thorn;ure bouwynde after &middot; wi&thorn; vestimens sone.</L>
+</LG>
+<LG TYPE="stanza">
+<L>HE sei&yogh; an Auter I-clo&thorn;ed &middot; wi&thorn; clo&thorn;es ful riche;</L>
+<L>Vppon &thorn;at on ende lay &middot; &thorn;e launce and &thorn;e nayles,</L>
+<L N="297">And vppon &thorn;at o&thorn;er ende &middot; &thorn;e disch wi&thorn; &thorn;e blode,</L>
+<L>and a vessel of gold &middot; geynliche bi-twene.</L>
+<L>&para; Ihesu made for to grei&thorn;e Iosaphe &middot; in &thorn;at geyn weede,</L>
+<L N="300">And sacrede him to Bisschop &middot; wi&thorn; boto his hondes,</L>
+<L>And tolde him of his vestimens &middot; what &thorn;ei signefyen;</L>
+<L>In vche Cite &thorn;ere he come &middot; sacren on he scholde</L>
+<L>wi&thorn; &thorn;e selue oygnemens &middot; &thorn;at he to him wrou&yogh;te,
+<PB REF="00000059.tif" N="11"></L>
+<L N="304">And an-oyg[n]ten o&thorn;er kynges &middot; &thorn;at to crist torneden.</L>
+<L>&para; &YOGH;it he leres him more &middot; loueliche him-seluen&mdash;</L>
+<L>"I beo-take &thorn;e her, Iosaphe &middot; soules to kepe;</L>
+<L>&yogh;if eni &thorn;orw &thorn;i defaute &middot; falle fro my riche,</L>
+<L N="308">At &thorn;e day of Iuggement &middot; &thorn;ou beost ioyned harde;</L>
+<L>&para; I sei&yogh;e, Ioseph &thorn;i fader &middot; schal bodiliche hem &yogh;eme,</L>
+<L>And &thorn;ou gostliche &middot; nou &yogh;emes hem bo&thorn;e.</L>
+<L>wi&thorn;-drawe &thorn;e of &thorn;i vestimens &middot; and do hem vp to holde;</L>
+<L N="312">Go now to-ward &thorn;e court &middot; &thorn;e kyng for to turne."</L>
+</LG>
+<LG TYPE="stanza">
+<L>&THORN;Enne &thorn;ei wenden heore wei &middot; and to &thorn;e court &yogh;ongen,</L>
+<L>And al a-boute &thorn;e paleys &middot; haly water &thorn;ei spreynden,</L>
+<L>for mony a wikkede gost &middot; woned hedde &thorn;ere.</L>
+<L N="316">&para; wi&thorn;-outen, on &thorn;e paleys &middot; as &thorn;ei bi passeden,</L>
+<L>werdes of Ebreu &middot; weren I-writen of &yogh;ore,</L>
+<L>And sein, 'daniel of Babiloyne &middot; whon he fro Batayle wente</L>
+<L>Fro nabugodonosor &middot; &thorn;e kyng &thorn;at him hade,</L>
+<L N="320">called &thorn;is paleis "Auntres" &middot; and forso&thorn;e seide,</L>
+<L>&thorn;at hit scholde trewely &middot; in sum tyme aftur,</L>
+<L>called beo &thorn;e paleis &middot; merueilouse for werkes,</L>
+<L>&thorn;at &thorn;er scholde beo sey&yogh;en &middot; &thorn;orw sonde of vr lord.'</L>
+<L N="324">&para; Bi &thorn;at was A Messager come &middot; after &thorn;is men sone;</L>
+<L>whon &thorn;ei comen to &thorn;e halle &middot; &thorn;ei maden &thorn;e signe</L>
+<L>on hem of &thorn;e verrey cros &middot; and toward &thorn;e kyng eoden.</L>
+<L>&para; &thorn;e kyng hedde geten him a clerk &middot; on of &thorn;e beste,</L>
+<L N="328">nou&yogh;where in heore lawe &middot; was such a-nother holden,</L>
+<L>to take Ioseph in his tale &middot; &yogh;if he wrong seide.</L>
+<L>&para; "&thorn;ou toldest me &yogh;usterday," quod &thorn;e kyng &middot; "&thorn;ou wost wel &thorn;i-seluen,</L>
+<L>Of &thorn;ise &thorn;reo persones &middot; and alle &thorn;ei beo&thorn; goddes;</L>
+<L N="332">And si&thorn;en of a-no&thorn;er &middot; wonder forso&thorn;e,</L>
+<L>&thorn;at Ihesu with-outen wem &middot; won in a Mayden."</L>
+</LG>
+<LG TYPE="stanza">
+<L>"&THORN;at I tolde &thorn;e &thorn;o &middot; I telle &thorn;e &yogh;itte;</L>
+<L>I nul forsake my word &middot; for no maner &thorn;inge."
+<PB REF="00000060.tif" N="12"></L>
+<L N="336">Op stondes &thorn;is clerk &middot; and seis him &thorn;ise wordes,</L>
+<L>"&YOGH;if &thorn;ise &thorn;reo persones &middot; &thorn;at &thorn;ou &thorn;e fore puttest</L>
+<L>han bote on godhede &middot; &thorn;ei nare not goddes alle;</L>
+<L>&YOGH;if vchon haue a godhede &middot; I graunte, bi him-selue,</L>
+<L N="340">I seie &thorn;at on is also good &middot; as &thorn;e &thorn;reo hole.</L>
+<L>&para; &thorn;at on is a verrei god &middot; I sei bi god grey&thorn;e;</L>
+<L>&thorn;is o&thorn;er two nare none &middot; in no maner &thorn;inge."</L>
+<L>He sprong in his sputison &middot; and speek harde wordes,</L>
+<L N="344">&thorn;at Ioseph hedde no space &middot; while his speche laste.</L>
+<L>&para; Op stondes Iosaphe &middot; and &thorn;e fader sittes,</L>
+<L>Speek wi&thorn; an hei&yogh; vois &middot; &thorn;at al &thorn;e folk herde,</L>
+<L>"Nou &thorn;e grete&thorn;, sir Euelak &middot; God of israel</L>
+<L N="348">&thorn;orw his seruauntes mou&thorn; &middot; and seye &thorn;e I wile.</L>
+<L>&para; &thorn;ou hast I-se&yogh;e to-niht &middot; signefies summe,</L>
+<L>&thorn;ow hast diskeueret hem &middot; &thorn;er he nis not payet,</L>
+<L>Heere &thorn;ou schalt ha vengaunce &middot; verreyliche and sone,</L>
+<L N="352">&thorn;at al &thorn;i reume schal seo &middot; &thorn;at &thorn;ou wrong siggest;</L>
+<L>&para; For he, &thorn;is ilke Tholomer &middot; &thorn;at &thorn;ou weore wont to hunte,</L>
+<L>&thorn;at is kyng of Babiloyne &middot; hiderward he buskes;</L>
+<L>&thorn;reo dayes with &thorn;e niht &middot; nou he &thorn;e schal driue,</L>
+<L N="356">Si&thorn;en lacche &thorn;e atte laste &middot; and &thorn;e &thorn;i lyf bi-reuen;</L>
+<L>He &thorn;at dorste nere &yogh;ut &middot; &thorn;e nou&yogh;where a-byde,</L>
+<L>nou schal winne his wille of &thorn;e &middot; for &thorn;i wrong bi-leeue."</L>
+<L>&para; &thorn;enne stod vp &thorn;is clerk &middot; and wolde eft dispuite;</L>
+<L N="360">&thorn;enne him &thorn;ou&yogh;te &thorn;at on &middot; heold him bi &thorn;e tonge,</L>
+<L>And he roungede an hei&yogh; &middot; and rorede so harde,</L>
+<L>his ei&yogh;en flowen out of his hed &middot; and biforen him fallen.</L>
+</LG>
+<LG TYPE="stanza">
+<L>&para; &THORN;enne vp sturten &thorn;e folk &middot; and wolden wi&thorn; wepene</L>
+<L N="364">sle Iosep[h] and his sone &middot; for sake<NOTE PLACE="foot">MS. "forsake," as in 1. 185.</NOTE> of &thorn;is o&thorn;er;</L>
+<L>And &thorn;e kyng Eualac &middot; cau&yogh;te his swerd sone,</L>
+<L>And beo &thorn;e miht of Iubiter &middot; he swor to hem alle,
+<PB REF="00000061.tif" N="13"></L>
+<L>weore eny of heom so wood &middot; heom forte founde,</L>
+<L N="368">he wolde felle hem feye &middot; ar &thorn;ei &thorn;enne ferden.</L>
+<L>&para; &thorn;enne seis &thorn;e kyng &middot; "mai &thorn;er out me helpe</L>
+<L>forto saue me out &middot; &yogh;if &thorn;at hit so lym[p]e?"</L>
+<L>&para; "&YOGH;e, sire," seis Iosaphe &middot; "to fonge &thorn;e trou&thorn;e."</L>
+<L>"And what trouwest &thorn;ou of &thorn;is mon &middot; tides him hele?"</L>
+<L>"Gos to oure Maumetes &middot; and proues heore mihtes."</L>
+<L>&para; &thorn;enne &thorn;ei taken &thorn;is mon &middot; and towen him to &thorn;e temple,</L>
+<L>A-non &thorn;ei brou&yogh;ten him for&thorn; &middot; bi-foren &thorn;e moste mayster,</L>
+<L N="376">Calle&thorn; vppon an ymage &middot; &thorn;at Appollin hette,</L>
+<L>and wol not onswere a word &middot; &thorn;auh &thorn;ei scholde swelten.</L>
+<L>&para; &thorn;enne spekes an ymage &middot; in a-no&thorn;er huirne,</L>
+<L>&thorn;at &yogh;e clepe&thorn; Martis &middot; "nou&yogh;t is &thorn;at &yogh;e mene;</L>
+<L N="380">Appolin is bounden &middot; and braset so faste,</L>
+<L>he may not speke a word &middot; for no &thorn;ing alyue."</L>
+</LG>
+<LG TYPE="stanza">
+<L>&THORN;enne Ioseph hente a staf &middot; &thorn;at stod him bi-syde,</L>
+<L>strikes to &thorn;is Appolin &middot; with a strong wille,</L>
+<L N="384">&thorn;at his nekke to-barst &middot; and brak al to pouder,</L>
+<L>and &thorn;e fend of his bodi &middot; fley&yogh; to &thorn;e lufte.</L>
+<L>&para; &thorn;enne &thorn;ei leuen him &thorn;er &middot; and go&thorn;<MILESTONE N="404a:1" UNIT="folio"> touward o&thorn;ure;</L>
+<L>&para; &thorn;e kyng bowes to his pors &middot; him offring to beode.</L>
+<L N="388">"Let beo," seis Iosaphe &middot; "I leeue &thorn;e beo bettre;</L>
+<L>For and &thorn;ou profre him eny &middot; I schal do [&thorn;e] to preue,</L>
+<L>vppon sodeyne de&thorn; &middot; &thorn;ou schalt sone dye."</L>
+<L>&para; "Do tel me," seis &thorn;e kyng &middot; "I haue &thorn;e muche truste,</L>
+<L N="392">Of &thorn;is tholomer and me &middot; hou schal hit tyden?"</L>
+<L>And he onsweres a&yogh;eyn &middot; "I dar not wel sigge,</L>
+<L>for &thorn;is cristene men &middot; &thorn;at vmbe mong &yogh;ongen.</L>
+<L>&para; Se &yogh;e not &thorn;e tweyne Angeles &middot; leden hem a-boute?</L>
+<L N="396">&para; &thorn;at on bere&thorn; a cros &middot; &thorn;at o&thorn;er a swerd kene;</L>
+<L>&para; wher-so-euere &thorn;ei ben stad &middot; such is heore streng&thorn;e,</L>
+<L>Vre maystrie is nou&yogh;t &middot; in no maner &thorn;inge."</L>
+<L>&para; &thorn;enne seis Iosaphe &middot; "for us ne schalt &thorn;ou wonde;</L>
+<L N="400">Vppon &thorn;e hei&yogh;e trinite &middot; I halse &thorn;e to telle,
+<PB REF="00000062.tif" N="14"></L>
+<L>Spek al &thorn;at &thorn;ou const &middot; &amp; let &thorn;e kyng here."</L>
+<L>"Of newe &thorn;ing &thorn;at is to come," he seis &middot; "con I not telle."</L>
+<L>Bi &thorn;at was a Messager i-come &middot; and to &thorn;e kyng menes,</L>
+<L>And seis him &thorn;at tholomer &middot; has taken of his londes.</L>
+<L>&para; "&thorn;e riche Cite of Nagister &middot; nomen he has forso&thorn;e;</L>
+<L N="406">Si&thorn;en he keueres vppon &middot; and takes bi-fore clene</L>
+<L>&thorn;e Castel of a-longines &middot; and hiderward he ioynes,</L>
+<L>with sixti &thorn;ousent," he seide &middot; "of clene men of Armes,</L>
+<L N="409">And Fifti &thorn;ousend fot-men &middot; &thorn;at redi be&thorn; to fihte,</L>
+<L>&thorn;ei han geten &thorn;at holt &middot; for certeyn so&thorn;e;</L>
+<L>&thorn;er is non in &thorn;at lond &middot; &thorn;at schal hem wi&thorn;stonden."</L>
+<L N="412">&para; &thorn;enne &thorn;e kyng was a-ferd &middot; I hete &thorn;e forso&thorn;e,</L>
+<L>leste &thorn;e tale of Iosaphe &middot; ferede trewe.</L>
+</LG>
+<LG TYPE="stanza">
+<L>&THORN;E kyng boskes lettres a-non &middot; to bounen his bernes,</L>
+<L>Comaundes hem to meeten him &middot; tymely on &thorn;e morwen,</L>
+<L N="416">At &thorn;e Castel of Carboye &middot; &thorn;er he beden hade,</L>
+<L>was fiftene myle &middot; fro sarras I-holden,</L>
+<L>And o&thorn;er fiftene myle &middot; fro &thorn;enne as &thorn;ei lei&yogh;en.</L>
+<L>&para; &thorn;enne Ioseph takes him for&thorn; &middot; and sei&thorn; him &thorn;is wordes,</L>
+<L>"wostou what &thorn;ou do, kyng &middot; nou &thorn;at &thorn;ou wendes?</L>
+<L N="421">Of &thorn;i comynge a-&yogh;ein &middot; const &thorn;ou not telle.</L>
+<L>&para; Such signe me is tau&yogh;t &middot; &thorn;ou art of cun symple;</L>
+<L>forso&thorn;e A mon was &thorn;i fader &middot; &thorn;at cou&thorn;e schon a-mende!</L>
+<L>&para; &thorn;at tyme &thorn;at Augustes cesar &middot; was Emperour of Rome,</L>
+<L N="425">&thorn;ou wast lenged in &thorn;e lond &middot; &thorn;at &thorn;at lord ou&yogh;te.</L>
+<L>Fourti knihtes dou&yogh;tres &middot; he wolde haue of fraunce,</L>
+<L>forte souwe selk-werk &middot; and sitten in his chaumbre.</L>
+<L>&para; For &thorn;ou were a feir child &middot; &thorn;ou weore I-fet to serue</L>
+<L N="429">twei feire maydenes &middot; and wi&thorn; &thorn;is mon lengedest.</L>
+<L>&para; &thorn;ei heolden &thorn;e of herre blod &middot; &thorn;en &thorn;ou boren weore;</L>
+<L>So &thorn;ou sou&yogh;tes fro him &middot; to &thorn;e erl of Surye.</L>
+<L N="432">So &thorn;ou and his sone &middot; vppon a day seten,
+<PB REF="00000063.tif" N="15"></L>
+<L>And &yogh;e woxen vn-sau&yogh;t &middot; and &thorn;ou slou&yogh; him &thorn;ere.</L>
+<L>So &thorn;ou come to &thorn;e kyng &middot; &thorn;at &thorn;is ku&thorn;&thorn;e au&yogh;te;</L>
+<L>Seidest &thorn;ou were a kniht &middot; and in his court laftest.</L>
+<L N="436">&para; He was an old mon &middot; weried of werre,</L>
+<L>And &thorn;ou weore a &yogh;ong mon &middot; in &thorn;i grete streng&thorn;e.</L>
+<L>For &thorn;ou toke his enemy &middot; and brou&yogh;test him to honde,</L>
+<L>for&thorn;i he &yogh;af &thorn;e &thorn;is lond &middot; after his lyue.</L>
+<L N="440">Hit is not allynge to carpe, sire kyng &middot; wher-of we comen."</L>
+<L>He takes non [hede] heere-to &middot; bote askes him of &thorn;e sweuene</L>
+<L>&thorn;at he mette on &thorn;e niht &middot; and bad he scholde him telle.</L>
+<L>&para; "whon &thorn;at &thorn;ou comest a&yogh;eyn &middot; wite &thorn;ou schalt forso&thorn;e,</L>
+<L>&thorn;ou miht haue more redi roume &middot; my rikenyng to here!"</L>
+<L>&para; Ioseph[e] takes his scheld &middot; and schapes a-middes</L>
+<L N="446">A crois of red clo&thorn; &middot; and kennes him aftur,</L>
+<L>whon his peril weore most &middot; to crist he scholde preyen,</L>
+<L>for &thorn;er scholde no mon verreili &middot; &thorn;at vigore bi-holden,</L>
+<L N="449">&thorn;at he nis saaf &thorn;at dai &middot; and his sore passed.</L>
+</LG>
+<LG TYPE="stanza">
+<L>&THORN;Enne he buskes touward &thorn;e bente &middot; &thorn;er &thorn;is o&thorn;er byden,</L>
+<L>He arayes his riche men &middot; and rihtes hem swi&thorn;e.</L>
+<L N="452">A-non tholomers men &middot; woxen &thorn;e biggore;</L>
+<L>sone beeren hem a-bac &middot; and brouhten hem to grounde;</L>
+<L>And &thorn;ei tornede a-&yogh;ein &middot; &thorn;at tyme hit was non o&thorn;er.</L>
+<L>&para; &thorn;ei come bi tholomers tentes &middot; vn-housed hem sone,</L>
+<L N="456">Token holliche his stor &middot; and a-wei strei&yogh;ten,</L>
+<L>&thorn;at &thorn;ei come to a Castel &middot; faste be-syde.</L>
+<L>&para; &thorn;e kyng was gon to pleye him &middot; bi a water brimme,</L>
+<L>&thorn;en com on prikynge &middot; prest him a-&yogh;eynes.</L>
+<L N="460">He seide, "my ladi &thorn;e queene &middot; ou a lettre sende,</L>
+<L>Biddes ou wihtly be boun &middot; to don as heo biddes."</L>
+<L>And he redes hit for&thorn; &middot; and fond &thorn;er-on sone,</L>
+<L>&thorn;at he scholde wi&thorn;-drawe him &middot; al a-wei &thorn;enne,
+<PB REF="00000064.tif" N="16"></L>
+<L N="464">Or elles tholomers folk &middot; wol taken him &thorn;ere;</L>
+<L>&para; For&thorn;i heo wole &thorn;at he wite &middot; and warnes him beo|time.</L>
+<L>&para; "Ho has witered hire of &thorn;is &middot; and ho has hire kenned?"</L>
+<L>He onsweres a-non &middot; "sire, I not forso&thorn;e.</L>
+<L N="468">Bote &thorn;e two cristene men &middot; &thorn;at bydes ow at court,</L>
+<L>in gret counseil han I-beo &middot; I trouwe hit be &thorn;er a|boute;"&mdash;</L>
+<L>And he telles hem &thorn;enne &middot; of &thorn;e qwene sonde</L>
+<L>&thorn;orw counseil of Iosaphe &middot; and Ihesu &thorn;ei &thorn;onken.</L>
+</LG>
+<LG TYPE="stanza">
+<L>&para; &THORN;E kyng Boskes lettres a-non &middot; to boune mo bernes;</L>
+<L N="473">bi &thorn;at &thorn;e ni&yogh;t was a-weye &middot; And &thorn;e day on &thorn;e morwe,</L>
+<L>&thorn;ei hadden of newe folk &middot; fourtene &thorn;ousend.</L>
+<L>He sei&yogh; vnder a wode-egge &middot; siker bi hem-seluen</L>
+<L N="476">Freschliche I-diht &middot; Fyue hondred men of Armes.</L>
+<L>&para; On vn-castes his helm &middot; and to &thorn;e kyng rydes,</L>
+<L>And he kneu&yogh; him wel &middot; he was his wyues bro&thorn;er,</L>
+<L>was I-called Seraphe &middot; a &yogh;ong Erl forso&thorn;e,</L>
+<L N="480">and a dou&yogh;ti &thorn;er-wi&thorn; &middot; in alle goode deedes;</L>
+<L>He mihte neuer gete loue of &thorn;e kyng &middot; much <MILESTONE N="404a:2" UNIT="folio">ne luyte,</L>
+<L>ne good herte of him &middot; and he non harm seruede.</L>
+<L N="483">He seide, "my ladi &thorn;e Qwene &middot; me a lettre sende,</L>
+<L>&YOGH;if euere I halp hire at neode &middot; I scholde hit now cui&thorn;e;</L>
+<L>And I am come to &thorn;i wille &middot; sire, wi&thorn; &thorn;is knihtes."</L>
+<L>"Forso&thorn;e," he seis, "seraphe &middot; so &thorn;ou euele ou&yogh;test;</L>
+<L>Ofte I haue for-set &thorn;e &middot; &thorn;at me sore for&thorn;inkes,</L>
+<L N="488">For euere &thorn;e kuynde wol be frend &middot; for ou&yogh;t &thorn;at mai bi-falle."</L>
+</LG>
+<LG TYPE="stanza">
+<L>Now &thorn;ei bouwe touward &thorn;e bente &middot; &thorn;er &thorn;is o&thorn;ere houen;</L>
+<L>He arayes his riche men &middot; and rihtes hem bettre,</L>
+<L>&thorn;at &thorn;orw him reowen no res &middot; &thorn;at his red wrou&yogh;ten.
+<PB REF="00000065.tif" N="17"></L>
+<L N="492">&para; &thorn;enne seis Seraphe &middot; "holdes ou stille,</L>
+<L>And &thorn;enkes on, goode men &middot; &thorn;e gref is oure childre;</L>
+<L>what wol bi-falle &thorn;er-of &middot; and we ben confoundet.</L>
+<L>Betere hit were douhtilyche &middot; to di&yogh;en on or oune,</L>
+<L>&thorn;en wi&thorn; schendschupe to schone &middot; and vs a-bak drawe."</L>
+<L N="497">&thorn;ei han geten on hem &middot; &thorn;e leng&thorn;e of a gleyue:</L>
+<L>&para; whon Seraphe sei&yogh; &thorn;at men &middot; &thorn;ei mi&yogh;te I-seo sone</L>
+<L>his polhache go &middot; and proude doun pallede.</L>
+<L N="500">In &thorn;e &thorn;ikkeste pres &middot; he preuede his wepne,</L>
+<L>Breek braynes a-brod &middot; brusede burnes,</L>
+<L>Beer bale in his hond &middot; bed hit a-boute.</L>
+<L>He hedde an hache vppon hei&yogh; &middot; wi&thorn; a gret halue,</L>
+<L N="504">Huld hit harde wi&thorn; teis &middot; in his two hondes;</L>
+<L>So he frusschede hem with &middot; and fondede his streng&thorn;e,</L>
+<L>&thorn;at luyte mi&yogh;te faren him fro &middot; and to flui&yogh;t founden.</L>
+<L>&para; &thorn;ere weore stedes to struien &middot; stoures to medlen,</L>
+<L N="508">Meeten mi&yogh;tful men &middot; mallen &thorn;orw scheldes,</L>
+<L>&para; Harde hauberkes to-borsten &middot; and &thorn;e brest &thorn;urleden.</L>
+<L>Schon schene vppon schaft &middot; schalkene blode.</L>
+<L>&para; &thorn;o &thorn;at houen vppon hors &middot; heowen on helmes.</L>
+<L>&para; &thorn;o &thorn;at hulden hem on fote &middot; hakken &thorn;orw scholdres.</L>
+<L>mony swou&yogh;ninge lay &middot; &thorn;orw schindringe of scharpe,</L>
+<L>And starf aftur &thorn;e de&thorn; &middot; in a schort while.</L>
+<L>&para; &thorn;er weoren hedes vn-huled &middot; helmes vphaunset;</L>
+<L N="516">harde scheldes to-clouen &middot; on quarters fellen,</L>
+<L>slen hors and mon &middot; holliche at enes.</L>
+</LG>
+<LG TYPE="stanza">
+<L>&THORN;E stiward of Eualak &middot; in &thorn;e stour lafte,</L>
+<L>lai streiht on &thorn;e feld &middot; striken to &thorn;e eor&thorn;e.</L>
+<L>&para; Now Eualac and tholomer &middot; twies han a-semblet;</L>
+<L N="521">Seraphe takes of heore men &middot; wel a two hundred,</L>
+<L>to wende to a Roche &middot; was faste bi-syde.</L>
+<L>Hedde &thorn;ei geten &thorn;at holt &middot; for certeyne so&thorn;e,</L>
+<L>&thorn;ei mihten haue do muche harm &middot; er &thorn;ei han hem mihte.</L>
+<L>&para; &thorn;enne com on wi&thorn; a tale &middot; and Tholomer he telles,</L>
+<L N="526">And seis him hou Seraphe &middot; has his men serued;
+<PB REF="00000066.tif" N="18"></L>
+<L>His bro&thorn;er and a batayle &middot; weore bosket bi-sydes,</L>
+<L>And he sende him word &middot; he scholde &thorn;ider seche,</L>
+<L>And &thorn;ei come swiftly vppon &middot; and swengeden to-gedere.</L>
+<L>&para; Seraphe was of hem wel war &middot; and faste hem a-scries;</L>
+<L>He mette a gome on an hors &middot; with a gret route,</L>
+<L N="532">He hente vp his hachet &middot; and huttes him euene,</L>
+<L>Al to-hurles &thorn;e helm &middot; and &thorn;e hed vnder.</L>
+<L>wi&thorn; &thorn;e de&thorn; in his hals &middot; dounward he duppes,</L>
+<L>and &thorn;at deruede hem muche &middot; on &thorn;at o&thorn;er syde,</L>
+<L N="536">for &thorn;e kyng Tholomer &middot; was treweli his bro&thorn;er.</L>
+<L>&para; &thorn;en Seraphe fondes in &middot; he and fourti knihtes,</L>
+<L>&para; &thorn;er &thorn;e batayle was stiffest &middot; and of more streng&thorn;e.</L>
+<L>&para; &thorn;enne &thorn;ei fullen for grame &middot; to Seraphe knihtes;</L>
+<L N="540">&thorn;ei han laft him a-lyue &middot; but vnne&thorn;e seuene.</L>
+<L>Sikerli &thorn;e seuene &middot; weore slayen at &thorn;e laste,</L>
+<L>Him wondet &thorn;er-wi&thorn; &middot; and wemmet so sore,</L>
+<L>&thorn;at he was in swounynge &middot; and fel to &thorn;e grounde.</L>
+<L>&para; Sone &thorn;enne he starte vp &middot; and strei&yogh;te to his hache,</L>
+<L N="545">culles on mennes hedes &middot; &thorn;at &thorn;ei doun lyen,</L>
+<L>Si&thorn;en cacches his hors &middot; and a-wei wendes.</L>
+<L>Bote euer-more Seraphe &middot; askes and cries,</L>
+<L N="548">"where was Eualac?" &middot; &thorn;e stour was so &thorn;ikke.</L>
+<L>&para; wel a fyue &thorn;ousend men &middot; of tholomeres halue</L>
+<L>weore bytwene hem two &middot; &thorn;at to him he ne mihte,</L>
+<L>And he nedde bote fourti men &middot; folewynde his brydel.</L>
+<L>And &thorn;ei were weri of-fou&yogh;ten &middot; and feor ouer-charged,</L>
+<L N="553">Of &thorn;e peple afurst &middot; and &thorn;e pres after;</L>
+<L>luyte wonder hit was &middot; so &thorn;ey wrou&yogh;t haden.</L>
+</LG>
+<LG TYPE="stanza">
+<L>&THORN;Enne was Eualac taken &middot; and woundet ful sore;</L>
+<L N="556">And &thorn;e kyng tholomer &middot; takes him to kepe,</L>
+<L>Ferde in-to a forest &middot; faste bi-syde,</L>
+<L>forte fallen him feye &middot; er &thorn;ei a-&yogh;eyn ferden.</L>
+<L>&para; &thorn;enne he vn-keuered his scheld &middot; &amp; on &thorn;e cros bi|holdes;</L>
+<L N="560">He sei&yogh; a child strau&yogh;t &thorn;er-on &middot; stremynge on blode,
+<PB REF="00000067.tif" N="19"></L>
+<L>And he bi-sou&yogh;te him of grace &middot; as he was godes foorme.</L>
+<L>&para; &thorn;enne he sei&yogh; a whit kniht &middot; comynge him a-&yogh;eines,</L>
+<L>bo&thorn;e Armure and hors &middot; al as &thorn;e lilye,</L>
+<L N="564">A red cros on his scheld &middot; seemed him feire;</L>
+<L>Rydes to tholomer &middot; rad wi&thorn; &thorn;at ilke,</L>
+<L>Baar him doun of his hors &middot; and harmed him more,</L>
+<L>strok him stark ded &middot; &thorn;at he sturede neuere.</L>
+<L N="568">&para; Si&thorn;en he fonges for&thorn; &middot; a ferly wepne,</L>
+<L>fel hem fei&yogh;e to his feet &middot; &thorn;at him hedde folewed.</L>
+<L>&para; &thorn;enne he horses Eualac &middot; on tholomeres steede,</L>
+<L>bouwes touward &thorn;e batayle &middot; bigly and swi&thorn;e.</L>
+<L N="572">&para; Euer-more Eualac &middot; askes and cries,</L>
+<L>"where was Seraphe?" &middot; and sei&yogh; him wi&thorn; &thorn;at ilke,</L>
+<L>wher seue knihtes him han &middot; sikerliche a-sayled,</L>
+<L N="575">and titli bi-gonnen &middot; to take him bi &thorn;e bridel.</L>
+<L>&para; &thorn;e white kniht wi&thorn; his swerd &middot; swyngede to hem sone;</L>
+<L>whon &thorn;e sixe weoren dede &middot; &thorn;e seue&thorn;e a knyf <MILESTONE N="404b:1" UNIT="folio">cauhte,</L>
+<L>And wolde ha striken Seraphe &middot; at a stude derne,</L>
+<L>vppon an hole of his helm &middot; and he was so for-fou&yogh;ten</L>
+<L N="580">&thorn;at he hedde no space &middot; spedly him-seluen</L>
+<L>forto do him no dispit &middot; &thorn;e sporn was his owne.</L>
+<L>&para; whon Eualac &thorn;at sau&yogh; &middot; he fel to &thorn;e grounde,</L>
+<L>And Seraphe also &middot; and bo&thorn;e lye [a] swoune.</L>
+<L>&para; &thorn;e white kniht lihtes doun &middot; and bo&thorn;e hem vp-liftes;</L>
+<L N="585">&thorn;er nas no lynde so liht &middot; as &thorn;ise two leodes,</L>
+<L>whon &thorn;ei blencheden a-boue &middot; and ei&thorn;er sei&yogh; o&thorn;er.</L>
+<L>&para; &thorn;enne seis Seraphe &middot; "scheu&yogh; me myn hache,</L>
+<L>and I schal note hit to-day &middot; my streng&thorn;e is so newed."</L>
+<L N="589">&para; "Haue her-on," seis &thorn;e white kniht &middot; "vppon my bi|halue;</L>
+<L>God sende &thorn;e &thorn;is &middot; &thorn;at al &thorn;e grace lenes."</L>
+<L>whon he hedde hit in honde &middot; he heold hit &thorn;e betere,</L>
+<L N="592">And &thorn;e heuior bi fer &middot; &thorn;en he bi-foren hedde;</L>
+<L>Nas &thorn;er &yogh;ong mon ne old &middot; &thorn;at &yogh;ernloker wrou&yogh;te</L>
+<L>&thorn;en Eualac and Seraphe &middot; wher-so-euer &thorn;ei sou&yogh;ten,</L>
+<L>Also fresch as &thorn;e hauk &middot; freschore &thorn;at tyme,
+<PB REF="00000068.tif" N="20"></L>
+<L N="596">&thorn;en &thorn;ei foundeden &thorn;idere &middot; in heore furste come.</L>
+<L>But euer-more &thorn;e white kniht &middot; hem &thorn;e place roumede,</L>
+<L>Hit falles not for to sei&yogh;e &middot; &thorn;e fere of his duntes.</L>
+<L>&thorn;er he lousede his hond &middot; he leyde hem on Ronkes,</L>
+<L N="600">and welde hem bi-foren &middot; at his oune wille.</L>
+<L>&para; &thorn;e stiward of Tholomer &middot; stoffes hem to-gedere,</L>
+<L>and seis, "&thorn;ei ben a-middes &thorn;e Reume &middot; and mowe not hom reche,</L>
+<L>ne heo knowe not in the lond &middot; for&thorn;i &thorn;ei moten lenge."</L>
+<L N="604">&para; &thorn;enne &thorn;e folk of &thorn;e Roche &middot; hem in face kepten,</L>
+<L>maden &thorn;er a siker werk &middot; and slowen hem vp clene.</L>
+</LG>
+<LG TYPE="stanza">
+<L>Eualac and Seraphe &middot; wonder hem &thorn;hou&yogh;te</L>
+<L>wher &thorn;e white kniht bi-com &middot; &thorn;at won hem &thorn;e prys;</L>
+<L N="608">&thorn;ei nuste where he was &middot; ne on whuche syde.</L>
+<L>&para; &thorn;enne seis Seraphe &middot; &thorn;at hom he wolde wende,</L>
+<L>He is woundet ful sore &middot; to winnen his ese.</L>
+<L>&para; "Trewely," seis Eualac &middot; "&thorn;ow schalt wi&thorn; me to court,</L>
+<L N="612">And two wonderful men &middot; &thorn;ou schalt seo &thorn;ere;</L>
+<L>&thorn;ei tolde me of vche a poynt &middot; ar I fro home wente,</L>
+<L>al-to-gedere of &thorn;is werk &middot; hou hit is wonne."</L>
+</LG>
+<LG TYPE="stanza">
+<L>Nou we leuen &thorn;e kyng &middot; and of Ioseph carpen,</L>
+<L>&thorn;at restes him in Sarras &middot; bi-leued wi&thorn; &thorn;e qweene.</L>
+<L N="617">"Hou trouwestou of my lord?" heo seis &middot; "tydes him hele,</L>
+<L>Has he folfulsened &thorn;e sawes &middot; &thorn;at &thorn;ou bi-fore seidest?"</L>
+<L>"&YOGH;e, &thorn;orw &thorn;e miht of god &middot; &thorn;e maystrie is wonnen,</L>
+<L N="620">And &thorn;orw his swete grace &middot; &thorn;e sarrest is passed."</L>
+<L>&para; "&YOGH;e, I wol bi-hote &thorn;e heer &middot; &thorn;i lawe for to holden,</L>
+<L>whon &thorn;at my lord is comen &middot; &thorn;at schal I furst fongen."</L>
+<L>"Do me sikernesse &thorn;er-to" &middot; seis Ioseph &thorn;enne.</L>
+<L>&para; "I wole my trou&thorn;e &thorn;e bi-take &middot; I wol &thorn;e nout trayse."</L>
+<L N="625">"Nay, &thorn;ou hast non," seis he &middot; "for certeyn so&thorn;e,
+<PB REF="00000069.tif" N="21"></L>
+<L>&YOGH;e han be fastned wi&thorn; hem &middot; &thorn;at ferden wi&thorn; luitel."</L>
+<L>"Tel me what is &thorn;in &middot; and what hit signefyes?"</L>
+<L N="628">And he tolde hire a-non &middot; trewely him-seluen,</L>
+<L>And heo rikenede a-&yogh;eyn &middot; radly and sone,</L>
+<L>Also redili as he &middot; and wonder he hedde.</L>
+<L>&para; "I schal sei&yogh;e &thorn;e, Ioseph &middot; for certeyn so&thorn;e,</L>
+<L N="632">hou I tok cristendom &middot; and in what tyme.</L>
+<L>while my moder lyuede &middot; heo hedde an vuel longe,</L>
+<L>And sou&yogh;te in-to diuerse studes &middot; and mihte haue non hele.</L>
+<L>&para; &thorn;enne wonede an hermite &middot; faste bi-syde;</L>
+<L N="636">Semely vppon a day &middot; &thorn;idere we souhten;</L>
+<L>Heo bad &thorn;is hermyte &middot; he scholde hire hele sende.</L>
+<L>&para; 'I am sinful as &thorn;ou,' he seis &middot; 'I mai &thorn;e non graunte.'</L>
+<L>&para; 'No mak &thorn;i preyere to him,' heo seis &middot; '&thorn;at &thorn;in hope is inne?'</L>
+<L N="640">&para; 'woldestou leeue vppon him,' he seis &middot; 'I wolde &thorn;e bi-hote,</L>
+<L>&thorn;at &thorn;ou scholdest ben hol &middot; ar &thorn;ou henne eodest.'</L>
+<L>&para; He made hire to knele a-doun &middot; and a bok bradde,</L>
+<L>Radde a gospel &thorn;er-on &middot; and bad hire vp rise,</L>
+<L>And heo was lihtned of hire euel &middot; in a luytel stounde.</L>
+<L N="645">&para; &thorn;enne heo seide to me &middot; 'dou&yogh;ter ful deore,</L>
+<L>woltou beo as I am &middot; and on &thorn;is mon leue?'</L>
+<L>And I wepte water warm &middot; and wette my wonges,</L>
+<L>And seide his bert was so hor &middot; I bad not on him leeue.</L>
+<L N="649">And he seide to me &middot; 'dou&yogh;ter, he is feirore,</L>
+<L>&thorn;at &thorn;i moder has I-helet &middot; nou in &thorn;is tyme,</L>
+<L>&thorn;en I or &thorn;ou &middot; or out &thorn;at is formed.'</L>
+<L N="652">&para; And I tolde him a-&yogh;eyn &middot; 'and he so feir weore</L>
+<L>as my bro&thorn;er is at home &middot; I wolde on him leeue.'</L>
+<L>&para; 'Sikerly, dou&yogh;ter,' he seis &middot; 'so may grace sende</L>
+<L>&thorn;at &thorn;ou mi&yogh;t seo him &thorn;i-self &middot; ar &thorn;ow henne seche.'</L>
+</LG>
+<LG TYPE="stanza">
+<L N="656">&THORN;Enne com Ihesu crist &middot; so cler in him-seluen,</L>
+<L>aftur &thorn;e furste blusch &middot; we ne mi&yogh;te him bi-holden,
+<PB REF="00000070.tif" N="22"></L>
+<L>And a wynt and a sauor &middot; whappede us vmbe,</L>
+<L>we weore so wel of vr-self &middot; we nuste what we duden.</L>
+<L N="660">He vsede of Goddes bord &middot; &amp; a writ brouhte,</L>
+<L>bi-tau&yogh;te me and my moder &middot; murily to holden;</L>
+<L>&thorn;us cristendom I tok &middot; in &thorn;at ilke tyme."</L>
+<L>&para; "whi hastou let so longe &middot; &thorn;i lord &thorn;is lyf leden?"</L>
+<L N="664">"Sire, forso&thorn;e," heo seis &middot; "syker I ne dorste,</L>
+<L>He is so feol in him-self &middot; for no &thorn;ing be-knowen,</L>
+<L>Bote herkene of god &middot; whon he his grace sende.</L>
+<L>&para; Hastou not herd &thorn;i-self &middot; hou euel he was to torne?"</L>
+</LG>
+<LG TYPE="stanza">
+<L N="668">Now &thorn;e kyng comes to sarras &middot; and mony on him suwen;</L>
+<L>As sone as he com hom &middot; I hete &thorn;e forso&thorn;e,</L>
+<L>He askede after a-non &middot; nomeliche &thorn;eose tweyne,</L>
+<L>Sette him on<MILESTONE N="404b:2" UNIT="folio"> his bed &middot; and hem on ei&thorn;er syde.</L>
+<L N="672">"A! Ioseph," sei&thorn; &thorn;e kyng &middot; "so&thorn;e aren &thorn;i wordes,</L>
+<L>&thorn;at &thorn;ou toldest me furst &middot; &yogh;or foundeour be blesset!"</L>
+<L>&para; "Ho is &thorn;at?" seis Seraphe &middot; and [he] onswerde sone,</L>
+<L>"he &thorn;at halp &thorn;e wi&thorn; sound &middot; fro &thorn;e seue knihtes "&mdash;</L>
+<L N="676">Tolde hem vche a poynt &middot; &thorn;at &thorn;ei wrou&yogh;t haden;</L>
+<L>Hou he wuste &thorn;erof &middot; wonder hem &thorn;ou&yogh;te.</L>
+</LG>
+<LG TYPE="stanza">
+<L>&THORN;Enne com on fro &thorn;e fiht &middot; &thorn;at foule was wemmed,</L>
+<L>was striken of &thorn;at on Arm &middot; and bar hit in &thorn;at o&thorn;er.</L>
+<L N="680">&para; &thorn;en Ioseph asked &thorn;e kynges scheld &middot; And bad &thorn;at mon knele,</L>
+<L>&thorn;e arm helede a-&yogh;eyn &middot; hol to &thorn;e stompe.</L>
+<L>&para; &thorn;enne com Seraphe &middot; and fullou&yogh;t furst askes.</L>
+<L>In &thorn;e nome of &thorn;e fader &middot; Ioseph him fulwede,</L>
+<L N="684">And calles him Naciens &middot; and his nome tornde:</L>
+<L>he was &thorn;e forme &thorn;at day &middot; &thorn;at fongede trou&thorn;e.</L>
+<L>&para; whon he Baptised was &middot; &thorn;is o&thorn;ere bi-heolden,</L>
+<L>Heom &thorn;ou&yogh;te he leomede as liht &middot; al on a lowe;
+<PB REF="00000071.tif" N="23"></L>
+<L N="688">&para; &thorn;ei se&yogh;en &thorn;e holy-gost &middot; at his mou&thorn; descenden,</L>
+<L>And he speek &thorn;enne &middot; &thorn;at bi-foren ne kneu&yogh;.</L>
+</LG>
+<LG TYPE="stanza">
+<L>&THORN;Enne com he wi&thorn; &thorn;e sore Arm &middot; &thorn;at &thorn;orw &thorn;e grace was holpen; .</L>
+<L>In &thorn;e nome of &thorn;e fader &middot; Ioseph him folwed,</L>
+<L N="692">clepen him Cleomadas &middot; and callen him after.</L>
+<L>&para; &thorn;enne com &thorn;e kyng Eualac &middot; and fullouht askes;</L>
+<L>In &thorn;e nome of &thorn;e fader &middot; Ioseph him folwede,</L>
+<L>Called him Mordreyns &middot; 'a lat mon ' in trou&thorn;e.</L>
+<L N="696">&para; &thorn;en com &thorn;e folk &middot; to Iosaphe so &thorn;ikke,</L>
+<L>He tok a basin of gold &middot; in bo&thorn;e two his hondes,</L>
+<L>Vppon &thorn;e hei&yogh;e trinite &middot; he let water hi&yogh;e,</L>
+<L>And hedde fulwed bi non &middot; mo &thorn;en fyue &thorn;ousend.</L>
+<L N="700">&para; &thorn;enn seis Iosaphe &middot; &thorn;at Ioseph his fader</L>
+<L>mot a-byden him &middot; and dwelle &thorn;er stille,</L>
+<L>&para; while &thorn;at he and Naciens gon &middot; nou&thorn;er &thorn;ei nusten,</L>
+<L>forte cristene &thorn;e folk &middot; and casten &thorn;e false.</L>
+<L N="704">&para; But &thorn;ere an vnsely kyng &middot; in prison hem caste,</L>
+<L>wi&thorn; muche serwe to him-self &middot; siker atte laste;</L>
+<L>&para; For &thorn;e kyng Mordreyns &middot; com with such streng&thorn;e,</L>
+<L>forte liuere hem out &middot; on lyue he lafte none.</L>
+<L>&para; Si&thorn;en &thorn;ei bi-tau&yogh;ten &thorn;e blod &middot; twei burnes to holden,</L>
+<L N="709">And &thorn;ei lenden of &thorn;e toun &middot; and leuen hit &thorn;ere.</L>
+</LG>
+</DIV1>
+</BODY>
+<BACK>
+<DIV1 TYPE="omitted back matter"><P>
+
+<PB REF="00000072.tif">
+
+<PB REF="00000073.tif">
+
+<PB REF="00000074.tif">
+
+<PB REF="00000075.tif" N="27">
+
+<PB REF="00000076.tif" N="28">
+
+<PB REF="00000077.tif" N="29">
+
+<PB REF="00000078.tif" N="30">
+
+<PB REF="00000079.tif" N="31">
+
+<PB REF="00000080.tif" N="32">
+
+<PB REF="00000081.tif" N="33">
+
+<PB REF="00000082.tif" N="34">
+
+<PB REF="00000083.tif" N="35">
+
+<PB REF="00000084.tif">
+
+<PB REF="00000085.tif" N="37">
+
+<PB REF="00000086.tif" N="38">
+
+<PB REF="00000087.tif" N="39">
+
+<PB REF="00000088.tif" N="40">
+
+<PB REF="00000089.tif" N="41">
+
+<PB REF="00000090.tif" N="42">
+
+<PB REF="00000091.tif" N="43">
+
+<PB REF="00000092.tif" N="44">
+
+<PB REF="00000093.tif" N="45">
+
+<PB REF="00000094.tif" N="46">
+
+<PB REF="00000095.tif" N="47">
+
+<PB REF="00000096.tif" N="48">
+
+<PB REF="00000097.tif" N="49">
+
+<PB REF="00000098.tif" N="50">
+
+<PB REF="00000099.tif" N="51">
+
+<PB REF="00000100.tif" N="52">
+
+<PB REF="00000101.tif" N="53">
+
+<PB REF="00000102.tif" N="54">
+
+<PB REF="00000103.tif" N="55">
+
+<PB REF="00000104.tif" N="56">
+
+<PB REF="00000105.tif" N="57">
+
+<PB REF="00000106.tif" N="58">
+
+<PB REF="00000107.tif" N="59">
+
+<PB REF="00000108.tif" N="60">
+
+<PB REF="00000109.tif" N="61">
+
+<PB REF="00000110.tif" N="62">
+
+<PB REF="00000111.tif" N="63">
+
+<PB REF="00000112.tif" N="64">
+
+<PB REF="00000113.tif" N="65">
+
+<PB REF="00000114.tif" N="66">
+
+<PB REF="00000115.tif" N="67">
+
+<PB REF="00000116.tif" N="68">
+
+<PB REF="00000117.tif" N="69">
+
+<PB REF="00000118.tif" N="70">
+
+<PB REF="00000119.tif" N="71">
+
+<PB REF="00000120.tif" N="72">
+
+<PB REF="00000121.tif" N="73">
+
+<PB REF="00000122.tif" N="74">
+
+<PB REF="00000123.tif" N="75">
+
+<PB REF="00000124.tif" N="76">
+
+<PB REF="00000125.tif" N="77">
+
+<PB REF="00000126.tif" N="78">
+
+<PB REF="00000127.tif" N="79">
+
+<PB REF="00000128.tif" N="80">
+
+<PB REF="00000129.tif" N="81">
+
+<PB REF="00000130.tif" N="82">
+
+<PB REF="00000131.tif" N="83">
+
+<PB REF="00000132.tif" N="84">
+
+<PB REF="00000133.tif" N="85">
+
+<PB REF="00000134.tif" N="86">
+
+<PB REF="00000135.tif" N="87">
+
+<PB REF="00000136.tif" N="88">
+
+<PB REF="00000137.tif" N="89">
+
+<PB REF="00000138.tif" N="90">
+
+<PB REF="00000139.tif" N="91">
+
+<PB REF="00000140.tif" N="92">
+
+<PB REF="00000141.tif" N="93">
+
+<PB REF="00000142.tif" N="94">
+
+<PB REF="00000143.tif" N="95">
+
+<PB REF="00000144.tif" N="96">
+
+<PB REF="00000145.tif" N="97">
+
+<PB REF="00000146.tif" N="98">
+
+<PB REF="00000147.tif" N="99">
+
+</P>
+<PB REF="00000148.tif" N="100">
+</DIV1></BACK>
+</TEXT>
+</ETS>

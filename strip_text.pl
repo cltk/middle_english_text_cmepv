@@ -1,0 +1,162 @@
+$/ = "</DLPSTEXTCLASS>";
+while (<>) {
+
+  s,<\?xml[^>]+>,,g;
+  s,<ABBR EXPAN="([^"]+)">[^<]+</ABBR>,$1,g;
+  s,</?ABBR>,,g;
+  s,</?ADD>,,g;
+  s,<ADDRESS>[^@]*</ADDRESS>,,g;
+  s,<ADDRLINE>[^@]*</ADDRLINE>,,g;
+  s,<ANCHOR[^>]*>,,g;
+  s,</?ARGUMENT>,,g;
+  s,</?AUTHOR>,,g;
+  s,<AVAILABILITY>[^@]*</AVAILABILITY>,,g;
+  s,</?BACK>,,g;
+  s,</?BIBL>,,g;
+  s,<BIBLFULL>[^@]*</BIBLFULL>,,g;
+  s,</?BODY>,,g;
+  s,<BYLINE>,\n,g;
+  s,</BYLINE>,,g;
+  s,<CLASSCODE[^>]+>.+</CLASSCODE>,,g;
+  s,</?CLASSCODE>,,g;
+  s,<CLOSER>,\n,g;
+  s,</CLOSER>,,g;
+  s,<CORR[^>]+>,[,g;
+  s,</CORR>,],g;
+  s,<CREATION>.+</CREATION>,,g;
+  s,<DATE>,,g;
+  s,</DATE>,,g;
+  s,<DATELINE>,\n,g;
+  s,</DATELINE>,,g;
+  s,<DEL>,((,g;
+  s,</DEL>,)),g;
+  s,<DISTRIBUTOR>[^<]+</DISTRIBUTOR>,,g;
+  s,(<DIV[^>]*)TYPE="([^"]+)"([^>]*>),<divtype>$2</divtype>$1$3,g;
+  s,(<DIV[^>]*) N="([^"]+)"([^>]*>),$1$3<divn>$2</divn>,g;
+  s,<DIV[^>]+>,,g;
+  s,</DIV[^>]*>,,g;
+  s,<divtype>,\n[,g;
+  s,</divn>,] ,g;
+  s,</divtype><divn>, ,g;
+  s,</divtype>,] ,g;
+  s,<divn>,\n[,g;
+  s,<DLPSTEXTCLASS>,,g;
+  s,<DOCAUTHOR>,\n,g;
+  s,</DOCAUTHOR>,,g;
+  s,<DOCDATE>,\n,g;
+  s,</DOCDATE>,,g;
+  s,<DOCEDITION>,\n,g;
+  s,</DOCEDITION>,,g;
+  s,<DOCTITLE>,\n,g;
+  s,</DOCTITLE>,,g;
+  s,<DOCIMPRINT>,\n,g;
+  s,</DOCIMPRINT>,,g;
+  s,<EDITION>.+</EDITION>,,g;
+  s,<EDITIONSTMT>[^@]*</EDITIONSTMT>,,g;
+  s,<EDITOR>.*</EDITOR>,,g;
+  s,<EDITORIALDECL[^>]*>[^@]*</EDITORIALDECL>,,g;
+  s,<ENCODINGDESC>[^@]*</ENCODINGDESC>,,g;
+  s,<EPB/>,,g;
+  s,<EPIGRAPH>,\n,g;
+  s,</EPIGRAPH>,,g;
+  s,<EXPAN[^>]*>([^<]+)</EXPAN>,[$1],g;
+  s,<EXTENT>[^<]*</EXTENT>,,g;
+  s,<FIGURE>[^<]+</FIGURE>,,g;
+  s,<FILEDESC>[^@]*</FILEDESC>,,g;
+  s,<FOREIGN[^>]*>,,g;
+  s,</FOREIGN>,,g;
+  s,</?FRONT>,,g;
+  s,<GAP[^>]*>,[...],g;
+  s,<HEAD[^>]*>,\n,g;
+  s,</HEAD>,,g;
+  s,<HEADER>[^@]*</HEADER>,,g;
+  s,<HI[^>]*>,,g;
+  s,</HI[^>]*>,,g;
+  s,<ITEM>,\n,g;
+  s,</ITEM>,,g;
+  s,<KEYWORDS>[^@]*</KEYWORDS>,,g;
+  s,<L [^>]+>,<L>,g;
+  s,<L>,\n,g;
+  s,</L>,,g;
+  s,<LABEL>,,g;
+  s,</LABEL>, ,g;
+  s,<LANGUAGE.*</LANGUAGE>,,g;
+  s,<LANGUSAGE>[^@]*</LANGUSAGE>,,g;
+  s,<LB/>,\n,g;
+  s,<LG[^>]*>,\n,g;
+  s,</LG>,,g;
+  s,<LIST>,\n,g;
+  s,<MILESTONE N="([^"]*)" UNIT="([^"]*)"[^>]*>, [$2 $1] ,g;
+  s,<MILESTONE N="([^"]*)">, [$1] ,g;
+  s,<MILESTONE UNIT="([^"]*)">, [$1] ,g;
+  s,</NAME>,,g;
+  s,<NOTE[^>]*>, [,g;
+  s,</NOTE[^>]*>,] ,g;
+  s,<NOTESTMT>[^@]*</NOTESTMENT>,,g;
+  s,<NUM>,,g;
+  s,</NUM>,,g;
+  s,<OPENER>,\n,g;
+  s,</OPENER>,,g;
+  s,<PB[^>]*>, ,g;
+  s,<PROFILEDESC>[^@]*</PROFILEDESC>,,g;
+  s,<PROJECTDESC>[^@]*</PROJECTDESC>,,g;
+  s,<PTR[^>]*>,,g;
+  s,<PUBLICATIONSTMT>[^@]*</PUBLICATIONSTMT>,,g;
+  s,</?PUBLISHER>,,g;
+  s,</?PUBPLACE>,,g;
+  s,<Q[12][^>]*>,\n,g;
+  s,</Q[12]>,,g;
+  s,<REF[^>]*>,,g;
+  s,</REF>,,g;
+  s,<SALUTE>,\n,g;
+  s,<SERIESTMT>.+</SERIESSTMT>,,g;
+  s,<SIC[^>]*CORR="([^"]*)"[^>]*>, [$1] ,g;
+  s,<SIC[^>]*>,,g;
+  s,</SIC>,,g;
+  s,<SIGNED>,\n,g;
+  s,</SIGNED>,,g;
+  s,</?SOCALLED>,,g;
+  s,<SOURCEDESC>[^@]*</SOURCEDESC>,,g;
+  s,<SP>,\n,g;
+  s,</SP>,,g;
+  s,<SPEAKER>,\n</SPEAKER>,g;
+  s,</SPEAKER>,,g;
+  s,<STAGE>, [,g;
+  s,</STAGE>,] ,g;
+  s,<SUPPLIED[^>]*>,,g;
+  s,<TERM>.*</TERM>,,g;
+  s,<TEXT[^>]*>,,g;
+  s,</TEXT>,,g;
+  s,<TITLE[^>]*>,,g;
+  s,</TITLE>,,g;
+  s,<TITLEPAGE>,\n,g;
+  s,</TITLEPAGE>,,g;
+  s,<TITLEPART[^>]*>,\n,g;
+  s,</TITLEPART>,,g;
+  s,<TITLESTMT>[^@]*</TITLESTMT>,,g;
+  s,<TRAILER>,\n,g;
+  s,</TRAILER>,,g;
+  s,<UNCLEAR[^>]*>,,g;
+  s,</UNCLEAR>,,g;
+  s,<XPTR[^>]*>,,g;
+  s,<P>,\n,g;
+  s,<L>,\n,g;
+  s,</P>,,g;
+  s,</L>,,g;
+  s,\n+,\n,g;
+  s,</DLPSTEXTCLASS>,,g;
+  s,</HEADER>,,g;
+  print;
+  }
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  

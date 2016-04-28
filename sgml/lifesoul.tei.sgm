@@ -1,0 +1,1204 @@
+<!DOCTYPE TEI.2 PUBLIC "-//TEI//DTD cme//EN">
+<TEI.2>
+<TEIHEADER>
+ <FILEDESC>
+   <TITLESTMT>
+      <TITLE TYPE="245"><TITLE>Life of soul [electronic resource] : an edition from MS Laud Misc. 210 / by Paul Schaffner.</TITLE>
+      <TITLE TYPE="130">Lyfe of soule</TITLE>
+      <TITLE TYPE="alt">Life Soul (LdMisc 210)</TITLE>
+      <EDITOR>Schaffner, Paul F.</EDITOR>
+      <AUTHOR>Oxford. Bodleian Library. Manuscript. Laud Misc 210.</AUTHOR>
+        <RESPSTMT>
+          <NAME ID="pfs">Paul Schaffner</NAME><RESP>transcription, editing, markup</RESP>
+        </RESPSTMT>
+   </TITLESTMT>
+   <EXTENT>ca. 97 kB SGML-encoded text file</EXTENT>
+   <PUBLICATIONSTMT>
+     <PUBLISHER>University of Michigan, Digital Library Production Service</PUBLISHER>
+     <PUBPLACE>Ann Arbor, Michigan</PUBPLACE>
+     <DATE>2003</DATE>
+     <IDNO TYPE="dlps">lifesoul</IDNO>
+     <AVAILABILITY><P>Copyright 1999 Paul F. Schaffner. These texts may be copied freely by individuals for personal use, research, and teaching (including distribution to classes) as long as this  statement of availability is included in the text. It may be linked to freely in Internet editions of all kinds, including for-profit works. Redistribution by commercial or not-for-profit content providers is expressly forbidden. Please contact umdl-info@umich.edu for more information.</P></AVAILABILITY>
+   </PUBLICATIONSTMT>
+  <SOURCEDESC>
+   <BIBL><TITLE>Life of soul, version L / transcribed from a film of Bodleian Library (Oxford) manuscript Laud Misc. 210, folios 114r-132v by Paul F. Schaffner.</TITLE> A version of this transcription, with translation, appeared in Cultures of Piety : medieval devotional literature in translation / edited by Anne Clark Bartlett and Thomas H. Bestul (Ithaca, NY : Cornel University Press, 1999.</BIBL>
+  </SOURCEDESC>
+ </FILEDESC>
+ <ENCODINGDESC>
+   <PROJECTDESC><P>Header created 2003-03-26.</P></PROJECTDESC>
+   <EDITORIALDECL><P>Near-diplomatic transcription with abbreviations expanded but marked and all line breaks marked. Converted to HTML. Converted from HTML using TEI equivalents suggested in headnote to original file (http://www-personal.umich.edu/~pfs/lifesoul/ls-xr.html)</P>
+ <P>Line breaks within words rendered with pipe character (|) but otherwise abandoned.</P>
+ <P>Folio breaks moved to avoid breaking words: (121r) nede[break]lych changed to [break]nedelyche</P>
+ <P>Paragraphing introduced based on modern English translation (http://www-personal.umich.edu/~pfs/lifesoul/lifesoul.html).</P>
+ <P>EXPAN tags (marking expanded abbreviations) removed to facilitate searching.</P>
+ <P>Bibliographic notes (Biblical references) added based on modern English translation</P>
+</EDITORIALDECL>
+ </ENCODINGDESC>
+ <PROFILEDESC>
+   <TEXTCLASS>
+     <KEYWORDS>
+       <TERM>English prose literature -- Middle English, 1100-1500.</TERM>
+       <TERM>English language -- Middle English, 1100-1500 -- Texts.</TERM>
+       <TERM>Dialogues, English (Middle)</TERM>
+     </KEYWORDS>
+   </TEXTCLASS>
+ </PROFILEDESC>
+<REVISIONDESC>
+  <CHANGE><DATE>1999</DATE><RESPSTMT><NAME>Paul Schaffner</NAME><RESP>MURP</RESP></RESPSTMT>
+    <ITEM>Created electronic edition, converted to HTML from proprietary format, then from HTML to SGML.</ITEM></CHANGE>
+ <CHANGE><DATE>2003</DATE><RESPSTMT><NAME>Paul Schaffner</NAME><RESP>MURP</RESP></RESPSTMT>
+    <ITEM>Removed line breaks, made expansion of abbreviations silent, introduced notes and paragraphing.</ITEM></CHANGE>
+ </REVISIONDESC>
+</TEIHEADER>
+<TEXT><BODY>
+<DIV1 TYPE="text">
+<MILESTONE UNIT="folio" N="114r">
+<SP><SPEAKER>[question]</SPEAKER>
+<P>Frend in crist as seynt poule sei&thorn;&middot; We ne hauen
+ here no cyte&middot; &thorn;at is dwelling&middot; but we sechen
+ on &thorn;at is to come here after&middot;<NOTE>He 13.14</NOTE> And &thorn;erfore me
+ &thorn;inke&thorn; &thorn;at we schulden ben longyng &thorn;iderward
+ alle &thorn;e tyme of oure lyf&middot; wi&thorn; al oure power&middot; Si&thorn;
+ we han no rest ne non abydyng but &thorn;ere&middot; But
+ more harme is I knowe no&yogh;t a ri&yogh;t &thorn;e weye <DEL>&thorn;e</DEL>
+ <DEL>weye</DEL> toward &thorn;is place&middot; &amp; &thorn;erfore I preye &thorn;e &thorn;at &thorn;ou
+ telle me &thorn;e weye toward &thorn;is place&middot;</P></SP>
+ <SP><SPEAKER>[answer]</SPEAKER>
+ <P>Dere frend
+ oure lord &amp; oure mayster iesu crist seyde to his
+ disciples &thorn;at he hym siluen is the weye toward
+ heuene &amp; he is tru&thorn;e &thorn;at lede&thorn; vs sykurly in
+ oure weye &amp; he is <DEL>sykurly</DEL> lyf &thorn;at make&thorn; vs
+ lyue in soule w<ADD>h</ADD>yles we ben in &thorn;is world&middot;<NOTE>Jn 14.6</NOTE> &amp; after
+ &thorn;at lyf he wil bringe vs to ablisful lif &thorn;at
+ schal lasten withouten ende bo&thorn;e in body &amp; in soule&middot;</P></SP>
+ <SP><SPEAKER>[question]</SPEAKER>
+ <P> frend or &thorn;an &thorn;ou passe fer&thorn;er I preye &thorn;e what is
+ &thorn;at lyf of soule &amp; telle whe&thorn;ir alle men han
+ &thorn;is lif&middot;</P></SP>
+ <SP><SPEAKER>[answer]</SPEAKER>
+ <P>&para;Sire aman is made to &thorn;re manere of
+ liues &para; &thorn;e first lif is &thorn;e lif of &thorn;e body&middot; &amp; &thorn;is
+ lif han bo&thorn;e goodemen &amp; schrewis&middot;//&para;&thorn;e secun|de lif is of &thorn;e soule&middot; &amp; &thorn;at is to lyuen out
+ of synne &para;Of &thorn;is lif crist speke&thorn; in &thorn;e gospel
+ &thorn;er as he sei&thorn; but aman be born eft sones he
+ ne may not entren in to &thorn;e kyngdom&middot; of heue|ne&middot;//<NOTE>Jn 3.3</NOTE></P>
+ <P>&para;&thorn;e first bering of aman is&middot&middot; whan he is
+ I born in to a bodyliche lyuyng of his moder
+ wombe&middot; But he is borun eft sones of water
+
+<MILESTONE UNIT="folio" N="114v">
+
+&amp; of &thorn;e holygost into a lyf of soule&middot; And &thorn;at be|ryng is whan a child or a man is I fulled&middot&middot; &amp; vn|derfonge&thorn; cristene mennes be leue&middot; &amp; for sake&thorn; &thorn;e
+ deuel &amp; his werkes &thorn;at ben synnes //&para;And &thorn;is
+ lif of soule mankynde hadde no&yogh;t from &thorn;e tyme
+ &thorn;at adam hadde I synned in paradys in to &thorn;e comyng
+ of crist&middot; for as seynt poule sei&thorn;&middot; Deth regnede
+ from adam to moyses&middot;<NOTE>Ro 5.14</NOTE> &amp; synne regnede from
+ moyses in to &thorn;e tyme of grace &thorn;at was I &yogh;eue be
+ crist&middot; &para;Ne al &thorn;e ri&yogh;twisnes of alle &thorn;e olde lawe
+ ne sacrifices &thorn;at weren I doon for mannes synne
+ ne prechyng ne preeyer of prophetes ne of prestes ne
+ mi&yogh;t not make man kynde clene of <ADD>his</ADD> synne</P>
+ <P> &para;And &thorn;erfore oure fadur of heuene sente his ow|ne sone adoun in to &thorn;e er&thorn;e to fulfille &thorn;e lawe
+ &amp; &thorn;e prophetes &amp; so he dide&middot; for &thorn;er as a man ne
+ myhte no&thorn;er be &thorn;e lawe ne be &thorn;e prophetes ben
+ I iustified of his synne&middot; he of his grace &amp; no&yogh;t
+ of oure ri&yogh;twisnes&middot; ne of oure disseruyng&middot;
+ for &yogh;af alle &thorn;ilk men her synnes &thorn;at bi leue|den in hym &amp; brou&yogh;te hem from de&thorn; of syn|ne in to lif of soule&middot;</P>
+ <P>for as crist sei&thorn; who &thorn;at
+ be leue&thorn; in me &thorn;of he be ded he schal lyue &amp;
+ who &thorn;at lyue&thorn; &amp; be leue&thorn; in me&middot&middot; he schal ne|uere dye<NOTE>Jn 11.25-26</NOTE> &amp; who &thorn;at ha&thorn; &thorn;is lif of soule&middot; whyles
+ he is in &thorn;is world&middot; he schal come after &thorn;at
+ he is ded to an endeles lif of blis bo&thorn;e in bo|dy &amp; in soule&middot; and seynt poule sei&thorn;/ alle disee|ses &thorn;at we mown suffre in &thorn;e tyme &thorn;at now
+ is&middot; ne be not wor&thorn;i to &thorn;e blisse &thorn;at is to comen
+ here aftur &amp; schal be schewed in vs<NOTE>Ro 8.18</NOTE> / &amp; &thorn;erfore
+ he sei&thorn; nou&thorn;er de&thorn; ne lyf ne angeres <SUPPLIED>?read: angeles</SUPPLIED> ne
+
+<MILESTONE UNIT="folio" N="115r">
+
+tribulaciouns / ne no &thorn;ing &thorn;at now is / ne &thorn;at is gonne&middot; ne
+ &thorn;at is to comen her after&middot;&middot; may departen vs from
+ &thorn;e charite &thorn;at is in iesu crist&middot;<NOTE>Ro 8.38-39</NOTE></P></SP>
+ <SP><SPEAKER>[question]</SPEAKER>
+  <P>&para;frend as me &thorn;inke&thorn;
+ <DEL>&thorn;is lif of soule</DEL> &thorn;is lif of soule &thorn;at is for sakyng
+ of synne&middot;&middot; is &thorn;e ri&yogh;t weye to heuene&middot; but we ben
+ ful vnstabul &amp; ful vnconyng to go &thorn;is weye&middot; &amp; we
+ han strong temptaciouns &amp; strong enemyes&middot; as &thorn;e de|uel &amp; &thorn;e world &amp; oure owne fleshe &thorn;at euere more temp|te&thorn; vs to synne&middot; &para;And &thorn;er fore we moten putte vs
+ fulliche in &thorn;e mercy of god&middot; &amp; &thorn;of we lyue not so per|fytliche as he tau&yogh;t vs&middot&middot; &amp; as he lyuede hym silf
+ we hopen to ben saued&middot; for he sei&thorn; hym self who
+ &thorn;at be leue&thorn; &amp; is cristened schal be sauid<NOTE>Mk 16.16</NOTE></P></SP>
+ <SP><SPEAKER>[answer]</SPEAKER>
+ <P>&para;Sir in
+ summe &thorn;inges &yogh;e seye ful so&thorn;e/bot it is not al so&thorn;e
+ as &yogh;e hopen in &yogh;owre seying&middot; So&thorn;e it is &thorn;at &thorn;e ri&yogh;t
+ weye to heuene is for sakyng of synne&middot; &amp; &thorn;er
+ come&thorn; no man to heuene&middot&middot; but he go &thorn;is wey&middot; and
+ forsakynge of synne&middot; is no more but &thorn;e kepyng
+ of goddis hestis &amp; of his wordis &amp; leuyng alle
+ &thorn;ilk &thorn;inges &thorn;at god forbede&thorn; &para;And soth it is &thorn;at
+ &thorn;is is an hard wey &amp; a streyt&middot; for as crist sei&thorn;
+ it is a streyt weye &thorn;at lede&thorn; a man to <DEL>heuene</DEL> lif
+ &amp; fewe &thorn;er ben &thorn;at fynden &thorn;at weye &amp; a brode
+ wey it is &thorn;at lede&thorn; aman to perdicioun &amp; to deth &amp;
+ ful many &thorn;er ben &thorn;at fynden &thorn;ilk weye<NOTE>Mt 7.13-14</NOTE> ful so&thorn;e
+ it is also &thorn;at we ben vnstable &amp; vncunnyng &amp;
+ &thorn;at we han strong enemyes &amp; strong temptaciouns
+ also &para;But it is certeyn &yogh;if we desire wisdome
+ of god &amp; stabulnes to a&yogh;enstonde synne&middot; god wil
+ &yogh;euen vs &thorn;at we axen&middot; so &thorn;at we axen trustiliche
+ &para;ffor crist sei&thorn; / &yogh;e &thorn;at ben wicked &amp; yuul wollen &yogh;euen
+ &yogh;oure childeren good &thorn;inges whan &thorn;ei axen &yogh;ow gode&middot;
+ &amp; myche more wille &yogh;oure heuenliche fadur &yogh;euen
+
+<MILESTONE UNIT="folio" N="115v">
+
+hem a goode spiri&yogh;t &thorn;at axen hit of h<DEL>e</DEL>im<NOTE>Lk 1.13</NOTE> &amp; &thorn;erfore
+ he sei&thorn; seche&thorn; &amp; &yogh;e schullen ifynde&middot; axeth &amp; &yogh;e schul|len vnderfongen&middot; knocke&thorn; at &thorn;e dore &amp; I schal open
+ hit to &yogh;ow&middot;<NOTE>Lk 1.9</NOTE> And seynt Jame sei&thorn; who &thorn;at nede&thorn; wis|dome&middot; axe hit of god &thorn;at &yogh;eue&thorn; al men plenteuosly|che&middot; &amp; <DEL>oben</DEL> obre<ADD>i</ADD>de&thorn; no man of &thorn;at he schal &yogh;euen
+ hym&middot; but axe he trustiliche &amp; haue no dou&yogh;te&middot; for he
+ &thorn;at dou&yogh;te&thorn; in his axyng is lyche &thorn;e flood of &thorn;e see
+ &thorn;at is meued &amp; I born abou&yogh;te wi&thorn; &thorn;e wynd &amp; &thorn;ere|fore suche aman ne trowe he nou&yogh;t &thorn;at he schal vn|derfongen any &thorn;ing of god&middot;<NOTE>Jas 1.5-7</NOTE> And he sei&thorn; &thorn;at man is
+ I blessed &thorn;at abyde&thorn; temptacioun&middot; for whan he is I pre|uid he schal vndurfong acroune of lif &thorn;at god
+ hath be hote to &thorn;ilk &thorn;at louen hym ne no man
+ whan he is I tempted seye &thorn;at <DEL>louen</DEL> he is I tempted
+ of god&middot; for he ne is no temptour of yuul ne he temp|te&thorn; no man&middot&middot; but eueryche man is tempted of his
+ owne coueytyng&middot; &amp; whan coueytyng &thorn;at hath con|ceyued / hit brynge&thorn; forth synne &amp; whan &thorn;e synne
+ is brou&yogh;t to &thorn;e ende hit engendere&thorn; de&thorn;&middot;<NOTE>Jas 1.12-15</NOTE></P>
+ <P>Of &thorn;es wor|des sire &thorn;ou mi&yogh;t &thorn;en <DEL>mi&yogh;t</DEL> I seen  &thorn;at hit ne is but
+ oure defau&yogh;te &thorn;at we <DEL>he</DEL> ne han cunnyng &amp; stabul|nes to a&yogh;eyn stonde oure temptaciouns&middot; and &thorn;of we han
+ strong enemyes &amp; grete temptaciouns hit ne is but
+ oure owne vnkyndenes &amp; wickednesse &thorn;at we fal|len in to synne&middot; for god suffere&thorn; no man to ben i-|tempted passyng his mi&yogh;t&middot; and alle &thorn;e deuels in
+ helle ne alle &thorn;e might of &thorn;e world ne of mannes
+ flesche ne mown not maken aman / ne a womman
+ breken godis hestys a&yogh;ens his wille&middot; for god ha&thorn;
+ I &yogh;euen aman afre wil/ &amp; ha&thorn; I sette be forun hym
+ bo&thorn;e good &amp; yuul lif &amp; deth&middot; blessyng&middot; &amp; cursyng&middot;
+
+<MILESTONE UNIT="folio" N="116r">
+
+&amp; aman may chese whe&thorn;er of &thorn;es he wil take&middot; And &yogh;if
+ aman is buxum to his god &amp; kepi&thorn; his hestis&middot; &thorn;anne
+ he chese&thorn; good lif &amp; blessyng&middot; and &yogh;if he for sake&thorn;
+ &thorn;e hestis of god &thorn;an he chese&thorn; yuul &amp; deth&middot; &amp; &thorn;e cur|syng of god&middot; as moyses sei&thorn; in &thorn;e first boke of olde
+ lawe &para;And daui&thorn; sei&thorn; in &thorn;e sauter&middot; alle &thorn;es ben a|cursed &thorn;at bowen a wey from &thorn;i hestis&middot; &thorn;anne it is
+ bot oure owne folye &amp; <ADD>oure</ADD> owne vnkyndenes &thorn;at we fal|len in to synne&middot;</P>
+ <P>Soth it is also &thorn;at we moten alle put|ten vs in &thorn;e mercy of god&middot; &amp; not axen heuene &thorn;oru ry&yogh;t|fulnes&middot; iustifying oure self before god&middot; for dauid
+ sei&thorn; in &thorn;e sauter&middot; Eueriche lyuyng man schal
+ not ben iustified in &thorn;i si&yogh;t&middot;<NOTE>Ps 142.2 Vulg.</NOTE> But na&thorn;ereles no man
+ hop to come to heuene but if he leue synne&middot; no&thorn;er
+ for &thorn;e be leue &thorn;at he ha&thorn; in crist&middot; ne for &thorn;e grete mercy
+ of god&middot; for as seynt jame sei&thorn; deueles in helle be-|leuen &amp; dreden&middot;<NOTE>Jas 2.19</NOTE> &amp; he sei&thorn; ri&yogh;t as a body is ded wi&thorn;|outen spiri&yogh;t&middot; ri&yogh;t fei&thorn; &amp; beleue is ded wi&thorn; outen
+ good werkes&middot;<NOTE>Jas 2.26</NOTE> And <ADD>seynt</ADD> jon sei&thorn;&middot; who &thorn;at sei&thorn; <DEL>&thorn;at sei&thorn;</DEL>
+ &thorn;at he knowe&thorn; god &amp; kepi&thorn; not his hestes&middot; he
+ is a lyere&middot;<NOTE>1 Jn 2.4</NOTE> &amp; crist sei&thorn; w<ADD>h</ADD>arto clepe &yogh;e me lord lord
+ &amp; do&thorn; <ADD>no&yogh;t</ADD> &thorn;ilke &thorn;inges &thorn;at I sey&yogh;e<NOTE>Lk 6.46</NOTE> and he sei&thorn; also
+ al &thorn;ilke &thorn;at sey&yogh;en to me lord lord ne schul not
+ entren in to &thorn;e kyngdome of heuene&middot; but he &thorn;at
+ do&thorn; &thorn;e wille of my fader &thorn;at is in heuene&middot; he schal
+ entren in to &thorn;e kyngdom of heuene/and he sei&thorn;
+ also in &thorn;at day many schul come &amp; seyn lord ha|ue we no&yogh;t I caste fendes ou&yogh;t of men in &thorn;i name&middot;
+ &amp; ne haue we no&para;t iprophecyed in &thorn;i name <ADD>&amp; i-doon many tokenes in &thorn;i name&middot;</ADD> And crist
+ sei&thorn; &thorn;at he wil &thorn;anne seye to hem&middot; I ne knew
+ &yogh;ow neuere&middot; go&thorn; awey from me alle &thorn;at wurchen
+ wickednes&middot;<NOTE>Mt 7.21-23</NOTE> &amp; crist sei&thorn; also &thorn;at mannes sone wil
+
+<MILESTONE UNIT="folio" N="116v">
+
+come &amp; deme eueriche man aftir his werkis&middot; &amp; &thorn;i|lk &thorn;at han wil I lyued schullen comen to &thorn;e blis
+ of heuene&middot; &amp; &thorn;e o&thorn;er &thorn;at han continued her lif in
+ synne schul gon to &thorn;e euere lastynge peynes of
+ helle &thorn;at ben I ordeyned for &thorn;e deuel &amp; his seruaun|tes&middot;</P>
+ <P>And gode sire what schal cristes passioun or
+ &thorn;e schedyng of his blood in &thorn;e whyche blood &thorn;ou art
+ i cristened &amp; I clensed of &thorn;i synne stonde &thorn;e to profi&yogh;t
+ but &thorn;ou leue &thorn;i synne &amp; kepe goddis hestes&middot; In
+ certeyn seynt petre sei&thorn;&middot; it were better for aman
+ &thorn;at he knew not &thorn;e wey of trewthe&middot; &thorn;an after
+ his knewing turnen a&yogh;eyn to synne&middot; for as he sei&thorn;
+ such men ben I lyche swyne &thorn;at whan &thorn;ei ben cle|ne gon in to a slowe &amp; maken hem fouler &thorn;anne &thorn;ei
+ weren &amp; he sei&thorn; also &thorn;at &thorn;ei ben liche houndes&middot; &thorn;at
+ kaste&thorn; vp &thorn;e mete &thorn;at &thorn;ei han eete &amp; sithen tur|nen hem a&yogh;en&middot; &amp; eten &thorn;at &thorn;ei casten&middot;<NOTE>2 Pe 2.21-22</NOTE> &para;And for &thorn;es
+ foule maners of swyn &amp; of houndes crist seyde to his
+ disciples&middot; Ne &yogh;eue &yogh;e not holy &thorn;inges to houndes ne
+ cast &yogh;e not margeri perles be fore swyn&middot; last &thorn;ei de|foulen hem wi&thorn; here feet &amp; &thorn;e houndes turnen hem
+ &amp; al to tere &yogh;ow&middot;<NOTE>Mt 7.6</NOTE></P></SP>
+ <SP><SPEAKER>[question]</SPEAKER>
+ <P>frend now I se &thorn;at &thorn;e ri&yogh;t weye to
+ heuene is lif of soule in forsakyng synne&middot; &amp; ke|ping goddes hestes&middot; &amp; I see wil &thorn;at eueryche man
+ may leuen synne if he wole him seluen&middot; &amp; I see
+ wele &thorn;a no man schal be saued but he leue his syn|ne&middot; No&thorn;er for &thorn;e grete mercy of god&middot; ne for &thorn;e be le|ue &thorn;at a man ha&thorn; in god&middot; ne for his cristenyng
+ but if he haue goode werkes&middot; But frende how
+ schullen &yogh;ung childeren ben I saued &thorn;at ben i-|cristened&middot; &amp; si&thorn;e dyen or &thorn;an &thorn;ei ben of age to
+ knowe godes hestes</P></SP>
+
+ <SP><SPEAKER>[answer]</SPEAKER>
+ <P>&para;Sire &yogh;e wyte&thorn; wil &thorn;at whan
+
+<MILESTONE UNIT="folio" N="117r">
+
+a child is I cristened&middot; he receyue&thorn; his byleue by mene
+ persones&middot; for &thorn;at tyme no&thorn;er he ha&thorn; knowyng whyche
+ his be leue is / ne mi&yogh;t forto speke whyche is his
+ be leue&middot; &amp; ri&yogh;t as <SUPPLIED>he</SUPPLIED> vndirfonge&thorn; his be leue by me|ne persones&middot; ri&yogh;t so be &thorn;o same mene he forsaki&thorn; &thorn;e de|uel &amp; his werkes &amp; by hote&thorn; to ben buxum to god
+ &amp; to kepen his hestes &amp; so &thorn;e child is saued &thorn;oru
+ &thorn;e be leue&middot; &thorn;at he vnderfonge&thorn; &amp; &thorn;oru &thorn;e forwa<ADD>r</ADD>d
+ &thorn;at he make&thorn; bi &thorn;es mene persones&middot;</P>
+ <P>But in certeyn
+ a man  or a womman of ful age ne schal not ben
+ i-sauyd: but he do&thorn; &thorn;e werkes of his be leue
+ &thorn;at is to seyn &thorn;at he kepe goddis hestis &amp; leue syn|ne&middot; for as seynt poule sei&thorn; alle we ben &thorn;at <SUPPLIED>read: &thorn;at ben</SUPPLIED> i-bap|tized in iesu crist&middot; ben i-baptized in his de&thorn;&middot; &amp; we ben
+ i-birried wi&thorn; hym in to deth&middot; &thorn;at ri&yogh;t as crist roos
+ <CORR SIC="fron">from</CORR> deth to lyue &thorn;oru &thorn;e blisse of his fader&middot;
+ ri&yogh;t so walk we in a newe manere of lif&middot;<NOTE>Ro 6.3-4</NOTE> &para;And &thorn;er|fore he sei&thorn; knowe &yogh;e wil &thorn;at oure olde man is i-|crucified&middot; &thorn;at &thorn;e body of synne he<CORR SIC="he">be</CORR> distryed&middot; &thorn;at
+ we seruen no more to synne &amp;<NOTE>Ro 6.6</NOTE> &thorn;erfore he sei&thorn;&middot; Trowe
+ &yogh;e &thorn;at &yogh;e ben dede to synne But &yogh;e ben lyuyng to
+ god in oure lord iesu crist&middot; And &thorn;erfore ne regne no synne
+ in &yogh;oure de<ADD>d</ADD>ly body&middot; &thorn;at &yogh;e be not buxum to his couey|tynges and ne &yogh;eue &yogh;e nou&yogh;t &yogh;oure membris to ben
+ armure of wickednes to synne but make&thorn; hem
+ armure of ri&yogh;tfulnesse to god&middot; for synne schal
+ no lengere haue lordschipe of &yogh;ow<NOTE>Ro 6.11-13</NOTE></P>
+ <P>&para;And seynt
+ petre sei&thorn; ri&thorn;t as in noees tyme a fewe soules as
+ eyghte weren i-saued by water ri&yogh;t so baptem
+ make&thorn; vs now saue / nou&yogh;t &thorn;e doyng a wey of &thorn;e
+ fil&thorn;e of oure flesch&middot; but as sechyng of a goode
+ conscience in god&middot; by &thorn;e rysyng a&yogh;eyn from deth
+ to lif of oure lord iesu crist<NOTE>1 Pe 3.20-21</NOTE> &amp; &thorn;erfore he sei&thorn;&middot; Si&thorn;e
+
+<MILESTONE UNIT="folio" N="117v">
+
+crist ha&thorn; i-suffered in flesch&middot; be &yogh;e armed in &thorn;e same
+ &thorn;ou&yogh;t&middot; for he &thorn;at suffered in flesch laft synne &thorn;at
+ &thorn;e remenant &thorn;at lyue&thorn; after ward in flesch ne
+ lyuen not to &thorn;e desires of men&middot; but to &thorn;e wil|le of god for &thorn;e tyme &thorn;at is i-passed suffice&thorn; to
+ maken an ende of mysbeleuid mennes willes
+ &thorn;at han i-walked in her licheries &amp; in etynges &amp;
+ in drynkynges ou&yogh;t of mesure &amp; in vnleful he|ryinges of mawmetis&middot;<NOTE>1 Pe 4.1-3</NOTE> &para;And whan seynt ion
+ baptized men&middot; he seyde I baptyse &yogh;ow in <DEL>to</DEL> watur &amp;
+ in to penaunce&middot; but he &thorn;at come&thorn; after me is strenger
+ &thorn;en am I&middot; &amp; I am not wor&thorn;i to beren his schone
+ he schal baptize &yogh;ow in &thorn;e holy gost &amp; in fuyr&middot;<NOTE>Mt 3.11 / Lk 3.16</NOTE> &amp;
+ in &thorn;is baptem crist baptised his disciples when he
+ sent &thorn;e holy gost among hem to ben her counfortour
+ and &thorn;o &thorn;ei casten so brennyng aloue to god&middot; &thorn;at it
+ was a solas &amp; a mir&thorn;e to hem to suffre tribu|lacioun &amp; persecucioun for loue of here god &para;And &thorn;is
+ luf is a fuyr to preue whyche ben goddis trewe
+ childere&middot; of &thorn;is fuyr crist sei&thorn; I come to senden
+ a fuyr in to &thorn;e er&thorn;e&middot; &amp; what wil I but &thorn;at it be
+ tend&middot;<NOTE>Lk 12.49</NOTE></P>
+ <P>&para;Here sire &thorn;ou mi&yogh;t i-sen two baptemes &thorn;at
+ cristen men han&middot; &para;On is in water of bi leue &thorn;at
+ &thorn;ei be leuen in &thorn;e fader &amp; in &thorn;e sone &amp; in &thorn;e holy
+ gost &thorn;e whyche beleue wasche&thorn; oure soule of
+ oure vnclennesse of synne ri&yogh;t as bodiliche
+ watur wasche&thorn; oure body of bodily vnclennesse
+ &para;&thorn;e o&thorn;er baptem is in &thorn;e holy gost &amp; in fuyr whan
+ a man casteht <SUPPLIED>sup&middot;ras&middot;</SUPPLIED> so brennynge a loue to god &thorn;at
+ he nil for no &thorn;ing displesen hym&middot; but wil gla|deliche sufferen a gret disese to fulfillen his wil|le and in mynde of &thorn;ese two baptemes childe|ren ben i-cristened in water &amp; si&thorn;en confermed of
+
+<MILESTONE UNIT="folio" N="118r">
+
+&thorn;e bischop &amp; more harm is men taken more kepe
+ to &thorn;es ou&yogh;tward doynges &thorn;an to &thorn;e baptemes
+ of here soules &para;But &thorn;ei mown ben ful certeyn
+ but &thorn;ei ben ful sadde in soule in here bileue &amp; si|che han <SUPPLIED>?read: han siche</SUPPLIED> a brennyng loue to god &thorn;at &thorn;ei nillen
+ for no &thorn;ing doon werkes of synne for alle here
+ ou&yogh;tward bodyliche doyng&middot; &thorn;ei schullen not co|me to heuene&middot; if &thorn;ei come to ful age to knowe
+ bo&thorn;e good &amp; yuul&middot;</P>
+ <P>&amp; how mow we seyn &thorn;at we
+ dwellen in crist &amp; &thorn;at we ben braunches &thorn;at spryn|gen ou&yogh;t of hym &thorn;at is a verrey vyne&middot; but we
+ leuen synne &amp; kepen goddis hestis&middot;<NOTE>Jn 15.5, 1 Jn 2.3</NOTE> Se<SUPPLIED>i</SUPPLIED>nt ion sei&thorn;
+ who &thorn;at sei&thorn; &thorn;at he dwelli&thorn; in crist&middot; he mut walken
+ as he walked&middot;<NOTE>1 Jn 2.6</NOTE> &amp; &thorn;anne he is a good braunche &thorn;at
+ bere&thorn; meche good fru&yogh;t of good werkes &amp; &thorn;anne
+ he schal haue heuene for his mede&middot; and &yogh;if we
+ beren no good fru&yogh;t&middot; &thorn;e fader of heuene wil kit|ten vs a wey from &thorn;e vyne&middot; And &thorn;anne we sch|ullen be drye &amp; ben i-cast in to &thorn;e fir for to bren|ne<NOTE>Jn 15.6</NOTE></P></SP>
+ <SP><SPEAKER>[question]</SPEAKER>
+ <P>&para;frend now I se &thorn;at &thorn;er ne is non o&thorn;er wey to he|uene bot lif of soule &amp; for sakyng of synne &amp; in
+ kepyng goddis hestis&middot; But frend as we wy|ten wele eueryche lyuyng &thorn;ing ha&thorn; summe liflode
+ as mete &amp; drynke &thorn;at make&thorn; hem for to lyue &amp;
+ si&thorn;e we han lif of soule&middot; I preye &thorn;e whyche is
+ &thorn;e mete &amp; whyche is &thorn;e drynke &thorn;at make&thorn; oure
+ soule to lyue</P></SP>
+ <SP><SPEAKER>[answer]</SPEAKER>
+ <P>&para;Sire now &yogh;e axe&thorn; a gret &thorn;ing &amp;
+ fayn I wolde telle &yogh;ow &thorn;at &yogh;e axe&thorn; if god wulde
+ &yogh;eue me grace &amp; I hopede &thorn;at &yogh;e wolden drawe &yogh;ow
+ to &thorn;at lyuyng whanne &yogh;e knewen <ADD>bo&thorn;e</ADD> hit &amp; his liflode
+ But sire more harme is I se ful fewe doon after
+ cristes techyng &amp; his wordis &thorn;of &thorn;ei seen hem i-|wryten ou&thorn;er heren hem i-spoken&middot; &amp; neuer&thorn;eles
+
+<MILESTONE UNIT="folio" N="118v">
+
+in his wordes is &thorn;e lyf of oure soule&middot; for as he sei&thorn;
+ &thorn;e wordes &thorn;at I haue of spoken&middot; ben spiri&yogh;t &amp; lif<NOTE>Jn 6.64 Vulg.</NOTE>
+ &amp; he sei&thorn; also he &thorn;at kepi&thorn; my word&middot; schal neuer dye<NOTE>Jn 8.51</NOTE>
+ And he sei&thorn; eft sones&middot; I speke &amp; I worche&middot; as I haue
+ an hest and a comaundement of my fader&middot; &amp; I
+ wot wele &thorn;at his comaundement is an euere lastyng
+ lyf<NOTE>Jn 12.49-50</NOTE> &amp; but a man or a womman wil doon aftur cristes
+ wordes&middot; whanne he knewe hem&middot; It were bettere
+ for hym &thorn;at he knewe hem not&middot; for as crist sei&thorn;
+ &thorn;at seruaunt &thorn;at knowe&thorn; not his lordes wille&middot; &amp; do&thorn;
+ &thorn;er a &yogh;en schal <ADD>haue</ADD> a fewe strokes&middot; but he &thorn;at knowe&thorn;
+ &thorn;e wille of his lord &amp; do&thorn; &thorn;er a&yogh;en schal haue ma|ny strokes &amp; betynges&middot;<NOTE>Lk 12.47-48</NOTE> &para;He seyde also <SIC CORR="">in a tyme</SIC>
+ to &thorn;e iewes <SUPPLIED>in a tyme</SUPPLIED> &thorn;at he had i-mad a blynd man seen
+ &yogh;if &yogh;e weren blynde &yogh;e ne hadden no synne&middot; But
+ for &yogh;e seyn <ADD>&thorn;at &yogh;e seen</ADD> &yogh;oure synne dwelle&thorn; stille in &yogh;ow&middot;<NOTE>Jn 9.41</NOTE> and
+ he sei&thorn; also if I had not i-come&middot; &amp; I ne hadde i-spo|ken not to hem&middot; &thorn;ei ne hadden i-hadde no synne
+ but now &thorn;ei han non excusacioun of here synne&middot;<NOTE>Jn 15.22</NOTE> &amp;
+ he sei&thorn; eft sones &thorn;e more &thorn;at is i-taken to a man
+ &thorn;e more schal ben i-axed of hym<NOTE>Lk 12.48</NOTE> &para;And &thorn;erfore syre
+ But if &yogh;e wulden fulfille cristes techynges in &yogh;ou|re lyuyng&middot; whan &yogh;e knewen whyche it were&middot; it
+ <DEL>wh</DEL> were litil profy&yogh;t for me to wryte more opun|lyche&middot; vn to &yogh;ow of &thorn;e lyf of soule &amp; of his lyflode
+ &thorn;an I do <DEL>on</DEL>&middot; &amp; a gret harm it were to &yogh;ow &amp; encres
+ of &yogh;owre peyne in tyme &thorn;at is to come &amp; a sclaun|dre to &yogh;oure bre&thorn;eren &yogh;if &thorn;ei seien &thorn;at &yogh;e knowen cristes
+ techyng &amp; lyuede not &thorn;erafter&middot;</P>
+ <P>And crist sei&thorn; a ful
+ hard word wo to &thorn;at man be whom come&thorn; sclaun|dre&middot; It hadde ben good for hym &thorn;at he ne hadde be bore
+ &amp; what euere he be &thorn;at sclaundere&thorn; oon of &thorn;es smale
+ childeren &thorn;at be leue&thorn; in me&middot; it were spedeful to
+
+<MILESTONE UNIT="folio" N="119r">
+
+hym &thorn;at &thorn;er were hangyd a querne ston a bou&yogh;te his
+ necke &amp; &thorn;at he were i-dreynt in &thorn;e depnesse of &thorn;e see&middot;<NOTE>Lk 17.1-2 + Mt 18.7</NOTE>
+ &para;And &thorn;erfore he sei&thorn; loke &yogh;e &thorn;at &yogh;e dispise non of &thorn;es
+ smale childeren&middot; for I sey &yogh;ow in certeyn here aun|gels in heuene seen euere more &thorn;e visage of my fader<NOTE>Mt 18.10</NOTE>
+ &amp; in certeyn &thorn;e most perylous sclaundre is to &yogh;e|uen &yogh;ung innocentes ensaumple of synne &amp; &thorn;e
+ more good &thorn;at aman kan &amp; his <SIC CORR="">in</SIC> lyf be synful
+ &thorn;e more perilouse is his sclaundre &amp; in certeyn it we|re better to aman&middot; for to lesen any membre of his
+ body&middot; &thorn;an to sclaundre &thorn;us his bre&thorn;eren or hym
+ selue &thorn;oru synne &para;for as crist sei&thorn; &yogh;if &thorn;i foot or
+ &thorn;i hond sclaundre &thorn;e kyt it a wey &amp; &thorn;row hit a-|wey from &thorn;e for &thorn;e is bettere to entre in to lyf
+ febul or halt&middot; &thorn;an haue two feet or two hondes
+ &amp; ben i-cast in to &thorn;e fyr of helle &amp; &yogh;if &thorn;i eye sclaun|dre &thorn;e put hit ou&yogh;t &amp; &thorn;row hit a wey from &thorn;e&middot;
+ for &thorn;e is bettere wi&thorn; oon eye to entren to &thorn;e lif
+ &thorn;en haue two eyen &amp; ben i-send in to &thorn;e fyr of hel|le&middot;<NOTE>Mt 18.8-9</NOTE></P>
+ <P>And here fore sire knowit &yogh;owre be leue in ou|re lord &amp; in oure god iesu crist &amp; do&thorn; as he ha&thorn; beden
+ &yogh;ow doon &amp; leue&thorn; synne &amp; &thorn;an &yogh;e han &thorn;e lyuyng
+ of soule &amp; his liflode&middot; for &thorn;e beleue in crist is bo&thorn;e
+ bred &amp; fleysch to oure soule&middot; &amp; &thorn;e kepyng of his
+ techyng is &thorn;e drynke of oure soule for it is bo&thorn;e
+ water &amp; brede <SUPPLIED>?read: ?wyne, ?blode</SUPPLIED>&middot;</P></SP>
+ <SP><SPEAKER>[question]</SPEAKER>
+ <P>&para;frend &thorn;i answere &thorn;at &thorn;ou &yogh;e|uest in my axyng&middot; is ful schort &amp; ful derk al|so for me&middot; And &thorn;erfore I preye &thorn;e &yogh;if me a more
+ open answere&middot; &amp; myn hope is &thorn;at whan I know
+ cristes techyng&middot; I wil lyf &thorn;erafter&middot; for ellis I ne
+ kept not to wyten whyche it were&middot; And frend
+ &thorn;enk how crist sei&thorn; who &thorn;at &yogh;eue&thorn; a disciple <SUPPLIED>?read: dischful</SUPPLIED> of
+ cold water to oon of &thorn;es le<UNCLEAR>s</UNCLEAR>t onliche in &thorn;e name
+
+<MILESTONE UNIT="folio" N="119v">
+
+of a discyple he schal not lese his mede&middot;<NOTE>Mt 10.42</NOTE> &para;And frend
+ I praye &thorn;e in cristis <ADD>owne</ADD> name &thorn;at &thorn;ou &yogh;eue me sum water
+ of cristis wisdom to kele &thorn;e &thorn;rist of my soule &thorn;at &thorn;ou
+ mow haue mede for &thorn;i &yogh;ifte &amp; profi&yogh;t also &amp; &thorn;of &thorn;ou
+ owene nou&yogh;t of &thorn;is mede&middot; &thorn;enk &thorn;at crist sei&thorn;&middot; &thorn;e
+ vnprofytable seruaunt&middot; &thorn;at lyuede in slow&thorn;e schal be &thorn;ro|wen in to derkenes &thorn;ere as schal be wepyng &amp; gren|tyng of te&thorn;&middot;<NOTE>Mt 25.30</NOTE> for as myche as he hadde his lordis
+ tresour in his kepyng &amp; hid hit vndur &thorn;e er&thorn;e &amp; nol|de not chafferen to encresen his lordis goodis/ &thorn;enk
+ also how crist sei&thorn; who &thorn;at <DEL>sei&thorn;</DEL> axe&thorn; ou&yogh;t of &thorn;e &yogh;eue
+ hym&middot; &amp; ne turne &thorn;ou no&yogh;t awey from hym &thorn;at wil
+ borewe of &thorn;e&middot;<NOTE>Mt 5.42</NOTE> &thorn;enk also how he wil in &thorn;e day of dome
+ deme &thorn;ilke men to helle wi&thorn; outen ende &thorn;at han
+ not i-don to hym &thorn;e werkes of loue &amp; of mercy&middot; &thorn;at
+ is to seyn &thorn;ilk men &thorn;at feden hym not&middot; whan
+ he was <ADD>an hongred&middot; ne &yogh;yf <UNCLEAR>neuere</UNCLEAR> hym non drynken whan he was</ADD> a &thorn;irst&middot; ne clo&thorn;ed hym not whan &thorn;ei sy&yogh;e him
+ naked ne herborewed hym nou&yogh;t whan him lacked
+ an hows &amp; visite hym not whan he was syke&middot; &amp; in
+ prisoun &amp;<NOTE>Mt 25.41-46</NOTE> si&thorn;e my soule is anhungered after mete
+ &amp; a &thorn;irst aftur drynk&middot; &amp; naked for defaut of uertues &amp;
+ <SUPPLIED>I</SUPPLIED> ne haue no strong hous to kepe me from stormes
+ of &thorn;e develes temp<SUPPLIED>t</SUPPLIED>aciouns &amp; am sike &amp; in prisone for
+ synne &thorn;at I haue doon her<UNCLEAR>e</UNCLEAR> by foren I preye &thorn;e &thorn;at
+ &thorn;ou write to me more opunliche of &thorn;e liflode of my
+ soule&middot; to kele &thorn;e hungur and &thorn;e &thorn;rist of my soule
+ &amp; telle me opunlyche &thorn;e vertues &thorn;at crist techi&thorn; to
+ clo&thorn;e wi&thorn; my soule &thorn;at I be not naked in &thorn;e comyng
+ of my lord but be wil i-clo&thorn;ed in my weddyng clo&thorn;</P>
+<P> &amp; tel me opunliche wordes &thorn;at I mow fulfillen
+ hem in dede &thorn;at I bylde me an hows <SIC CORR="">on a hows</SIC>
+ on a fondement of ston to a&yogh;eyn stonde wyndes
+ &amp; reynes&middot; &amp; o&thorn;er stormes of &thorn;e deueles temptaciouns<NOTE>Mt 7.24-25</NOTE>
+
+<MILESTONE UNIT="folio" N="120r">
+
+&amp; wryte to me opunliche &thorn;e techyng of crist&middot; &thorn;at I mowe
+ ben i-heled &thorn;er by&middot; of &thorn;e sekenes of my soule&middot; &amp; &thorn;at I
+ mowe ben i-counforted &thorn;er by whyles I am in prysoun
+ of &thorn;is world &amp; in a strange lond as a pylgrym far
+ fro myn owene cuntre&middot; &amp; si&thorn;e my soule is derk
+ &thorn;oru vncunnyng for I knowe not perfi&yogh;tliche &thorn;e li&yogh;t
+ of cristes wordes&middot; I preye &thorn;e &thorn;at &thorn;ou write hem opun|liche &amp; ne hyde hem not from me&middot; for &thorn;ere ne is
+ no man &thorn;at tende&thorn; a candel and sette&thorn; <ADD>hit</ADD> vndur
+ a buschel but vp on a chaundeler &thorn;at hit &yogh;eue&thorn;
+ li&yogh;t to alle hem &thorn;at ben in &thorn;e house<NOTE>Mt 5.15</NOTE> &amp; goddis word
+ is a li&yogh;t to oure feet &amp; to &thorn;e pa&thorn;es &thorn;at we gon
+ inne<NOTE>Ps 118.105 Vulg.</NOTE> as sei&thorn; dauit in &thorn;e sau&yogh;ter &amp; &thorn;erfore ne hyde
+ hit not from me but telle openliche &thorn;at I axed
+ ra&thorn;er&middot; whyche is &thorn;e lyflode of oure soule&middot;</P></SP>
+ <SP><SPEAKER>[answer]</SPEAKER>
+ <P>Sir
+ crist sei&thorn; fader I knowleche to &thorn;e &thorn;at &thorn;ou hast i-hy|de &thorn;es &thorn;inges from wyse men <ADD>&amp; redy men</ADD> &amp; hast i-schewid
+ hem to smale childeren&middot;<NOTE>Mt 11.25 / Lk 10.21</NOTE> &amp; here fore crist seyde
+ to his disciples&middot; It is i-graunted to &yogh;ow to know
+ &thorn;e priueytees of &thorn;e kyngdom of heuene&middot; but to
+ o&thorn;ere men it is <SUPPLIED>nou&yogh;t</SUPPLIED> i-graunted&middot; for to hym &thorn;at ha&thorn; men
+ schul &yogh;euen&middot; And &thorn;ilk &thorn;at ha&thorn; nou&yogh;t &thorn;at men
+ seme&thorn; &thorn;at he ha&thorn;&middot; schal ben taken a wey from
+ hym &amp; &thorn;erfore I speke to o&thorn;ere men in parables &thorn;at
+ ben derke speches for &thorn;ei seyn &amp; sei&thorn; nou&yogh;t &amp;
+ here&thorn; nou&yogh;t ne vnderstonde&thorn; nou&yogh;t &thorn;at &thorn;e prophecy
+ of ysaye be fulfild &thorn;at sei&thorn; &thorn;us &yogh;e schullen here with eere
+ <ADD>he</ADD>ryng&middot; &amp; &yogh;e schul not vndurstounde <SUPPLIED>?read: vndurstonden</SUPPLIED> <ADD>&amp; &yogh;e schulen <UNCLEAR>i-seen and not i-seen</UNCLEAR> for &thorn;e herte</ADD> of &thorn;is peple is
+ i-mad fat &amp; &thorn;ei han i-herd euellyche wi&thorn; here
+ eren &amp; &thorn;ei han i-closed here ey&yogh;en last &thorn;ei seen
+ wi&thorn; here ey&yogh;en &amp; heren wi&thorn; heres&middot; &amp; i-vnderston|den wi&thorn; here hert&middot; &thorn;at &thorn;ei ben i-turned &amp; &thorn;at I ma|ke&thorn; hem hol of her sykenes&middot; but &yogh;oure ey&yogh;en ben
+
+<MILESTONE UNIT="folio" N="120v">
+
+ben i-blissid &thorn;at seen&middot; &amp; &yogh;oure eres &thorn;at heren&middot; for so&thorn;eliche
+ I sey&yogh;e &yogh;ow &thorn;er han i-ben many prophetes &amp; ri&yogh;tful men
+ &thorn;at han desyred to see &thorn;illk &thorn;inges &thorn;at &yogh;e seen &amp;
+ &thorn;ei syen hem nou&yogh;t &amp; to heren &thorn;at &yogh;e heren &amp; &thorn;ei
+ herden hem nou&yogh;t&middot;<NOTE>Mt 13.11-17</NOTE> and sire si&thorn;e good of his good|nesse ha&thorn; &yogh;eue sum knowyng of his wordis&middot; prey|eth hym tristyliche &thorn;at he &yogh;eue &yogh;ow more know|yng&middot; and I wil do my trauayle &thorn;oru &thorn;e grace of
+ god&middot; to make &yogh;ow knowen &thorn;at &yogh;e axeden ra&thorn;er</P>
+<P>&para;&yogh;e schul vnderstonde sire &thorn;at crist is in two ma|neres &thorn;e liflode of oure soule &thorn;oru oure beleue
+ &thorn;at we byleue&thorn; in hym&middot; he is in on manere a bred
+ of heuene to &thorn;e sustinaunce of oure soule for as
+ he seyde to &thorn;e iewes&middot; moyses ne &yogh;af &yogh;ow no bred
+ of heuene&middot; but my fader &yogh;eue&thorn; &yogh;ow verray bred of
+ heuene&middot; for &thorn;at is verrey bred of god&middot; &thorn;at com<DEL>en</DEL>
+ doun from heuene&middot; &amp; &yogh;ife&thorn; lyf to &thorn;e world<NOTE>Jn 6.32-33</NOTE> and aftur-|ward he seyd to hem so&thorn;eliche I sey&yogh;e &yogh;ow&middot; who
+ &thorn;at byleue&thorn; in me&middot; ha&thorn; an euere lastyng lif&middot; I am
+ bred of lif&middot; &yogh;owre faderes eten aungels mete in
+ wildernes &amp; &thorn;ei ben dede&middot; &thorn;is is a bred &thorn;at com
+ doun from heuene &thorn;at who euere ete&thorn; &thorn;is bred&middot; ne
+ dieth neuere aftur&middot; I am a lyuynge bred &thorn;at
+ com a doun from heuene who &thorn;at ete&thorn; of &thorn;is bred
+ schal lyuen euere more&middot;<NOTE>Jn 6.47-51</NOTE></P>
+ <P>&para; In &thorn;is manere crist is
+ bred of heuene&middot; &amp; &thorn;e liflode of oure soule tou|chyng his godhede&middot; for in &thorn;at he is bred &thorn;at com
+ doun fro heuene&middot; he schewe&thorn; &thorn;at he is verrey god
+ &amp; &thorn;is is a principal poynt of oure byleue&middot; &amp; who
+ &thorn;at be leue&thorn; &thorn;is he ete&thorn; &thorn;is bred of heuene to
+ &thorn;e sustinaunce of his soule&middot;</P>
+ <P>And as touchyng
+ &thorn;e godhede of crist &thorn;at com a doun from heuene &thorn;er
+ ben o&thorn;er poyntes &thorn;at euereche cristen man mote <MILESTONE UNIT="folio" N="121r">nedelyche beleue&middot; &para;On is we moten byleuen in his fader
+ &thorn;at sende<DEL>m</DEL> hym a doun from heuene to er&thorn;e&middot; &thorn;oru &thorn;e
+ assent of &thorn;e holy gost&middot; &thorn;at is &thorn;e &thorn;ridde persone of &thorn;e
+ godhede&middot; &amp; we moten be leue &thorn;at &thorn;ese &thorn;re persones of
+ &thorn;e blessed trinite&middot; fader &amp; sone &amp; holygost ben oo god
+ and not manye goddis&middot; but &yogh;it neuere on of hem is
+ o&thorn;er for &thorn;e fader is not &thorn;e sone ne &thorn;e holy gost&middot; Ne
+ &thorn;e sone is not &thorn;e fader&middot; ne &thorn;e holy gost&middot; Ne &thorn;e holy
+ gost is not &thorn;e fader ne &thorn;e sone&middot; We moten be leuen
+ also &thorn;at &thorn;es &thorn;re persones ben endeles mi&yogh;ty&middot; &amp; alle
+ on my&yogh;t&middot; &amp; endeles god &amp; alle on goodnes&middot; &amp; ende|les trewe &amp; endeles witty &amp; endeles fayr &amp; endeles
+ louyng &amp; endeles ri&yogh;tful &amp; endeles mercyful &amp; al
+ &thorn;ei ben on trew&thorn;e &amp; oon wysdome on fayrnesse on
+ loue on ri&yogh;tfulnesse &amp; on mercy &para;And &thorn;es &thorn;re perso|nes weren wi&thorn; outen be gynnyng er &thorn;an &thorn;ei maden
+ &thorn;e world of nou&yogh;t&middot; And er &thorn;e world was i-mad&middot; &thorn;ei
+ weren in an endeles blisse&middot; &amp; in &thorn;at blisse &thorn;ei ben now
+ &amp; schullen ben in &thorn;e same blisse <ADD>hereaftir</ADD> world wi&thorn; outen ende
+ al &thorn;is we moten be leue towchyng &thorn;e godhede of
+ oure lord iesu crist &thorn;at is verray bred of heuene&middot; &amp;
+ &thorn;e liflode of oure soule &thorn;at by leue&thorn; in hym</P>
+ <P>&para;And in
+ a no&thorn;er maner he is &thorn;e liflode of oure soule in &thorn;at
+ he is man&middot; for he sei&thorn; &thorn;at bred &thorn;at I will &yogh;euen is myn
+ owne flesche&middot; for &thorn;e lif of &thorn;e world&middot;<NOTE>Jn 6.51</NOTE> &amp; he seyde to &thorn;e
+ iewes&middot; So&thorn;eliche I seye &yogh;ow but &yogh;e eten &thorn;e flesche of
+ man sone &amp; drynken his blode &yogh;e ne schul not haue
+ lif in &yogh;ow &amp; who &thorn;at eti&thorn; my flesch &amp; drynke&thorn; myn
+ blood&middot; he schal haue an euere lastyng lif&middot; And I
+ will areren hym vp from de&thorn; to lif in &thorn;e last day&middot; for
+ my flesche is verrayliche mete&middot; &amp; my blood is ver|rayliche drynk&middot; &amp; who &thorn;at eti&thorn; my flesche &amp; drynke&thorn;
+ my blood&middot; dwelli&thorn; in me &amp; I in hym&middot; and ri&yogh;t as my
+
+<MILESTONE UNIT="folio" N="121v">
+
+fader &thorn;at lyue&thorn; sent me &amp; I lyue for hym&middot; ri&yogh;t so who
+ eti&thorn; me schal lyue for me&middot; &thorn;is is bred &thorn;at comme doun
+ from heuene&middot; nou&yogh;t as &yogh;oure fadres &thorn;at eten aungels
+ mete in wildernes &amp; ben dede&middot; who &thorn;at eti&thorn; of &thorn;is bred
+ schal lyuen euere more<NOTE>Jn 6.53-58</NOTE>  In &thorn;is manere crist is flesch &amp; fede&thorn;
+ oure soule &thorn;at bileue&thorn; &thorn;at <SUPPLIED>he</SUPPLIED> is verrey man&middot;</P>
+ <P>and touchyng
+ his manhede&middot; we moten bileue many &thorn;inges&middot; &para;Oon
+ is &thorn;at he was conceyued of &thorn;e holy gost&middot; &amp; not of
+ mannes seed&middot; &amp; &thorn;at he was i-borne of &thorn;e mayde marye
+ wi&thorn; oute lesyng of here maydenhed&middot; we moten by
+ leue also &thorn;at he suffered his passioun vnder pilat
+ of pounce &amp; was i-hangid on a cros&middot; &amp; was ded &amp;
+ biryed &amp; wente adoun to helle &amp; &thorn;e &thorn;ridde day aros
+ from de&thorn; to lyue&middot; And we moten be leue &thorn;at he stey
+ vp to heuene&middot; &amp; &thorn;ere he setti&thorn; on &thorn;e ri&yogh;t hond of his
+ fader &amp; from &thorn;enne he schal come to deme bo&thorn;e qwyk
+ &amp; dede aftir her werkis &para;And we schullen be leue
+ also &thorn;at crist &thorn;oru his de&thorn; gat vs of his fader for-|&yogh;euenes of oure synnes &amp; he hym self for &yogh;af vs
+ oure synnes&middot; &para;And we moten be leue &thorn;at we schul
+ rysen vp fro de&thorn; to life bo&thorn;e in body &amp; in soule&middot; &amp; if
+ we han wil i-lyued&middot; we schul come to an euerelastyng
+ lif of blisse bo&thorn;e in body &amp; in soule&middot; &amp; &thorn;er oure sou|le schal haue his blisse in &thorn;e godhede of crist&middot; &amp; oure
+ body in his manhede &amp; &thorn;us is crist &thorn;at is verrey god
+ &amp; verrey man bo&thorn;e bred &amp; flesche to &thorn;e sustinaunce
+ of oure soule &thorn;at be leui&thorn; &thorn;us in hym &amp; for we schul|den haue mynde &amp; not for&yogh;eten &thorn;is lyuynge of
+ oure soule ne his liflode a scher &thorn;orsday at ny&yogh;t
+ er &thorn;an he schulde passe ou&yogh;t of &thorn;is world to his
+ fader as he &amp; his disciples seten at &thorn;e soper he toke
+ bred &amp; blessid hit&middot; &amp; brake hit &amp; seyde&middot; tak &thorn;is &amp; ete&thorn;
+ &thorn;is&middot; &thorn;is is my body &thorn;at schal be take for &yogh;ow make&thorn;
+
+<MILESTONE UNIT="folio" N="122r">
+
+&thorn;is in mynde of me&middot;<NOTE>1 Cor 11.24 Vulg.</NOTE></P>
+
+<P>&para;And &thorn;us syre eueryche cristen man
+ &thorn;at be leue&thorn; &thorn;at crist is verrey god&middot; eti&thorn; eueryche day bred
+ of heuene&middot; &amp; in &thorn;at he beleue&thorn; &thorn;at crist is verray man
+ he ete&thorn; eueryche day his fleische &amp; his body&middot; And &thorn;is bred
+ &amp; &thorn;is flesche is &thorn;e mete of oure soule&middot; But oure <SUPPLIED>soule
+ lyueth</SUPPLIED> not onlyche in &thorn;is bred&middot; for as crist sei&thorn;&middot;
+ a man ne lyue&thorn; not in bred alone / but in eueryche
+ word &thorn;at passe&thorn; ou&yogh;t of goddis mouthe&middot;<NOTE>Mt 4.4</NOTE> &amp; &thorn;at wor|de&middot; is &thorn;e drynk of oure soule&middot; &amp; what maner drynk&middot;
+ in certeyn clere water of heuenelyche wysdom&middot;
+ &para;Of &thorn;is water crist spak on atyme to &thorn;e womman
+ of samarye&middot; for he seyde to &thorn;at womman&middot; &yogh;if &thorn;ou knewe
+ &thorn;e &yogh;ift of god &amp; who he is &thorn;at sei&thorn; to &thorn;e &yogh;if me dryn|ke&middot; Peraunter &thorn;ou woldest an axid of hym &amp; he wol|de haue &yogh;eue &thorn;e lyuyng water&middot; &amp; &thorn;oo &thorn;e womman seyde no|&thorn;er &thorn;ou hast a uessel to drawe vp water &amp; &thorn;e pitte is depe
+ from whennes &thorn;anne hast &thorn;ou lyuyng watir&middot; whe&thorn;er &thorn;ou
+ be gretter &thorn;anne iacob oure fader &thorn;at dranke here of &amp; his
+ childeren &amp; his bestes &amp; crist seyde eueryche man &thorn;at drin|ke&thorn; of &thorn;is water schal ben a &thorn;irst eft sones &para;But who
+ &thorn;at drinke&thorn; of &thorn;at water &thorn;at I wil &yogh;euen he schal neuere ben
+ a &thorn;irst&middot; for &thorn;at water &thorn;at I wil &yogh;euen hym&middot; schal ben
+ made a well in hym &thorn;at schal be lepyng in to an euere|lastyng lif&middot;<NOTE>Jn 4.10-14</NOTE></P>
+ <P>&para;Of &thorn;is ilke water drynken alle &thorn;ilke
+ men&middot; &thorn;at kepen cristes wordes as he tau&yogh;te to hem&middot; &amp; &thorn;es wordes ben two wordes of loue&middot; &thorn;at enclosen alle &thorn;e
+ ten hestis&middot; &para;&thorn;e first word of &thorn;es is &thorn;e first &amp; &thorn;e grettest
+ comaundement of goddis lawe&middot; &amp; &thorn;at is &thorn;ou schalt
+ loue &thorn;i lord god&middot; abouen alle o&thorn;er &thorn;inges&middot;<NOTE>Cp. Mk 12.30 / Mt 22.37 / Lk 10.27</NOTE> for crist
+ sei&thorn; who &thorn;at loue&thorn; fader or moder bro&thorn;er or syster wif
+ or child&middot; abouen hym he ne is not wor&thorn;i to hym
+ &amp; who &thorn;at hati&thorn; not his owne lif for me he ne is not
+ wor&thorn;i to me<NOTE>Lk 14.26 + Mt 10.37</NOTE></P>
+ <P>&para;And who &thorn;at loue&thorn; god in &thorn;is wyse&middot;
+
+<MILESTONE UNIT="folio" N="122v">
+
+he kepi&thorn; &thorn;re &thorn;e first of &thorn;e ten hestis&middot; for he nil &thorn;anne he|ryen no god bot oon &amp; he wil halewen his halyday
+ for euereyche day he wil lyuen holyliche&middot; ou&yogh;t of synne
+ &amp; so he halewe&thorn; not oonlyche &thorn;e seuen&thorn;e day&middot; but
+ eueriche day of &thorn;e wyke&middot; &amp; in certeyn eueryche day &thorn;at
+ aman lyue&thorn; in synne&middot; is &thorn;e deueles werke day&middot; for &thorn;at
+ day &thorn;at a man do&thorn; &thorn;e deueles werkes&middot; &thorn;anne he
+ serui&thorn; &thorn;e deuele / &amp; not god&middot; &thorn;of he synge or rede holy
+ wordes&middot; for &thorn;er may no man serue two <DEL>goddis at</DEL> lordes
+ at ones<NOTE>Mt 6.24</NOTE> &amp; goddis seruise is doyng of goode werkes&middot;
+ &amp; leuyng of synne&middot; &amp; &thorn;is is holy day lyuyng&middot;
+ &thorn;at eueriche cristen <ADD>man</ADD> ha&thorn; &thorn;at loue&thorn; god abouen alle o&thorn;er
+ &thorn;inges</P>
+ <P>&para;And he kepe&thorn; also &thorn;e &thorn;ridde heste of &thorn;e ten
+ &thorn;at is &thorn;ou schalt not take &thorn;i lordes name in veyn&middot;
+ for he &thorn;at loue&thorn; god abouen alle o&thorn;er &thorn;inges nyl
+ do no &thorn;ing &thorn;at god for bede&thorn;&middot; ne &thorn;at is desplesyng
+ to god&middot; &amp; &thorn;anne he nyl not take goddis name in veyn
+ In two maners aman may take goddis name in veyn
+ &para;On is whan a man swere&thorn; be &thorn;e name of god &thorn;ere
+ as it is no nede&middot; &para;In ano&thorn;er manere a man take&thorn;
+ goddis name in veyn&middot; whan he clepi&thorn; god his lord
+ &amp; &yogh;it ne dredi&thorn; hym not as a seruaunt schulde&middot; ne
+ is not buxum to his hestis&middot; o&thorn;er whan a man clepi&thorn;
+ god his fader/ &amp; ne loue&thorn; hym nou&yogh;t as a good
+ child schulde&middot; ne is not buxum to his wille but
+ he &thorn;at loue&thorn; god a bouen alle o&thorn;er &thorn;inges he nil
+ not take goddis name in veyn in noon of &thorn;es maners
+ &amp; so who &thorn;at kepi&thorn; <ADD>&thorn;</ADD>is comaundement of loue&middot; he
+ kepi&thorn; &thorn;re &thorn;e first of &thorn;es ten hestis&middot;</P>
+ <P>&thorn;is loue had
+ oure lord iesu crist to his fader of heuene to &yogh;euen
+ vs ensample how we schulden loue oure lord fa|der of heuene abouen alle o&thorn;er &thorn;inges&middot; &amp; in two &thorn;in|ges he schewed his loue&middot; On &thorn;ing was &thorn;at in al
+
+<MILESTONE UNIT="folio" N="123r">
+
+his techyng &amp; worchyng he soughte &thorn;e worschipe
+ of his fader &amp; for sok many worschipes &amp; lykyn|ges for he nolde not displesen his fader&middot; &amp; breken
+ his heste&middot; for whan he was transfigured in an hille
+ bi foren his disciples&middot; &amp; his face was bri&yogh;t as &thorn;e
+ sonne an <SUPPLIED>?read: and</SUPPLIED> his clo&thorn;es weren w<ADD>h</ADD>yghte as &thorn;e snow &amp;
+ moyses &amp; helye aperid to hym petir seyde sire it
+ is good to dwelle here &yogh;if &thorn;ou wilt make we here
+ &thorn;re tabernacles&middot; oon to &thorn;e oon to moyses&middot; &amp; oon to
+ helye&middot; &amp; a voys cam from heuene &thorn;at<DEL>...</DEL> seyde &thorn;is is
+ my leeue sone in whom I am plesed &para;here &yogh;e him&middot;<NOTE>Mt 17.4-5</NOTE>
+ al &thorn;is lykynges crist lefte to goon in to &thorn;e disese of &thorn;e
+ world to ful fille &thorn;e wille of his fader&middot;</P>
+ <P>And whan
+ &thorn;e peple wolde han i-hadde hym to here kyng&middot; he fle&thorn;
+ a wey fro hem in to &thorn;e wildernes&middot; for he wolde not dis|plesen his fader&middot;<NOTE>Jn 6.15</NOTE> And whan &thorn;e deuel temptid hym &amp;
+ schewid hym al &thorn;e kyngdoms of &thorn;e world &amp; &thorn;e blisse
+ of hem he seyde to crist al &thorn;is I wil &yogh;eue &thorn;e &yogh;if &thorn;ou
+ wi<DEL>l</DEL>lt <ADD>falle</ADD> a doun &amp; heryen me&middot; &amp; crist seyde&middot; Go a wey sa|tanas it is wryten &thorn;ou schalt heryen &thorn;i lord god&middot;
+ &amp; seruen hym al alone&middot;<NOTE>Mt 4.8-10</NOTE> In &thorn;es doynges &amp; in many
+ o&thorn;ere crist for soke his owne wurschipes &amp; lykynges
+ to fulfillen &thorn;e wil of his fader <ADD>&amp; in &thorn;at he schewe&thorn; &thorn;at he louede hys fader</ADD> abouen al o&thorn;ere
+ &thorn;inges</P>
+ <P>&para;In a no&thorn;er &thorn;ing also he schewi&thorn; &thorn;is same
+ loue for he suffered wilfullyche what disese men
+ wolden do to hym bo&thorn;e of word &amp; of stroke &amp; of
+ de&thorn;&middot; for he wolde not ben vnbuxum to his fader
+ ne doon a&yogh;eyns his wille&middot; for in &thorn;e ny&yogh;t be forn his
+ passioun he seyde &thorn;e spiryt is redy&middot; but &thorn;e flesche
+ is seke <SUPPLIED>?read: weke</SUPPLIED><NOTE>Mt 26.41</NOTE> &amp; whan he come to &thorn;e place&middot; &thorn;ere as he wol|de make his preyere &amp; knew ful wele how gret
+ a penaunce him was toward&middot; he seyde fader If it mow
+ be&middot; late &thorn;is cu<ADD>p</ADD>pe passe a wey from me&middot; But neuere&thorn;eles
+
+<MILESTONE UNIT="folio" N="123v">
+
+nou&yogh;t as I wole&middot; but as &thorn;ou wilt&middot;<NOTE>Mt 26.39</NOTE> and he seyde also
+ fadir &yogh;if &thorn;is cuppe ne mowe not passe a wey fro me
+ but I drynke hym &thorn;i wille be fulfillid&middot;<NOTE>Mt 26.42</NOTE> And &thorn;us
+ crist was buxum to his fader <ADD>of heuene&middot; to &thorn;e de&thorn; / techyng vs to be boxom to our fader</ADD> &amp; to louen hym in
+ &thorn;e same wyse&middot; And &yogh;if we louen so myche oure god
+ &thorn;at we wulden for his loue sufferen &thorn;e de&thorn;&middot; &thorn;an
+ ne drynk we cristes blood to sauacioun of oure sou|le &amp; of &thorn;e same cuppe &thorn;at crist drank&middot; &amp; for we schul|den haue mynde&middot; how crist schede his blood&middot; for loue
+ of his fader &amp; help of his bre&thorn;eren&middot; a schire &thorn;orsday
+ at ni&yogh;t at &thorn;e soper&middot; he toke a cuppe wi&thorn; wyn &amp; bles|side it &amp; seyde to his disciples drynke&thorn; here of euere|ychon&middot; &thorn;is is my blood of a newe testament &thorn;at <SUPPLIED>schal</SUPPLIED> ben
+ <SIC CORR=""><ADD>schal</ADD></SIC> scheed in for &yogh;euenes of synnes&middot;<NOTE>Mt 26.27-28</NOTE> And who &thorn;at loue&thorn;
+ god a bouen alle o&thorn;ere &thorn;inges&middot; &amp; by leue&thorn; in cristes pas|sioun&middot; he drynke&thorn; cristes blood to sauacioun of his sou|le&middot; &amp; but he haue &thorn;is loue&middot; he schal not ben i-saued&middot;
+ &thorn;of he be leue alle &thorn;e poyntes of oure be leue&middot;
+ for seynt poule sei&thorn;&middot; &thorn;of I speke wi&thorn; mannes tun|ges or wi&thorn; aungels&middot; &amp; I ne haue no charite&middot; I am
+ i-mad as bras &thorn;at soune&thorn;&middot; or a cymbale &thorn;at <UNCLEAR>tyn</UNCLEAR>|ge&thorn; &amp; &thorn;of I haue eueryche prophecye &amp; kunnynge &amp; I
+ knowe priueytes &amp; &thorn;of I haue eueryche by leue In
+ so muche &thorn;at I mowe meue hulles from here pla|ce&middot; &amp; I ne haue not charite&middot; I ne am nou&yogh;t &amp; &thorn;of
+ I dele al my good to fede poore men&middot; &amp; &yogh;eue my
+ body to brenne in &thorn;e fyre&middot; &amp; I ne haue not chari|te&middot; it profyte&thorn; me no &thorn;ing<NOTE>1 Cor 13.1-3</NOTE> &para;&thorn;us syre &amp; vs lacke
+ charite nou&thorn;er be leue ne non o&thorn;er &thorn;ing schal
+ stonde vs to profy&yogh;t &amp; in certeyn &thorn;e first &amp; &thorn;e most prin|cypal<DEL>ly</DEL> party of charite it is to loue god a bouen
+ alle o&thorn;er &thorn;ingges&middot; &amp; &thorn;er come&thorn; no man to heuene
+ but he haue &thorn;is loue &amp; so drynke of cristes cuppe
+
+<MILESTONE UNIT="folio" N="124r">
+
+for crist bad alle hys disciples drynken of his cuppe &amp;
+ so &thorn;ei diden <ADD>but</ADD> not alle in oon wyse&middot; for iudas drank of
+ &thorn;e bodyly cuppe&middot; as &thorn;e o&thorn;ere bodily disciples diden&middot;
+ &para;But for he ne loued not god as &thorn;ei diden&middot; but
+ was fals in his herte &amp; a bou&yogh;te to be trayen his lord
+ &amp; his mayster &thorn;erfore he drank of &thorn;e cuppe of god|dis wra&thorn;e &amp; of his indignacioun &amp; hangyd hym sel|uen for sorowe of his synne &para;But &thorn;e o&thorn;ere discy|ples &thorn;at loueden god a bouen alle o&thorn;er &thorn;inges&middot; &amp;
+ weren redy for his loue to suffre &thorn;e de&thorn; &thorn;ei drun|ken of cristis cuppe &amp; of his blood to &thorn;e sauacioun
+ of here soules&middot; &amp; afterward &thorn;ei drunken a cuppe
+ of clere wyne wi&thorn; crist in &thorn;e kyngdom of heuene<NOTE>Mt 26.29</NOTE> &thorn;at ma|de here hertes glade&middot; for wyne glade&thorn; mannes hertes<NOTE>Ps 103.15 Vulg.</NOTE> &amp;
+ no wyne so myche as &thorn;at wyne &thorn;at come&thorn; of hym&middot; &thorn;at
+ is a verrey vyne<NOTE>Jn 15.1</NOTE> &amp; of &thorn;is wyne schal no man dryn|ke&middot; but &yogh;if he drynke of &thorn;e cuppe &thorn;at I spake of rather</P>
+ <P> for whan cristis cosyne preyde him &thorn;at oon of hire so|nes mi&yogh;t sitten on his ry&yogh;t syde &amp; &thorn;at o&thorn;ere on his left
+ syde in his kyngdom crist seyde&middot; &yogh;e witte&thorn; not what
+ &yogh;e axen&middot; mow &yogh;e drynke &thorn;e cuppe &thorn;at I schal drynke
+ &amp; &thorn;ei seyden we mowne&middot; &para;And crist seyde my cuppe
+ &yogh;e schul drynke but to sitte on my ri&yogh;t syde&middot; or on
+ my left syde&middot; it is not myn to graunte &yogh;ow but to
+ &thorn;ilk &thorn;at is i-ordeyned of my fader<NOTE>Mt 10.21-23</NOTE> &para;And sire who &thorn;at
+ ha&thorn; &thorn;is for sayde loue to god&middot; he drynke&thorn; cristes blo|od&middot; &amp; of his cuppe as I seyde ra&thorn;er to <ADD>&thorn;e</ADD> sauacioun of his
+ soule he offere&thorn; also to god&middot; &thorn;e most plesyng offeryng
+ &amp; sacrifice &thorn;at he may offere to hym&middot; for &thorn;oru &thorn;is loue
+ he offere&thorn; hym seluen to god&middot; And as god sei&thorn; be da|uit in &thorn;e sautere&middot; A sacrifice of herying schal wurschipe
+ me &amp; &thorn;er is no wey in &thorn;e whyche I schal schewen hym
+ my hele &amp; my blisse&middot;<NOTE>Ps 49.23 Vulg.</NOTE> And among alle &thorn;e heryinges
+
+<MILESTONE UNIT="folio" N="124v">
+
+of god&middot; &thorn;e grettest herying is &thorn;is loue&middot; for fei&thorn; hope &amp;
+ charite&middot; ben &thorn;re heryinges to god&middot; but &thorn;e grettest hery|ing of god is charite&middot; as seynt poule sei&thorn;&middot;<NOTE>1 Cor 13.13</NOTE> &amp; charite is
+ cristes lawe in &thorn;is world&middot; &amp; brynge&thorn; aman to &thorn;e blisse
+ of heuene&middot; &thorn;e whyche blisse is likyng of <DEL>soule</DEL> loue
+ &thorn;at creatures han to her god&middot; &amp; euerychon to o&thorn;er&middot; And of
+ &thorn;is herying of loue&middot; &thorn;er come&thorn; a no&thorn;er gret herying
+ to god of &thorn;e whyche heriyng dauid seyde in &thorn;e sauter
+ a sacrifice to god is a spiry&yogh;t&middot; &thorn;at is i-trubeled&middot; &amp; ano|yed for his synne&middot; And god &thorn;ou ne wilt not dispisen
+ an herte &thorn;at is contrit &amp; <UNCLEAR>humulied</UNCLEAR> to &thorn;e&middot;<NOTE>Ps 50.19 Vulg.</NOTE> it is cer|teyn &thorn;at &yogh;if aman loue&thorn; god wi&thorn; al his herte&middot; &amp; a-|bouen alle o&thorn;er &thorn;inges&middot; whan he knowe&thorn; how he ha&thorn;
+ displesyd god &thorn;oru synne he wil make miche sorowe
+ in his herte for his synne&middot; &amp; humylien hym seluen
+ ful lowe to god to haue for &yogh;euenes of his trespas&middot;
+ &para;And in &thorn;is wyse mary maudeleyne hadde for &yogh;eue|nes of hire synnes&middot; for crist sei&thorn; many synnes were
+ for &yogh;euen hire&middot; for scho loued myche&middot;<NOTE>Lk 7.47</NOTE></P>
+ <P>&amp; but aman
+ loue god with al his herte&middot; &amp; wi&thorn; al his herte for
+ &thorn;inkyng his synne elles be he certeyn &thorn;at he ge|te&thorn; not of god for &yogh;euenesse of his synne&middot; alle &thorn;es
+ prophetes &thorn;at I haue i-told&middot; folewen siche men &thorn;at lo|uen god a bouen alle o&thorn;ere &thorn;inges&middot;</P>
+ <P>And crist sei&thorn; &thorn;e
+ secunde grettest comaundement is i-lyche to &thorn;is &thorn;ou
+ schalt loue &thorn;i bro&thorn;er as &thorn;i seluen &amp; in &thorn;es two co|maundementis hange&thorn; alle &thorn;e lawe &amp; &thorn;e prophetes&middot;<NOTE>Mt 22.39-40</NOTE>
+ for who &thorn;at kepi&thorn; &thorn;e first comaundement he do&thorn;
+ alle manere &thorn;inges &thorn;at he owe&thorn; to do to god&middot; &amp; he
+ kepi&thorn; &thorn;re &thorn;e firstes of &thorn;e ten hestes&middot; &para;And who &thorn;at
+ kepi&thorn; &thorn;e secunde comaundement&middot; he do&thorn; alle &thorn;inges
+ &thorn;at he owe&thorn; doon to his bro&thorn;er&middot; &amp; kepi&thorn; &thorn;e <SUPPLIED>to&thorn;er</SUPPLIED> seuene
+ hestes of &thorn;e ten&middot; for he wurschipe&thorn; his aldren <DEL>&amp; not</DEL>
+
+<MILESTONE UNIT="folio" N="125r">
+
+&amp; not onliche hem&middot; but also his bre&thorn;eren &amp; he nyl
+ not sleen his bro&thorn;er ne defoulen his sister &thorn;oru his
+ lust of stynkyng lecherye&middot; Ne <UNCLEAR>he nil be no</UNCLEAR> &thorn;ef to
+ robben his bre&thorn;eren&middot; ne he nyl <UNCLEAR>bere no fals</UNCLEAR> wit|nes a&yogh;eyns his bro&thorn;er&middot; Ne he nyl not coueyten <ADD>his bro&thorn;er wyf</ADD>
+ <ADD>ne</ADD> his seruaunt ne non o&thorn;er good &thorn;at he owe&thorn;&middot; her ben
+ seuene hestes i-kept&middot; of &thorn;e ten &thorn;at god bad summe
+ tyme&middot; In &thorn;is on heste &thorn;ou schalt loue &thorn;i bro&thorn;er as
+ &thorn;i seluen&middot; &amp; so alle &thorn;e ten hestes ben i-kept in &thorn;es
+ two wordes of loue &amp; &thorn;erfore seynt poule sei&thorn;&middot; who &thorn;at
+ loue&thorn; fulfille&thorn; &thorn;e lawe&middot;<NOTE>Ro 13.8</NOTE></P>
+ <P>&para;Also he &thorn;at kepi&thorn; &thorn;es two
+ hestis of loue&middot; he leue&thorn; &thorn;e seuene dedly synnes&middot;
+ <LIST>
+ <ITEM>for
+ he nil not ben proud&middot; for pride or hit is an vnskil|ful heighnes &thorn;oru &thorn;e whyche aman is vnbuxum
+ to god &amp; to his hestes&middot; O&thorn;er it is an vnskilful heigh|nes &thorn;at aman heighe&thorn; hym seluen vnskilfulliche
+ abouen his bre&thorn;eren &amp; dispise&thorn; hem&middot; but who &thorn;at
+ loue&thorn; god&middot; ne ha&thorn; not &thorn;e first pride &amp; he &thorn;at loue&thorn;
+ his bro&thorn;ere as hym seluen ne ha&thorn; nou&yogh;t &thorn;e secunde</ITEM>
+<ITEM> &para;Also he &thorn;at ha&thorn; &thorn;is loue leue&thorn; coueytise for he &thorn;at
+ loue&thorn; god nyl desyren no &thorn;ing &thorn;at is a&yogh;eyns his
+ ordenaunce&middot; &amp; god is so mesurable in &yogh;euyng &thorn;at he
+ ha&thorn; &thorn;at he fayle&thorn; no man&middot; in &thorn;at &thorn;ing &thorn;at hym ne|de&thorn; ne grante&thorn; no man more &thorn;an hym nede&thorn;&middot; but co|ueytouse men &thorn;at louen here goodis more &thorn;an god&middot;
+ for defaute of loue desire&thorn; more &thorn;an hem nede&thorn; a&yogh;eyn
+ goddis wille&middot; And for &thorn;ei louen not here bre&thorn;eren as
+ hem seluen&middot; &thorn;erfore &thorn;ei desyren here bre&thorn;eren goo|dis to maken hem seluen ryche&middot; and of &thorn;ilk goodis
+ &thorn;at &thorn;ei han&middot; &thorn;ei nyl not departen wi&thorn; here nedy bre|&thorn;eren&middot;</ITEM>
+ <ITEM>&amp; he &thorn;at ha&thorn; &thorn;is loue nyl not lyuen in slou|&thorn;e&middot; for he wil ben a bou&yogh;te wi&thorn; al his mi&yogh;t to ser|uen his god in kepyng his hestis&middot; And after &thorn;at
+
+<MILESTONE UNIT="folio" N="125v">
+
+grace &thorn;at he ha&thorn; vndurfongen of god&middot; he wil forsaken his
+ owne lif &amp; putten him self to disese &amp; to trauaile for
+ help of his bre&thorn;eren&middot;</ITEM>
+ <ITEM>And who &thorn;at ha&thorn; &thorn;is loue&middot; he nyl
+ haue no dedly wra&thorn;e to his bro&thorn;er ne desire no ven|geaunce on hym&middot; &thorn;of he haue i-trespased ful gret|liche a&yogh;eyns hym&middot;</ITEM>
+ <ITEM>&amp; he &thorn;at ha&thorn; &thorn;is loue&middot; nil haue
+ non enuye to his bro&thorn;er&middot; for now&thorn;er he wil be glad
+ of his harme&middot; ne sory of his weele&middot; as enuyous men
+ ben&middot; Ne he wyl not bacbiten him&middot; ne speke no &thorn;ing
+ biforen hym&middot; for his harm&middot;</ITEM>
+ <ITEM>&para;And he &thorn;at ha&thorn; &thorn;is lo|ue wyle nou&yogh;t breke &thorn;e heste of god ne for his ow|ne lykyng bryngen his bro&thorn;er ne his sister in to
+ grete mischef &amp; sorowe&middot; as &thorn;e<ADD>s</ADD> foule lechoures doon
+ &thorn;at for here stynkyng lustes bryngen here bre&thorn;eren &amp;
+ here sisteren in to &thorn;e deueles seruise &amp; his &thorn;raldom
+ from &thorn;e seruise of god&middot; &amp; after ward in to &thorn;e endeles
+ peyne of helle &thorn;at is a sorowe wi&thorn; outen mir&thorn;e&middot;</ITEM>
+ <ITEM> And he &thorn;at ha&thorn; &thorn;is luf&middot; wile not take his mete ne
+ his drynke but in mesure as hym nedi&thorn;&middot; for who
+ &thorn;at do&thorn; glotonye &amp; take&thorn; his mete &amp; drynk a&yogh;eyn
+ &thorn;e wille of <SUPPLIED>?read: and</SUPPLIED> ordinaunce of god&middot; &amp; siche <ADD>a</ADD> glotoun &amp; a
+ wastoure deuoure&thorn; many mennes lif lode&middot; bo&thorn;e to
+ his owne harm &amp; to harm of his bre&thorn;eren for de|faute of loue&middot;</ITEM></LIST>
+ &thorn;us aman leue&thorn; &thorn;e seuene dedly syn|nes &thorn;at kepi&thorn; &thorn;e two comaundementes of loue</P>
+ <P>And who &thorn;at ha&thorn; &thorn;is luf&middot; he do&thorn; &thorn;e werkes of
+ mercy&middot; for &yogh;if he see&thorn; his bro&thorn;erre an hungred&middot; he
+ wil &yogh;eue hym mete&middot; and if he is a &thorn;irst&middot; he wil &yogh;eue
+ hym drynke&middot; &amp; if he be naked he wil &yogh;euen hym
+ clo&thorn;es&middot; &amp; if he lacke herborewe&middot; he wil leenen hym
+ an hous &amp; &yogh;if he be seke o&thorn;ere in prisone he wole visi|ten hym &amp; conforten hym&middot; And if he be ded&middot; he by|rye&thorn; his body in &thorn;e er&thorn;e&middot; &thorn;es ben &thorn;e werkes of loue
+
+<MILESTONE UNIT="folio" N="126r">
+
+&amp; of mercy&middot; &thorn;at men wolen doon&middot; &thorn;at kepen &thorn;e two for-|seyde comaundementes of loue&middot; &amp; &thorn;is loue is cristes
+ lawe &thorn;at alle cristen men schulden kepe&middot; for as crist
+ sei&thorn; alle &thorn;inges &thorn;at &yogh;e wollen &thorn;at o&thorn;er men doon to
+ &yogh;ow&middot; do &yogh;e &thorn;e same to hem for &thorn;at is &thorn;e lawe &amp; &thorn;e
+ prophetis&middot;<NOTE>Mt 7.12</NOTE></P>
+ <P>And in certeyn alle &thorn;inges &thorn;at crist bidde&thorn;
+ doon to oure bre&thorn;eren or it is loue or it come&thorn; ou&yogh;t
+ of loue&middot; or it norische&thorn; loue crist seyde to his disciples
+ &thorn;is is my comaundement &thorn;at &yogh;e louen to gedere as
+ I haue loued &yogh;ow &amp; in &thorn;is men schul knowe&middot; &thorn;at &yogh;e
+ ben my disciples&middot; &yogh;if &yogh;e louen to gedere&middot;<NOTE>Jn 13.34-35</NOTE> &amp; what ma
+ manere of loue &yogh;e schul haue to &yogh;oure bre&thorn;eren&middot; crist
+ techi&thorn; in &thorn;at word&middot; Do &yogh;e to o&thorn;ere men&middot; as &yogh;e wil &thorn;at o
+ &thorn;ere men do to &yogh;ow&middot;<NOTE>Lk 6.31</NOTE> &para;he sei&thorn; also it was i-seyde summe
+ tyme &thorn;ou schalt loue &thorn;i frend&middot; &amp; hate &thorn;i enemy&middot;
+ But I seye &yogh;ow loue&thorn; &yogh;oure enemyes&middot; and do&thorn; wele
+ to hem &thorn;at han i-hated &yogh;ow&middot; Blesse&thorn; hem &thorn;at cur|sen &yogh;ow&middot; &amp; preye&thorn; for hem &thorn;at purswen &yogh;ow&middot; &amp; &thorn;at
+ desclaundren &yogh;ow&middot; &thorn;at &yogh;e ben &yogh;oure fadres childeren
+ &thorn;at is in heuene &thorn;at make&thorn; his sone risen vp on
+ good men &amp; vp on yuul men&middot; &amp; reyghne&thorn; vp on ri&yogh;t|ful men &amp; vp on <ADD>vn</ADD>ri&yogh;tful men&middot; for if &yogh;e loue&thorn; onli|che &thorn;ilk &thorn;at louen &yogh;ow&middot; what mede schul &yogh;e haue
+ so doon puplicanes&middot; &amp; if &yogh;e grette&thorn; oonliche &yogh;owre
+ owne bre&thorn;eren&middot; what schul &yogh;e doon more&middot; so doon he|&thorn;en men&middot; wherfore be &yogh;e perfy&yogh;t&middot; as &yogh;oure heuene|ly fadre is perfi&yogh;t<NOTE>Mt 5.43-47</NOTE></P>
+ <P>And many tyme whan crist bad a
+ pharyse &thorn;at he schulde loue his nexte bro&thorn;er as
+ hym seluen &amp; seyde &thorn;at hit was oon of &thorn;e gret|test comaundementis of goddis lawe&middot; &thorn;e pharise
+ axid hym who was his bro&thorn;ere nexte&middot; And crist told
+ hym a taale &amp; seyde &thorn;er was a man &thorn;at wente from
+ ierusalem in to ierico &amp; fel among &thorn;eues &amp; &thorn;ei robbeden
+
+<MILESTONE UNIT="folio" N="126v">
+
+hym &amp; wondiden hym&middot; and bonden hym fast &amp; wen|ten here wey &amp; leften <SUPPLIED>hym</SUPPLIED> liggyng vnnethes half
+ lyuyng&middot; &amp; as he lay &thorn;er cam be hym a prest &amp; had|de no reu&thorn;e of hym&middot; but passed for&thorn;e his wey &amp;
+ lete hym ligge stille A dekene also went &thorn;e same
+ wey &amp; dide in &thorn;e same wyse&middot; but a samaritan &thorn;at
+ com &thorn;e same wey&middot; sei&thorn; &thorn;e man &amp; had reu&thorn;e of hym
+ &amp; vnbonde &thorn;is man &amp; wysche his woundis wi&thorn; wyn
+ &amp; wi&thorn; oyle &amp; knytte vp his woundis&middot; &amp; si&thorn; cast hym
+ vp on his asse &amp; ledde hym to towne &amp; brou&yogh;t
+ hym to an hostiler &amp; preyde hym &thorn;at he wolde
+ take kepe to &thorn;is man &amp; he wolde make hym go|ode his trauaile &amp; for his costes&middot; &amp; he toke <ADD>him</ADD> two
+ pens to spende&middot; &amp; what euere he spende more he
+ seyde he wolde make hym good&middot; And whan crist
+ hadde told &thorn;is tale he axide &thorn;is pharise whyche
+ of &thorn;es was nexte ney&yogh;bore to hym&middot; &thorn;at fel a-|mong &thorn;e &thorn;eues&middot;<NOTE>Lk 10.29-36</NOTE> &amp; he seyd &thorn;ilke &thorn;at had mercy of
+ hym&middot;<NOTE>Lk 10.37</NOTE> and crist seyde go &amp; do &thorn;ou in &thorn;e same wy|se&middot; In &thorn;is tale crist teche&thorn; vs to loue oure enemy|es <DEL>&thorn;at was i-woundid</DEL> as oure seluen&middot; for &thorn;e sa|maritan &amp; &thorn;e iew <ADD>&thorn;at was i-woundid</ADD> weren enemys&middot; &amp; &yogh;it he had|de reu&thorn;e of hym &amp; dide to hym as he wolde &thorn;at
+ men diden to hym &amp; so euery cristen man schul|de louen his enemy as hym seluen&middot; &para;And &thorn;er fore
+ seynt poule sei&thorn;&middot; &yogh;if &thorn;in enemy is an hungred
+ &yogh;if him mete&middot; &amp; if he is a &thorn;irst &yogh;eue hym drynk
+ &amp; &yogh;if &thorn;ou dost so&middot; &thorn;ou schalt gedere to hepe coles
+ of fuyr vp on is hede&middot;
+
+And ne be &thorn;ou not ouer
+ comen of yuul&middot; but in good ouer come &thorn;ou yuul<NOTE>Ro 12.20-21</NOTE></P>
+<P> &thorn;is loue &amp; charite is cristes lawe&middot; &amp; for we
+ schulden not lesen &thorn;is charite crist charge&thorn;
+ vs wi&thorn; six vertues&middot; &thorn;at comen out of loue&middot; and
+
+<MILESTONE UNIT="folio" N="127r">
+
+<SUPPLIED>norischen loue&middot;</SUPPLIED></P>
+<P><SUPPLIED>Oon of &thorn;es is myldnesse&middot; seynt poule sei&thorn; &yogh;eldeth</SUPPLIED>
+no man yuul for yuul&middot; but do&thorn;&middot; &amp; ordeyne&thorn; goode
+ &thorn;inges&middot; not oonliche before god&middot; but also be foren
+ alle goode men &amp; &yogh;if hit mow be &thorn;at in &yogh;ow is&middot; haue
+ &yogh;e pees wi&thorn; alle men&middot; &amp; ne defende&thorn; <ADD>not</ADD> &yogh;oure seluen
+ but &yogh;eue&thorn; place to wra&thorn;e&middot; for it is i-write / to me
+ vengeaunce / &amp; I wil &yogh;elden a&yogh;eyn sei&thorn; god &amp; &yogh;if &thorn;in
+ enemy be an hungered&middot; fede hym &amp; &yogh;if he be a &thorn;irst
+ &yogh;ife hym drynke &amp; doyng &thorn;es &thorn;inges &thorn;ou schalt
+ gedere to hepe coles of fuyr vp on his heed&middot; &amp; be
+ &thorn;ou not ouer come of yuul&middot;<NOTE>Ro 12.17-21</NOTE></P>
+ <P>and ri&yogh;t as in &thorn;e oolde
+ testament men fou&yogh;ten for here lawe&middot; &amp; for here
+ ri&yogh;tfulnes ri&yogh;t so men schulden in &thorn;is new testa|ment&middot; sufferen &amp; nou&yogh;t fy&yogh;ten for ri&yogh;tfulnesse
+ &amp; so crist dide &thorn;at was &yogh;euer &amp; maker of &thorn;is newe
+ testament&middot; &amp; whan on of his seruauntes smot for
+ his loue&middot; crist bad hym putten his swerd in his
+ sche&thorn;e&middot; &amp; seyde who &thorn;at smyte&thorn; wi&thorn; a swerd with
+ a swerd he schal perische&middot;<NOTE>Mt 26.52</NOTE> And in &thorn;e apocalips hit
+ is i-wryten&middot; who &thorn;at slee&thorn; wi&thorn; a swerd&middot; he mut
+ be slayn wi&thorn; a swerd&middot;<NOTE>Re 13.10</NOTE> And herefore crist sei&thorn;&middot; i-bles|sed be pesyble men&middot; for &thorn;ei schullen ben i-clepid god|dis childeren&middot;<NOTE>Mt 5.19</NOTE> and he sei&thorn; also &thorn;ei ben i-blessed &thorn;at
+ suffered persecucioun for ri&yogh;tfulnesse&middot; for &thorn;e kyngdo|om of heuene is heris&middot;<NOTE>Mt 5.10</NOTE> and for &thorn;is sufferyng &thorn;at
+ crist teche&thorn; men to kepe&middot; &amp; to norische loue among
+ hem seluen&middot; he is i-cleped prince &amp; kyng of pees
+ bo&thorn;e of ysaye &amp; of zacharye &thorn;e prophetes&middot; &para;for <DEL>Iseye</DEL>
+ Isaye sei&thorn; &thorn;er schal ben in &thorn;e last dayes an hul i-or|deyned goddis hous in &thorn;e coop <SUPPLIED>?read: toop</SUPPLIED> of hulles &amp; he schal
+ ben arerede vp a bouen alle hylles &amp; alle folk schul|len come to hym &amp; myche peple schullen come
+ &amp; sey&yogh;en <UNCLEAR>C</UNCLEAR>om we &amp; steye we to goddis hyl &amp; to &thorn;e
+ hous of god of iacob&middot; &amp; he wil teche vs his weyes
+
+<MILESTONE UNIT="folio" N="127v">
+
+&amp; we schullen wa<ADD>l</ADD>ken in his pa&thorn;es&middot; for ou&yogh;t of syon
+ schal come &thorn;e lawe &amp; goddis word ou&yogh;t of ierusalem&middot; &amp; he
+ schal deme myche folk&middot; And vndurnyme myche pepul
+ and men schullen blowe to gydere here swerdes in to
+ scharres &amp; here speres in to sikeles&middot; &amp; on peple ne
+ schal not heuen vp his swerd a&yogh;eyn ano&thorn;er peple
+ ne &thorn;ei schul not ben i-hauntid after &thorn;at tyme to
+ batayle&middot;<NOTE>Is 2.2-4</NOTE></P>
+ <P>&para;And zacarye &thorn;e prophete sei&thorn;&middot; be &thorn;ou ful glad
+ &thorn;ou douter of syon &amp; make myche mir&thorn;e &thorn;ou dou|t<UNCLEAR>e</UNCLEAR>r of ierusalem&middot; for lo &thorn;i kyng come&thorn; to &thorn;e&middot; &thorn;at is ri&yogh;t|ful &amp; sauyour&middot; &amp; he is pore &amp; he lepe&thorn; vp on an asse
+ &amp; vp on an asse colt &amp; he wil destrye &thorn;e char of effra|ym &amp; &thorn;e hors of ierusalem&middot; &amp; &thorn;e lawe of batayle schal
+ be distryed&middot; &amp; he schal speke pees to &thorn;e peple &amp; his
+ power schal be from see to see&middot; &amp; from &thorn;e floodes to
+ &thorn;e endis of &thorn;e er&thorn;e&middot;<NOTE>Zch 9.9-10</NOTE></P>
+ <P>And si&thorn; cristis lawe is charite&middot;
+ &amp; pacience is a condicioun of charite&middot; Nedeliche who
+ &thorn;at wil kepe goddis lawe mut be pacient &amp; suf|ferynge &amp; certeyn elles he folewe&thorn; nou&yogh;t crist&middot; &amp; sore
+ a drade mowe &thorn;es proud men ben &thorn;at seyen &thorn;at &thorn;ei
+ mowe not sufferen for schame of &thorn;e world&middot; It is cer|teyn &thorn;at he &thorn;at is aschamed to sufferen&middot; is a schamed
+ to knowleche &thorn;at he is cristis seruaunt &thorn;at suffered
+ ful myche&middot; &para;And crist sei&thorn; who &thorn;at is aschamed to kno|wleche me &amp; my wordes be fore men&middot; I wil ben a-|schamed to knowleche hym be fore my fader in heue|ne&middot;<NOTE>Lk 9.26</NOTE> and &thorn;an as &thorn;e apocalips sei&thorn;&middot; kynges of &thorn;e er|&thorn;e &amp; princes &amp; riche men&middot; &amp; strong men&middot; &amp; bond &amp; fre
+ schullen hyden hem in dennes &amp; roches of hilles&middot; &amp;
+ &thorn;ei schullen seyn to hylles &amp; stonnes falle &yogh;e doun
+ vp on vs &amp; hyde&thorn; vs from &thorn;e face of hym &thorn;at sitte&thorn;
+ on &thorn;e trone&middot; &amp; from &thorn;e wra&thorn;e of &thorn;e lomb&middot; for &thorn;e
+ grete day of his wra&thorn;e is comen&middot; &amp; who is he &thorn;at
+
+<MILESTONE UNIT="folio" N="128r">
+
+may stonde&middot;<NOTE>Re 6.15-17</NOTE></P>
+<P>&para;Of mekenesse &thorn;at is a no&thorn;er vertu &thorn;at come&thorn;
+ ou&yogh;t of loue <ADD>&amp; norische&thorn; loue</ADD>&middot; also. crist sei&thorn;&middot; i-blessed be meke men for &thorn;ei
+ schullen i-see god&middot;<NOTE>Mt 5.5 + 5.8</NOTE> and of alle &thorn;inges &thorn;at crist ha&thorn; tau&yogh;|te his disciples&middot; oon of &thorn;e moost was &thorn;at &thorn;ei schul|den ben humble &amp; meke&middot; In a tyme &thorn;er was a stryuyng
+ be twyne &thorn;e disciples whyche of hem were grettest&middot;
+ And crist seyde kynges of mys beleued men hauen
+ lordschipe of hem&middot; &amp; &thorn;ilk &thorn;at han power vp on hem
+ ben i-cleped wel doeres&middot; but it schal not be so a mong
+ &yogh;ow&middot; but he &thorn;at is grettest of &yogh;ow&middot; schal ben as &thorn;e &yogh;on|geste&middot; And he &thorn;at is a forgoere be he as a seruaunt&middot;
+ for whe&thorn;er is he &thorn;at sitte&thorn; at &thorn;e mete&middot; grettere / &thorn;en
+ he &thorn;at serue&thorn;&middot; ne is he not &thorn;at sitte&thorn; at &thorn;e mete&middot; but
+ I among &yogh;ow as he &thorn;at serue&thorn;&middot;<NOTE>Lk 22.24-27</NOTE> &amp; in ano&thorn;er place as
+ he tau&yogh;te hem &thorn;is mekenes &amp; sei&thorn; mannes sone cum|me nou&yogh;t to ben i-serued&middot; but for to seruen &amp; to &yogh;ifen
+ his lif for biggyng of many men<NOTE>Mt 20.28</NOTE></P>
+ <P>&amp; for he wolde te|chen hem mekenes in dede as wil as in word&middot; &para;&thorn;e
+ ny&yogh;t be foren his passioun&middot; he wysch his disciples
+ feet &amp; seyde to hem wyte &yogh;e what I doon haue&middot; &yogh;e
+ clepe&thorn; me mayster &amp; lord&middot; &amp; &yogh;e sigge&thorn; wil&middot; for so I am
+ &amp; &thorn;erfore &yogh;if <SUPPLIED>I</SUPPLIED> haue wasche &yogh;oure feet&middot; &thorn;at am bo&thorn;e
+ mayster &amp; lord&middot; euerychone of &yogh;ow schal wasche o&thorn;ere
+ feet&middot; for I haue &yogh;eue &yogh;ow ensample &thorn;at &yogh;e doon as
+ I haue doon to &yogh;ow&middot;<NOTE>Jn 12.13-15</NOTE></P>
+ <P>&para;And whan his disciples axi|den hym&middot; who was &thorn;e grettest in &thorn;e kyngdom of he|uene&middot; Crist clepid to hym a litul child &amp; sette hym
+ in &thorn;e myddel of hem and seyde &para;So&thorn;eliche I saye
+ &yogh;ow but &yogh;e ben I turned &amp; ben i-made as smale chil|dren&middot; &yogh;e ne schul not entren in to &thorn;e kyngdom of
+ heuene&middot; &amp; &thorn;erfore who &thorn;at humble&thorn; hym as &thorn;is child
+ do&thorn;&middot; he is grettest in &thorn;e kyngdom of heuene&middot;<NOTE>Mt 18.2-4</NOTE> and as
+ a no&thorn;ere tyme crist seyde&middot; suffere&thorn; smale childeren come
+
+<MILESTONE UNIT="folio" N="128v">
+
+to me&middot; for &thorn;e kyngdome of heuene is of siche&middot; and
+ &thorn;o he seyde&middot; So&thorn;eliche I seye &yogh;ow&middot; who &thorn;at vndurfon|ge&thorn; not &thorn;e kyngdom of heuene as a litul child&middot; he
+ ne schal not come &thorn;erinne<NOTE>Lk 18.16-17</NOTE></P>
+ <P>two poyntes of mekenes
+ crist techi&thorn; vs to haue&middot; One is &thorn;at we dispise not
+ oure bre&thorn;eren &thorn;at ben in cas not so wor&thorn;i as we ben
+ ne &thorn;at we hyghe nou&yogh;t oure seluen for oure goo|de werkes abouen oure bre&thorn;eren &thorn;at perauntre ne
+ do nou&yogh;t so goode werkis&middot; for as crist sei&thorn;&middot; &thorn;er wen|ten two men in to &thorn;e temple to maken her preyeres
+ &thorn;e one was a pharise &amp; &thorn;e o&thorn;er was a puplican&middot;
+ and &thorn;e pharise seyde&middot; lord I &thorn;anke &thorn;e&middot; for I am not
+ as o&thorn;ere men ben&middot; &thorn;at ben robberes &amp; vnry&yogh;tful&middot;
+ &amp; spousebrekeres &amp; coueytous ne as &thorn;is publi|can I faste twyes in &thorn;e wyke &amp; I &yogh;if &thorn;e ti&thorn;inges
+ of alle &thorn;e goodes &thorn;at I haue&middot; but &thorn;e publican ne
+ heued not vp his yen but smote his brest &amp; seyde
+ lord haue mercy on me &thorn;at am a synful man&middot; and
+ crist sei&thorn;&middot; &thorn;ees went hom i-iustified of &thorn;e o&thorn;er&middot;
+ for who &thorn;at hyghe&thorn; hym self schal ben i-hum|blid &amp; who &thorn;at humbli&thorn; hym self schal ben i-hyg|hed<NOTE>Lk 18.9-14</NOTE> &para;And crist sei&thorn; in an o&thorn;er place&middot; It whas i-sey|de sumtyme&middot; who &thorn;at slee&thorn; is gylty of &thorn;e dome&middot;
+ but I seyghe &yogh;ow who &thorn;at is wro&thorn;e wi&thorn; his
+ bro&thorn;er&middot; <ADD>is gilty to &thorn;e dome&middot; &amp; who &thorn;at sayth to his bro&thorn;er</ADD> fy is gylty to counseyl&middot; &amp; who &thorn;at sei&thorn;
+ to his bro&thorn;er fool is gylty to &thorn;e fuyr of helle&middot;<NOTE>Mt 5.21-22</NOTE> In
+ &thorn;is maner a cristen man schulde be meke&middot; for me|kenes nursche&thorn; loue ri&yogh;t as vnskilful hygh|nesse destrie&thorn; loue</P>
+ <P>&para;An o&thorn;ere poynt of mekenesse
+ crist teche&thorn; &amp; &thorn;at is &thorn;at we sechen nou&yogh;t &thorn;e wur|schipe of &thorn;e world&middot; ne &thorn;at we doon nou&yogh;t oure
+ goode werkes to haue wurschipes for hem&middot; of
+ &thorn;e peple&middot; for he sei&thorn; vp on moyses chayer &thorn;er han
+
+<MILESTONE UNIT="folio" N="129r">
+
+i-setten scribes &amp; pharisens&middot; &amp; what &thorn;ei bidden &yogh;ow
+ doon kepi&thorn; it &amp; do&thorn; hit&middot; but do&thorn; not after her wer|kes&middot; for &thorn;ei seyn &amp; doon not hem seluen &amp; &thorn;ei bid|den heuy ber&thorn;enes&middot; &thorn;at mown not ben i-born &amp; leg|gen hem on menne schulderes&middot; but wi&thorn; here owe|ne fyngeres&middot; &thorn;ei nullyn not mouen hem&middot; &amp; alle
+ her werkes &thorn;ei doon to be i-seyn of men&middot; for &thorn;ei
+ drawen a brod her philatories &amp; magnifyen &thorn;e
+ hemmes of her clo&thorn;es&middot; And &thorn;ei louen &thorn;e first syt|tynges at &thorn;e soperes&middot; &amp; gretynges in chepynges
+ &amp; &thorn;e most wurschipful chayeres in synagoges
+ &amp; to ben i-clepyd maystres of men&middot; But ne wy|le &yogh;e not to be i-clepid maystres for oon is &yogh;oure
+ maystre&middot; &amp; alle &yogh;e ben bre&thorn;eren&middot; And ne clepe &yogh;e
+ not to &yogh;ow no fadir on er&thorn;e&middot; for oon is &yogh;oure fa|der &thorn;at is in heuene&middot; Ne be &yogh;e not i-cleped mayst|res&middot; for oon is &yogh;oure maystre crist who &thorn;at is gret|test of &yogh;ow schal be &yogh;oure seruaunt&middot; for who
+ &thorn;at humbli&thorn; hym self schal ben i-hyed &amp; who
+ &thorn;at heith hym seluen schal ben humblid&middot;<NOTE>Mt 23.2-12</NOTE> Crist
+ techi&thorn; vs also&middot; &thorn;at whan we doon almes dede or
+ faste&thorn; or preyed we schullen doon hit priueliche
+ &amp; nou&yogh;t for to ben holden holy men of &thorn;e peple&middot;
+ for he sei&thorn; whan &thorn;ou dost almes ne blowe hit not
+ wi&thorn; a trumpe as ypocrites doon in synagoges &amp; in
+ stretes&middot; to ben wurschiped of men&middot; <ADD>so&thorn;eliche &thorn;ei han receyued her mede</ADD> but whan &thorn;ou|dost almes&middot; ne wyte not &thorn;i lift hond what &thorn;i ri&yogh;t
+ hond do&thorn;&middot; &thorn;at &thorn;in almes be in hydles&middot; &amp; &thorn;i fader
+ &thorn;at see&thorn; in hydles&middot; wil &yogh;elde &thorn;e &thorn;i mede&middot; &para;And whan
+ &yogh;e preyen &yogh;e schul not ben as ypocrites dreri &thorn;at lo|uen to pray stondyng in sinagoges&middot; &amp; in corneres
+ of stretes to ben i-seen of men&middot; So&thorn;eliche I sey&yogh;e
+ &yogh;ow &thorn;ei han receyued here mede&middot; But whan &thorn;ou
+
+<MILESTONE UNIT="folio" N="129v">
+
+preyest&middot; go in to &thorn;i chaumbre &amp; spere &thorn;i dore &amp; preye
+ &thorn;i fader in hydles &amp; &thorn;i fadre &thorn;at sei&thorn; in hydles wil
+ &yogh;elde &thorn;e &thorn;i mede&middot; &amp; whan &yogh;e preyen ne speke&thorn; not
+ myche as mysbeleued men&middot; doon&middot; for &thorn;ei wenen &thorn;at
+ &thorn;ei ben i-herd &thorn;oru here myche speche&middot; &amp; &thorn;erfore ne be
+ &yogh;e not i-liche hem&middot; for &yogh;oure fadir wot what &yogh;ow
+ nede&thorn;&middot; or &thorn;an &yogh;e axen hym any &thorn;ing&middot; And &thorn;us &yogh;e
+ schullen preye&middot; &para;Oure fadir &thorn;at art in heuene&middot;
+ i-halewed be &thorn;i name &thorn;i kyngdom come to vs&middot; &thorn;i
+ wyl be hit doon in er&thorn;e&middot; as hit is in heuene&middot; &yogh;if vs
+ to day oure euerydayes bred&middot; &amp; for &yogh;eue vs oure det|tes&middot; as we for &yogh;euen oure dettours&middot; &amp; ne lede vs not
+ in to temptacioun but delyuere vs from euele&middot; Amen&middot;&middot;
+ And &yogh;if &yogh;e for&yogh;eue&thorn; o&thorn;ere men here trespaces &yogh;oure fader
+ heuenliche wil for &yogh;eue &yogh;ow &yogh;oure synnes&middot; &amp; if
+ &yogh;e for &yogh;eue&thorn; not o&thorn;ere men &yogh;oure heueneliche fader
+ wole not for &yogh;eue &yogh;ow &yogh;oure synnes&middot; &amp; whan &yogh;e fas|te&thorn; ne be &yogh;e not as ypocrites drery&middot; for &thorn;ei defacen
+ hem seluen to seme fastyng to men&middot; So&thorn;eliche
+ I seye &yogh;ow &thorn;ei han receyued here mede&middot; But whan
+ &thorn;at &thorn;ou fastest anoynte &thorn;in hed &amp; wasche &thorn;i face &thorn;at
+ &thorn;ou seme not fastyng to men&middot; But to &thorn;i fader in
+ hydles &amp; &thorn;i fadre &thorn;at se&thorn; it in hydles wil &yogh;eue &thorn;e
+ &thorn;i mede&middot;<NOTE>Mt 6.2-18</NOTE> &para;In &thorn;is wyse sire crist teche&thorn; vs to doon
+ oure werkes in mekenes&middot; for elles we mowen lesen
+ oure mede&middot;</P>
+ <P>Of porenesse in spiri&yogh;t crist speke&thorn; &amp;
+ sei&thorn; i-blessed ben pore men in spyri&yogh;t&middot; for &thorn;e kyng|dom of heuene is heres&middot; &amp; woo to riche men&middot;
+ for &thorn;ei han here counfort in &thorn;is world&middot;<NOTE>Mt 5.3 + Lk 6.20,24</NOTE> Suche men
+ ben pore in spiri&yogh;t &thorn;at wilne not to ben riche but
+ desiren &thorn;at hem nede&thorn; &amp; no more&middot; And so &thorn;ilk
+ &thorn;at han litul good&middot; &yogh;if &thorn;ei desiren to be riche &thorn;ei
+ ben not pore in spiri&yogh;t&middot; but &thorn;ei ben coueytous
+
+<MILESTONE UNIT="folio" N="130r">
+
+for defau&yogh;t of loue&middot; &amp; coueytise distrie&thorn; loue&middot; ri&yogh;t
+ so porenesse in spiri&yogh;t come&thorn; ou&yogh;t of loue&middot; &amp; norische
+ i&thorn; loue&middot; Also &amp; &thorn;er is no trewe cristen man&middot; but &yogh;if
+ he haue &thorn;is porenesse in spiri&yogh;t&middot;</P>
+ <P>&para;In a no&thorn;er place also
+ crist techi&thorn; vs to ben pore in spiry&yogh;t&middot; &amp; to leuen co|ueytise&middot; for &thorn;er com a man to crist &amp; preyde hym
+ to departen his heritage be twix his bro&thorn;er &amp; hym
+ &amp; crist seyde man who made me domes man on
+ &yogh;ow &amp; &thorn;oo he seyde to his disciples&middot; be &yogh;e war of e|ueriche coueytise&middot; for no mannes lyuyng is in &thorn;e ha|bundaunce of his goodis &thorn;at he ha&thorn;&middot;<NOTE>Lk 12.14-15</NOTE> &para; Of &thorn;e why|che wordes it wil folewe &thorn;at it is coueytise&middot; for
+ aman to wilne more &thorn;an hym nede&thorn; to his ly|uyng&middot; and herefore crist bad his disciples &thorn;at &thorn;ei
+ schulde not maken here tresoure in er&thorn;e &thorn;er as rust
+ &amp; mowtis mowe destrye hit &amp; &thorn;ere as &thorn;eues mo|wen digge &thorn;erto &amp; stelen hit a wey&middot; but he seyde
+ make&thorn; &yogh;owre tresoure in heuene &thorn;er as is now&thorn;er
+ rust ne mowte &amp; &thorn;er &thorn;eues ne mowe not comen
+ &thorn;er to ne stelen it a wey&middot; for &thorn;er as &thorn;i tresour is&middot; &thorn;er
+ is &thorn;in herte<NOTE>Mt 6.19-21</NOTE></P>
+ <P>&para; And afterward he seyde &thorn;er may no
+ man seruen two lordes&middot; for or he mut haten &thorn;e
+ toon &amp; loue &thorn;at o&thorn;ere&middot; O&thorn;ere susteyne &thorn;at oon
+ &amp; dispise &thorn;at o&thorn;er &yogh;e mowe not serue god &amp; &yogh;oure
+ richesses &amp; &thorn;erfore I sey &yogh;ow&middot; ne be &yogh;e not besy to &yogh;oure
+ soule what &yogh;e eeten&middot; ne to &yogh;oure body how &yogh;e ben
+ clo&thorn;ed&middot; for &thorn;e soule is more wor&thorn;i &thorn;an mete &amp;
+ &thorn;e body more wor&thorn;i &thorn;an clo&thorn;ing&middot; be holde&thorn; &thorn;e brid|des of heuene &thorn;at nou&thorn;er sowen ne repen ne
+ gaderen nou&yogh;t in to bernes &amp; &yogh;oure heuenly
+ fader fedi&thorn; hem&middot; And ne be &yogh;e not more wor&thorn;i
+ &thorn;an &thorn;ei ben&middot; And whyche of &yogh;ow &thorn;inking may
+ throwen a cubyte to his stature &para;And of clo&thorn;ing
+
+<MILESTONE UNIT="folio" N="130v">
+
+ware to be &yogh;e bisy&middot; be holde&thorn; &thorn;e lilies of &thorn;e feld how
+ &thorn;ei growen / &thorn;ei nou&thorn;er trauelen ne spynnen&middot; &amp; I
+ sey &yogh;ow &thorn;at salomon in alle his blisse ne was not
+ i-clo&thorn;ed as on of &thorn;es&middot; And &yogh;if god clo&thorn;e so &thorn;e he|ygh of &thorn;e feld&middot; &thorn;at growe&thorn; to day or to morewe
+ is cast in to &thorn;e houene&middot; myche more he wil clo&thorn;e
+ &yogh;ow of litul fei&thorn;&middot; &para;And &thorn;erfore be &yogh;e not besy sey|ing what schul we ete&middot; or what schulle we dri|nk or how schullen we ben clo&thorn;ed&middot; for alle &thorn;es &thorn;in|ges mysbeleued men enqueren&middot; &amp; &thorn;erfore seche&thorn; first
+ &thorn;e kyngdom of heuene &amp; &thorn;e ri&yogh;tfulnesse &thorn;er of &amp;
+ al &thorn;ese &thorn;inges schul ben i-cast to &yogh;ow&middot;<NOTE>Mt 6.24-33</NOTE> Of &thorn;is
+ men mown i-se &thorn;at si&thorn;en a cristen man ne sch|ulde not ben bisy in his &thorn;ou&yogh;t a boute his <ADD><UNCLEAR>mete ne aboute his</UNCLEAR></ADD> drynk
+ ne aboute his clo&thorn;ing &amp; &yogh;it hym nede&thorn; al &thorn;is to
+ his lyuyng&middot; for no &thorn;ing he ne schulde not be be|sy to gete myche richesse for &thorn;at nede&thorn; not to a man|nes lyuyng&middot; And si&thorn; god do&thorn; al &thorn;at he do&thorn; in me|sure&middot; &amp; is so mesurable in &yogh;euyng&middot; &thorn;at he ne &yogh;eue&thorn;
+ no man more &thorn;en hym nede&thorn;&middot; <ADD><UNCLEAR>ne fayleth no man in &thorn;at &thorn;ing &thorn;at him nedit</UNCLEAR></ADD> A gret synne it is
+ to wilne more &thorn;an a man nedi&thorn;&middot; for it is couey|tise&middot; &amp; he &thorn;at holde&thorn; goddis goodes in his kepyng
+ to spende hem for is owne lust&middot; &thorn;er as it is no ne|de&middot; It is certeyn &thorn;at he holde&thorn; &thorn;ilk goodis a&yogh;eyns
+ goddis wille &amp; &thorn;anne he is a &thorn;ef &thorn;at robbe&thorn; god
+ of his goodis&middot; &amp; not oonliche god&middot; but o&thorn;ere pore
+ men also &thorn;at neden siche goodis&middot; for god ne &yogh;eue&thorn;
+ nou&yogh;t to oo man more richesse &thorn;an to a no&thorn;er
+ oonliche for hym seluen&middot; but for he schulde
+ departen it among his nedy bre&thorn;eren&middot; &amp; but a
+ man do &thorn;us he nis not in charite&middot; for as seynt
+ Joon sei&thorn;&middot; who &thorn;at <ADD>ha<UNCLEAR>&thorn;</UNCLEAR></ADD> substaunce of &thorn;e world &amp; see&thorn;
+ his bro&thorn;er haue nede&middot; &yogh;if he close his herte from
+
+<MILESTONE UNIT="folio" N="131r">
+
+his bro&thorn;ere&middot; how dwelli&thorn; &thorn;e charite of god wi&thorn;|Inne hym&middot;<NOTE>1 Jn 3.17</NOTE> And &thorn;erfore he sei&thorn; ne loue we not in word
+ ne in tunge but in dede &amp; in treu&thorn;e&middot;<NOTE>1 Jn 3.18</NOTE></P>
+ <P>&para;And a ful hard
+ word sey&thorn; seynt Jame to riche men of &thorn;e world&middot; for he
+ sei&thorn; wepe &yogh;e riche men&middot; &amp; make &yogh;e sorewe&middot; for &thorn;e wrec|hednes &thorn;at schal come to &yogh;ow her aftur&middot; &yogh;oure ri|ches is for rotid&middot; &amp; &yogh;owre clo&thorn;es ben i-eten wi&thorn; mo|wtes&middot; &yogh;owre gold &amp; &yogh;ower siluer is i-rustid&middot; &amp; &yogh;owr<UNCLEAR>e</UNCLEAR>
+ rust schal ben in wittenissyng to &yogh;ow&middot; &amp; schal ete
+ &yogh;oure flesch as fuyr&middot; &yogh;e tresore&thorn; to &yogh;ow &thorn;e wra&thorn;e
+ of god in &thorn;e last dayes&middot;<NOTE>Jas 5.1-3</NOTE> wolde god &thorn;at &thorn;ese riche men
+ wolden take kepe to seynt poules wordes as he
+ sei&thorn;&middot; we browten no &thorn;ing in to &thorn;is world&middot; &amp; it is
+ no doute &thorn;at we mowen bere no &thorn;ing hennes &amp;
+ &thorn;erfore haue <SUPPLIED>we</SUPPLIED> liflode &amp; helyng be we apayed&middot; for &thorn;ilk
+ &thorn;at wilne&thorn; to ben i-maad riche &thorn;ei fallen in to temp|tacioun&middot; &amp; in to &thorn;e deuels grene &amp; in to many vn|profytable desires &amp; noyful &thorn;at drenchen men in-|to de&thorn; &amp; in to perdicioun&middot; for &thorn;e rote of al yuel is co|ueytise&middot; &thorn;e whyche sum men han desired &amp; han i-er|red from her fei&thorn; &amp; han i-brou&yogh;t hem seluen in-|to myche sor<UNCLEAR>e</UNCLEAR><NOTE>1 Tm 6.7-10</NOTE>we &para; And <ADD>he</ADD> bidde&thorn; riche men of &thorn;e
+ world &thorn;at &thorn;ei hope not in &thorn;e victorie of richesses but
+ in god &thorn;at lyue&thorn;&middot; &thorn;at &yogh;eue&thorn; vs alle &thorn;inges plente|uosliche to vsen hem &amp; to do wil wi&thorn; hem&middot; &amp; to
+ ben i-made riche in goode werkes in &yogh;euynge li&yogh;t|liche &amp; in comunyng here goodes to hem&middot; &thorn;at ben
+ nedy to maken hem tresour &amp; a good fundement
+ here after &thorn;at &thorn;ei mowen hauen &thorn;at lyf &thorn;at
+ wil lasten wi&thorn; outen ende&middot;<NOTE>1 Tm 6.17-19</NOTE> &para; And herfore sire be &yogh;e
+ pore in spiri&yogh;t&middot; &amp; leue&thorn; couetise / &yogh;if &yogh;e &thorn;inken co|me to heuene&middot; for coueytise is a seruice of fals
+ goddis as seynt poule sei&thorn;&middot; &amp; siche schul not haue
+
+<MILESTONE UNIT="folio" N="131v">
+
+&thorn;e kyngdome of heuene as he sei&thorn; in certen&middot;<NOTE>Col 3.5</NOTE></P>
+<P>&para; Treu|&thorn;e is a no&thorn;er uertu&middot; &thorn;at come&thorn; ou&yogh;t of loue&middot; &amp; norische&thorn;
+ loue also&middot; for who &thorn;at loue&thorn; god&middot; he wole loue trew|&thorn;e &amp; be trewe bo&thorn;e in werk &amp; in word&middot; for god hym self
+ is treu&thorn;e &amp; endeles trewe&middot; as he sei&thorn; in &thorn;e gospel &thorn;e de|uel was mansleere from &thorn;e be gynnyng&middot; &amp; ne ha&thorn;
+ not stonden in treu&thorn;e&middot; for treu&thorn;e is not in hym and
+ whanne he speke&thorn; <ADD><UNCLEAR>lesing he spekyt</UNCLEAR></ADD> of his owene&middot; for he is alyere &amp; fa|der of lesynges<NOTE>Jn 8.44</NOTE> &para;And si&thorn; crist come to bringe vs ou&yogh;t
+ of &thorn;e deueles seruice to ben goddis childeren &amp; his
+ seruauntes also&middot; Nedeliche we moten leue alle ma|nere lesynges for crist sei&thorn; who &thorn;at do&thorn; synne&middot; is seruant
+ of synne&middot;<NOTE>Jn 8.34</NOTE> and &thorn;anne who &thorn;at make&thorn; lesyng he is
+ seruaunt of lesyng&middot; &amp; of &thorn;e deuel &thorn;at is fader of lesynges&middot; But a cristen man &thorn;at is goddis child &amp;
+ loue&thorn; hym a bouen alle o&thorn;ere &thorn;inges <ADD>nil do no &thorn;inges</ADD> &thorn;at may de-|parten hym from his fader of heuene&middot; &amp; &thorn;anne
+ mout he leuen alle manere lesynges &amp; alle ma|nere falsenesses &para; And for crist wolde &thorn;at his ser|uauntes weren perfy&yogh;t bo&thorn;e in loue &amp; in treu&thorn;e&middot;
+ ri&yogh;t as he made an ende of alle maner vntreu&thorn;e
+ ri&yogh;t so in his cummyng&middot; he made an ende of o&thorn;es
+ &thorn;at neuere weren i-ordeyned&middot; but for defaute of
+ treu&thorn;e&middot; for among trewe men nede&thorn; noon o&thorn;es
+ &amp; herfore crist sei&thorn;&middot; It was seyd sumtyme&middot; &thorn;ou sch|alt not for swere &thorn;e but &thorn;ou schalt &yogh;elde to god
+ &thorn;in o&thorn;es&middot; but I sey &yogh;ow &thorn;at &yogh;e sweren for no &thorn;ing
+ not bi heuene&middot; for hit is goddis trone&middot; ne be
+ er&thorn;e for hit is &thorn;e stool of his feet&middot; ne bi Ierusa|lem&middot; for hit is a greet kynges citee&middot; Ne swere
+ &thorn;ou not be &thorn;in heued for &thorn;ou mi&yogh;t <SUPPLIED>nou&yogh;t</SUPPLIED> make oon whit
+ here ne blak&middot; but <SUPPLIED>&yogh;</SUPPLIED>oure word be &yogh;e&middot;&yogh;e&middot;nay&middot;nay&middot; &amp;
+ &thorn;at &thorn;at is more &thorn;an &thorn;is is of yuul<NOTE>Mt 5.33-37</NOTE> &para; And seynt
+
+<MILESTONE UNIT="folio" N="132r">
+
+Iame sei&thorn;&middot; bi foren alle &thorn;inges my dere bre&thorn;eren
+ ne swere &yogh;e not bi heuene ne by er&thorn;e ne be non
+ o&thorn;ere o&thorn;e&middot; but be &yogh;oure word&middot; &yogh;e &yogh;e&middot; nay nay&middot; &thorn;at
+ &yogh;e fallen not vndur doom&middot;<NOTE>Jas 5.12</NOTE></P>
+ <P>&para;Chastite is &thorn;e sixte
+ vertu &thorn;at come&thorn; ou&yogh;t of loue&middot; &amp; norysche&thorn; loue&middot;
+ &para;Also for he &thorn;at loue&thorn; god nyl not take no
+ lust &thorn;at is displesyng to god&middot; ne &thorn;at <DEL>h</DEL>is har|meful to his bro&thorn;er ne to his sister &para; And crist <ADD><UNCLEAR>seyth<GAP><SUPPLIED>hyt was</SUPPLIED></UNCLEAR></ADD>
+ seyde summe tyme &thorn;ou schalt doon no lecherie
+ but I seye &yogh;ow who &thorn;at se&thorn; a womman&middot; for to couey|ten hire&middot; he ha&thorn; doon lecherye in his herte&middot; wi&thorn; &thorn;at
+ womman &para; And &thorn;erfore &yogh;if &thorn;i ri&yogh;t eye sclaundre &thorn;e
+ pul hym ou&yogh;t&middot; &amp; &thorn;row hym a wey from &thorn;e for
+ hit is spedeful to &thorn;e &thorn;at on of &thorn;i membris per|ysche&middot; &thorn;an al &thorn;i body go in to &thorn;e fuyr of helle &amp;
+ &yogh;if &thorn;i ri&yogh;t hond sclaundre &thorn;e kytte hym of &amp; &thorn;ro|we hym a wey fro &thorn;e&middot; for it is spedful to &thorn;e &thorn;at
+ oon of &thorn;in membris perische &thorn;an al &thorn;i body go
+ in to &thorn;e fuyr of helle&middot; Crist sei&thorn; also it was sey|de summe tyme&middot; who &thorn;at leue&thorn; his wif&middot; &yogh;eue he hi|re a libel of hire puttyng a wey&middot; but I seye &yogh;ow
+ he &thorn;at leue&thorn; his wyf&middot; but it be for cause of for|nicacioun he make&thorn; hire do lecherie&middot; &amp; he &thorn;at wed|de&thorn; a womman &thorn;at is left of hire housbonde bre|ke&thorn; spousehed&middot;<NOTE>Mt 5.27-32</NOTE> &para; And in a tyme &thorn;e pharisees axe|den crist whe&thorn;er it where lefful to leuen to a man
+ his wif for any enchesoun&middot; &amp; he seyde ne haue &yogh;e
+ not rad &thorn;at he <DEL>&thorn;at<GAP></DEL> &thorn;at made man from &thorn;e be|gynnyng made &amp; womman &amp; seyde&middot; herfore aman
+ schal leuen fadir &amp; modir and drawen hym to
+ his wyf&middot; And &thorn;ei schul<DEL>de</DEL> be two in oon flesch&middot;
+ But now &thorn;ei ben not two but oon fleysch&middot; &amp;
+ &thorn;erefore &thorn;at god ha&thorn; ioyned no man departe&middot;
+
+<MILESTONE UNIT="folio" N="132v">
+
+And &thorn;oo &thorn;ei seyden what is &thorn;is &thorn;anne&middot; &thorn;at moyses
+ bad &thorn;at &thorn;ere schulde be &yogh;euen a libel of puttyng awey
+ And so aman schulde leuen his wyf&middot; And crist sey|de&middot; for moyses sufferid &thorn;ow haue &yogh;owre wyfes after
+ &thorn;e hardenesse of &yogh;owre hertes&middot; But from &thorn;e by|gynnyng hit was not so And I sey &yogh;ow who
+ &thorn;at <DEL>wedde&thorn;</DEL> leue&thorn; his wyf&middot; but hit be for forni|cacioun &amp; wedde&thorn; a no&thorn;er he do&thorn; fornicacioun&middot; And
+ who &thorn;at weddi&thorn; a womman &thorn;at is lefte of hire
+ housbonde&middot; do&thorn; <DEL>fornicacioun</DEL> lecherie<NOTE>Mt 19.3-9</NOTE></P>
+ <P>&amp; &thorn;oo seyden
+ his disciples&middot; &yogh;if it be so be twene aman &amp; his
+ wyf&middot; It is not spedeful to be wedded&middot; And crist
+ seyde alle men ne take not &thorn;is word&middot; but &thorn;ilk
+ &thorn;at it is graunted to&middot; for &thorn;er ben men i-geldid
+ &thorn;at ben i-born of her moder wombe&middot; And &thorn;er ben
+ summe &thorn;at ben i-geldid of men&middot; &amp; &thorn;er ben summe
+ men &thorn;at gelden hem seluen&middot; for &thorn;e kyngdome of
+ heuene&middot; Who &thorn;at may take &thorn;is take he in &thorn;is
+ wyse&middot;<NOTE>Mt 19.10-12</NOTE></P>
+ <P>Sire in &thorn;es two comaundementes of loue
+ is al goodnesse fulfild&middot; &amp; al euel eschewed&middot; &amp;
+ so &thorn;e lyuynge of oure soule &amp; &thorn;e ri&yogh;t weye to
+ heuene is to be leuyn stedefastliche in crist &amp; to
+ kepe &thorn;es two comaundementes of loue.</P></SP>
+</DIV1>
+</BODY>
+</TEXT>
+</TEI.2>

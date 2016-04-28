@@ -1,0 +1,3422 @@
+<!DOCTYPE ETS PUBLIC "-//UMDLPS//DTD Proof 1.0//EN">
+<ETS ID="AHA2626">
+<TEMPHEAD>
+<REVDESCR>
+<CHANGE>
+<DATE>8-22-00;9-11-00</DATE>
+<RESPSTMT>
+<NAME>lattaj</NAME>
+<RESP>MURP</RESP>
+</RESPSTMT>
+<ITEM>Added TYPE attributes to DIVs and LGs in order to validate. Proofed title page; replaced quotation marks; checked punctuation and ligatures; checked proof sheets and transcription errors; the "Emendations, Etc." on p.[liv]-lv not incorporated (presumably not to be done).</ITEM>
+</CHANGE>
+</REVDESCR>
+</TEMPHEAD>
+<TEXT>
+<FRONT>
+<DIV1 TYPE="omitted front matter"><P>
+
+<PB REF="00000001.tif" N="[half title]">
+
+</P>
+
+</DIV1>
+<TITLEPAGE><PB REF="00000002.tif">
+<DOCTITLE>
+
+<PB REF="00000003.tif" N="[t.p.]">
+<TITLEPART TYPE="main">The Lay of Havelok the Dane:</TITLEPART>
+<TITLEPART TYPE="sub">COMPOSED IN THE REIGN OF EDWARD I, ABOUT A.D. 1280.</TITLEPART>
+</DOCTITLE>
+<BYLINE>FORMERLY EDITED BY SIR F. MADDEN FOR THE ROXBURGHE CLUB, AND NOW RE-EDITED FROM THE UNIQUE MS. LAUD MISC. 108, IN THE BODLEIAN LIBRARY, OXFORD;<LB>BY THE<LB>REV. <DOCAUTHOR>WALTER W. SKEAT,</DOCAUTHOR> M.A., AUTHOR OF "A M&OElig;SO-GOTHIC GLOSSARY," EDITOR OF "PIERS PLOWMAN," "WILLIAM OF PALERNE," &amp;c.</BYLINE>
+<DOCIMPRINT><PUBPLACE>LONDON:</PUBPLACE>
+<PUBLISHER>PUBLISHED FOR THE EARLY ENGLISH TEXT SOCIETY, BY N. TR&Uuml;BNER &amp; CO., 60, PATERNOSTER ROW.</PUBLISHER>
+<DOCDATE>MDCCCLXVIII.</DOCDATE></DOCIMPRINT>
+
+<PB REF="00000004.tif" N="[t.p. verso]">
+<DOCEDITION>Extra Series, IV.</DOCEDITION>
+<DOCIMPRINT><PUBLISHER>JOHN CHILDS AND SON, PRINTERS.</PUBLISHER></DOCIMPRINT>
+</TITLEPAGE>
+<DIV1 TYPE="omitted front matter"><P>
+
+<PB REF="00000005.tif">
+
+<PB REF="00000006.tif">
+
+<PB REF="00000007.tif" N="[i]">
+
+<PB REF="00000008.tif" N="ii">
+
+<PB REF="00000009.tif" N="iii">
+
+<PB REF="00000010.tif" N="iv">
+
+<PB REF="00000011.tif" N="v">
+
+<PB REF="00000012.tif" N="vi">
+
+<PB REF="00000013.tif" N="vii">
+
+<PB REF="00000014.tif" N="viii">
+
+<PB REF="00000015.tif" N="ix">
+
+<PB REF="00000016.tif" N="x">
+
+<PB REF="00000017.tif" N="xi">
+
+<PB REF="00000018.tif" N="xii">
+
+<PB REF="00000019.tif" N="xiii">
+
+<PB REF="00000020.tif" N="xiv">
+
+<PB REF="00000021.tif" N="xv">
+
+<PB REF="00000022.tif" N="xvi">
+
+<PB REF="00000023.tif" N="xvii">
+
+<PB REF="00000024.tif" N="xviii">
+
+<PB REF="00000025.tif" N="xix">
+
+<PB REF="00000026.tif" N="xx">
+
+<PB REF="00000027.tif" N="xxi">
+
+<PB REF="00000028.tif" N="xxii">
+
+<PB REF="00000029.tif" N="xxiii">
+
+<PB REF="00000030.tif" N="xxiv">
+
+<PB REF="00000031.tif" N="xxv">
+
+<PB REF="00000032.tif" N="xxvi">
+
+<PB REF="00000033.tif" N="xxvii">
+
+<PB REF="00000034.tif" N="xxviii">
+
+<PB REF="00000035.tif" N="xxix">
+
+<PB REF="00000036.tif" N="xxx">
+
+<PB REF="00000037.tif" N="xxxi">
+
+<PB REF="00000038.tif" N="xxxii">
+
+<PB REF="00000039.tif" N="xxxiii">
+
+<PB REF="00000040.tif" N="xxxiv">
+
+<PB REF="00000041.tif" N="xxxv">
+
+<PB REF="00000042.tif" N="xxxvi">
+
+<PB REF="00000043.tif" N="xxxvii">
+
+<PB REF="00000044.tif" N="xxxviii">
+
+<PB REF="00000045.tif" N="xxxix">
+
+<PB REF="00000046.tif" N="xl">
+
+<PB REF="00000047.tif" N="xli">
+
+<PB REF="00000048.tif" N="xlii">
+
+<PB REF="00000049.tif" N="xliii">
+
+<PB REF="00000050.tif" N="xliv">
+
+<PB REF="00000051.tif" N="xlv">
+
+<PB REF="00000052.tif" N="xlvi">
+
+<PB REF="00000053.tif" N="xlvii">
+
+<PB REF="00000054.tif" N="xlviii">
+
+<PB REF="00000055.tif" N="xlix">
+
+<PB REF="00000056.tif" N="l">
+
+<PB REF="00000057.tif" N="li">
+
+<PB REF="00000058.tif" N="lii">
+
+<PB REF="00000059.tif" N="liii">
+
+<PB REF="00000060.tif" N="liv">
+
+<PB REF="00000061.tif" N="lv">
+
+</P>
+
+</DIV1>
+</FRONT>
+<BODY>
+<DIV1 TYPE="poem"><PB REF="00000062.tif">
+
+<PB REF="00000063.tif" N="1">
+<HEAD>Incipit vita Hauelok, quondam Rex Anglie et Denemarchie.</HEAD>
+<LG TYPE="stanza">
+<L>Herknet to me, gode men,<MILESTONE N="204a:1" UNIT="folio"></L>
+<L>Wiues, maydnes, and alle men,</L>
+<L>Of a tale &thorn;at ich you wile telle,</L>
+<L N="4">Wo so it wile here, and &thorn;er-to duelle.</L>
+<L>&THORN;e tale is of hauelok i-maked;</L>
+<L>Wil he was litel he yede ful naked:</L>
+<L>Hauelok was a ful god gome,</L>
+<L N="8">He was ful god in eueri trome,</L>
+<L>He was &thorn;e wicteste man at nede,</L>
+<L>&THORN;at &thorn;urte riden on ani stede.</L>
+<L>&THORN;at ye mowen nou y-here,</L>
+<L N="12">And &thorn;e tale ye mowen y-lere.</L>
+<L>At the beginning<NOTE PLACE="foot">MS. Beginnig.</NOTE> of vre tale,</L>
+<L>Fil me a cuppe of ful god ale;</L>
+<L>And [y] wile drinken her y spelle,</L>
+<L N="16">&THORN;at crist vs shilde alle fro helle!</L>
+<L>Krist late vs heuere so for to do,</L>
+<L>&THORN;at we moten comen him to,</L>
+<L>And wit[e]<NOTE PLACE="foot"><I>See</I> ll. 517, 1316.</NOTE> &thorn;at it mote ben so!</L>
+<L N="20">Benedicamus <I>domino!</I></L>
+<L>Here y schal biginnen a rym,</L>
+<L>Krist us yeue wel god fyn!
+<PB REF="00000064.tif" N="2"></L>
+<L>The rym is maked of hauelok,</L>
+<L N="24">A stalwor&thorn;i man in a flok;</L>
+<L>He was &thorn;e stalwor&thorn;este man at nede,</L>
+<L>&THORN;at may riden on ani stede.</L>
+</LG>
+<LG TYPE="stanza">
+<L>IT was a king bi are dawes,</L>
+<L N="28">That in his time were gode lawes</L>
+<L>He dede maken, an ful wel holden;</L>
+<L>Hym louede yung, him louede holde,</L>
+<L>Erl and barun, dreng and kayn,</L>
+<L N="32">Knict, bondeman, and swain,</L>
+<L>Wydues, maydnes, prestes and clerkes,</L>
+<L>And al for hise gode werkes.</L>
+<L>He louede god with al his micth,</L>
+<L N="36">And holi kirke, and soth, ant ricth;</L>
+<L>Ricth-wise<NOTE PLACE="foot">MS. "Rirth wise."</NOTE> men he louede alle,</L>
+<L>And oueral made hem forto calle;</L>
+<L>Wreieres and wrobberes made he falle,</L>
+<L N="40">And hated hem so man doth galle;</L>
+<L>Vtlawes and theues made he bynde,</L>
+<L>Alle that he micthe fynde,</L>
+<L>And heye hengen on galwe-tre;</L>
+<L N="44">For hem ne yede gold ne fe.</L>
+<L>In that time a man &thorn;at bore</L>
+<L>[Wel fyfty pund, y woth, or more,]<NOTE PLACE="foot">Supplied from conjecture. Cf. v. 653, 787. A few more instances will be found where a similar liberty has been taken, for the purpose of completing the sense.</NOTE></L>
+<L>Of red gold up-on hijs bac,<MILESTONE N="204a:2" UNIT="folio"></L>
+<L N="48">In a male with or blac,</L>
+<L>Ne funde he non that him misseyde,</L>
+<L>N[e] with iuele on [him] hond leyde.</L>
+<L>&THORN;anne micthe chapmen fare</L>
+<L N="52">&THORN;uruth englond wit here ware,</L>
+<L>And baldelike beye and sellen,</L>
+<L>Oueral &thorn;er he wilen dwellen,
+<PB REF="00000065.tif" N="3"></L>
+<L>In gode burwes, and &thorn;er-fram</L>
+<L N="56">Ne funden he non &thorn;at dede hem sham,</L>
+<L>&THORN;at he ne weren sone to sorwe brouth,</L>
+<L>An pouere maked, and browt to nouth.</L>
+<L>&THORN;anne was engelond at hayse;<NOTE PLACE="foot">MS. athayse.</NOTE></L>
+<L N="60">Michel was svich a king to preyse,</L>
+<L>&THORN;at held so eng[e]lond in grith!</L>
+<L>Krist of heuene was him with.</L>
+<L>He was engelondes blome;</L>
+<L N="64">Was non so bold lond to rome,</L>
+<L>&THORN;at durste upon his [menie] bringhe</L>
+<L>Hunger, ne here wicke &thorn;inghe.</L>
+<L>Hwan he felede hise foos,</L>
+<L N="68">He made hem lurken, and crepen in wros;</L>
+<L>&THORN;e hidden hem alle, and helden hem stille,</L>
+<L>And diden al his herte wille.</L>
+<L>Ricth he louede of alle &thorn;inge,</L>
+<L N="72">To wronge micht him no man bringe,</L>
+<L>Ne for siluer, ne for gold:&mdash;</L>
+<L>So was he his soule hold.</L>
+<L>To &thorn;e faderles was he rath,</L>
+<L N="76">Wo so dede hem wrong or lath,</L>
+<L>Were it clerc, or were it knicth,</L>
+<L>He dede hem sone to hauen ricth;</L>
+<L>And wo [so] diden widuen wrong,</L>
+<L N="80">Were he neure knicth so strong,</L>
+<L>&THORN;at he ne made him sone kesten,</L>
+<L>And in feteres ful faste festen;</L>
+<L>And wo so dide maydne shame</L>
+<L N="84">Of hire bodi, or brouth in blame,</L>
+<L>Bute it were bi hire wille,</L>
+<L>He<NOTE PLACE="foot">MS. Ke.</NOTE> made him sone of limes spille.</L>
+<L>He was te<NOTE PLACE="foot">MS. Ke waste.</NOTE> beste knith at nede,</L>
+<L N="88">&THORN;at heuere micthe riden on stede,</L>
+<L>Or wepne wagge, or folc vt lede;
+<PB REF="00000066.tif" N="4"></L>
+<L>Of knith ne hauede he neuere drede,</L>
+<L>&THORN;at he ne sprong forth so sparke of glede,</L>
+<L N="92">And lete him [knawe] of hise hand-dede,<MILESTONE N="204b:1" UNIT="folio"></L>
+<L>Hw he cou&thorn;e with wepne spede;</L>
+<L>And o&thorn;er he refte him hors or wede,</L>
+<L>Or made him sone handes sprede,</L>
+<L N="96">And "louerd, merci!" loude grede.</L>
+<L>He was large, and no wicth gnede;</L>
+<L>Hauede he non so god brede,</L>
+<L>Ne on his bord non so god shrede,</L>
+<L N="100">&THORN;at he ne wolde &thorn;orwit fede,</L>
+<L>Poure &thorn;at on fote yede;</L>
+<L>Forto hauen of him &thorn;e mede</L>
+<L>&THORN;at for vs wolde on rode blede,</L>
+<L N="104">Crist, that al kan wisse and rede,</L>
+<L>&THORN;at euere woneth in ani &thorn;ede.</L>
+</LG>
+<LG TYPE="stanza">
+<L>&para; &THORN;e king was hoten a&thorn;elwold,</L>
+<L>Of word, of wepne he was bold;</L>
+<L N="108">In engeland was neure knicth,</L>
+<L>&THORN;at betere hel &thorn;e lond to ricth.</L>
+<L>Of his bodi ne hauede he eyr</L>
+<L>Bute a mayden swi&thorn;e fayr,</L>
+<L N="112">&THORN;at was so yung &thorn;at sho ne cou&thorn;e</L>
+<L>Gon on fote, ne speke wit mou&thorn;e.</L>
+<L>&THORN;an him tok an iuel strong,</L>
+<L>&THORN;at he we[l] wiste, and under-fong,</L>
+<L N="116">&THORN;at his deth was comen him on:</L>
+<L>And seyde, "crist, wat shal y don!</L>
+<L>Louerd, wat shal me to rede!</L>
+<L>I woth ful wel ich haue mi mede.</L>
+<L N="120">W shal nou mi douhter fare?</L>
+<L>Of hire haue ich michel kare;</L>
+<L>Sho is mikel in mi &thorn;outh,</L>
+<L>Of me self is me rith nowt.</L>
+<L N="124">No selcouth is, &thorn;ou me be wo;
+<PB REF="00000067.tif" N="5"></L>
+<L>Sho ne kan speke, ne sho kan go.</L>
+<L>Yif scho cou&thorn;e on horse ride,</L>
+<L>And a thousande men bi hire syde;</L>
+<L N="128">And sho were comen intil helde,</L>
+<L>And engelond sho cou&thorn;e welde;</L>
+<L>And don hem of &thorn;ar hire were queme,</L>
+<L>An hire bodi cou&thorn;e yeme;</L>
+<L N="132">No wolde me neuere iuele like</L>
+<L>Me &thorn;ou ich were in heuene-riche!"</L>
+</LG>
+<LG TYPE="stanza">
+<L>Quanne he hauede &thorn;is pleinte maked,</L>
+<L>&THORN;er-after stronglike [he] quaked.</L>
+<L N="136">He sende writes sone on-on</L>
+<L>After his erles euere-ich on;<MILESTONE N="204b:2" UNIT="folio"></L>
+<L>And after hise baruns, riche and poure,</L>
+<L>Fro rokesburw al into douere,</L>
+<L N="140">That he shulden comen swi&thorn;e</L>
+<L>Til him, that was ful vnbli&thorn;e;</L>
+<L>To &thorn;at stede &thorn;e[r] he lay,</L>
+<L>In harde bondes, nicth and day.</L>
+<L N="144">He was so faste wit yuel fest,</L>
+<L>&THORN;at he ne mouthe hauen no rest;</L>
+<L>He ne mouthe no mete hete,</L>
+<L>Ne he ne mouchte no ly&thorn;e gete;</L>
+<L N="148">Ne non of his iuel &thorn;at cou&thorn;e red;</L>
+<L>Of him ne was nouth buten ded.</L>
+</LG>
+<LG TYPE="stanza">
+<L>Alle &thorn;at the writes herden,</L>
+<L>Sorful an sori til him ferden;</L>
+<L N="152">He wrungen hondes, and wepen sore,</L>
+<L>And yerne preyden cristes hore,</L>
+<L>&THORN;at he [wolde] turnen him</L>
+<L>Vt of &thorn;at yuel &thorn;at was so grim!</L>
+<L N="156">&THORN;anne he weren comen alle</L>
+<L>Bifor &thorn;e king into the halle,</L>
+<L>At winchestre &thorn;er he lay:
+<PB REF="00000068.tif" N="6"></L>
+<L>"Welcome," he seyde, "be ye ay!</L>
+<L N="160">Ful michel &thorn;ank[e] kan [y] yow</L>
+<L>That ye aren comen to me now!"</L>
+</LG>
+<LG TYPE="stanza">
+<L>Quanne he weren alle set,</L>
+<L>And &thorn;e king aueden i-gret,</L>
+<L N="164">He greten, and gouleden, and gouen hem ille,</L>
+<L>And he bad hem alle ben stille;</L>
+<L>And seyde, "&thorn;at greting helpeth nouth,</L>
+<L>For al to dede am ich brouth.</L>
+<L N="168">Bute nov ye sen &thorn;at i shal deye,</L>
+<L>Nou ich wille you alle preye</L>
+<L>Of mi douther &thorn;at shal be</L>
+<L>Yure leuedi after me,</L>
+<L N="172">Wo may yemen hire so longe,</L>
+<L>Bo&thorn;en hire and engelonde,</L>
+<L>Til &thorn;at she [mowe] winan of helde,</L>
+<L>And &thorn;a she mowe yemen and welde?"</L>
+<L N="176">He ansuereden, and seyden an-on,</L>
+<L>Bi crist and bi seint ion,</L>
+<L>That &thorn;erl Godrigh of cornwayle</L>
+<L>Was trewe man, wit-uten faile;</L>
+<L N="180">Wis man of red, wis man of dede,</L>
+<L>And men haueden of him mikel drede.</L>
+<L>"He may hire al&thorn;er-best[e] yeme,<MILESTONE N="205a:1" UNIT="folio"></L>
+<L>Til &thorn;at she mowe wel ben quene."</L>
+</LG>
+<LG TYPE="stanza">
+<L N="184">&thorn;e king was payed of that Rede;</L>
+<L>A wol fair cloth bringen he dede,</L>
+<L>And &thorn;er-on leyde &thorn;e messebok,</L>
+<L>&THORN;e caliz, and &thorn;e pateyn ok,</L>
+<L N="188">&THORN;e corporaus, &thorn;e messe-gere;</L>
+<L>&THORN;er-on he garte &thorn;e erl suere,</L>
+<L>&THORN;at he sholde yemen hire wel,</L>
+<L>With-uten lac, wit-uten tel,</L>
+<L N="192">Til &thorn;at she were tuelf<NOTE PLACE="foot"><I>Qu</I>. tuenti. Cf. v. 259.</NOTE> winter hold,
+<PB REF="00000069.tif" N="7"></L>
+<L>And of speche were bold;</L>
+<L>And &thorn;at she cov&thorn;e of curteysye,</L>
+<L>Gon, and speken of luue-drurye;</L>
+<L N="196">And til &thorn;at she louen &thorn;oucte,<NOTE PLACE="foot">MS. mithe. But see l. 257.</NOTE></L>
+<L>Wom so hire to gode thoucte;</L>
+<L>And &thorn;at he shulde hire yeue</L>
+<L>&THORN;e beste man that micthe liue,</L>
+<L N="200">&THORN;e beste, fayreste, the strangest ok:&mdash;</L>
+<L>&THORN;at dede he him sweren on &thorn;e bok.</L>
+<L>And &thorn;anne shulde he engelond</L>
+<L>Al bitechen in-to hire hond.</L>
+</LG>
+<LG TYPE="stanza">
+<L N="204">Quanne<NOTE PLACE="foot">MS. Ouanne. And perhaps "his" should have been "&thorn;is."</NOTE> &thorn;at was sworn on his wise,</L>
+<L>&THORN;e king dede &thorn;e mayden arise,</L>
+<L>And &thorn;e erl hire bitaucte,</L>
+<L>And al the lond he euere awcte;</L>
+<L N="208">Engelonde eueri del;</L>
+<L>And preide, he shulde yeme hire wel.</L>
+</LG>
+<LG TYPE="stanza">
+<L>&thorn;e king ne mowcte don no more,</L>
+<L>But yerne preyede godes ore;</L>
+<L N="212">And dede him hoslen wel and shriue,</L>
+<L>I woth, fif hundred si&thorn;es and fiue;</L>
+<L>An ofte dede him sore swinge,</L>
+<L>And wit hondes smerte dinge;</L>
+<L N="216">So &thorn;at &thorn;e blod ran of his fleys,</L>
+<L>&THORN;at tendre was, and swi&thorn;e neys.</L>
+<L><NOTE PLACE="foot"><P>Some lines appear to be wanting here, such as&mdash;</P><L>"He &thorn;oucte his quiste &thorn;an to make,</L><L>His catel muste he wel bitake," &amp;c.</L></NOTE>And sone gaf it euere-il del;</L>
+<L>He made his quiste swi&thorn;e wel.</L>
+<L N="220">Wan it was gouen, ne micte men finde</L>
+<L>So mikel men micte him in winde,</L>
+<L>Of his in arke, ne in chiste,
+<PB REF="00000070.tif" N="8"></L>
+<L>In engelond &thorn;at noman wiste:</L>
+<L N="224">For al was youen, faire and wel,</L>
+<L>&THORN;at him was leued no catel.</L>
+</LG>
+<LG TYPE="stanza">
+<L>&THORN;anne he hauede ben ofte swngen,</L>
+<L>Ofte shriuen, and ofte dungen,<MILESTONE N="205a:2" UNIT="folio"></L>
+<L N="228">"In manus <I>tuas</I>, lou[er]de," he seyde,</L>
+<L>Her &thorn;at he &thorn;e speche leyde.</L>
+<L>To ihesu crist bigan to calle,</L>
+<L>And deyede biforn his heymen alle.</L>
+<L N="232">&THORN;an he was ded, &thorn;ere micte men se</L>
+<L>&THORN;e meste sorwe that micte be;</L>
+<L>&THORN;er was sobbing, siking, and sor,</L>
+<L>Handes wringing, and drawing bi hor.</L>
+<L N="236">Alle greten swi&thorn;e sore,</L>
+<L>Riche and poure &thorn;at &thorn;ere wore;</L>
+<L>An mikel sorwe haueden alle,</L>
+<L>Leuedyes in boure, knictes in halle.</L>
+</LG>
+<LG TYPE="stanza">
+<L N="240">Quan &thorn;at sorwe was somdel laten,</L>
+<L>And he haueden longe graten,</L>
+<L>Belles deden he sone ringen,</L>
+<L>Monkes and prestes messe singen;</L>
+<L N="244">And sauteres deden he manie reden,</L>
+<L>&THORN;at god self shulde his soule leden</L>
+<L>Into heuene, biforn his sone,</L>
+<L>And &thorn;er wit-uten hende wone.</L>
+<L N="248">&THORN;an he was to &thorn;e er&thorn;e brouth,</L>
+<L>&THORN;e riche erl ne foryat nouth,</L>
+<L>&THORN;at he ne dede al engelond</L>
+<L>Sone sayse intil his hond;</L>
+<L N="252">And in &thorn;e castels leth he<NOTE PLACE="foot">Sir F. Madden printed "lechhe"; but the MS. may be read "leth he."</NOTE> do</L>
+<L>&THORN;e knictes he micte tristen to;</L>
+<L>And alle &thorn;e englis dede he swere[n],
+<PB REF="00000071.tif" N="9"></L>
+<L>&THORN;at he shulden him ghod fey beren;</L>
+<L N="256">He yaf alle men, &thorn;at god &thorn;oucte,</L>
+<L>Liuen and deyen til &thorn;at him moucte,<NOTE PLACE="foot"><P>So in MS. But the sense requires</P><L>"He gaf alle men, &thorn;at god <I>him</I>&thorn;ouchte,</L><L>Liuen and deyen til &thorn;at <I>he</I> moucte," &amp;c.</L></NOTE></L>
+<L>Til &thorn;at &thorn;e kinges dowter wore</L>
+<L>Tuenti winter hold, and more.</L>
+</LG>
+<LG TYPE="stanza">
+<L N="260">&THORN;anne he hauede taken &thorn;is oth</L>
+<L>Of erles, baruns, lef and loth,</L>
+<L>Of knictes, cherles, fre and &thorn;ewe,</L>
+<L>Justises dede he maken newe,</L>
+<L N="264">Al engelond to faren &thorn;orw,</L>
+<L>Fro douere into rokesborw.</L>
+<L>Schireues he sette, bedels, and greyues,</L>
+<L>Grith-sergeans, wit longe gleyues,</L>
+<L N="268">To yemen wilde wodes and pa&thorn;es</L>
+<L>Fro wicke men, that wolde don sca&thorn;es;</L>
+<L>And forto hauen alle at his cri,</L>
+<L>At his wille, at his merci;</L>
+<L N="272">&THORN;at non durste ben him ageyn,<MILESTONE N="205b:1" UNIT="folio"></L>
+<L>Erl ne barun, knict ne sweyn.</L>
+<L>Wislike for soth, was him wel</L>
+<L>Of folc, of wepne, of catel.</L>
+<L N="276">So&thorn;like, in a lite &thorn;rawe</L>
+<L>Al engelond of him stod [in] awe;</L>
+<L>Al engelond was of him adrad,<NOTE PLACE="foot">MS. "adred," altered to "adrad."</NOTE></L>
+<L>So his &thorn;e beste fro &thorn;e gad.</L>
+</LG>
+<LG TYPE="stanza">
+<L N="280">&THORN;E kinges douther bigan &thorn;riue,</L>
+<L>And wex &thorn;e fayrest wman on liue.</L>
+<L>Of alle &thorn;ewes w[as] she wis,</L>
+<L>&THORN;at gode weren, and of pris.</L>
+<L N="284">&THORN;e mayden Goldeboru was hoten;</L>
+<L>For hire was mani a ter igroten.
+<PB REF="00000072.tif" N="10"></L>
+</LG>
+<LG TYPE="stanza">
+<L>Quanne the Erl godrich him herde</L>
+<L>Of &thorn;at mayden, hw we[l s]he ferde;</L>
+<L N="288">Hw wis sho was, w chaste, hw fayr,</L>
+<L>And &thorn;at sho was &thorn;e rithe eyr</L>
+<L>Of engelond, of al &thorn;e rike:&mdash;</L>
+<L>&THORN;o bigan godrich to sike,</L>
+<L N="292">And seyde, "we&thorn;er she sholde be</L>
+<L>Quen and leuedi ouer me?</L>
+<L>Hwe&thorn;er sho sholde al engelond,</L>
+<L>And me, and mine, hauen in hire hond?</L>
+<L N="296">Da&thorn;eit hwo it hire thaue!</L>
+<L>Shal sho it neuere more haue.</L>
+<L>Sholde ic yeue a fol, a &thorn;erne,</L>
+<L>Engelond, &thorn;ou sho it yerne?</L>
+<L N="300">Da&thorn;eit hwo it hire yeue,</L>
+<L>Euere more hwil i liue!</L>
+<L>Sho is waxen al to prud,</L>
+<L>For gode metes, and noble shrud,</L>
+<L N="304">&THORN;at hic haue youen hire to offte;</L>
+<L>Hic haue yemed hire to softe.</L>
+<L>Shal it nouth ben als sho &thorn;enkes,</L>
+<L>'Hope maketh fol man ofte blenkes.'</L>
+<L N="308">Ich haue a sone, a ful fayr knaue,</L>
+<L>He shal engelond al haue.</L>
+<L>He shal [ben] king, he shal ben sire,</L>
+<L>So brouke i euere mi blake swire!"</L>
+</LG>
+<LG TYPE="stanza">
+<L N="312">Hwan &thorn;is trayson was al &thorn;outh,</L>
+<L>Of his oth ne was him nouth.</L>
+<L>He let his oth al ouer-ga,</L>
+<L>&THORN;erof ne yaf he nouth a stra;</L>
+<L N="316">But sone dede hire fete,</L>
+<L>Er he wolde heten ani mete,<MILESTONE N="205b:2" UNIT="folio"></L>
+<L>Fro winchestre &thorn;er sho was,</L>
+<L>Also a wicke traytur iudas;</L>
+<L N="320">And dede leden hire to doure,
+<PB REF="00000073.tif" N="11"></L>
+<L>&THORN;at standeth on &thorn;e seis oure;</L>
+<L>And &thorn;erhinne dede hire fede</L>
+<L>Pourelike in feble wede.</L>
+<L N="324">&THORN;e castel dede he yemen so,</L>
+<L>&THORN;at non ne micte comen hire to</L>
+<L>Of hire frend, with [hire] to speken,</L>
+<L>&THORN;at heuere micte hire bale wreken.</L>
+</LG>
+<LG TYPE="stanza">
+<L N="328">Of Goldeboru shul we nou laten,</L>
+<L>&THORN;at nouth ne blinneth forto graten,</L>
+<L>&THORN;et sho liggeth in prisoun:</L>
+<L>Ihesu crist, that lazarun</L>
+<L N="332">To liue broucte fro dede bondes,</L>
+<L>He lese hire wit hise hondes;</L>
+<L>And leue sho mo him y-se</L>
+<L>Heye hangen on galwe tre,</L>
+<L N="336">&THORN;at hire haued in sorwe brouth,</L>
+<L>So as sho ne misdede nouth!</L>
+</LG>
+<LG TYPE="stanza">
+<L>Sawe nou forth in hure spelle;</L>
+<L>In &thorn;at time, so it bifelle,</L>
+<L N="340">Was in &thorn;e lon of denemark</L>
+<L>A riche king, and swy&thorn;e stark.</L>
+<L>&THORN;[e] name of him was birkabeyn,</L>
+<L>He hauede mani knict and sueyn;</L>
+<L N="344">He was fayr man, and wicth,</L>
+<L>Of bodi he was &thorn;e beste knicth</L>
+<L>&THORN;at euere micte leden uth here,</L>
+<L>Or stede onne ride, or handlen spere,</L>
+<L N="348">&THORN;re children he hauede bi his wif,</L>
+<L>He hem louede so his lif.</L>
+<L>He hauede a sone [and] douhtres two,</L>
+<L>Swi&thorn;e fayre, as fel it so.</L>
+<L N="352">He &thorn;at wile non forbere,</L>
+<L>Riche ne poure, king ne kaysere,</L>
+<L>Deth him tok &thorn;an he bes[t] wolde
+<PB REF="00000074.tif" N="12"></L>
+<L>Liuen, but hyse dayes were fulde;</L>
+<L N="356">&THORN;at he ne moucte no more liue,</L>
+<L>For gol ne siluer, ne for no gyue.</L>
+</LG>
+<LG TYPE="stanza">
+<L>Hwan he &thorn;at wiste, ra&thorn;e he sende</L>
+<L>After prestes fer an hende,</L>
+<L N="360">Chanounes gode, and monkes be&thorn;e,<NOTE PLACE="foot">MS. "bo&thorn;e." But "be&thorn;e" rimes to "Rede"; see l. 694.</NOTE></L>
+<L>Him for to<NOTE PLACE="foot">MS. forthm to, the <I>hm</I> being expuncted.</NOTE> wisse, and to Rede;</L>
+<L>Him for to hoslon, an forto shriue,<MILESTONE N="206a:1" UNIT="folio"></L>
+<L>Hwil his bodi were on liue.</L>
+</LG>
+<LG TYPE="stanza">
+<L N="364">Hwan he was hosled and shriuen,</L>
+<L>His quiste maked, and for him gyuen,</L>
+<L>His knictes dede he alle site,</L>
+<L>For &thorn;orw hem he wolde wite,</L>
+<L N="368">Hwo micte yeme hise children yunge,</L>
+<L>Til &thorn;at he kou&thorn;en speken wit tunge;</L>
+<L>Speken and gangen, on horse riden,</L>
+<L>Knictes an sweynes bi here siden.</L>
+<L N="372">He spoken &thorn;er-offe, and chosen sone</L>
+<L>A riche man was under mone,</L>
+<L>Was &thorn;e trewest &thorn;at he wende,</L>
+<L>Godard, &thorn;e kinges oune frende;</L>
+<L N="376">And seyden, he Moucthe hem best loke,</L>
+<L>Yif &thorn;at he hem vndertoke,</L>
+<L>Til hise sone Mouthe bere</L>
+<L>Helm on heued, and leden vt here,</L>
+<L N="380">In his hand a spere stark,</L>
+<L>And king ben maked of denemark.</L>
+<L>He wel trowede &thorn;at he seyde,</L>
+<L>And on Godard handes leyde;</L>
+<L N="384">And seyde, "Here bi-teche i &thorn;e</L>
+<L>Mine children alle &thorn;re,</L>
+<L>Al denemark, and al mi fe,</L>
+<L>Til &thorn;at mi sone of helde be;
+<PB REF="00000075.tif" N="13"></L>
+<L N="388">But &thorn;at ich wille, &thorn;at &thorn;o[u] suere</L>
+<L>On auter, and on messe-gere,</L>
+<L>On &thorn;e belles &thorn;at men ringes,</L>
+<L>On messe-bok &thorn;e prest on singes,</L>
+<L N="392">&THORN;at &thorn;ou mine children shalt we[l] yeme,</L>
+<L>&THORN;at hire kin be ful wel queme,</L>
+<L>Til mi sone mowe ben knicth,</L>
+<L>&THORN;anne biteche him &thorn;o his Ricth,</L>
+<L N="396">Denemark, and &thorn;at &thorn;ertil longes,</L>
+<L>Casteles and tunes, wodes and wonges."</L>
+</LG>
+<LG TYPE="stanza">
+<L>Godard stirt up, an swor al &thorn;at</L>
+<L>&THORN;e king him bad, and si&thorn;en sat</L>
+<L N="400">Bi the knictes, &thorn;at &thorn;er ware,</L>
+<L>&THORN;at wepen alle swi&thorn;e sare</L>
+<L>For &thorn;e king &thorn;at deide sone:</L>
+<L>Ihesu crist, that makede mone</L>
+<L N="404">On &thorn;e mirke nith to shine,</L>
+<L>Wite his soule fro helle pine;</L>
+<L>And leue &thorn;at it mote wone</L>
+<L>In heuene-riche with godes sone!<MILESTONE N="206a:2" UNIT="folio"></L>
+</LG>
+<LG TYPE="stanza">
+<L N="408">Hwan birkabeyn was leyd in graue,</L>
+<L>&THORN;e erl dede sone take &thorn;e knaue,</L>
+<L>Hauelok, &thorn;at was &thorn;e eir,</L>
+<L>Swanborow, his sister, helfled, &thorn;e to&thorn;er,<NOTE PLACE="foot">Corrupt? Lines 410, 411 do not rime well together.</NOTE></L>
+<L N="412">And in &thorn;e castel dede he hem do,</L>
+<L>&THORN;er non ne micte hem comen to</L>
+<L>Of here kyn, &thorn;er &thorn;ei sperd wore;<NOTE PLACE="foot">MS. were. But see l. 237.</NOTE></L>
+<L>&THORN;er he greten ofte sore,</L>
+<L N="416">Bo&thorn;e for hunger and for kold,</L>
+<L>Or he weren &thorn;re winter hold.</L>
+<L>Feblelike he gaf hem clo&thorn;es,</L>
+<L>He ne yaf a note of hise o&thorn;es;
+<PB REF="00000076.tif" N="14"></L>
+<L N="420">He hem [ne] clo&thorn;ede rith, ne fedde,</L>
+<L>Ne hem ne dede richelike be-bedde.</L>
+<L>&THORN;anne godard was sikerlike</L>
+<L>Vnder god &thorn;e moste swike,</L>
+<L N="424">&THORN;at eure in er&thorn;e shaped was,</L>
+<L>With-uten on, &thorn;e wike Iudas.</L>
+<L>Haue he &thorn;e malisun to-day</L>
+<L>Of alle &thorn;at eure speken may!</L>
+<L N="428">Of patriark, and of pope!</L>
+<L>And of prest with loken kope!</L>
+<L>Of monekes, and hermites bo&thorn;e!<NOTE PLACE="foot">Lines 430, 431, 432 rime together. NB. The words <I>holi rode</I> are written over an erasure.</NOTE></L>
+<L>And of &thorn;e leue holi rode,</L>
+<L N="432">&THORN;at god him-selue ran on blode!</L>
+<L>Crist warie him with his mouth!</L>
+<L>Waried wrthe he of nor&thorn; and suth!</L>
+<L>Offe alle man, &thorn;at speken kunne!</L>
+<L N="436">Of crist, &thorn;at made<NOTE PLACE="foot">MS. maude.</NOTE> mone and sunne!</L>
+<L>&THORN;anne he hauede of al &thorn;e lond</L>
+<L>Al &thorn;e folk tilled in-til his hond,</L>
+<L>And alle haueden sworen him oth,</L>
+<L N="440">Riche and poure, lef and loth,</L>
+<L>&THORN;at he sholden hise wille freme,</L>
+<L>And &thorn;at he shulde[n] him nouth greme,</L>
+<L>He &thorn;outhe a ful strong trechery,</L>
+<L N="444">A trayson, and a felony,</L>
+<L>Of &thorn;e children forto make:</L>
+<L>&THORN;e deuel of helle him sone take!</L>
+</LG>
+<LG TYPE="stanza">
+<L>Hwan &thorn;at was &thorn;outh, onon he ferde</L>
+<L N="448">To &thorn;e tour &thorn;er he woren sperde,</L>
+<L>&THORN;er he greten for hunger and cold:</L>
+<L>&THORN;e knaue &thorn;at was sumdel bold,</L>
+<L>Kam him ageyn, on knes him sette,</L>
+<L N="452">And godard ful feyre he &thorn;er grette;<MILESTONE N="206b:1" UNIT="folio"></L>
+<L>And Godard seyde, "Wat is yw?
+<PB REF="00000077.tif" N="15"></L>
+<L>Hwi grete ye and goulen nou?"</L>
+<L>"For us hungreth swi&thorn;e sore:"&mdash;</L>
+<L N="456">Seyden he wolden [haue] more,</L>
+<L>"We ne haue to hete, ne we ne haue</L>
+<L>Herinne neyther knith ne knaue</L>
+<L>&THORN;at yeueth us drinken, ne no mete,</L>
+<L N="460">Haluendel &thorn;at we moun ete.</L>
+<L>Wo is us &thorn;at we weren born!</L>
+<L>Weilawei! nis it no korn,</L>
+<L>&THORN;at men micte maken of bred?</L>
+<L N="464">Vs<NOTE PLACE="foot">MS. &thorn;s; cf. l. 455.</NOTE> hungreth, we aren ney ded."</L>
+</LG>
+<LG TYPE="stanza">
+<L>Godard herde here wa,</L>
+<L>Ther-offe yaf he nouth a stra,</L>
+<L>But tok &thorn;e maydnes bothe samen,</L>
+<L N="468">Al-so it were up-on hiis gamen;</L>
+<L>Al-so he wolde with hem leyke,</L>
+<L>&THORN;at weren for hunger grene and bleike.</L>
+<L>Of bo&thorn;en he karf on two here &thorn;rotes,</L>
+<L N="472">And si&thorn;en [karf] hem alto grotes.</L>
+<L>&THORN;er was sorwe, wo so it sawe!</L>
+<L>Hwan &thorn;e children bi &thorn;[e]<NOTE PLACE="foot">MS. bi&thorn;; cf. l. 2470.</NOTE> wawe</L>
+<L>Leyen and sprauleden in &thorn;e blod:</L>
+<L N="476">Hauelok it saw, and &thorn;e[r] bi stod.</L>
+<L>Ful sori was &thorn;at seli knaue,</L>
+<L>Mikel dred he mouthe haue,</L>
+<L>For at hise herte he saw a knif,</L>
+<L N="480">For to reuen him hise lyf.</L>
+<L>But &thorn;e knaue,<NOTE PLACE="foot">MS. kaue.</NOTE> &thorn;at litel was,</L>
+<L>He knelede bifor &thorn;at iudas,</L>
+<L>And seyde, "louerd, merci nov!</L>
+<L N="484">Manrede, louerd, biddi you!</L>
+<L>Al denemark i wile you yeue,</L>
+<L>To &thorn;at forward &thorn;u late me liue;</L>
+<L>Here hi wile on boke swere,</L>
+<L N="488">&THORN;at neure more ne shal i bere
+<PB REF="00000078.tif" N="16"></L>
+<L>Ayen &thorn;e, louerd, shel ne spere,</L>
+<L>Ne o&thorn;er wepne<NOTE PLACE="foot">MS. "wepne bere," where "bere" is redundant.</NOTE> that may you dere.</L>
+<L>Louerd, haue merci of me!</L>
+<L N="492">To-day i wile fro denemark fle,</L>
+<L>Ne neuere more comen ageyn:</L>
+<L>Sweren y wole, &thorn;at bircabein</L>
+<L>Neuere yete me ne gat:"&mdash;</L>
+<L N="496">Hwan &thorn;e deuel he[r]de<NOTE PLACE="foot">MS. hede.</NOTE> that,</L>
+<L>Sum-del bigan him forto rewe;<MILESTONE N="206b:2" UNIT="folio"></L>
+<L>With-drow &thorn;e knif, &thorn;at was lewe</L>
+<L>Of &thorn;e seli children blod;</L>
+<L N="500">&THORN;er was miracle fair and god!</L>
+<L>&THORN;at he &thorn;e knaue nouth ne slou,</L>
+<L>But fo[r] rewnesse him wit-drow.<NOTE PLACE="foot">Printed thus in the former edition:&mdash;"But to rewnesse him thit drow." But the MS. has <I>fo</I>, not <I>to</I>, where <I>fo</I> is corruptly written for <I>for</I>, as in l. 1318; and the initial letter of the last syl|lable but one may be read as a Saxon <I>w</I> (&wyn;), not a thorn-letter (&thorn;). It merely repeats the idea in ll. 497, 498.</NOTE></L>
+<L>Of auelok rewede him ful sore,</L>
+<L N="504">And &thorn;oucte, he wolde &thorn;at he ded wore,</L>
+<L>But on &thorn;at he nouth wit his hend</L>
+<L>Ne drepe him nouth,<NOTE PLACE="foot">Qu. mouth.</NOTE> &thorn;at fule fend!</L>
+<L>&THORN;oucte he, als he him bi stod,</L>
+<L N="508">Starinde als he were wod:</L>
+<L>"Yif y late him liues go,</L>
+<L>He micte me wirchen michel wo.</L>
+<L>Grith ne get y neuere mo,</L>
+<L N="512">He may [me] waiten for to slo;</L>
+<L>And yf he were brouct of liue,</L>
+<L>And mine children wolden thriue,</L>
+<L>Louerdinges after me</L>
+<L N="516">Of al denemark micten he be.</L>
+<L>God it wite, he shal ben ded,</L>
+<L>Wile i taken non o&thorn;er red;
+<PB REF="00000079.tif" N="17"></L>
+<L>I shal do casten him in &thorn;e se,<NOTE PLACE="foot">MS. she.</NOTE></L>
+<L N="520">&THORN;er i wile &thorn;at he drench[ed] be;</L>
+<L>Abouten his hals an anker god,</L>
+<L>&THORN;at he ne flete in the flod."</L>
+<L>&THORN;er anon he dede sende</L>
+<L N="524">After a fishere &thorn;at he wende,</L>
+<L>&THORN;at wolde al his wille do,</L>
+<L>And sone anon he seyde him to:</L>
+<L>"Grim, &thorn;ou wost &thorn;u art mi &thorn;ral,</L>
+<L N="528">Wilte don mi wille al,</L>
+<L>&THORN;at i wile bidden &thorn;e,</L>
+<L>To-morwen [i] shal maken &thorn;e fre,</L>
+<L>And aucte &thorn;e yeuen, and riche make,</L>
+<L N="532">With-&thorn;an &thorn;u wilt &thorn;is child[e] take,</L>
+<L>And leden him with &thorn;e to-nicht,</L>
+<L>&THORN;an &thorn;ou sest se<NOTE PLACE="foot"><I>So in</I> MS. <I>Qu</I>. &thorn;e.</NOTE> Mone lith,</L>
+<L>In-to &thorn;e se, and don him &thorn;er-inne,</L>
+<L N="536">Al wile [i] taken on me &thorn;e sinne."</L>
+<L>Grim tok &thorn;e child, and bond him faste,</L>
+<L>Hwil &thorn;e bondes micte laste;</L>
+<L>&THORN;at weren of ful strong line:&mdash;</L>
+<L N="540">&THORN;o was hauelok in ful strong pine.</L>
+<L>Wiste he neuere her wat was wo:</L>
+<L>Ihesu crist, &thorn;at makede to go<MILESTONE N="207a:1" UNIT="folio"></L>
+<L>&THORN;e halte, and &thorn;e doumbe speken,</L>
+<L N="544">Hauelok, &thorn;e of Godard wreken!</L>
+</LG>
+<LG TYPE="stanza">
+<L>Hwan grim him hauede faste bounden,</L>
+<L>And si&thorn;en in an eld cloth wnden</L>
+<L>A keuel of clutes, ful, un-wraste,</L>
+<L N="548">&THORN;at he [ne] mouthe speke, ne fnaste,</L>
+<L>Hwere he wolde him bere or lede.</L>
+<L>Hwan he hauede don &thorn;at dede,</L>
+<L>Hwan<NOTE PLACE="foot">We should rather read "&thorn;an."</NOTE> &thorn;e swike him hauede hethede,<NOTE PLACE="foot">MS. he &thorn;ede.</NOTE>
+<PB REF="00000080.tif" N="18"></L>
+<L N="552">&THORN;at he shulde him forth [lede]</L>
+<L>And him drinchen in &thorn;e se;</L>
+<L>&THORN;at forwarde makeden he.</L>
+<L>In a poke, ful and blac,</L>
+<L N="556">Sone he caste him on his bac,</L>
+<L>Ant bar him hom to hise cleue,</L>
+<L>And bi-taucte him dame leue,</L>
+<L>And seyde, "wite &thorn;ou &thorn;is knaue,</L>
+<L N="560">Al-so thou with mi lif haue;</L>
+<L>I shal dreinchen him in &thorn;e se,</L>
+<L>For him shole we ben maked fre,</L>
+<L>Gold hauen ynou, and o&thorn;er fe;</L>
+<L N="564">&THORN;at hauet mi louerd bihoten me."</L>
+</LG>
+<LG TYPE="stanza">
+<L>Hwan dame [leue] herde &thorn;at,</L>
+<L>Vp she stirte, and nouth ne sat,</L>
+<L>And caste &thorn;e knaue adoun so harde,</L>
+<L N="568">&THORN;at hise croune he &thorn;er crakede</L>
+<L>Ageyn a gret ston, &thorn;er it lay:</L>
+<L>&THORN;o hauelok micte sei, "weilawei!</L>
+<L>&THORN;at euere was i kinges bern!"</L>
+<L N="572">&THORN;at him ne hauede grip or ern,</L>
+<L>Leoun or wlf, wluine or bere,</L>
+<L>Or o&thorn;er best, &thorn;at wolde him dere.</L>
+<L>So lay &thorn;at child to middel nicth,</L>
+<L N="576">&THORN;at grim bad leue bringen lict,</L>
+<L>For to don on [him] his clo&thorn;es:</L>
+<L>"Ne thenkeste nowt of mine o&thorn;es</L>
+<L>&THORN;at ich haue mi louerd sworen?</L>
+<L N="580">Ne wile i nouth be forloren.</L>
+<L>I shal beren him to &thorn;e se,</L>
+<L>&THORN;ou wost &thorn;at [bi-]houes me;</L>
+<L>And i shal drenchen him &thorn;er-inne;</L>
+<L N="584">Ris up swi&thorn;e, an go &thorn;u binne,</L>
+<L>And blou &thorn;e fir, and lith a kandel:"</L>
+<L>Als she shulde hise clo&thorn;es handel
+<PB REF="00000081.tif" N="19"></L>
+<L>On forto don, and blawe &thorn;e<NOTE PLACE="foot">MS. &thorn;er.</NOTE> fir,<MILESTONE N="207a:2" UNIT="folio"></L>
+<L N="588">She saw &thorn;er-inne a lith ful shir,</L>
+<L>Also brith so it were day,</L>
+<L>Aboute &thorn;e knaue &thorn;er he lay.</L>
+<L>Of hise mouth it stod a stem,</L>
+<L N="592">Als it were a sunnebem;</L>
+<L>Also lith was it &thorn;er-inne,</L>
+<L>So &thorn;er brenden cerges inne:<NOTE PLACE="foot"><I>Qu</I>. &thorn;rinne. See ll. 716, 761, 2125.</NOTE></L>
+<L>"Ihesu crist!" wat dame leue,</L>
+<L N="596">"Hwat is &thorn;at lith in vre cleue!</L>
+<L>Sir<NOTE PLACE="foot"><I>Qu</I>. stir, <I>or</I> stirt.</NOTE> up grim, and loke wat it menes,</L>
+<L>Hwat is &thorn;e lith as &thorn;ou wenes?"</L>
+<L>He stirten bo&thorn;e up to the knaue,</L>
+<L N="600">For man shal god wille haue,</L>
+<L>Vnkeueleden him, and swi&thorn;e unbounden,</L>
+<L>And sone anon [upon] him funden,</L>
+<L>Als he tirneden of his serk,</L>
+<L N="604">On his rith shuldre a kyne merk;</L>
+<L>A swi&thorn;e brith, a swi&thorn;e fair:</L>
+<L>"Goddot!" quath grim, "&thorn;is [is] ure eir</L>
+<L>&THORN;at shal [ben] louerd of denemark,</L>
+<L N="608">He shal ben king strong and stark;</L>
+<L>He shal hauen in his hand</L>
+<L>A[l] denemark and engeland;</L>
+<L>He shal do godard ful wo,</L>
+<L N="612">He shal him hangen, or quik flo;</L>
+<L>Or he shal him al quic graue,</L>
+<L>Of him shal he no merci haue."</L>
+<L>&THORN;us seide grim, and sore gret,</L>
+<L N="616">And sone fel him to &thorn;e fet,</L>
+<L>And seide, "louerd, haue merci</L>
+<L>Of me, and leue, that is me bi!</L>
+<L>Louerd, we aren bo&thorn;e &thorn;ine,</L>
+<L N="620">&THORN;ine cherles, &thorn;ine hine.
+<PB REF="00000082.tif" N="20"></L>
+<L>Lowerd, we sholen &thorn;e wel fede,</L>
+<L>Til &thorn;at &thorn;u cone riden on stede,</L>
+<L>Til &thorn;at &thorn;u cone ful wel bere</L>
+<L N="624">Helm on heued, sheld and spere.</L>
+<L>He ne shal neuere wite, sikerlike,</L>
+<L>Godard, &thorn;at fule swike.</L>
+<L>&THORN;oru o&thorn;er man, louerd, than &thorn;oru &thorn;e,</L>
+<L N="628">Sal i neuere freman be.</L>
+<L>&THORN;ou shalt me, louerd, fre maken,</L>
+<L>For i shal yemen &thorn;e, and waken;</L>
+<L>&THORN;oru &thorn;e wile i fredom haue:"</L>
+<L N="632">&THORN;o was haueloc a bli&thorn;e knaue.<MILESTONE N="207b:1" UNIT="folio"></L>
+<L>He sat him up, and crauede bred.</L>
+<L>And seide, "ich am [wel] ney ded,</L>
+<L>Hwat for hunger, wat for bondes</L>
+<L N="636">&THORN;at &thorn;u leidest on min hondes;</L>
+<L>And for [&thorn;e] keuel at &thorn;e laste,</L>
+<L>&THORN;at in mi mouth was &thorn;rist faste.</L>
+<L>y was &thorn;e[r]-with so harde prangled,</L>
+<L N="640">&THORN;at i was &thorn;e[r]-with ney strangled."</L>
+<L>"Wel is me &thorn;at &thorn;u mayth hete:</L>
+<L>Goddoth!" quath leue, "y shal &thorn;e fete</L>
+<L>Bred an chese, butere and milk,</L>
+<L N="644">Pastees and flaunes, al with suilk</L>
+<L>Shole we sone &thorn;e wel fede,</L>
+<L>Louerd, in &thorn;is mikel nede,</L>
+<L>Soth it is, &thorn;at men seyt and suereth:</L>
+<L N="648">'&THORN;er god wile helpen, nouth no dereth.' "</L>
+</LG>
+<LG TYPE="stanza">
+<L>&THORN;anne sho hauede brouth &thorn;e mete,</L>
+<L>Haueloc anon bigan to ete</L>
+<L>Grundlike, and was ful bli&thorn;e;</L>
+<L N="652">Cou&thorn;e he nouth his hunger Mi&thorn;e.</L>
+<L>A lof he het, y woth, and more,</L>
+<L>For him hungrede swi&thorn;e sore.</L>
+<L>&THORN;re dayes &thorn;er-biforn, i wene,
+<PB REF="00000083.tif" N="21"></L>
+<L N="656">Et he no mete, &thorn;at was wel sene.</L>
+<L>Hwan he hauede eten, and was fed,</L>
+<L>Grim dede maken a ful fayr bed;</L>
+<L>Vnclo&thorn;ede him, and dede him &thorn;er-inne,</L>
+<L N="660">And seyde, "Slep sone, with michel winne;</L>
+<L>Slep wel faste, and dred &thorn;e nouth,</L>
+<L>Fro sorwe to ioie art &thorn;u brouth."</L>
+<L>Sone so it was lith of day,</L>
+<L N="664">Grim it under-tok &thorn;e wey</L>
+<L>To &thorn;e wicke traitour godard,</L>
+<L>&THORN;at was denemak a<NOTE PLACE="foot"><I>Qu</I>. Denemarkes.</NOTE> stiward,</L>
+<L>And seyde, "louerd, don ich haue</L>
+<L N="668">&THORN;at &thorn;ou me bede of &thorn;e knaue;</L>
+<L>He is drenched in &thorn;e flod,</L>
+<L>Abouten his hals an anker god;</L>
+<L>He is witer-like ded,</L>
+<L N="672">Eteth he neure more bred;</L>
+<L>He li&thorn; drenched in &thorn;e se:&mdash;</L>
+<L>Yif me gold [and] o&thorn;er fe,<NOTE PLACE="foot">Cf. l. 1225.</NOTE></L>
+<L>&THORN;at y mowe riche be;</L>
+<L N="676">And with &thorn;i chartre make [me] fre,</L>
+<L>For &thorn;u ful wel bi-hetet me,<MILESTONE N="207b:2" UNIT="folio"></L>
+<L>&THORN;anne i last[e] spak with &thorn;e."</L>
+<L>Godard stod, and lokede on him</L>
+<L N="680">&THORN;oruth-like, with eyne grim;</L>
+<L>And seyde, "Wiltu [nou] ben erl?</L>
+<L>Go hom swi&thorn;e, fule drit, cherl;</L>
+<L>Go he&thorn;en, and be euere-more</L>
+<L N="684">&THORN;ral and cherl, als &thorn;ou er wore.</L>
+<L>Shal [&thorn;ou] haue non o&thorn;er mede;</L>
+<L>For litel i [shal]<NOTE PLACE="foot">The MS. has "ig," but the <I>g</I> is expuncted; and it omits "shal."</NOTE> do &thorn;e lede</L>
+<L>To &thorn;e galues, so god me rede!
+<PB REF="00000084.tif" N="22"></L>
+<L N="688">For &thorn;ou haues don a wicke dede.</L>
+<L>&THORN;ou Mait stonden her to longe,</L>
+<L>Bute &thorn;ou swi&thorn;e e&thorn;en gonge."</L>
+</LG>
+<LG TYPE="stanza">
+<L>Grim thoucte to late &thorn;at he ran</L>
+<L N="692">Fro &thorn;at traytour, &thorn;a wicke man;</L>
+<L>And &thorn;oucte, "wat shal me to rede?</L>
+<L>Wite he him onliue, he wile be&thorn;e</L>
+<L>Heye hangen on galwe-tre:</L>
+<L N="696">Betere us is of londe to fle,</L>
+<L>And berwen bo&thorn;en ure liues,</L>
+<L>And mine children, and mine wiues."</L>
+<L>Grim solde sone al his corn,</L>
+<L N="700">Shep wit wolle, neth wit horn,</L>
+<L>Hors, and swin, [and gate] wit berd,</L>
+<L>&THORN;e gees, &thorn;e hennes of &thorn;e yerd;</L>
+<L>Al he solde, &thorn;at outh douthe,</L>
+<L N="704">That he eure selle moucte,</L>
+<L>And al he to &thorn;e peni drou:</L>
+<L>Hise ship he grey&thorn;ede wel inow,</L>
+<L>He dede it tere, an ful wel pike,</L>
+<L N="708">&THORN;at it ne doutede sond ne krike;</L>
+<L>&THORN;er-inne dide a ful god mast,</L>
+<L>Stronge kables, and ful fast,</L>
+<L>Ores god, an ful god seyl,</L>
+<L N="712">&THORN;er-inne wantede nouth a nayl,</L>
+<L>&THORN;at euere he sholde &thorn;er-inne do:</L>
+<L>Hwan he hauedet grey&thorn;ed so,</L>
+<L>Hauelok &thorn;e yunge he dide &thorn;er-inne,</L>
+<L N="716">Him and his wif, hise sones &thorn;rinne,</L>
+<L>And hise two doutres, &thorn;at faire wore,</L>
+<L>And sone dede he leyn in an ore,</L>
+<L>And drou him to &thorn;e heye se,</L>
+<L N="720">&THORN;ere he mith al&thorn;er-best[e] fle.</L>
+<L>Fro londe woren he bote a mile,
+<PB REF="00000085.tif" N="23"></L>
+<L>Ne were neuere but ane hwile,<MILESTONE N="208a:1" UNIT="folio"></L>
+<L>&THORN;at it ne bigan a wind to Rise</L>
+<L N="724">Out of &thorn;e north, men calleth 'bise'</L>
+<L>And drof hem intil engelond,</L>
+<L>&THORN;at al was si&thorn;en in his hond,</L>
+<L>His, &thorn;at hauelok was &thorn;e name;</L>
+<L N="728">But or he hauede michel shame,</L>
+<L>Michel sorwe, and michel tene,</L>
+<L>And &thorn;rie he gat it al bidene;</L>
+<L>Als ye shulen nou forthwar lere,<NOTE PLACE="foot">MS. here; <I>read</I> lere. Cf. ll. 12, 1640.</NOTE></L>
+<L N="732">Yf that ye wilen &thorn;er-to here.</L>
+</LG>
+<LG TYPE="stanza">
+<L>IN humber grim bigan to lende,</L>
+<L>In lindeseye, Rith at &thorn;e north ende.</L>
+<L>&THORN;er sat is ship up-on &thorn;e sond,</L>
+<L N="736">But grim it drou up to &thorn;e lond;</L>
+<L>And &thorn;ere he made a litel cote,</L>
+<L>To him and to hise flote.</L>
+<L>Bigan he &thorn;ere for to er&thorn;e,</L>
+<L N="740">A litel hus to maken of er&thorn;e,</L>
+<L>So &thorn;at he wel &thorn;ore were</L>
+<L>Of here herboru herborwed &thorn;ere;</L>
+<L>And for &thorn;at grim &thorn;at place aute,</L>
+<L N="744">&THORN;e stede of grim &thorn;e name laute;</L>
+<L>So &thorn;at [hit] grimesbi calleth alle</L>
+<L>&THORN;at &thorn;er-offe speken alle,</L>
+<L>And so shulen men callen it ay,</L>
+<L N="748">Bituene &thorn;is and domesday.</L>
+</LG>
+<LG TYPE="stanza">
+<L>Grim was fishere swi&thorn;e god,</L>
+<L>And mikel cou&thorn;e on the flod;</L>
+<L>Mani god fish &thorn;er-inne he tok,</L>
+<L N="752">Bo&thorn;e with neth, and with hok.</L>
+<L>He tok &thorn;e sturgiun, and &thorn;e qual,</L>
+<L>And &thorn;e turbut, and lax with-al,
+<PB REF="00000086.tif" N="24"></L>
+<L>He tok &thorn;e sele, and &thorn;e hwel;</L>
+<L N="756">He spedde ofte swi&thorn;e wel:</L>
+<L>Keling he tok, and tumberel,</L>
+<L>Hering, and &thorn;e makerel,</L>
+<L>&THORN;e Butte, &thorn;e schulle, &thorn;e &thorn;ornebake:</L>
+<L N="760">Gode paniers dede he make</L>
+<L>Ontil him, and o&thorn;er &thorn;rinne,</L>
+<L>Til hise sones to beren fish inne,</L>
+<L>Vp o-londe to selle and fonge;</L>
+<L N="764">Forbar he ney&thorn;e[r] tun, ne gronge,</L>
+<L>&THORN;at he ne to-yede with his ware;</L>
+<L>Kam he neuere hom hand-bare,</L>
+<L>&THORN;at he ne broucte bred and sowel,<MILESTONE N="208a:2" UNIT="folio"></L>
+<L N="768">In his shirte, or in his couel;</L>
+<L>In his poke benes and korn:&mdash;</L>
+<L>Hise swink ne hauede he nowt forlorn.</L>
+<L>And hwan he tok &thorn;e grete laumprei,</L>
+<L N="772">Ful we[l] he cou&thorn;e &thorn;e rithe wei</L>
+<L>To lincolne, &thorn;e gode boru;</L>
+<L>Ofte he yede it &thorn;oru and &thorn;oru,</L>
+<L>Til he hauede wol<NOTE PLACE="foot"><I>Qu</I>. ful <I>or</I> al.</NOTE> wel sold,</L>
+<L N="776">And &thorn;er-fore &thorn;e penies told.</L>
+<L>&THORN;anne he com, &thorn;enne he were bli&thorn;e,</L>
+<L>For hom he brouthe fele si&thorn;e</L>
+<L>Wastels, simenels with &thorn;e horn,</L>
+<L N="780">Hise pokes fulle of mele an korn,</L>
+<L>Netes flesh, shepes, and swines,</L>
+<L>And hemp to maken of gode lines;</L>
+<L>And stronge ropes to hise netes,</L>
+<L N="784">In &thorn;e se weren he ofte setes.<NOTE PLACE="foot"><I>Sic</I> in MS.</NOTE></L>
+</LG>
+<LG TYPE="stanza">
+<L>&THORN;us-gate grim him fayre ledde.</L>
+<L>Him and his genge wel he fedde</L>
+<L>Wel twelf winter, o&thorn;er more:</L>
+<L N="788">Hauelok was war &thorn;at grim swank sore
+<PB REF="00000087.tif" N="25"></L>
+<L>For his mete, and he lay at hom:</L>
+<L>Thouthe, "ich am nou no grom;</L>
+<L>Ich am wel waxen, and wel may eten</L>
+<L N="792">More &thorn;an euere Grim may geten.</L>
+<L>Ich ete more, bi god on liue,</L>
+<L>&THORN;an grim an hise children fiue!</L>
+<L>It ne may nouth ben &thorn;us longe,</L>
+<L N="796">Goddot! y wile with &thorn;e gange,</L>
+<L>For to leren sum god to gete;</L>
+<L>Swinken ich wolde for mi mete.</L>
+<L>It is no shame forto swinken;</L>
+<L N="800">&THORN;e man &thorn;at may wel eten and drinken,</L>
+<L>&THORN;at nouth ne haue but on swink long,</L>
+<L>To liggen at hom it is ful strong.</L>
+<L>God yelde him &thorn;er i ne<NOTE PLACE="foot">MS. ine.</NOTE> may,</L>
+<L N="804">&THORN;at haueth me fed to &thorn;is day!</L>
+<L>Gladlike i wile &thorn;e paniers bere;</L>
+<L>Ich woth, ne shal it me nouth dere,</L>
+<L>&THORN;ey &thorn;er be inne a bir&thorn;ene gret,</L>
+<L N="808">Al so heui als a neth.</L>
+<L>Shal ich neuere lengere dwelle,</L>
+<L>To morwen shal ich forth pelle."</L>
+</LG>
+<LG TYPE="stanza">
+<L>On &thorn;e morwen, hwan it was day,</L>
+<L N="812">He stirt up sone, and nouth ne lay;<MILESTONE N="208b:1" UNIT="folio"></L>
+<L>And cast a panier on his bac,</L>
+<L>With fish giueled als a stac;</L>
+<L>Also michel he bar him one,</L>
+<L N="816">So he foure, bi mine mone!<NOTE PLACE="foot">Cf. ll. 1711, 1972.</NOTE></L>
+<L>Wel he it bar, and solde it wel,</L>
+<L>&THORN;e siluer he brouthe hom il del;</L>
+<L>Al &thorn;at he &thorn;er-fore tok</L>
+<L N="820">With-held he nouth a fer&thorn;inges nok.</L>
+<L>So yede he forth ilke day,</L>
+<L>&THORN;at he neuere at home lay.
+<PB REF="00000088.tif" N="26"></L>
+<L>So wolde he his mester lere;</L>
+<L N="824">Bifel it so a strong dere</L>
+<L>Bigan to rise of korn of bred,</L>
+<L>That grim ne cou&thorn;e no god red,</L>
+<L>Hw he sholde his meine fede;</L>
+<L N="828">Of hauelok hauede he michel drede:</L>
+<L>For he was strong, and wel mouthe ete</L>
+<L>More &thorn;anne heuere mouthe he gete;</L>
+<L>Ne he ne mouthe on &thorn;e se take</L>
+<L N="832">Ney&thorn;er lenge, ne &thorn;orn[e]bake,<NOTE PLACE="foot">See l. 759.</NOTE></L>
+<L>Ne non o&thorn;er fish &thorn;at douthe</L>
+<L>His meyne feden with he[r]<NOTE PLACE="foot"><I>Qu</I>. her, <I>i.e.</I> their. MS. he.</NOTE> mouthe.</L>
+<L>Of hauelok he hauede kare,</L>
+<L N="836">Hwilgat &thorn;at he micthe fare;</L>
+<L>Of his children was him nouth,</L>
+<L>On hauelok was al hise &thorn;outh,</L>
+<L>And seyde, "hauelok, dere sone,</L>
+<L N="840">I wene that we deye mone</L>
+<L>For hunger, &thorn;is dere is so strong,</L>
+<L>And hure mete is uten long.</L>
+<L>Betere is &thorn;at &thorn;u henne gonge,</L>
+<L N="844">&THORN;an &thorn;u here dwelle longe;</L>
+<L>He&thorn;en &thorn;ow mayt gangen to late;</L>
+<L>Thou canst ful wel &thorn;e ricthe gate</L>
+<L>To lincolne, &thorn;e gode borw,</L>
+<L N="848">&THORN;ou hauest it gon ful ofte &thorn;oru;</L>
+<L>Of me ne is me nouth a slo,</L>
+<L>Betere is &thorn;at &thorn;u &thorn;ider go,</L>
+<L>For &thorn;er is mani god man inne,</L>
+<L N="852">&THORN;er &thorn;ou mayt &thorn;i mete winne.</L>
+<L>But wo is me! &thorn;ou art so naked,</L>
+<L>Of mi seyl y wolde &thorn;e were maked</L>
+<L>A cloth, &thorn;ou mithest inne gongen,</L>
+<L N="856">Sone, no cold &thorn;at &thorn;u ne fonge."
+<PB REF="00000089.tif" N="27"></L>
+</LG>
+<LG TYPE="stanza">
+<L>He tok &thorn;e sh[e]res<NOTE PLACE="foot"><I>Qu</I>. sheres. MS. shres.</NOTE> of &thorn;e nayl,<MILESTONE N="208b:2" UNIT="folio"></L>
+<L>And made him a couel of &thorn;e sayl,</L>
+<L>And hauelok dide it sone on;</L>
+<L N="860">Hauede ney&thorn;er hosen ne shon,</L>
+<L>Ne none kines o&thorn;e[r] wede;</L>
+<L>To lincolne barfot he yede.</L>
+<L>Hwan he kam &thorn;e[r], he was ful wil,</L>
+<L N="864">Ne hauede he no frend to gangen til;</L>
+<L>Two dayes &thorn;er fastinde he yede,</L>
+<L>&THORN;at non for his werk wolde him fede;</L>
+<L>&THORN;e &thorn;ridde day herde he calle:</L>
+<L N="868">"Bermen, bermen, hider forth alle!"</L>
+<L>[Poure &thorn;at on fote yede]<NOTE PLACE="foot">Cf. ll. 91, 101. Here and below an additional line seems re|quisite.</NOTE></L>
+<L>Sprongen forth so sparke on glede.</L>
+<L>Hauelok shof dun nyne or ten,</L>
+<L N="872">Rith amidewarde &thorn;e fen,</L>
+<L>And stirte forth to &thorn;e kok,</L>
+<L>[&THORN;er the herles mete he tok,]</L>
+<L>&THORN;at he bouthe at &thorn;e brigge:</L>
+<L N="876">&THORN;e bermen let he alle ligge,</L>
+<L>And bar &thorn;e mete to &thorn;e castel,</L>
+<L>And gat him &thorn;ere a fer&thorn;ing wastel.</L>
+</LG>
+<LG TYPE="stanza">
+<L>&THORN;et o&thorn;er day kepte he ok</L>
+<L N="880">Swi&thorn;e yerne &thorn;e erles kok,</L>
+<L>Til &thorn;at he say him on &thorn;e b[r]igge,</L>
+<L>And bi him mani fishes ligge.</L>
+<L>&THORN;e herles mete hauede he bouth</L>
+<L N="884">Of cornwalie, and kalde oft:</L>
+<L>"Bermen, bermen, hider swi&thorn;e!"</L>
+<L>Hauelok it herde, and was ful bli&thorn;e,</L>
+<L>&THORN;at he herde "bermen" calle;</L>
+<L N="888">Alle made he hem dun falle
+<PB REF="00000090.tif" N="28"></L>
+<L>&THORN;at in his gate yeden and stode,</L>
+<L>Wel sixtene laddes gode.</L>
+<L>Als he lep &thorn;e kok [vn-]til,</L>
+<L N="892">He shof hem alle upon an hyl;</L>
+<L>Astirte til him with his rippe,</L>
+<L>And bigan &thorn;e fish to kippe.</L>
+<L>He bar up wel a carte lode</L>
+<L N="896">Of segges, laxes, of playces brode,</L>
+<L>Of grete laumprees, and of eles;</L>
+<L>Sparede he ney&thorn;er tos ne heles,</L>
+<L>Til &thorn;at he to &thorn;e castel cam,</L>
+<L N="900">&THORN;at men fro him his bir&thorn;ene nam.</L>
+<L>&THORN;an men haueden holpen him doun</L>
+<L>With &thorn;e bir&thorn;ene of his croun,</L>
+<L>&THORN;e kok [bi] stod, and on him low,</L>
+<L N="904">And &thorn;oute him stalwor&thorn;e man ynow,<MILESTONE N="209a:1" UNIT="folio"></L>
+<L>And seyde, "wiltu ben wit me?</L>
+<L>Gladlike wile ich feden &thorn;e;</L>
+<L>Wel is set &thorn;e mete &thorn;u etes,</L>
+<L N="908">And &thorn;e hire &thorn;at &thorn;u getes."</L>
+</LG>
+<LG TYPE="stanza">
+<L>"Goddot!"<NOTE PLACE="foot">Soddot, MS.</NOTE> quoth he, "leue sire,</L>
+<L>Bidde ich you non o&thorn;er hire;</L>
+<L>But yeue&thorn; me inow to ete,</L>
+<L N="912">Fir and water y wile yow fete,</L>
+<L>&THORN;e fir blowe, an ful wele maken;</L>
+<L>Stickes kan ich breken and kraken,</L>
+<L>And kindlen ful wel a fyr,</L>
+<L N="916">And maken it to brennen shir;</L>
+<L>Ful wel kan ich cleuen shides,</L>
+<L>Eles to-turnen<NOTE PLACE="foot">MS. to turuen; <I>but the</I> u <I>and</I> n <I>are almost indistinguishable</I>. Cf. l. 603; and <I>William of Palerne</I>, 2590.</NOTE> of here hides;</L>
+<L>Ful wel kan ich dishes swilen,</L>
+<L N="920">And don al &thorn;at ye euere wilen."</L>
+<L>Quoth &thorn;e kok, "wile i no more;
+<PB REF="00000091.tif" N="29"></L>
+<L>Go &thorn;u yunder, and sit &thorn;ore,</L>
+<L>And y shal yeue &thorn;e ful fair bred,</L>
+<L N="924">And make &thorn;e broys in &thorn;e led.</L>
+<L>Sit now doun and et ful yerne:</L>
+<L>Da&thorn;eit hwo &thorn;e mete werne!"</L>
+</LG>
+<LG TYPE="stanza">
+<L>Hauelok sette him dun anon,</L>
+<L N="928">Also stille als a ston,</L>
+<L>Til he hauede ful wel eten;</L>
+<L>&THORN;o hauede hauelok fayre geten.</L>
+<L>Hwan he hauede eten inow,</L>
+<L N="932">He kam to &thorn;e welle, water up-drow,</L>
+<L>And filde &thorn;e[r] a michel so;</L>
+<L>Bad he non ageyn him go,</L>
+<L>But bi-twen his hondes he bar it in,</L>
+<L N="936">A[l] him one to &thorn;e kichin.</L>
+<L>Bad he non him water to fete,</L>
+<L>Ne fro b[r]igge to bere &thorn;e mete,</L>
+<L>He bar &thorn;e turues, he bar &thorn;e star,</L>
+<L N="940">&THORN;e wode fro the brigge he bar;</L>
+<L>Al that euere shulden he nytte,</L>
+<L>Al he drow, and al he citte;</L>
+<L>Wolde he neuere hauen rest,</L>
+<L N="944">More &thorn;an he were a best.</L>
+<L>Cf alle men was he mest meke,</L>
+<L>Lauhwinde ay, and bli&thorn;e of speke;</L>
+<L>Euere he was glad and bli&thorn;e,</L>
+<L N="948">His sorwe he cou&thorn;e ful wel mi&thorn;e.</L>
+<L>It ne was non so litel knaue,<MILESTONE N="209a:2" UNIT="folio"></L>
+<L>For to leyken, ne forto plawe,</L>
+<L>&THORN;at he ne wo[l]de with him pleye:</L>
+<L N="952">&THORN;e children that y[e]den in &thorn;e weie</L>
+<L>Of him he deden al he[r] wille,</L>
+<L>And with him leykeden here fille.</L>
+<L>Him loueden alle, stille and bolde,</L>
+<L N="956">Knictes, children, yunge and holde;
+<PB REF="00000092.tif" N="30"></L>
+<L>Alle him loueden &thorn;at him sowen,</L>
+<L>Bo&thorn;en heyemen and lowe.</L>
+<L>Of him ful wide &thorn;e word sprong,</L>
+<L N="960">Hw he was mike, hw he was strong,</L>
+<L>Hw fayr man god him hauede maked,</L>
+<L>But on &thorn;at he was almest naked:</L>
+<L>For he ne hauede nouth to shride,</L>
+<L N="964">But a kouel ful unride,</L>
+<L>&THORN;at [was] ful, and swi&thorn;e wicke,</L>
+<L>Was it nouth worth a fir sticke.</L>
+<L>&THORN;e cok bigan of him to rewe,</L>
+<L N="968">And bouthe him clo&thorn;es, al spannewe;</L>
+<L>He bouthe him bo&thorn;e hosen and shon,</L>
+<L>And sone dide him dones on.</L>
+<L>Hwan he was clo&thorn;ed, osed, and shod,</L>
+<L N="972">Was non so fayr under god,</L>
+<L>&THORN;at euere yete in er&thorn;e were,</L>
+<L>Non &thorn;at euere moder bere;</L>
+<L>It was neuere man &thorn;at yemede</L>
+<L N="976">In kinneriche, &thorn;at so wel semede</L>
+<L>King or cayser forto be,</L>
+<L>&THORN;an he was shrid, so semede he;</L>
+<L>For &thorn;anne he weren alle samen</L>
+<L N="980">At lincolne, at &thorn;e gamen,</L>
+<L>And &thorn;e erles men woren al &thorn;ore,</L>
+<L>&THORN;an was hauelok bi &thorn;e shuldren more</L>
+<L>&THORN;an &thorn;e meste &thorn;at &thorn;er kam:</L>
+<L N="984">In armes him noman [ne] nam,</L>
+<L>&THORN;at he doune sone ne caste;</L>
+<L>Hauelok stod ouer hem als a mast.</L>
+<L>Als he was heie, al<NOTE PLACE="foot"><I>Qu</I>. so; see l. 991.</NOTE> he was long,</L>
+<L N="988">He was bo&thorn;e stark and strong;</L>
+<L>In engelond [was] non hise per</L>
+<L>Of streng&thorn;e &thorn;at euere kam him ner.</L>
+<L>Als he was strong, so was he softe;
+<PB REF="00000093.tif" N="31"></L>
+<L N="992">&THORN;ey a man him misdede ofte,</L>
+<L>Neuere more he him misdede,</L>
+<L>Ne hond on him with yuele leyde.<MILESTONE N="209b:1" UNIT="folio"></L>
+<L>Of bodi was he mayden clene,</L>
+<L N="996">Neuere yete in game, ne in grene,</L>
+<L>&THORN;it<NOTE PLACE="foot"><I>Qu</I>. wit = with: miswritten owing to confusion of &thorn; with &wyn; (w)?</NOTE> hire ne wolde leyke ne lye,</L>
+<L>No more &thorn;an it were a strie.</L>
+<L>In &thorn;at time al hengelond</L>
+<L N="1000">&THORN;erl Godrich hauede in his hond,</L>
+<L>And he gart komen into &thorn;e tun</L>
+<L>Mani erl, and mani barun;</L>
+<L>And alle [men] &thorn;at liues were</L>
+<L N="1004">In eng[e]lond, &thorn;anne wer &thorn;ere,</L>
+<L>&THORN;at &thorn;ey haueden after sent,</L>
+<L>To ben &thorn;er at &thorn;e parlement.</L>
+<L>With hem com mani chanbioun,</L>
+<L N="1008">Mani with ladde, blac and brown;</L>
+<L>An fel it so, &thorn;at yunge men,</L>
+<L>Wel abouten nine or ten,</L>
+<L>Bigunnen &thorn;e[r] for to layke:</L>
+<L N="1012">&THORN;ider komen bothe stronge and wayke;</L>
+<L>&THORN;ider komen lesse and more,</L>
+<L>&THORN;at in &thorn;e borw &thorn;anne weren &thorn;ore;</L>
+<L>Chaunpiouns, and starke laddes,</L>
+<L N="1016">Bondemen with here gaddes,</L>
+<L>Als he comen fro &thorn;e plow;</L>
+<L>&THORN;ere was sembling i-now!</L>
+<L>For it ne was non horse-knaue,</L>
+<L N="1020">&THORN;o &thorn;ei sholden in honde haue,</L>
+<L>&THORN;at he ne kam &thorn;ider, &thorn;e leyk to se:</L>
+<L>Biforn here fet &thorn;anne lay a tre,</L>
+<L>And putten<NOTE PLACE="foot">MS. pulten. But see ll. 1031, 1033, 1044, 1051, &amp;c.</NOTE> with a mikel ston</L>
+<L N="1024">&THORN;e starke laddes, ful god won.
+<PB REF="00000094.tif" N="32"></L>
+<L>&THORN;e ston was mikel, and ek greth,</L>
+<L>And al so heui so a neth;</L>
+<L>Grund stalwrthe man he sholde be,</L>
+<L N="1028">&THORN;at mouthe liften it to his kne;</L>
+<L>Was &thorn;er ney&thorn;er clerc, ne prest,</L>
+<L>&THORN;at mithe liften it to his brest:</L>
+<L>&THORN;erwit putten the chaunpiouns,</L>
+<L N="1032">&THORN;at &thorn;ider comen with &thorn;e barouns.</L>
+<L>Hwo so mithe putten &thorn;ore</L>
+<L>Biforn a-no&thorn;er, an inch or more,</L>
+<L>Wore ye yung, [or] wore he hold,</L>
+<L N="1036">He was for a kempe told.</L>
+<L>Al-so &thorn;e[i] stoden, an ofte stareden,</L>
+<L>&THORN;e chaunpiouns, and ek the ladden,</L>
+<L>And he maden mikel strout<MILESTONE N="209b:2" UNIT="folio"></L>
+<L N="1040">Abouten &thorn;e al&thorn;erbeste but,</L>
+<L>Hauelok stod, and lokede &thorn;er-til;</L>
+<L>And of puttingge he was ful wil,</L>
+<L>For neuere yete ne saw he or</L>
+<L N="1044">Putten the stone, or &thorn;anne &thorn;or.</L>
+<L>Hise mayster bad him gon &thorn;er-to,</L>
+<L>Als he cou&thorn;e &thorn;er-with do.</L>
+<L>&THORN;o hise mayster it him bad,</L>
+<L N="1048">He was of him sore adrad;</L>
+<L>&THORN;erto he stirte sone anon,</L>
+<L>And kipte up &thorn;at heui ston,</L>
+<L>&THORN;at he sholde puten wi&thorn;e;</L>
+<L N="1052">He putte at &thorn;e firste si&thorn;e,</L>
+<L>Ouer alle &thorn;at &thorn;er wore,</L>
+<L>Twel fote, and sumdel more.</L>
+<L>&THORN;e chaunpiouns &thorn;at [&thorn;at] put sowen,</L>
+<L N="1056">Shuldreden he ilc o&thorn;er, and lowen;</L>
+<L>Wolden he no more to putting gange,</L>
+<L>But seyde, "we<NOTE PLACE="foot">In the former edition&mdash;"ye". But the <I>y</I> is not dotted, and it may be "&wyn;e."</NOTE> dwellen her to longe!"
+<PB REF="00000095.tif" N="33"></L>
+<L>&THORN;is selkouth mithe nouth ben hyd,</L>
+<L N="1060">Ful sone it was ful loude kid</L>
+<L>Of hauelok, hw he warp &thorn;e ston</L>
+<L>Ouer &thorn;e laddes euerilkon;</L>
+<L>Hw he was fayr, hw he was long,</L>
+<L N="1064">Hw he was with, hw he was strong;</L>
+<L>&THORN;oruth england yede &thorn;e speke,<NOTE PLACE="foot">MS. speche. Read "speke," as in l. 946.</NOTE></L>
+<L>Hw he was strong, and ek meke;</L>
+<L>In the castel, up in &thorn;e halle,</L>
+<L N="1068">&THORN;e knithes speken &thorn;er-of alle,</L>
+<L>So that Godrich it herde wel</L>
+<L>&THORN;e[r] speken of hauelok, eueri del,</L>
+<L>Hw he was strong man and hey,</L>
+<L N="1072">Hw he was strong and ek fri,</L>
+<L>And &thorn;outhte godrich, "&thorn;oru &thorn;is knaue</L>
+<L>Shal ich engelond al haue,</L>
+<L>And mi sone after me;</L>
+<L N="1076">For so i wile &thorn;at it be.</L>
+<L>The king a&thorn;elwald me dide swere</L>
+<L>Vpon al &thorn;e messe-gere,</L>
+<L>&THORN;at y shu[l]de his douthe[r] yeue</L>
+<L N="1080">&THORN;e hexte &thorn;at mithe liue,</L>
+<L>&THORN;e beste, &thorn;e fairest, &thorn;e strangest ok;</L>
+<L>&THORN;at gart he me sweren on &thorn;e bok.</L>
+<L>Hwere mithe i finden ani so hey</L>
+<L N="1084">So hauelok is, or so sley?<MILESTONE N="210a:1" UNIT="folio"></L>
+<L>&THORN;ou y southe he&thorn;en in-to ynde,</L>
+<L>So fayr, so strong, ne mithe y finde.</L>
+<L>Hauelok is &thorn;at ilke knaue,</L>
+<L N="1088">&THORN;at shal goldeborw haue."</L>
+<L>&THORN;is &thorn;outhe [he] with trechery,</L>
+<L>With traysoun, and wit felony;</L>
+<L>For he wende, &thorn;at hauelok wore</L>
+<L N="1092">Sum cherles sone, and no more;</L>
+<L>Ne shulde he hauen of engellond
+<PB REF="00000096.tif" N="34"></L>
+<L>Onlepi forw in his hond,</L>
+<L>With hire, &thorn;at was &thorn;erof eyr,</L>
+<L N="1096">&THORN;at bo&thorn;e was god and swi&thorn;e fair.</L>
+<L>He wende, &thorn;at hauelok wer a &thorn;ral,</L>
+<L>&THORN;er-&thorn;oru he wende hauen al</L>
+<L>In engelond, &thorn;at hire rith was;</L>
+<L N="1100">He was werse &thorn;an sathanas,</L>
+<L>&THORN;at ihesu crist in er&thorn;e shop:<NOTE PLACE="foot"><I>Qu</I>. shok <I>or</I> strok.</NOTE></L>
+<L>Hanged wor&thorn;e he on an hok!</L>
+</LG>
+<LG TYPE="stanza">
+<L>After goldebo[r]w sone he sende,</L>
+<L N="1104">&THORN;at was bo&thorn;e fayr and hende,</L>
+<L>And dide hire to lincolne bringe,</L>
+<L>Belles dede he ageyn hire ringen,</L>
+<L>And ioie he made hire swi&thorn;e mikel,</L>
+<L N="1108">But ne&thorn;eles he was ful swikel.</L>
+<L>He seyde, &thorn;at he sholde hire yeue</L>
+<L>&THORN;e fayrest man that mithe liue.</L>
+<L>She answerede, and seyde anon,</L>
+<L N="1112">Bi crist, and bi seint iohan,</L>
+<L>&THORN;at hire sholde noman wedde,</L>
+<L>Ne noman bringen to hire<NOTE PLACE="foot"><I>Qu</I>. hise.</NOTE> bedde,</L>
+<L>But he were king, or kinges eyr,</L>
+<L N="1116">Were he neuere man so fayr.</L>
+</LG>
+<LG TYPE="stanza">
+<L>Godrich &thorn;e erl was swi&thorn;e wroth,</L>
+<L>&THORN;at she swore swilk an oth,</L>
+<L>And seyde, "hwor &thorn;ou wilt be</L>
+<L N="1120">Quen and leuedi ouer me?</L>
+<L>&THORN;ou shalt hauen a gadeling,</L>
+<L>Ne shalt &thorn;ou hauen non o&thorn;er king;</L>
+<L>&THORN;e shal spusen mi cokes knaue,</L>
+<L N="1124">Ne shalt &thorn;ou non o&thorn;er louerd haue.</L>
+<L>Da&thorn;eit &thorn;at &thorn;e o&thorn;er yeue</L>
+<L>Euere more hwil i liue!
+<PB REF="00000097.tif" N="35"></L>
+<L>To-mo[r]we ye sholen ben weddeth,</L>
+<L N="1128">And, maugre &thorn;in, to-gidere beddeth."</L>
+<L>Goldeborw gret, and was<NOTE PLACE="foot">The first letter of this word is either &thorn; or a Saxon <I>w</I> (&wyn;). I read it as the latter.</NOTE> hire ille,<MILESTONE N="210a:2" UNIT="folio"></L>
+<L>She wolde ben ded bi hire wille.</L>
+<L>On the morwen, hwan day was sprungen,</L>
+<L N="1132">And day-belle at kirke rungen,</L>
+<L>After hauelok sente &thorn;at iudas,</L>
+<L>&THORN;at werse was &thorn;anne sathanas:</L>
+<L>And seyde, "mayster, wilte wif?"</L>
+<L N="1136">"Nay," quoth hauelok, "bi my lif!</L>
+<L>Hwat sholde ich with wif do?</L>
+<L>I ne may hire fede, ne clo&thorn;e, ne sho.</L>
+<L>Wider sholde ich wimman bringe?</L>
+<L N="1140">I ne haue none kines &thorn;inge.</L>
+<L>I ne haue hws, y ne haue cote,</L>
+<L>Ne i ne<NOTE PLACE="foot">MS. ine.</NOTE> haue stikke, y ne haue sprote,</L>
+<L>I ne haue ney&thorn;er bred ne sowel,</L>
+<L N="1144">Ne cloth, but of an hold with couel.</L>
+<L>&THORN;is clo&thorn;es, &thorn;at ich onne haue,</L>
+<L>Aren &thorn;e kokes, and ich his knaue."</L>
+<L>Godrich stirt up, and on him dong</L>
+<L N="1148">[With dintes swi&thorn;e hard and strong,]</L>
+<L>And seyde, "But &thorn;ou hire take,</L>
+<L>&THORN;at y wole yeuen &thorn;e to make,</L>
+<L>I shal hangen &thorn;e ful heye,</L>
+<L N="1152">Or y shal &thorn;risten vth &thorn;in heie."</L>
+<L>Hauelok was one, and was odrat,</L>
+<L>And grauntede him al &thorn;at he bad.</L>
+<L>&THORN;o sende he after hire sone,</L>
+<L N="1156">&THORN;e fayrest wymman under mone;</L>
+<L>And seyde til hire, [false]<NOTE PLACE="foot">Both sense and metre require this word.</NOTE> and slike,</L>
+<L>&THORN;at wicke &thorn;ral, &thorn;at foule swike:</L>
+<L>"But &thorn;u &thorn;is man under-stonde,
+<PB REF="00000098.tif" N="36"></L>
+<L N="1160">I shal flemen &thorn;e of londe;</L>
+<L>Or &thorn;ou shal to &thorn;e galwes renne,</L>
+<L>And &thorn;er &thorn;ou shalt in a fir brenne."</L>
+<L>Sho was adrad, for he so &thorn;rette,</L>
+<L N="1164">And durste nouth &thorn;e spusing lette,</L>
+<L>But &thorn;ey hire likede swi&thorn;e ille,</L>
+<L>&THORN;outhe it was godes wille:</L>
+<L>God, &thorn;at makes to growen &thorn;e korn,</L>
+<L N="1168">Formede hire wimman to be born.</L>
+<L>Hwan he hauede don him for drede,</L>
+<L>&THORN;at he sholde hire spusen, and fede,</L>
+<L>And &thorn;at she sholde til him holde,</L>
+<L N="1172">&THORN;er weren penies &thorn;icke tolde,</L>
+<L>Mikel plente upon &thorn;e bok:</L>
+<L>He ys hire yaf, and she as tok.</L>
+<L>He weren spused fayre and wel,<MILESTONE N="210b:1" UNIT="folio"></L>
+<L N="1176">&THORN;e messe he deden eueridel,</L>
+<L>&THORN;at fel to spusing, and god cle[r]k,</L>
+<L>&THORN;e erchebishop uth of yerk,</L>
+<L>&THORN;at kam to &thorn;e parlement,</L>
+<L N="1180">Als god him hauede &thorn;ider sent.</L>
+</LG>
+<LG TYPE="stanza">
+<L>Hwan he weren togydere in godes lawe,</L>
+<L>&THORN;at &thorn;e folc ful wel it sawe,</L>
+<L>He ne wisten hwat he mouthen,</L>
+<L N="1184">Ne he ne wisten wat hem douthe;</L>
+<L>&THORN;er to dwellen, or &thorn;enne to gonge,</L>
+<L>&THORN;er ne wolden he dwellen longe,</L>
+<L>For he wisten, and ful wel sawe,</L>
+<L N="1188">&THORN;at godrich hem hatede, &thorn;e deuel him hawe!</L>
+<L>And yf he dwelleden &thorn;er outh&mdash;</L>
+<L>&THORN;at fel hauelok ful wel on &thorn;outh&mdash;</L>
+<L>Men sholde don his leman shame,</L>
+<L N="1192">Or elles bringen in wicke blame.</L>
+<L>&THORN;at were him leuere to ben ded,</L>
+<L>For-&thorn;i he token ano&thorn;er red,
+<PB REF="00000099.tif" N="37"></L>
+<L>&THORN;at &thorn;ei sholden &thorn;enne fle</L>
+<L N="1196">Til grim, and til hise sones &thorn;re;</L>
+<L>&THORN;er wenden he al&thorn;er-best to spede,</L>
+<L>Hem forto clo&thorn;e, and for to fede.</L>
+<L>&THORN;e lond he token under fote,</L>
+<L N="1200">Ne wisten he non o&thorn;er bote,</L>
+<L>And helden ay the ri&thorn;e [sti]<NOTE PLACE="foot">A word is here erased; but see l. 2618.</NOTE></L>
+<L>Til he komen to grimesby.</L>
+<L>&THORN;anne he komen &thorn;ere, &thorn;anne was grim ded,</L>
+<L N="1204">Of him ne haueden he no red;</L>
+<L>But hise children alle fyue</L>
+<L>Alle weren yet on liue;</L>
+<L>&THORN;at ful fayre ayen hem neme,</L>
+<L N="1208">Hwan he wisten &thorn;at he keme,</L>
+<L>And maden ioie swi&thorn;e mikel,</L>
+<L>Ne weren he neuere ayen hem fikel.</L>
+<L>On knes ful fayre he hem setten,</L>
+<L N="1212">And hauelok swi&thorn;e fayre gretten,</L>
+<L>And seyden, "welkome, louerd dere!</L>
+<L>And welkome be &thorn;i fayre fere!</L>
+<L>Blessed be &thorn;at ilke &thorn;rawe,</L>
+<L N="1216">&THORN;at &thorn;ou hire toke in godes lawe!</L>
+<L>Wel is hus we sen &thorn;e on lyue,</L>
+<L>&THORN;ou mithe us bo&thorn;e selle and yeue;</L>
+<L>&THORN;ou mayt us bo&thorn;e yeue and selle,</L>
+<L N="1220">With &thorn;at &thorn;ou wilt here dwelle.<MILESTONE N="210b:2" UNIT="folio"></L>
+<L>We hauen, louerd, alle gode,</L>
+<L>Hors, and neth, and ship on flode,</L>
+<L>Gold, and siluer, and michel auchte,</L>
+<L N="1224">&THORN;at grim ure fader us bitawchte.</L>
+<L>Gold, and siluer, and o&thorn;er fe</L>
+<L>Bad he us bi-taken &thorn;e.</L>
+<L>We hauen shep, we hauen swin,</L>
+<L N="1228">Bi-leue her, louerd, and al be &thorn;in;</L>
+<L>&THORN;o shalt ben louerd, &thorn;ou shalt ben syre,
+<PB REF="00000100.tif" N="38"></L>
+<L>And we sholen seruen &thorn;e and hire;</L>
+<L>And hure sistres sholen do</L>
+<L N="1232">Al that euere biddes sho;</L>
+<L>He sholen hire clo&thorn;en, washen, and wringen,</L>
+<L>And to hondes water bringen;</L>
+<L>He sholen bedden hire and &thorn;e,</L>
+<L N="1236">For leuedi wile we &thorn;at she be."</L>
+<L>Hwan he &thorn;is ioie haueden maked,</L>
+<L>Sithen stikes broken and kraked,</L>
+<L>And &thorn;e fir brouth on brenne,</L>
+<L N="1240">Ne was &thorn;er spared gos ne henne,</L>
+<L>Ne &thorn;e hende, ne &thorn;e drake,</L>
+<L>Mete he deden plente make;</L>
+<L>Ne wantede &thorn;ere no god mete,</L>
+<L N="1244">Wyn and ale deden he fete,</L>
+<L>And made[n] hem [ful] glade and bli&thorn;e,</L>
+<L>Wesseyl ledden he fele si&thorn;e.</L>
+</LG>
+<LG TYPE="stanza">
+<L>On &thorn;e nith, als goldeborw lay,</L>
+<L N="1248">Sory and sorwful was she ay,</L>
+<L>For she wende she were bi-swike,</L>
+<L>&THORN;at sh[e w]ere<NOTE PLACE="foot">MS. shere, <I>evidently miswritten for</I> she were.</NOTE> yeuen un-kyndelike.</L>
+<L>O nith saw she &thorn;er-inne a lith,</L>
+<L N="1252">A swi&thorn;e fayr, a swi&thorn;e bryth,</L>
+<L>Al so brith, al so shir,</L>
+<L>So it were a blase of fir.</L>
+<L>She lokede no[r]&thorn;,<NOTE PLACE="foot">MS. no&thorn;.</NOTE> and ek south,</L>
+<L N="1256">And saw it comen ut of his mouth,</L>
+<L>&THORN;at lay bi hire in &thorn;e bed:</L>
+<L>No ferlike &thorn;ou she were adred.</L>
+<L>&THORN;outhe she, "wat may this bi-mene!</L>
+<L N="1260">He beth heyman yet, als y wene,</L>
+<L>He beth heyman er he be ded:"&mdash;</L>
+<L>On hise shuldre, of gold red</L>
+<L>She saw a swi&thorn;e noble croiz,
+<PB REF="00000101.tif" N="39"></L>
+<L N="1264">Of an angel she herde a uoyz:</L>
+</LG>
+<LG TYPE="stanza">
+<L>"Goldeborw, lat &thorn;i sorwe be,<MILESTONE N="211a:1" UNIT="folio"></L>
+<L>For hauelok, &thorn;at haue&thorn; spuset &thorn;e,</L>
+<L>He<NOTE PLACE="foot"><I>Qu</I>. Is.</NOTE> kinges sone, and kinges eyr,</L>
+<L N="1268">&THORN;at bikenneth &thorn;at croiz so fayr.</L>
+<L>It<NOTE PLACE="foot">MS. Iit.</NOTE> bikenneth more, &thorn;at he shal</L>
+<L>Denemark hauen, and englond al;</L>
+<L>He shal ben king strong and stark</L>
+<L N="1272">Of engelond and denemark;</L>
+<L>&THORN;at shal &thorn;u wit &thorn;in eyne sen,</L>
+<L>And &thorn;o shalt quen and leuedi ben!"</L>
+</LG>
+<LG TYPE="stanza">
+<L>&THORN;anne she hauede herd the steuene</L>
+<L N="1276">Of &thorn;e angel uth of heuene,</L>
+<L>She was so fele si&thorn;es blithe,</L>
+<L>&THORN;at she ne mithe hire ioie mythe;</L>
+<L>But hauelok sone anon she kiste,</L>
+<L N="1280">And he slep, and nouth ne wiste.</L>
+<L>Hwan &thorn;at aungel hauede seyd,</L>
+<L>Of his slep a-non he brayd,</L>
+<L>And seide, "lemman, slepes &thorn;ou?</L>
+<L N="1284">A selkuth drem dremede me nou.</L>
+</LG>
+<LG TYPE="stanza">
+<L>Herkne nou hwat me haueth met:</L>
+<L>Me &thorn;outhe y was in denemark set,</L>
+<L>But on on &thorn;e moste hil</L>
+<L N="1288">&THORN;at euere yete kam i til.</L>
+<L>It was so hey, &thorn;at y wel mouthe</L>
+<L>Al &thorn;e werd se, als me &thorn;outhe.</L>
+<L>Als i sat up-on &thorn;at lowe,</L>
+<L N="1292">I bigan denemark for to awe,</L>
+<L>&THORN;e borwes, and &thorn;e castles stronge;</L>
+<L>And mine armes weren so longe,</L>
+<L>That i fadmede, al at ones,
+<PB REF="00000102.tif" N="40"></L>
+<L N="1296">denemark, with mine longe bones;</L>
+<L>And &thorn;anne y wolde mine armes drawe</L>
+<L>Til me, and hom for to haue,</L>
+<L>Al that euere in denemark liueden</L>
+<L N="1300">On mine armes faste clyueden;</L>
+<L>And &thorn;e stronge castles alle</L>
+<L>On knes bigunnen for to falle,</L>
+<L>&THORN;e keyes fellen at mine fet:&mdash;</L>
+<L N="1304">Ano&thorn;er drem dremede me ek,</L>
+<L>&THORN;at ich fley ouer &thorn;e salte se</L>
+<L>Til engeland, and al with me</L>
+<L>&THORN;at euere was in denemark lyues,</L>
+<L N="1308">But bondemen, and here wiues,</L>
+<L>And &thorn;at ich kom til engelond,</L>
+<L>Al closede it intil min hond,<MILESTONE N="211a:2" UNIT="folio"></L>
+<L>And, goldeborw, y gaf [it] &thorn;e:&mdash;</L>
+<L N="1312">Deus! lemman, hwat may &thorn;is be?"</L>
+<L>Sho answerede, and seyde sone:</L>
+<L>"Ihesu crist, &thorn;at made mone,</L>
+<L>&THORN;ine dremes turne to ioye;</L>
+<L N="1316">&THORN;at wite &thorn;w that sittes in trone!</L>
+<L>Ne non strong king, ne caysere,</L>
+<L>So &thorn;ou shalt be, fo[r] &thorn;ou shalt bere</L>
+<L>In engelond corune yet;</L>
+<L N="1320">Denemark shal knele to &thorn;i fet;</L>
+<L>Alle &thorn;e castles &thorn;at aren &thorn;er-inne,</L>
+<L>Shal-tow, lemman, ful wel winne.</L>
+<L>I woth, so wel so ich it sowe,</L>
+<L N="1324">To &thorn;e shole comen heye and lowe,</L>
+<L>And alle &thorn;at in denemark wone,</L>
+<L>Em and bro&thorn;er, fader and sone,</L>
+<L>Erl and baroun, dreng an kayn,</L>
+<L N="1328">Knithes, and burgeys, and sweyn;</L>
+<L>And mad king heyelike and wel,</L>
+<L>Denemark shal be &thorn;in euere-ilc del.
+<PB REF="00000103.tif" N="41"></L>
+<L>Haue &thorn;ou nouth &thorn;er-offe douthe</L>
+<L N="1332">Nouth &thorn;e worth of one nouthe;</L>
+<L>&THORN;er-offe with-inne &thorn;e firste yer</L>
+<L>Shalt &thorn;ou ben king, of euere-il del.</L>
+<L>But do nou als y wile rathe,</L>
+<L N="1336">Nim in with &thorn;e to denema[r]k ba&thorn;e,</L>
+<L>And do &thorn;ou nouth onfrest &thorn;is fare,</L>
+<L>Lith and selthe felawes are.</L>
+<L>For shal ich neuere bli&thorn;e be</L>
+<L N="1340">Til i with eyen denemark se;</L>
+<L>For ich woth, &thorn;at al &thorn;e lond</L>
+<L>Shalt &thorn;ou hauen in &thorn;in hon[d].</L>
+<L>Prey grimes sones alle &thorn;re,</L>
+<L N="1344">That he wenden for&thorn; with &thorn;e;</L>
+<L>I wot, he wilen &thorn;e nouth werne,</L>
+<L>With &thorn;e wende shulen he yerne,</L>
+<L>For he louen &thorn;e herte-like,</L>
+<L N="1348">&THORN;ou maght til he aren quike,</L>
+<L>Hwore so he o worde aren;</L>
+<L>&THORN;ere ship &thorn;ou do hem swithe yaren,</L>
+<L>And loke &thorn;at &thorn;ou dwellen nouth:</L>
+<L N="1352">Dwelling haueth ofte sca&thorn;e wrouth."</L>
+</LG>
+<LG TYPE="stanza">
+<L>Hwan Hauelok herde &thorn;at she radde,</L>
+<L>Sone it was day, sone he him cladde,</L>
+<L>And sone to &thorn;e kirke yede,<MILESTONE N="211b:1" UNIT="folio"></L>
+<L N="1356">Or he dide ani o&thorn;er dede,</L>
+<L>And bifor &thorn;e rode bigan falle,</L>
+<L>Croiz and crist bi[gan] to kalle,</L>
+<L>And seyde, "louerd, &thorn;at al weldes,</L>
+<L N="1360">Wind and water, wodes and feldes,</L>
+<L>For the holi milce of you,</L>
+<L>Haue merci of me, louerd, nou!</L>
+<L>And wreke me yet on mi fo,</L>
+<L N="1364">&THORN;at ich saw biforn min eyne slo</L>
+<L>Mine sistres, with a knif,
+<PB REF="00000104.tif" N="42"></L>
+<L>And si&thorn;en wolde me mi lyf</L>
+<L>Haue reft, for in the [depe] se</L>
+<L N="1368">Bad he grim haue drenched me.</L>
+<L>He [hath] mi lond with mikel vn-Rith,</L>
+<L>With michel wrong, with mikel plith,</L>
+<L>For i ne<NOTE PLACE="foot">MS. ine.</NOTE> misdede him neuere nouth,</L>
+<L N="1372">And haued me to sorwe brouth.</L>
+<L>He haueth me do mi mete to &thorn;igge,</L>
+<L>And ofte in sorwe and pine ligge.</L>
+<L>Louerd, haue merci of me,</L>
+<L N="1376">And late [me] wel passe &thorn;e se,</L>
+<L>&THORN;at ihc haue ther-offe douthe and kare,</L>
+<L>With-uten stormes ouer-fare,</L>
+<L>&THORN;at y ne drenched [be] &thorn;er-ine,</L>
+<L N="1380">Ne forfaren for no sinne.</L>
+<L>And bringge me wel to &thorn;e lond,</L>
+<L>&THORN;at godard haldes in his hond;</L>
+<L>&THORN;at is mi Rith, eueri del:</L>
+<L N="1384">Ihesu crist, &thorn;ou wost it wel!"</L>
+</LG>
+<LG TYPE="stanza">
+<L>&THORN;anne he hauede his bede seyd,</L>
+<L>His offrende on &thorn;e auter leyd,</L>
+<L>His leue at ihesu crist he tok,</L>
+<L N="1388">And at his suete moder ok,</L>
+<L>And at &thorn;e croiz, &thorn;at he biforn lay,</L>
+<L>Si&thorn;en yede sore grotinde awey.</L>
+</LG>
+<LG TYPE="stanza">
+<L><NOTE PLACE="foot">In the MS. the Capital letter is prefixed to the next line.</NOTE>Hwan he com hom, he wore yare,</L>
+<L N="1392">Grimes sones, forto fare</L>
+<L>In-to &thorn;e se, fishes to gete,</L>
+<L>&THORN;at hauelok mithe wel of ete.</L>
+<L>But auelok &thorn;outhe al ano&thorn;er,</L>
+<L N="1396">First he ka[l]de &thorn;e heldeste bro&thorn;er,</L>
+<L>Roberd &thorn;e rede, bi his name,
+<PB REF="00000105.tif" N="43"></L>
+<L>Wiliam wenduth, and h[uwe r]auen,<NOTE PLACE="foot">MS. hauen. Cf. ll. 1868, 2528. Only an assonance, not a rime, seems intended.</NOTE></L>
+<L>Grimes sones alle &thorn;re,</L>
+<L N="1400">And sey[d]e, "li&thorn;es nou alle to me,<MILESTONE N="211b:2" UNIT="folio"></L>
+<L>Louerdinges, ich wile you sheue,</L>
+<L>A &thorn;ing of me &thorn;at ye wel knewe.</L>
+<L>Mi fader was king of denshe lond,</L>
+<L N="1404">Denemark was al in his hond</L>
+<L>&THORN;e day &thorn;at he was quik and ded;</L>
+<L>But &thorn;anne hauede he wicke red,</L>
+<L>&THORN;at he me, and denemark al,</L>
+<L N="1408">And mine sistres bi-tawte a &thorn;ral:</L>
+<L>A deueles lime [he] hus bitawte,</L>
+<L>And al his lond, and al hise authe.</L>
+<L>For y saw that fule fend</L>
+<L N="1412">Mine sistres slo with hise hend;</L>
+<L>First he shar a-two here &thorn;rotes,</L>
+<L>And si&thorn;en [karf] hem al to grotes,</L>
+<L>And si&thorn;en bad [he] in &thorn;e se</L>
+<L N="1416">Grim, youre fader, drenchen me.</L>
+<L>Deplike dede he him swere</L>
+<L>On bok, &thorn;at he sholde me bere</L>
+<L>Vnto &thorn;e se, an drenchen ine,</L>
+<L N="1420">And wolde taken on him &thorn;e sinne.</L>
+<L>But grim was wis, and swi&thorn;e hende,</L>
+<L>Wolde he nouth his soule shende;</L>
+<L>Leuere was him to be for-sworen,</L>
+<L N="1424">&THORN;an drenchen me, and ben for-lorn;</L>
+<L>But sone bigan he forto fle</L>
+<L>Fro denemark, forto berwen<NOTE PLACE="foot">MS. ber&wyn;en, <I>the</I> A.S. w <I>being used here</I>. Cf. l. 697.</NOTE> me,</L>
+<L>For yif<NOTE PLACE="foot">MS. yif.</NOTE> ich hauede &thorn;er ben funden,</L>
+<L N="1428">Hauede ben slayn, or harde bunden,</L>
+<L>And heye ben henged on a tre,
+<PB REF="00000106.tif" N="44"></L>
+<L>Hauede go for him gold ne fe.</L>
+<L>For-&thorn;i fro denemark hider he fledde,</L>
+<L N="1432">And me ful fayre and ful wel fedde,</L>
+<L>So &thorn;at vn-to &thorn;is [ilke] day,</L>
+<L>Haue ich ben fed and fostred ay.</L>
+<L>But nou ich am up to &thorn;at helde</L>
+<L N="1436">Cumen, that ich may wepne welde,</L>
+<L>And y may grete dintes yeue,</L>
+<L>Shal i neuere hwil ich lyue</L>
+<L>Ben glad, til that ich denemark se;</L>
+<L N="1440">I preie you &thorn;at ye wende with me,</L>
+<L>And ich may mak you riche men,</L>
+<L>Ilk of you shal haue castles ten,</L>
+<L>And &thorn;e lond &thorn;at &thorn;or-til longes,</L>
+<L N="1444">Borwes, tunes, wodes and wonges."<NOTE PLACE="foot">A folio has here been cut out of the MS., containing 180 lines. The missing portion must have been to this effect. "To this they gladly assented; and Havelok, accompanied by his wife Goldeborw and the sons of Grim, set sail for Denmark. Disembarking, they travel till they reach the castle of a great Danish earl, named Ubbe, who had formerly been a close friend to king Birkabeyn. Havelok begs that he will allow him to live in that part of the country, and to gain a livelihood by trading."</NOTE></L>
+<L>* * * * *</L>
+<L>* * * * *</L>
+<L>"With swilk als ich byen shal:<MILESTONE N="212a:1" UNIT="folio"></L>
+<L>&THORN;er-of bi-seche you nou leue;</L>
+<L>Wile ich speke with non o&thorn;er reue,</L>
+<L N="1628">But with &thorn;e, &thorn;at iustise are,</L>
+<L>&THORN;at y mithe seken<NOTE PLACE="foot"><I>Qu</I>. sellen.</NOTE> mi ware</L>
+<L>In gode borwes up and doun,</L>
+<L>And faren ich wile fro tun to tun."</L>
+<L N="1632">A gold ring drow he forth anon,</L>
+<L>An hundred pund was worth &thorn;e ston,</L>
+<L>And yaf it ubbe for to spede:&mdash;</L>
+<L>He was ful wis &thorn;at first yaf mede,</L>
+<L N="1636">And so was hauelok ful wis here,
+<PB REF="00000107.tif" N="45"></L>
+<L>He solde his gold ring ful dere,</L>
+<L>Was neuere non so dere sold,</L>
+<L>For chapmen, ney&thorn;er yung ne old:</L>
+<L N="1640">&THORN;at sholen<NOTE PLACE="foot">MS. shoren.</NOTE> ye forthward ful wel heren,</L>
+<L>Yif &thorn;at ye wile &thorn;e storie heren.</L>
+</LG>
+<LG TYPE="stanza">
+<L>Hwan ubbe hauede &thorn;e gold ring,</L>
+<L>Hauede he youenet for no &thorn;ing,</L>
+<L N="1644">Nouth for &thorn;e borw euere-il del:&mdash;</L>
+<L>Hauelok bi-hel he swi&thorn;e wel,</L>
+<L>Hw he was wel of bones maked,</L>
+<L>Brod in &thorn;e sholdres, ful wel schaped,</L>
+<L N="1648">&THORN;icke in &thorn;e brest, of bodi long;</L>
+<L>He semede wel to ben wel strong.</L>
+<L>"Deus!" hwat ubbe, "qui ne were he knith?</L>
+<L>I woth, &thorn;at he is swi&thorn;e with!</L>
+<L N="1652">Betere semede him to bere</L>
+<L>Helm on heued, sheld and spere,</L>
+<L>&THORN;anne to beye and selle ware.</L>
+<L>Allas! &thorn;at he shal &thorn;er-with fare.</L>
+<L N="1656">Goddot! wile he trowe me,</L>
+<L>Chaffare shal he late be."</L>
+<L>Ne&thorn;eles he seyde sone:</L>
+<L>"Hauelok, haue [&thorn;ou] &thorn;i bone,</L>
+<L N="1660">And y ful wel rede &thorn;[e]</L>
+<L>&THORN;at &thorn;ou come, and ete with me</L>
+<L>To-day, &thorn;ou, and &thorn;i fayre wif,</L>
+<L>&THORN;at &thorn;ou louest also &thorn;i lif.</L>
+<L N="1664">And haue &thorn;ou of hire no drede,</L>
+<L>Shal hire no man shame bede.</L>
+<L>Bi &thorn;e fey that y owe to &thorn;e,</L>
+<L>&THORN;erof shal i me serf-borw be."</L>
+</LG>
+<LG TYPE="stanza">
+<L N="1668">Hauelok herde &thorn;at he bad,</L>
+<L>And thow was he ful sore drad,</L>
+<L>With him to ete, for hise wif;<MILESTONE N="212a:2" UNIT="folio">
+<PB REF="00000108.tif" N="46"></L>
+<L>For him wore leuere &thorn;at his lif</L>
+<L N="1672">Him wore reft, &thorn;an she in blame</L>
+<L>Felle, or lauthe ani shame.</L>
+<L>Hwanne he hauede his wille wat,<NOTE PLACE="foot">MS. <I>either</I> &thorn;at <I>or</I> &wyn;at.</NOTE></L>
+<L>&THORN;e stede, &thorn;at he onne sat,</L>
+<L N="1676">Smot ubbe with spures faste,</L>
+<L>And forth awey, but at &thorn;e laste,</L>
+<L>Or he fro him ferde,</L>
+<L>Seyde he, &thorn;at his folk herde:</L>
+<L N="1680">"Loke &thorn;at ye comen be&thorn;e,</L>
+<L>For ich it wile, and ich it rede."</L>
+</LG>
+<LG TYPE="stanza">
+<L>Hauelok ne durste, &thorn;e he were adrad,</L>
+<L>Nouth with-sitten &thorn;at ubbe bad;</L>
+<L N="1684">His wif he dide with him lede,</L>
+<L>Vn-to &thorn;e heye curt he y[e]de.<NOTE PLACE="foot">MS. yde.</NOTE></L>
+<L>Roberd hire ledde, &thorn;at was red,</L>
+<L>&THORN;at hau[ed]e &thorn;arned for hire &thorn;e ded</L>
+<L N="1688">Or ani hauede hire misseyd,</L>
+<L>Or hand with iuele onne leyd.</L>
+<L>Willam wendut was &thorn;at o&thorn;er</L>
+<L>&THORN;at hire ledde, roberdes bro&thorn;er,</L>
+<L N="1692">&THORN;at was with at alle nedes:</L>
+<L>Wel is him &thorn;at god man fedes!</L>
+<L>&THORN;an he weren comen to &thorn;e halle,</L>
+<L>Biforen ubbe, and hise men alle,</L>
+<L N="1696">Vbbe stirte hem ageyn,</L>
+<L>And mani a knith, and mani a sweyn,</L>
+<L>Hem for to se, and forto shewe;</L>
+<L>&THORN;o stod hauelok als a lowe</L>
+<L N="1700">Aboven [&thorn;o] &thorn;at &thorn;er-inne wore,</L>
+<L>Rith al bi &thorn;e heued more</L>
+<L>&THORN;anne ani &thorn;at &thorn;er-inne stod:</L>
+<L>&THORN;o was ubbe bli&thorn;e of mod,</L>
+<L N="1704">&THORN;at he saw him so fayr and hende,
+<PB REF="00000109.tif" N="47"></L>
+<L>Fro him ne mithe his herte wende,</L>
+<L>Ne fro him, ne fro his wif;</L>
+<L>He louede hem sone so his lif.</L>
+<L N="1708">Weren non in denemark, &thorn;at him &thorn;outhe,</L>
+<L>&THORN;at he so mikel loue mouthe;</L>
+<L>More he louede hauelok one,</L>
+<L>&THORN;an al denemark, bi mine wone!</L>
+<L N="1712">Loke nou, hw god helpen kan</L>
+<L>O mani wise wif and man.</L>
+</LG>
+<LG TYPE="stanza">
+<L>Hwan it was comen time to ete,</L>
+<L>Hise wif dede ubbe sone in fete,<MILESTONE N="212b:1" UNIT="folio"></L>
+<L N="1716">And til hire seyde, al on gamen:</L>
+<L>"Dame, &thorn;ou and hauelok shulen ete samen,</L>
+<L>And goldeboru shal ete wit me,</L>
+<L>&THORN;at is so fayr so flour on tre;</L>
+<L N="1720">In al denemark nis<NOTE PLACE="foot">MS. is.</NOTE> wimman</L>
+<L>So fayr so sche, bi seint iohan!"</L>
+<L>&THORN;anne [he] were set, and bord leyd,</L>
+<L>And &thorn;e beneysun was seyd,</L>
+<L N="1724">Biforn hem com &thorn;e beste mete</L>
+<L>&THORN;at king or cayser wolde ete;</L>
+<L>Kranes, swannes, ueneysun,</L>
+<L>Lax, lampreys, and god sturgun,</L>
+<L N="1728">Pyment to drinke, and god clare,</L>
+<L>Win hwit and red, ful god plente.</L>
+<L>Was &thorn;er-inne no page so lite,</L>
+<L>&THORN;at euere wolde ale bite.</L>
+<L N="1732">Of &thorn;e mete forto tel,</L>
+<L>Ne of &thorn;e metes<NOTE PLACE="foot"><I>Qu</I>. win.</NOTE> bidde i nout dwelle;</L>
+<L>&THORN;at is &thorn;e storie for to lenge,</L>
+<L>It wolde anuye &thorn;is fayre genge.</L>
+<L N="1736">But hwan he haueden &thorn;e kiwing<NOTE PLACE="foot">Uncertain in MS. See note.</NOTE> deled,</L>
+<L>And fele si&thorn;es haueden wosseyled,</L>
+<L>And with gode drinkes seten longe,
+<PB REF="00000110.tif" N="48"></L>
+<L>And it was time for to gonge,</L>
+<L N="1740">Il man to &thorn;er he cam fro,</L>
+<L>&THORN;outhe ubbe, "yf I late hem go,</L>
+<L>&THORN;us one foure, with-uten mo,</L>
+<L>So mote ich brouke finger or to,</L>
+<L N="1744">For &thorn;is wimman bes mike wo!</L>
+<L>For hire shal men hire louerd slo."</L>
+<L>He tok sone knithes ten,</L>
+<L>And wel sixti o&thorn;er men,</L>
+<L N="1748">Wit gode bowes, and with gleiues,</L>
+<L>And sende him unto &thorn;e greyues,</L>
+<L>&THORN;e beste man of al &thorn;e toun,</L>
+<L>&THORN;at was named bernard brun;</L>
+<L N="1752">And bad him, als he louede his lif,</L>
+<L>Hauelok wel y[e]men,<NOTE PLACE="foot">MS. ymen.</NOTE> and his wif,</L>
+<L>And wel do wayten al &thorn;e nith,</L>
+<L>Til &thorn;e o&thorn;er day, &thorn;at it were lith.</L>
+<L N="1756">Bernard was trewe, and swi&thorn;e with,</L>
+<L>In al &thorn;e borw ne was no knith</L>
+<L>&THORN;at betere cou&thorn;e on stede riden,</L>
+<L>Helm on heued, ne swerd bi side.</L>
+<L N="1760">Hauelok he gladlike under-stod,<MILESTONE N="212b:2" UNIT="folio"></L>
+<L>With mike loue, and herte god,</L>
+<L>And dide grey&thorn;e a super riche,</L>
+<L>Also he was no with chinche,</L>
+<L N="1764">To his bihoue euer-il del,</L>
+<L>&THORN;at he mithe supe swi&thorn;e wel.</L>
+</LG>
+<LG TYPE="stanza">
+<L>Also he seten, and sholde soupe,</L>
+<L>So comes a ladde in a ioupe,</L>
+<L N="1768">And with him sixti o&thorn;er stronge,</L>
+<L>With swerdes drawen, and kniues longe,</L>
+<L>Ilkan in hande a ful god gleiue,</L>
+<L>And seyde, "undo, bernard &thorn;e greyue!</L>
+<L N="1772">Vndo swi&thorn;e, and latus<NOTE PLACE="foot"><I>Sic</I> in MS.</NOTE> in,
+<PB REF="00000111.tif" N="49"></L>
+<L>Or &thorn;u art ded, bi seint austin!"</L>
+<L>Bernard stirt up, &thorn;at was ful big,</L>
+<L>And caste a brinie up-on his rig,</L>
+<L N="1776">And grop an ax,<NOTE PLACE="foot">MS. ar; <I>but see</I> l. 1894.</NOTE> &thorn;at was ful god,</L>
+<L>Lep to &thorn;e dore, so he wore wod,</L>
+<L>And seyde, "hwat are ye, &thorn;at are &thorn;er-oute,</L>
+<L>&THORN;at &thorn;us biginnen forto stroute?</L>
+<L N="1780">Goth henne swi&thorn;e, fule &thorn;eues,</L>
+<L>For, bi &thorn;e louerd, &thorn;at man on leues,</L>
+<L>Shol ich casten &thorn;e dore open,</L>
+<L>Summe of you shal ich drepen!</L>
+<L N="1784">And &thorn;e o&thorn;re shal ich kesten</L>
+<L>In feteres, and ful faste festen!"</L>
+<L>"Hwat haue ye seid," quoth a ladde,</L>
+<L>"Wenestu &thorn;at we ben adradde?</L>
+<L N="1788">We shole at &thorn;is dore gonge</L>
+<L>Maugre &thorn;in, carl, or outh longe."</L>
+<L>He gripen sone a bulder ston,</L>
+<L>And let it fleye, ful god won,</L>
+<L N="1792">Agen &thorn;e dore, &thorn;at it to-rof:</L>
+<L>Auelok it saw, and &thorn;ider drof,</L>
+<L>And &thorn;e barre sone vt-drow,</L>
+<L>&THORN;at was unride, and gret ynow,</L>
+<L N="1796">And caste &thorn;e dore open wide,</L>
+<L>And seide, "her shal y now abide:</L>
+<L>Comes swi&thorn;e vn-to me!<NOTE PLACE="foot">MS. vnto me datheit,&mdash;evidently the repetition of the first word in the succeeding line.</NOTE></L>
+<L>Datheyt hwo you henne fle!"</L>
+<L N="1800">"No," quodh on, "&thorn;at shaltou coupe,"</L>
+<L>And bigan til him to loupe,</L>
+<L>In his hond is swerd ut-drawe,</L>
+<L>Hauelok he wende &thorn;ore haue slawe;</L>
+<L N="1804">And with [him] comen o&thorn;er two,</L>
+<L>&THORN;at him wolde of liue haue do.<MILESTONE N="213a:1" UNIT="folio">
+<PB REF="00000112.tif" N="50"></L>
+<L>Hauelok lifte up &thorn;e dore-tre,</L>
+<L>And at a dint he slow hem &thorn;re;</L>
+<L N="1808">Was non of hem &thorn;at his hernes</L>
+<L>Ne lay &thorn;er-ute ageyn &thorn;e sternes.</L>
+<L>&THORN;e fer&thorn;e &thorn;at he si&thorn;en mette,</L>
+<L>Wit &thorn;e barre so he him grette,</L>
+<L N="1812">Bifor &thorn;e heued, &thorn;at &thorn;e rith eye</L>
+<L>Vt of &thorn;e hole made he fleye,</L>
+<L>And si&thorn;e clapte him on &thorn;e crune,</L>
+<L>So &thorn;at he stan-ded fel &thorn;or dune.</L>
+<L N="1816">&THORN;e fifte &thorn;at he ouer-tok,</L>
+<L>Gaf he a ful sor dint[e] ok,</L>
+<L>Bitwen &thorn;e sholdres, &thorn;er he stod,</L>
+<L>&THORN;at he spen his herte blod.</L>
+<L N="1820">&THORN;e sixte wende for to fle,</L>
+<L>And he clapte him with &thorn;e tre</L>
+<L>Rith in &thorn;e fule necke so,</L>
+<L>&THORN;at he smot hise necke on to.</L>
+<L N="1824">&THORN;anne &thorn;e sixe weren doun feld,</L>
+<L>&THORN;e seuen&thorn;e brayd ut his swerd,</L>
+<L>And wolde hauelok Riht in the eye;</L>
+<L>And hauelok le[t &thorn;e]<NOTE PLACE="foot"><I>Qu</I>. Hauelok let the. MS. "haue le."</NOTE> barre fleye,</L>
+<L N="1828">And smot him sone ageyn &thorn;e brest,</L>
+<L>&THORN;at hauede he neuere sch[r]ifte of prest;</L>
+<L>For he was ded on lesse hwile,</L>
+<L>&THORN;an men mouthe renne a mile.</L>
+<L N="1832">Alle &thorn;e o&thorn;ere weren ful kene,</L>
+<L>A red &thorn;ei taken hem bi-twene,</L>
+<L>&thorn;at he sholde him bi-halue,</L>
+<L>And brisen so, &thorn;at wit no salue</L>
+<L N="1836">Ne sholde him helen leche non:</L>
+<L>&THORN;ey drowen ut swerdes, ful god won,</L>
+<L>And shoten on him, so don on bere</L>
+<L>Dogges, &thorn;at wolden him to-tere,
+<PB REF="00000113.tif" N="51"></L>
+<L N="1840">&THORN;anne men doth &thorn;e bere beyte:</L>
+<L>&THORN;e laddes were kaske and teyte,</L>
+<L>And vn-bi-yeden him ilkon,</L>
+<L>Sum smot with tre, and sum wit ston;</L>
+<L N="1844">Summe putten with gleyue, in bac and side,</L>
+<L>And yeuen wundes longe and wide;</L>
+<L>In twenti stedes, and wel mo,</L>
+<L>Fro &thorn;e croune til the to.</L>
+<L N="1848">Hwan he saw &thorn;at, he was wod,</L>
+<L>And was it ferlik hw he stod,</L>
+<L>For the blod ran of his sides<MILESTONE N="213a:2" UNIT="folio"></L>
+<L>So water &thorn;at fro &thorn;e welle glides;</L>
+<L N="1852">But &thorn;anne bigan he for to mowe</L>
+<L>With the barre, and let hem shewe,</L>
+<L>Hw he cow&thorn;e sore smite,</L>
+<L>For was &thorn;er non, long ne lite,</L>
+<L N="1856">&THORN;at he Mouthe ouer-take,</L>
+<L>&THORN;at he ne garte his croune krake;</L>
+<L>So &thorn;at on a litel stund,</L>
+<L>Felde he twenti to &thorn;e grund.</L>
+</LG>
+<LG TYPE="stanza">
+<L N="1860">&thorn;o bigan gret dine to rise,</L>
+<L>For &thorn;e laddes on ilke wise</L>
+<L>Him asayleden wit grete dintes,</L>
+<L>Fro fer he stoden, him with flintes</L>
+<L N="1864">And gleyues schoten him fro ferne,</L>
+<L>For drepen him he wolden yerne;</L>
+<L>But dursten he newhen him no more,</L>
+<L>&THORN;anne he bor or leun wore.</L>
+</LG>
+<LG TYPE="stanza">
+<L N="1868">Huwe rauen &thorn;at dine herde,</L>
+<L>And &thorn;owthe wel, &thorn;at men mis-ferde</L>
+<L>With his louerd, for his wif,</L>
+<L>And grop an ore, and a long knif,</L>
+<L N="1872">And &thorn;ider drof al so an hert,</L>
+<L>And cham &thorn;er on a litel stert,
+<PB REF="00000114.tif" N="52"></L>
+<L>And saw how &thorn;e laddes wode</L>
+<L>Hauelok his louerd umbistode,</L>
+<L N="1876">And beten on him so doth &thorn;e smith</L>
+<L>With &thorn;e hamer on &thorn;e stith.</L>
+</LG>
+<LG TYPE="stanza">
+<L>"Allas!" hwat hwe, "&thorn;at y was boren!</L>
+<L>&THORN;at euere et ich bred of koren!</L>
+<L N="1880">&THORN;at ich here &thorn;is sorwe se!</L>
+<L>Roberd! willam! hware ar ye?</L>
+<L>Gripeth e&thorn;er unker a god tre,</L>
+<L>And late we nouth &thorn;ise doges fle,</L>
+<L N="1884">Til ure louerd wreke [we];</L>
+<L>Cometh swi&thorn;e, and folwes me!</L>
+<L>Ich haue in honde a ful god ore:</L>
+<L>Datheit wo ne smite sore!"</L>
+<L N="1888">"Ya! leue, ya!" quod roberd sone,</L>
+<L>"We hauen ful god lith of &thorn;e mone."</L>
+<L>Roberd grop a staf, strong and gret,</L>
+<L>&THORN;at mouthe ful wel bere a net,</L>
+<L N="1892">And willam wendut grop a tre</L>
+<L>Mikel grettere &thorn;an his &thorn;e,<NOTE PLACE="foot">MS. &thorn;re, <I>the</I> r <I>being caught from the word above</I>. Cf. l. 1903.</NOTE></L>
+<L>And bernard held his ax ful faste;</L>
+<L>I seye, was he nouth &thorn;e laste;<MILESTONE N="213b:1" UNIT="folio"></L>
+<L N="1896">And lopen forth so he weren wode</L>
+<L>To &thorn;e laddes, &thorn;er he stode,</L>
+<L>And yaf hem wundes swi&thorn;e grete;</L>
+<L>&THORN;er mithe men wel se boyes bete,</L>
+<L N="1900">And ribbes in here sides breke,</L>
+<L>And hauelok on hem wel wreke.</L>
+<L>He broken armes, he broken knes,</L>
+<L>He broken shankes, he broken thes.</L>
+<L N="1904">He dide &thorn;e blode &thorn;ere renne dune</L>
+<L>To &thorn;e fet rith fro the crune,</L>
+<L>For was &thorn;er spared heued non:</L>
+<L>He leyden on heuedes, ful god won,
+<PB REF="00000115.tif" N="53"></L>
+<L N="1908">And made croune[s] breke and crake,</L>
+<L>Of &thorn;e broune, and of &thorn;e blake;</L>
+<L>He maden here backes al so bloute</L>
+<L>Als h[er]e<NOTE PLACE="foot"><I>Qu</I>. here. MS. he.</NOTE> wombes, and made hem rowte</L>
+<L N="1912">Als he weren kradelbarnes:</L>
+<L>So dos &thorn;e child &thorn;at moder &thorn;arnes.</L>
+</LG>
+<LG TYPE="stanza">
+<L>Da&thorn;eit wo<NOTE PLACE="foot">MS. "&wyn;e," clearly miswritten for "&wyn;o" or "wo." See ll. 2047, 296, 300, &amp;c.</NOTE> recke! for he it seruede,</L>
+<L>Hwat dide he &thorn;ore weren he werewed;</L>
+<L N="1916">So longe haueden he but and bet</L>
+<L>With neues under hernes set,</L>
+<L>&THORN;at of &thorn;o sixti men and on</L>
+<L>Ne wente &thorn;er awey liues non.</L>
+</LG>
+<LG TYPE="stanza">
+<L N="1920">ON &thorn;e morwen, hwan<NOTE PLACE="foot">MS. "hhan," miswritten for "h&wyn;an," from which it differs very slightly.</NOTE> it was day,</L>
+<L>Ilc on other wirwed lay,</L>
+<L>Als it were dogges &thorn;at weren henged,</L>
+<L>And summe leye in dikes slenget,</L>
+<L N="1924">And summe in gripes bi &thorn;e her</L>
+<L>Drawen ware, and laten ther.</L>
+<L>Sket cam tiding intil ubbe,</L>
+<L>&THORN;at hauelok hauede with a clubbe</L>
+<L N="1928">Of hise slawen sixti and on</L>
+<L>Sergaunz, &thorn;e beste &thorn;at mithen gon.</L>
+<L>"Deus!" quoth ubbe, "hwat may &thorn;is be!</L>
+<L>Betere his i nime<NOTE PLACE="foot">MS. inime.</NOTE> miself and se,</L>
+<L N="1932">&THORN;at &thorn;is baret on hwat is wold,</L>
+<L>&THORN;anne i sende yunge or old.</L>
+<L>For yif i sende him un-to,</L>
+<L>I wene men sholde him shame do,</L>
+<L N="1936">And &thorn;at ne wolde ich for no &thorn;ing:
+<PB REF="00000116.tif" N="54"></L>
+<L>I loue him wel, bi heuene king!</L>
+<L>Me wore leuere i wore lame,</L>
+<L>&THORN;anne men dide him ani shame,</L>
+<L N="1940">Or tok, or onne handes leyde,<MILESTONE N="213b:2" UNIT="folio"></L>
+<L>Vn-ornelike,<NOTE PLACE="foot">MS. Vn ornelfke; <I>but</I> f <I>should certainly be</I> i.</NOTE> or same seyde."</L>
+<L>He lep up on a stede lith,</L>
+<L>And with him mani a noble knith,</L>
+<L N="1944">And ferde forth un-to &thorn;e tun,</L>
+<L>And dide calle bernard brun</L>
+<L>Vt of his hus, wan he &thorn;er cam;</L>
+<L>And bernard sone ageyn [him] nam,</L>
+<L N="1948">Al to-tused and al to-torn,</L>
+<L>Ner also naked so he was born,</L>
+<L>And al to-brised, bac and &thorn;e:</L>
+<L>Quoth ubbe, "bernard, hwat is &thorn;e?</L>
+<L N="1952">Hwo haues &thorn;e &thorn;us ille maked,</L>
+<L>&THORN;us to-riuen, and al mad naked?"</L>
+</LG>
+<LG TYPE="stanza">
+<L>"Louerd,<NOTE PLACE="foot">MS. Iouerd.</NOTE> merci," quot he sone,</L>
+<L>"To-nicht also ros &thorn;e mone</L>
+<L N="1956">Comen her mo &thorn;an sixti &thorn;eues,</L>
+<L>With lokene copes, and wide sleues,</L>
+<L>Me forto robben, and to pine,</L>
+<L>And for to drepe me and mine.</L>
+<L N="1960">Mi dore he broken up ful sket,</L>
+<L>And wolde me binden hond and fet.</L>
+<L>Wan &thorn;e godemen &thorn;at sawe,</L>
+<L>Hauelok, and he &thorn;at bi &thorn;e wowe</L>
+<L N="1964">Leye, he stirten up sone on-on,</L>
+<L>And summe grop tre, and sum grop ston,</L>
+<L>And driue hem ut, &thorn;ei he weren crus,</L>
+<L>So dogges ut of milne-hous.</L>
+<L N="1968">Hauelok grop &thorn;e dore-tre,</L>
+<L>And [at] a dint he slow hem thre.
+<PB REF="00000117.tif" N="55"></L>
+<L>He is &thorn;e beste man at nede,</L>
+<L>&THORN;at euere mar shal ride stede!</L>
+<L N="1972">Als helpe god, bi mine wone,</L>
+<L>A &thorn;housend of men his he worth one!</L>
+<L>Yif he ne were, ich were nou ded,</L>
+<L>So haue ich don Mi soule red;</L>
+<L N="1976">But it is hof him mikel sinne;</L>
+<L>He maden him swilke woundes &thorn;rinne,</L>
+<L>&THORN;at of &thorn;e al&thorn;er-leste wounde</L>
+<L>Were a stede brouht to grunde.</L>
+<L N="1980">He haues a wunde in the side,</L>
+<L>With a gleyue, ful un-ride,</L>
+<L>And he haues on &thorn;oru his arum,</L>
+<L>&THORN;er-of is ful mikel harum,</L>
+<L N="1984">And he haues on &thorn;oru his &thorn;he,<MILESTONE N="214a:1" UNIT="folio"></L>
+<L>&THORN;e vn-rideste &thorn;at men may se,</L>
+<L>And o&thorn;e[r] wundes haues he stronge,</L>
+<L>Mo than twenti swi&thorn;e longe.</L>
+<L N="1988">But si&thorn;en he hauede lauth &thorn;e sor</L>
+<L>Of &thorn;e wundes, was neuere bor</L>
+<L>&THORN;at so fauth so he fauth &thorn;anne;</L>
+<L>Was non &thorn;at hauede &thorn;e hern-panne</L>
+<L N="1992">So hard, &thorn;at he ne dede alto-cruhsse,</L>
+<L>And alto-shiuere, and alto-frusshe.</L>
+<L>He folwede hem so hund dos hare,</L>
+<L>Da&thorn;eyt on he wolde spare,</L>
+<L N="1996">&THORN;at [he] ne made hem euerilk on</L>
+<L>Ligge stille so doth &thorn;e ston:</L>
+<L>And &thorn;er nis he nouth to frie,</L>
+<L>For o&thorn;er sholde he make hem lye</L>
+<L N="2000">Ded, or &thorn;ei him hauede slawen,</L>
+<L>Or alto-hewen, or al-to-drawen.</L>
+</LG>
+<LG TYPE="stanza">
+<L>Louerd, haui no more plith</L>
+<L>Of &thorn;at ich was &thorn;us gre&thorn;ed to-nith.</L>
+<L N="2004">&THORN;us wolde &thorn;e theues me haue reft,
+<PB REF="00000118.tif" N="56"></L>
+<L>But god-&thorn;ank, he hauenet sure keft.</L>
+<L>But it is of him mikel sca&thorn;e:</L>
+<L>I woth &thorn;at he bes ded ful ra&thorn;e."</L>
+</LG>
+<LG TYPE="stanza">
+<L N="2008">Quoth ubbe, "bernard, seyst &thorn;ou soth?"</L>
+<L>"Ya, sire, that i ne<NOTE PLACE="foot">MS. ine.</NOTE> lepe oth.</L>
+<L>Yif y, louerd, a word leye,</L>
+<L>To-morwen do me hengen heye."</L>
+<L N="2012">&THORN;e burgeys &thorn;at &thorn;er-bi stode &thorn;ore,</L>
+<L>Grundlike and grete o&thorn;es swore,</L>
+<L>Litle and mikle, yunge and holde,</L>
+<L>&THORN;at was soth, &thorn;at bernard tolde.</L>
+<L N="2016">Soth was, &thorn;at he wolden him bynde,</L>
+<L>And trusse al &thorn;at he mithen fynde</L>
+<L>Of hise, in arke or in kiste,</L>
+<L>&THORN;at he mouthe in seckes &thorn;riste.</L>
+<L N="2020">"Louerd, he haueden al awey born</L>
+<L>His &thorn;ing, and him-self alto-torn,</L>
+<L>But als god self barw him wel,</L>
+<L>&THORN;at he ne tinte no catel.</L>
+<L N="2024">Hwo mithe so mani stonde ageyn,</L>
+<L>Bi nither-tale, knith or swein?</L>
+<L>He weren bi tale sixti and ten,</L>
+<L>Starke laddes, stalwor&thorn;i men,</L>
+<L N="2028">And on, &thorn;e mayster of hem alle,</L>
+<L>&THORN;at was &thorn;e name giffin<NOTE PLACE="foot"><I>Qu</I>. griffin.</NOTE> galle.</L>
+<L>Hwo mouthe agey[n]<NOTE PLACE="foot">MS. agey.</NOTE> so mani stonde,<MILESTONE N="214a:2" UNIT="folio"></L>
+<L>But als &thorn;is man of ferne londe</L>
+<L N="2032">Haueth hem slawen with a tre?</L>
+<L>Mikel ioie haue he!</L>
+<L>God yeue him mikel god to welde,</L>
+<L>Bo&thorn;e in tun, and ek in felde!</L>
+<L N="2036">We[l]<NOTE PLACE="foot">Cf. ll. 772, 907.</NOTE> is set he etes mete."</L>
+<L>Quoth ubbe, "doth him swi&thorn;e fete,
+<PB REF="00000119.tif" N="57"></L>
+<L>&THORN;at y mouthe his woundes se,</L>
+<L>Yf that he mouthen heled<NOTE PLACE="foot">MS. holed. See l. 2058.</NOTE> be.</L>
+<L N="2040">For yf he mouthe couere yet,</L>
+<L>And gangen wel up-on hise fet,</L>
+<L>Mi-self shal dubbe him to knith,</L>
+<L>For-&thorn;i &thorn;at he is so with.</L>
+<L N="2044">And yif he liuede, &thorn;o foule theues,</L>
+<L>&THORN;at weren of kaym kin and eues,</L>
+<L>He sholden hange bi &thorn;e necke;</L>
+<L>Of here ded da&thorn;eit wo recke,</L>
+<L N="2048">Hwan he yeden &thorn;us on nithes</L>
+<L>To binde bo&thorn;e burgmen and knithes.</L>
+<L>For bynderes loue ich neuere mo,</L>
+<L>Of hem ne yeue ich nouht a slo."</L>
+</LG>
+<LG TYPE="stanza">
+<L N="2052">Hauelok was bifore ubbe browth,</L>
+<L>&THORN;at hauede for him ful mikel &thorn;outh,</L>
+<L>And mikel sorwe in his herte</L>
+<L>For hise wundes, &thorn;at we[r] so smerte.</L>
+</LG>
+<LG TYPE="stanza">
+<L N="2056">But hwan his wundes weren shewed,</L>
+<L>And a leche hauede knawed,</L>
+<L>&THORN;at he hem mouthe ful wel hele,</L>
+<L>Wel make him gange, and ful wel mele,</L>
+<L N="2060">And wel a palefrey bistride,</L>
+<L>And wel up-on a stede ride,</L>
+<L>&THORN;o let ubbe al his care</L>
+<L>And al his sorwe ouer-fare;</L>
+<L N="2064">And seyde, "cum now forth with me,</L>
+<L>And goldeboru, &thorn;i wif, with &thorn;e,</L>
+<L>And &thorn;ine seriaunz al &thorn;re,</L>
+<L>For nou wile y youre warant be;</L>
+<L N="2068">Wile y non of here frend</L>
+<L>&THORN;at &thorn;u slowe with &thorn;in hend</L>
+<L>Moucte wayte &thorn;e [to] slo,
+<PB REF="00000120.tif" N="58"></L>
+<L>Also &thorn;ou gange to and fro.</L>
+<L N="2072">I shal lene &thorn;e a bowr,</L>
+<L>&THORN;at is up in &thorn;e heye tour,</L>
+<L>Til &thorn;ou mowe ful wel go,</L>
+<L>And wel ben hol of al &thorn;i wo.<MILESTONE N="214b:1" UNIT="folio"></L>
+<L N="2076">It ne shal no &thorn;ing ben bitwene</L>
+<L>&THORN;i bour and min, also y wene,</L>
+<L>But a fayr firrene wowe;&mdash;</L>
+<L>Speke y loude, or spek y lowe,</L>
+<L N="2080">&THORN;ou shalt<NOTE PLACE="foot">MS. sahalt; <I>and the second</I> a <I>is expuncted by mistake, instead of the first</I>.</NOTE> ful wel heren me,</L>
+<L>And &thorn;an &thorn;u wilt, &thorn;ou shalt me se.</L>
+<L>A rof shal hile us bo&thorn;e o-nith,</L>
+<L>&THORN;at none of mine, clerk ne knith,</L>
+<L N="2084">Ne sholen &thorn;i wif no shame bede,</L>
+<L>No more &thorn;an min, so god me rede!"</L>
+</LG>
+<LG TYPE="stanza">
+<L>HE dide un-to &thorn;e borw bringe</L>
+<L>Sone anon, al with ioynge,</L>
+<L N="2088">His wif, and his serganz &thorn;re,</L>
+<L>&THORN;e beste men &thorn;at mouthe be.</L>
+<L>&THORN;e firste nith he lay &thorn;er-inne,</L>
+<L>Hise wif, and his serganz &thorn;rinne,</L>
+<L N="2092">Aboute &thorn;e middel of &thorn;e nith</L>
+<L>Wok ubbe, and saw a mikel lith</L>
+<L>In &thorn;e bour &thorn;at hauelok lay,</L>
+<L>Also brith so it were day.</L>
+</LG>
+<LG TYPE="stanza">
+<L N="2096">"Deus!" quoth ubbe, "hwat may &thorn;is be?</L>
+<L>Betere is i go miself, and se:</L>
+<L>Hwe&thorn;er he sitten nou, and wesseylen,</L>
+<L>Or of ani shotshipe to-deyle,</L>
+<L N="2100">&THORN;is tid nithes, also foles;</L>
+<L>&THORN;an bir&thorn;e men casten hem in poles,</L>
+<L>Or in a grip, or in &thorn;e fen:
+<PB REF="00000121.tif" N="59"></L>
+<L>Nou ne sitten none but wicke men,</L>
+<L N="2104">Glotuns, reu[e]res, or wicke &thorn;eues,</L>
+<L>Bi crist, &thorn;at alle folk onne leues!"</L>
+</LG>
+<LG TYPE="stanza">
+<L>He stod, and totede in at a bord,</L>
+<L>Her he spak anilepi word,</L>
+<L N="2108">And saw hem slepen faste ilkon,</L>
+<L>And lye stille so &thorn;e ston;</L>
+<L>And saw al &thorn;at mikel lith</L>
+<L>Fro hauelok cam, &thorn;at was so brith.</L>
+<L N="2112">Of his mouth it com il del,</L>
+<L>&THORN;at was he war ful swi&thorn;e wel.</L>
+<L>"Deus!" quoth he, "hwat may &thorn;is mene!"</L>
+<L>He calde bo&thorn;e arwe men and kene,</L>
+<L N="2116">Knithes, and serganz swi&thorn;e sleie,</L>
+<L>Mo &thorn;an an hundred, with-uten leye,</L>
+<L>And bad hem alle comen and se,</L>
+<L>Hwat &thorn;at selcuth mithe be.</L>
+</LG>
+<LG TYPE="stanza">
+<L N="2120">Als &thorn;e knithes were comen alle,<MILESTONE N="214b:2" UNIT="folio"></L>
+<L>&THORN;er hauelok lay, ut of &thorn;e halle,</L>
+<L>So stod ut of his mouth a glem,</L>
+<L>Rith al swilk so &thorn;e sunne-bem;</L>
+<L N="2124">&THORN;at al so lith wa[s] &thorn;are, bi heuene!</L>
+<L>So &thorn;er brenden serges seuene,</L>
+<L>And an hundred serges ok:</L>
+<L>&THORN;at durste hi sweren on a bok.</L>
+<L N="2128">He slepen faste alle fiue,</L>
+<L>So he weren brouth of liue;</L>
+<L>And hauelok lay on his lift side,</L>
+<L>In his armes his brithe bride.</L>
+<L N="2132">Bi &thorn;e pappes he leyen naked:</L>
+<L>So faire two weren neuere maked</L>
+<L>In a bed to lyen samen:&mdash;</L>
+<L>&THORN;e knithes &thorn;outh of hem god gamen,</L>
+<L N="2136">Hem forto shewe, and loken to.
+<PB REF="00000122.tif" N="60"></L>
+<L>Rith also he stoden alle so,</L>
+<L>And his bac was toward hem wend,</L>
+<L>So weren he war of a croiz ful gent,</L>
+<L N="2140">On his rith shuldre sw[i&thorn;]e<NOTE PLACE="foot">MS. swe, <I>for</I> swi&thorn;e. Cf. l. 1252.</NOTE> brith,</L>
+<L>Brithter &thorn;an gold ageyn &thorn;e lith.</L>
+<L>So &thorn;at he wiste heye and lowe,</L>
+<L>&THORN;at it was kunrik &thorn;at he sawe.</L>
+<L N="2144">It sparkede, and ful brith shon,</L>
+<L>So doth &thorn;e gode charbucle ston,</L>
+<L>&THORN;at men Mouthe se by &thorn;e lith,</L>
+<L>A peni chesen, so was it brith.</L>
+<L N="2148">&THORN;anne bihelden he him faste,</L>
+<L>So &thorn;at he knewen at &thorn;e laste,</L>
+<L>&THORN;at he was birkabeynes sone,</L>
+<L>&THORN;at was here king, &thorn;at was hem wone</L>
+<L N="2152">Wel to yeme, and wel were</L>
+<L>Ageynes uten-laddes here.</L>
+<L>"For it was neuere yet a bro&thorn;er</L>
+<L>In al denemark so lich ano&thorn;er,</L>
+<L N="2156">So &thorn;is man &thorn;at is so fayr</L>
+<L>Als birkabeyn, he is hise eyr."</L>
+</LG>
+<LG TYPE="stanza">
+<L>He fellen sone at hise fet,</L>
+<L>Was non of hem &thorn;at he ne gret,</L>
+<L N="2160">Of ioie he weren alle so fawen,</L>
+<L>So he him haueden of er&thorn;e drawen.</L>
+<L>Hise fet he kisten an hundred sy&thorn;es,</L>
+<L>&THORN;e tos, &thorn;e nayles, and &thorn;e lithes,</L>
+<L N="2164">So &thorn;at he bigan to wakne,<NOTE PLACE="foot">Here follows the catchword&mdash;"And wit hem."</NOTE></L>
+<L>And wit hem ful sore to blakne,<MILESTONE N="215a:1" UNIT="folio"></L>
+<L>For he wende he wolden him slo,</L>
+<L>Or elles binde him, and do wo.</L>
+</LG>
+<LG TYPE="stanza">
+<L N="2168">Quoth ubbe, "louerd, ne dred &thorn;e nowth,</L>
+<L>Me &thorn;inkes that I se &thorn;i &thorn;outh.
+<PB REF="00000123.tif" N="61"></L>
+<L>Dere sone, wel is me,</L>
+<L>&THORN;at y &thorn;e with eyn[e]<NOTE PLACE="foot">We find <I>eyne</I> in ll. 680, 1273, &amp;c.</NOTE> se.</L>
+<L N="2172">Man-red, louerd, bede y &thorn;e,</L>
+<L>&THORN;i man auht i ful wel to be,</L>
+<L>For &thorn;u art comen of birkabeyn,</L>
+<L>&THORN;at hauede mani knith and sweyn;</L>
+<L N="2176">And so shalt &thorn;ou, louerd, haue,</L>
+<L>&THORN;ou &thorn;u be yet a ful yung knaue.</L>
+<L>&THORN;ou shalt be king of al denemark,</L>
+<L>Was &thorn;er-inne neuere non so stark.</L>
+<L N="2180">To-morwen shaltu manrede take</L>
+<L>Of &thorn;e brune and of &thorn;e blake;</L>
+<L>Of alle &thorn;at aren in &thorn;is tun,</L>
+<L>Bo&thorn;e of erl, and of barun,</L>
+<L N="2184">And of dreng, and of thayn,</L>
+<L>And of knith, and of sweyn.</L>
+<L>And so shaltu ben mad knith</L>
+<L>Wit blisse, for &thorn;ou art so with."</L>
+</LG>
+<LG TYPE="stanza">
+<L N="2188">&thorn;o was hauelok swi&thorn;e bli&thorn;e,</L>
+<L>And &thorn;ankede God ful fele si&thorn;e.</L>
+<L>On &thorn;e morwen, wan it was lith,</L>
+<L>And gon was &thorn;isternesse of &thorn;e nith,</L>
+<L N="2192">Vbbe dide up-on a stede</L>
+<L>A ladde lepe, and &thorn;ider bede</L>
+<L>Erles, barouns, drenges, theynes,</L>
+<L>Klerkes, knithes, bu[r]geys,<NOTE PLACE="foot">MS. bugeys.</NOTE> sweynes,</L>
+<L N="2196">&THORN;at he sholden comen a-non,</L>
+<L>Biforen him sone euerilkon,</L>
+<L>Also he louen here liues,</L>
+<L>And here children, and here wiues.</L>
+</LG>
+<LG TYPE="stanza">
+<L N="2200">Hise bode ne durste he non at-sitte,</L>
+<L>&THORN;at he ne neme<NOTE PLACE="foot">MS. meme; <I>miswritten for</I> neme; <I>see</I> ll. 1207, 1931.</NOTE> for to wite
+<PB REF="00000124.tif" N="62"></L>
+<L>Sone, hwat wolde &thorn;e iustise:</L>
+<L>And [he] bigan anon to rise,</L>
+<L N="2204">And seyde sone, "li&thorn;es me,</L>
+<L>Alle samen, &thorn;eu and fre.</L>
+<L>A &thorn;ing ich wile you here shauwe,</L>
+<L>&THORN;at ye<NOTE PLACE="foot">MS. he.</NOTE> alle ful wel knawe.</L>
+<L N="2208">Ye witen wel, &thorn;at al &thorn;is lond</L>
+<L>Was in birkabeynes hond,</L>
+<L>&THORN;e day &thorn;at he was quic and ded;<MILESTONE N="215a:2" UNIT="folio"></L>
+<L>And how &thorn;at he, bi youre red,</L>
+<L N="2212">Bitauhte hise children &thorn;re</L>
+<L>Godard to yeme, and al his fe.</L>
+<L>Hauelok his sone he him tauhte,</L>
+<L>And hise two douhtres, and al his auhte,</L>
+<L N="2216">Alle herden ye him swere</L>
+<L>On bok, and on messe-gere,</L>
+<L>&THORN;at he shulde yeme hem wel,</L>
+<L>With-uten lac, with-uten tel.</L>
+</LG>
+<LG TYPE="stanza">
+<L N="2220">He let his oth al ouer-go,</L>
+<L>Euere wur&thorn;e him yuel and wo!</L>
+<L>For<NOTE PLACE="foot"><I>Qu</I>. Fro.</NOTE> &thorn;e maydnes here lif</L>
+<L>Refte he bo&thorn;en, with a knif,</L>
+<L N="2224">And him shulde ok haue slawen,</L>
+<L>&THORN;e knif was at his herte drawen,</L>
+<L>But god him wolde wel haue saue,</L>
+<L>He hauede reunesse of &thorn;e knaue,</L>
+<L N="2228">So &thorn;at he with his hend</L>
+<L>Ne drop him nouth, &thorn;at sor[i] fend,</L>
+<L>But sone dide he a fishere</L>
+<L>Swi&thorn;e grete o&thorn;es swere,</L>
+<L N="2232">&THORN;at he sholde drenchen him</L>
+<L>In &thorn;e se, &thorn;at was ful brim.</L>
+</LG>
+<LG TYPE="stanza">
+<L>Hwan grim saw &thorn;at he was so fayr,</L>
+<L>And wiste he was &thorn;e Rith eir,
+<PB REF="00000125.tif" N="63"></L>
+<L N="2236">Fro denemark ful sone he fledde</L>
+<L>In-til englond, and &thorn;er him fedde</L>
+<L>Mani winter, &thorn;at til &thorn;is day</L>
+<L>Haues he ben fed and fostred ay.</L>
+<L N="2240">Lokes, hware he stondes her:</L>
+<L>In al &thorn;is werd ne haues he per;</L>
+<L>Non so fayr, ne non so long,</L>
+<L>Ne non so mikel, ne non so strong.</L>
+<L N="2244">In &thorn;is middelerd nis no knith</L>
+<L>Half so strong, ne half so with.</L>
+<L>Bes of him ful glad and bli&thorn;e,</L>
+<L>And cometh alle hider swi&thorn;e,</L>
+<L N="2248">Manrede youre louerd forto make,</L>
+<L>Bo&thorn;e brune and &thorn;e blake.</L>
+<L>I shal mi-self do first &thorn;e gamen,</L>
+<L>And ye si&thorn;en alle samen."</L>
+</LG>
+<LG TYPE="stanza">
+<L N="2252">Oknes ful fayre he him sette,</L>
+<L>Mouthe no&thorn;ing him &thorn;er-fro lette,</L>
+<L>And bi-cam is man Rith &thorn;are,</L>
+<L>&THORN;at alle sawen &thorn;at &thorn;ere ware.<MILESTONE N="215b:1" UNIT="folio"></L>
+</LG>
+<LG TYPE="stanza">
+<L N="2256">After him stirt up laddes ten,</L>
+<L>And bi-comen hise men;<NOTE PLACE="foot">A word is added in the MS. after <I>men</I>, apparently <I>beye</I>. Per|haps we should read: <I>hise heye men</I>.</NOTE></L>
+<L>And si&thorn;en euerilk a baroun,</L>
+<L>&THORN;at euere weren in al that toun;</L>
+<L N="2260">And si&thorn;en drenges, and si&thorn;en thaynes,</L>
+<L>And si&thorn;en knithes, and si&thorn;en sweynes;</L>
+<L>So &thorn;at, or &thorn;at day was gon,</L>
+<L>In al &thorn;e tun ne was nouth on</L>
+<L N="2264">&THORN;at it ne was his man bicomen:</L>
+<L>Manrede of alle hauede he nomen.</L>
+</LG>
+<LG TYPE="stanza">
+<L>Hwan he hauede of hem alle</L>
+<L>Manrede taken, in the halle,
+<PB REF="00000126.tif" N="64"></L>
+<L N="2268">Grundlike dide he hem swere,</L>
+<L>&THORN;at he sholden him god feyth bere</L>
+<L>Ageynes alle &thorn;at woren on liue;</L>
+<L>&THORN;er-yen ne wolde neuer on striue,</L>
+<L N="2272">&THORN;at he ne maden sone &thorn;at oth,</L>
+<L>Riche and poure, lef and loth.</L>
+<L>Hwan &thorn;at was maked, sone he sende,</L>
+<L>Vbbe, writes fer and hende,</L>
+<L N="2276">After alle &thorn;at castel yemede,</L>
+<L>Burwes, tunes, sibbe an fremde,</L>
+<L>&THORN;at &thorn;ider sholden comen swi&thorn;e</L>
+<L>Til him, and heren ti&thorn;andes bli&thorn;e,</L>
+<L N="2280">&THORN;at he hem alle shulde telle:</L>
+<L>Of hem ne wolde neuere on dwelle,</L>
+<L>&THORN;at he ne come sone plattinde,</L>
+<L>Hwo hors ne hauede, com gangande.</L>
+<L N="2284">So &thorn;at with-inne a fourtenith,</L>
+<L>In al denemark ne was no knith,</L>
+<L>Ne conestable, ne shireue,</L>
+<L>&THORN;at com of adam and of eue,</L>
+<L N="2288">&THORN;at he ne com biforn sire ubbe:</L>
+<L>He dredden him so &thorn;hes<NOTE PLACE="foot"><I>Qu</I>. &thorn;es, <I>i.e.</I> thighs; or the spelling &thorn;hes may be intentional; see l. 1984. But Sir F. Madden suggests &thorn;eues.</NOTE> doth clubbe.</L>
+</LG>
+<LG TYPE="stanza">
+<L>Hwan he haueden alle &thorn;e king gret,</L>
+<L>And he weren alle dun set,</L>
+<L N="2292">&THORN;o seyde ubbe, "lokes here,</L>
+<L>Vre louerd swi&thorn;e dere,</L>
+<L>&THORN;at shal ben king of al &thorn;e lond,</L>
+<L>And haue us alle under hond.</L>
+<L N="2296">For he is birkabeynes sone,</L>
+<L>&THORN;e king &thorn;at was vmbe stonde wone</L>
+<L>For to yeme, and wel were,</L>
+<L>Wit sharp[e]<NOTE PLACE="foot">See l. 2645 for the final <I>e</I>.</NOTE> swerd, and longe spere.
+<PB REF="00000127.tif" N="65"></L>
+<L N="2300">Lokes nou, hw he is fayr;<MILESTONE N="215b:2" UNIT="folio"></L>
+<L>Sikerlike he is hise eyr.</L>
+<L>Falles alle to hise fet,</L>
+<L>Bicomes hise men ful sket."</L>
+<L N="2304">He weren for ubbe swi&thorn;e adrad,</L>
+<L>And dide sone al &thorn;at he bad,</L>
+<L>And yet deden he sumdel more,</L>
+<L>O bok ful grundlike he swore,</L>
+<L N="2308">&THORN;at he sholde with him halde</L>
+<L>Bo&thorn;e ageynes stille and bolde,</L>
+<L>&THORN;at euere wo[l]de his bodi dere:</L>
+<L>&THORN;at dide [he] hem o boke swere.</L>
+</LG>
+<LG TYPE="stanza">
+<L N="2312">Hwan he hauede manrede and oth</L>
+<L>Taken of lef and of loth,</L>
+<L>Vbbe dubbede him to knith,</L>
+<L>With a swerd ful swi&thorn;e brith,</L>
+<L N="2316">And &thorn;e folk of al &thorn;e lond</L>
+<L>Bitauhte him al in his hond,</L>
+<L>&THORN;e cunnriche eueril del,</L>
+<L>And made him king heylike and wel.</L>
+<L N="2320">Hwan he was king, &thorn;er mouthe men se</L>
+<L>&THORN;e moste ioie &thorn;at mouhte be:</L>
+<L>Buttinge with sharpe speres,</L>
+<L>Skirming with taleuaces, &thorn;at men beres,</L>
+<L N="2324">Wrastling with laddes, putting of ston,</L>
+<L>Harping and piping, ful god won,</L>
+<L>Leyk of mine, of hasard ok,</L>
+<L>Romanz reding on &thorn;e bok;</L>
+<L N="2328">&THORN;er mouthe men here &thorn;e gestes singe,</L>
+<L>&THORN;e gleymen on &thorn;e tabour dinge;</L>
+<L>&THORN;er mouhte men se &thorn;e boles beyte,</L>
+<L>And &thorn;e bores, with hundes teyte;</L>
+<L N="2332">&THORN;o mouthe men se eueril gleu,</L>
+<L>&THORN;er mouthe men se hw grim greu;</L>
+<L>Was neuere yete ioie more
+<PB REF="00000128.tif" N="66"></L>
+<L>In al &thorn;is werd, &thorn;an &thorn;o was &thorn;ore.</L>
+<L N="2336">&THORN;er was so mike<NOTE PLACE="foot">See l. 2342.</NOTE> yeft of clo&thorn;es,</L>
+<L>&THORN;at &thorn;ou i swore you grete othes,</L>
+<L>I ne wore nouth &thorn;er-offe croud:</L>
+<L>&THORN;at may i ful wel swere, bi god!</L>
+<L N="2340">&THORN;ere was swi&thorn;e gode metes,</L>
+<L>And of wyn, &thorn;at men fer fetes,</L>
+<L>Rith al so mik and gret plente,</L>
+<L>So it were water of &thorn;e se.</L>
+<L N="2344">&THORN;e feste fourti dawes sat,</L>
+<L>So riche was neuere non so &thorn;at.<MILESTONE N="216a:1" UNIT="folio"></L>
+<L>&THORN;e king made Roberd &thorn;ere knith,</L>
+<L>&THORN;at was ful strong, and ful with,</L>
+<L N="2348">And willam, wendut het, his bro&thorn;er,</L>
+<L>And huwe rauen, &thorn;at was &thorn;at o&thorn;er,</L>
+<L>And made hem barouns alle &thorn;re,</L>
+<L>And yaf hem lond, and o&thorn;er fe,</L>
+<L N="2352">So mikel, &thorn;at ilker twent[i] knihtes</L>
+<L>Hauede of genge, dayes and nithes.</L>
+</LG>
+<LG TYPE="stanza">
+<L>Hwan &thorn;at feste was al don,</L>
+<L>A thusand knihtes ful wel o bon</L>
+<L N="2356">With-held &thorn;e king, with him to lede;</L>
+<L>&THORN;at ilkan hauede ful god stede,</L>
+<L>Helm, and sheld, and brinie brith,</L>
+<L>And al &thorn;e wepne &thorn;at fel to knith.</L>
+<L N="2360">With hem fiue thusand gode</L>
+<L>Sergaunz, &thorn;at weren to fyht wode,</L>
+<L>With-held he al of his genge:</L>
+<L>Wile I na more &thorn;e storie lenge.</L>
+<L N="2364">Yet hwan he hauede of al &thorn;e lond</L>
+<L>&THORN;e casteles alle in his hond,</L>
+<L>And conestables don &thorn;er-inne,</L>
+<L>He swor, he ne sholde neuer blinne,
+<PB REF="00000129.tif" N="67"></L>
+<L N="2368">Til &thorn;at he were of godard wreken,</L>
+<L>&THORN;at ich haue of ofte speken.</L>
+<L>Hal hundred knithes dede he calle,</L>
+<L>And hise fif thusand sergaunz alle,</L>
+<L N="2372">And dide sweren on the bok</L>
+<L>Sone, and on &thorn;e auter ok,</L>
+<L>&THORN;at he ne sholde neuere blinne,</L>
+<L>Ne for loue, ne for sinne,</L>
+<L N="2376">Til &thorn;at he haueden godard funde,</L>
+<L>And brouth biforn him faste bunde.</L>
+</LG>
+<LG TYPE="stanza">
+<L>&thorn;anne he haueden swor &thorn;is oth,</L>
+<L>Ne leten he nouth for lef ne loth,</L>
+<L N="2380">&THORN;at he ne foren swi&thorn;e rathe,</L>
+<L>&THORN;er he was unto &thorn;e pa&thorn;e,</L>
+<L>&THORN;er he yet on hunting for,</L>
+<L>With mikel genge, and swi&thorn;e stor.</L>
+<L N="2384">Robert, &thorn;at was of al &thorn;e ferd</L>
+<L>Mayster, was girt wit a swerd,</L>
+<L>And sat up-on a ful god stede,</L>
+<L>&THORN;at vnder him Rith wolde wede;</L>
+<L N="2388">He was &thorn;e firste &thorn;at with godard</L>
+<L>Spak, and seyde, "hede<NOTE PLACE="foot"><I>Qu</I>. helde, <I>i.e.</I> old. Unless it means "heed!"</NOTE> cauenard!</L>
+<L>Wat dos &thorn;u here at &thorn;is pa&thorn;e?<MILESTONE N="216a:2" UNIT="folio"></L>
+<L>Cum to &thorn;e king, swi&thorn;e and ra&thorn;e.</L>
+<L N="2392">&THORN;at sendes he &thorn;e word, and bedes,</L>
+<L>&THORN;at &thorn;u &thorn;enke hwat &thorn;u him dedes,</L>
+<L>Hwan &thorn;u reftes with a knif</L>
+<L>Hise sistres here lif,</L>
+<L N="2396">An si&thorn;en bede &thorn;u in &thorn;e se</L>
+<L>Drenchen him, &thorn;at herde he.</L>
+<L>He is to &thorn;e swi&thorn;e grim:</L>
+<L>Cum nu swi&thorn;e un-to him,</L>
+<L N="2400">&THORN;at king is of &thorn;is kuneriche.</L>
+<L>&THORN;u fule man! &thorn;u wicke swike!
+<PB REF="00000130.tif" N="68"></L>
+<L>And he shal yelde &thorn;e &thorn;i mede,</L>
+<L>Bi crist &thorn;at wolde on rode blede!"</L>
+</LG>
+<LG TYPE="stanza">
+<L N="2404">Hwan godard herde &thorn;at &thorn;er &thorn;rette,</L>
+<L>With &thorn;e neue he robert sette</L>
+<L>Biforn &thorn;e teth a dint ful strong.</L>
+<L>And robert kipt ut a knif long,</L>
+<L N="2408">And smot him &thorn;oru &thorn;e rith arum:</L>
+<L>&THORN;er-of was ful litel harum.</L>
+</LG>
+<LG TYPE="stanza">
+<L>Hwan his folk &thorn;at sau and herde,</L>
+<L>Hwou robert with here louerd ferde,</L>
+<L N="2412">He haueden him wel ner browt of liue,</L>
+<L>Ne weren his two bre&thorn;ren and o&thorn;re fiue</L>
+<L>Slowen of here laddes ten,</L>
+<L>Of godardes al&thorn;er-beste men.</L>
+<L N="2416">Hwan &thorn;e o&thorn;re sawen &thorn;at, he fledden,</L>
+<L>And godard swi&thorn;e loude gredde:</L>
+<L>"Mine knithes, hwat do ye?</L>
+<L>Sule ye &thorn;us-gate fro me fle?</L>
+<L N="2420">Ich haue you fed, and yet shal fede,</L>
+<L>Helpe me nu in &thorn;is nede,</L>
+<L>And late ye nouth mi bodi spille,</L>
+<L>Ne hauelok don of me hise wille.</L>
+<L N="2424">Yif ye id<NOTE PLACE="foot"><I>Qu</I>. it.</NOTE> do, ye do you shame,</L>
+<L>And bringeth you-self in mikel blame."</L>
+<L>Hwan he &thorn;at herden, he wenten ageyn,</L>
+<L>And slowen a knit and<NOTE PLACE="foot">MS. and and.</NOTE> a sweyn</L>
+<L N="2428">Of &thorn;e kinges oune men,</L>
+<L>And woundeden abuten ten.</L>
+</LG>
+<LG TYPE="stanza">
+<L>The kinges men hwan he &thorn;at sawe,</L>
+<L>Scuten on hem, heye and lowe,</L>
+<L N="2432">And euerilk fot of hem slowe,</L>
+<L>But godard one, &thorn;at he flowe,
+<PB REF="00000131.tif" N="69"></L>
+<L>So &thorn;e &thorn;ef men dos henge,</L>
+<L>Or hund men shole in dike slenge.<MILESTONE N="216b:1" UNIT="folio"></L>
+<L N="2436">He bunden him ful swi&thorn;e faste,</L>
+<L>Hwil &thorn;e bondes wolden laste,</L>
+<L>&THORN;at he rorede als a bole,</L>
+<L>&THORN;at he wore parred in an hole,</L>
+<L N="2440">With dogges forto bite and beite:</L>
+<L>Were &thorn;e bondes nouth to leite.</L>
+<L>He bounden him so<NOTE PLACE="foot">MS. fo.</NOTE> fele sore,</L>
+<L>&THORN;at he gan crien godes ore,</L>
+<L N="2444">&THORN;at he sholde of his hend plette,</L>
+<L>Wolden he nouht &thorn;er-fore lette,</L>
+<L>&THORN;at he ne bounden hond and fet:</L>
+<L>Da&thorn;eit &thorn;at on &thorn;at &thorn;er-fore let!</L>
+<L N="2448">But dunten him so man doth bere,</L>
+<L>And keste him on a scabbed mere,</L>
+<L>Hise nese went un-to &thorn;e crice:</L>
+<L>So ledden he &thorn;at fule swike,</L>
+<L N="2452">Til he was biforn hauelok brouth,</L>
+<L>&THORN;at he haue[de] ful wo wrowht,</L>
+<L>Bo&thorn;e with hungre<NOTE PLACE="foot">MS. hungred.</NOTE> and with cold,</L>
+<L>Or he were twel winter old,</L>
+<L N="2456">And with mani heui swink,</L>
+<L>With poure mete, and feble drink,</L>
+<L>And [with] swi&thorn;e wikke clo&thorn;es,</L>
+<L>For al hise manie grete othes.</L>
+<L N="2460">Nu beyes he his holde blame:</L>
+<L>'Old sinne makes newe shame:'</L>
+<L>Wan he was [brouht] so shamelike</L>
+<L>Biforn<NOTE PLACE="foot">MS. Brouht biforn; <I>but the word</I> brouht <I>clearly belongs to the preceding line, in which, however, it is omitted</I>.</NOTE> &thorn;e king, &thorn;e fule swike,</L>
+<L N="2464">&THORN;e king dede ubbe swi&thorn;e calle</L>
+<L>Hise erles, and hise barouns alle,</L>
+<L>Dreng and thein, burgeis and knith,
+<PB REF="00000132.tif" N="70"></L>
+<L>And bad he sholden demen him rith:</L>
+<L N="2468">For he kneu, &thorn;e swike dam,</L>
+<L>Euerildel god was him gram.</L>
+<L>He setten hem dun bi &thorn;e wawe,</L>
+<L>Riche and pouere, heye and lowe,</L>
+<L N="2472">&THORN;e helde men, and ek &thorn;e grom,</L>
+<L>And made &thorn;er &thorn;e rithe dom,</L>
+<L>And seyden unto &thorn;e king anon,</L>
+<L>&THORN;at stille sat [al] so &thorn;e ston:</L>
+<L N="2476">"We deme, &thorn;at he be al quic slawen,<NOTE PLACE="foot">We should perhaps read <I>flawen</I>, as required by the sense. <I>See</I> ll. 2495, 2502.</NOTE></L>
+<L>And si&thorn;en to &thorn;e galwes drawe[n],</L>
+<L>At &thorn;is foule mere tayl;</L>
+<L>&THORN;oru is fet a ful strong nayl;</L>
+<L N="2480">And &thorn;ore ben henged wit two feteres,<MILESTONE N="216b:2" UNIT="folio"></L>
+<L>And &thorn;are be writen &thorn;ise leteres:</L>
+<L>'&THORN;is is &thorn;e swike &thorn;at wende wel,</L>
+<L>&THORN;e king haue reft &thorn;e lond il del,</L>
+<L N="2484">And hise sistres with a knif</L>
+<L>Bo&thorn;e refte here lif.'</L>
+<L>&THORN;is writ shal henge bi him &thorn;are;</L>
+<L>&THORN;e dom is demd, seye we na more."</L>
+</LG>
+<LG TYPE="stanza">
+<L N="2488">Hwan &thorn;e dom was demd and giue,</L>
+<L>And he was wit &thorn;e prestes shriue,</L>
+<L>And it ne mouhte ben non o&thorn;er,</L>
+<L>Ne for fader, ne for bro&thorn;er,</L>
+<L N="2492">&THORN;at he sholde &thorn;arne lif;</L>
+<L>Sket cam a ladde with a knif,</L>
+<L>And bigan Rith at &thorn;e to</L>
+<L>For to ritte, and for to flo,</L>
+<L N="2496">And he bigan for to rore,</L>
+<L>So it were grim or gore,</L>
+<L>&THORN;at men mithe &thorn;e&thorn;en a mile</L>
+<L>Here him rore, &thorn;at fule file.</L>
+<L N="2500">&THORN;e ladde ne let no with for-&thorn;i,
+<PB REF="00000133.tif" N="71"></L>
+<L>&THORN;ey he criede 'merci! merci!'</L>
+<L>&THORN;at [he] ne flow [him] eueril del</L>
+<L>With knif mad of grunden stel.</L>
+<L N="2504">&THORN;ei garte bringe &thorn;e mere sone,</L>
+<L>Skabbed<NOTE PLACE="foot">MS. Skabbeb.</NOTE> and ful iuele o bone,</L>
+<L>And bunden him rith at hire tayl</L>
+<L>With a rop of an old seyl,</L>
+<L N="2508">And drowen him un-to &thorn;e galwes,</L>
+<L>Nouth bi &thorn;e gate, But ouer &thorn;e falwes;</L>
+<L>And henge [him] &thorn;ore Bi &thorn;e hals:</L>
+<L>Da&thorn;eit hwo recke! he was fals.</L>
+</LG>
+<LG TYPE="stanza">
+<L N="2512">&THORN;anne he was ded, &thorn;at sathanas,</L>
+<L>Sket was seysed al &thorn;at his was</L>
+<L>In &thorn;e kinges hand il del,</L>
+<L>Lond and lith, and o&thorn;er catel,</L>
+<L N="2516">And &thorn;e king ful sone it yaf</L>
+<L>Vbbe in &thorn;e hond, wit a fayr staf,</L>
+<L>And seyde, "her ich sayse &thorn;e</L>
+<L>In al &thorn;e lond, in al &thorn;e fe."</L>
+<L N="2520">&THORN;o swor hauelok he sholde make,</L>
+<L>Al for grim, of monekes blake</L>
+<L>A priorie to seruen inne ay</L>
+<L>Ihesu crist, til domesday,</L>
+<L N="2524">For &thorn;e god he haueden him don,</L>
+<L>Hwil he was pouere and iuel<NOTE PLACE="foot">The MS. has "we," which the scribe several times writes instead of "wel." But "wel" is a manifest blunder, since "iuel" is meant. Cf. l. 2505.</NOTE> o bon.<MILESTONE N="217a:1" UNIT="folio"></L>
+<L>And &thorn;er-of held he wel his oth,</L>
+<L>For he it made, god it woth!</L>
+<L N="2528">In &thorn;e tun &thorn;er grim was grauen,</L>
+<L>&THORN;at of grim yet haues &thorn;e name.</L>
+<L>Of grim bidde ich na more spelle.<NOTE PLACE="foot">The author has here omitted to tell us that Havelok, at the desire of his wife, invades England. See the note.</NOTE>&mdash;</L>
+<L>But wan godrich herde telle,
+<PB REF="00000134.tif" N="72"></L>
+<L N="2532">Of cornwayle &thorn;at was erl,</L>
+<L>(&THORN;at fule traytour, that mixed cherl!)</L>
+<L>&THORN;at hauelok was king of denemark,</L>
+<L>And ferde with him strong and stark,</L>
+<L N="2536">Comen engelond with-inne,</L>
+<L>Engelond al for to winne,</L>
+<L>And &thorn;at she, &thorn;at was so fayr,</L>
+<L>&THORN;at was of engelond rith eir,</L>
+<L N="2540">&THORN;at was comen up at grimesbi,</L>
+<L>He was ful sorful and sori,</L>
+<L>And seyde, "Hwat shal me to ra&thorn;e?</L>
+<L>Goddoth! i shal do slou hem ba&thorn;e.</L>
+<L N="2544">I shal don hengen hem ful heye,</L>
+<L>So mote ich brouke mi Rith eie!</L>
+<L>But yif he of mi lond[e]<NOTE PLACE="foot">Cf. l. 2599.</NOTE> fle;</L>
+<L>Hwat? wenden he to desherite me?"</L>
+<L N="2548">He dide sone ferd ut bidde,</L>
+<L>&THORN;at al &thorn;at euere mouhte o stede</L>
+<L>Ride, or helm on heued bere,</L>
+<L>Brini on bac, and sheld, and spere,</L>
+<L N="2552">Or ani o&thorn;er wepne bere,</L>
+<L>Hand-ax, sy&thorn;e, gisarm, or spere,</L>
+<L>Or aunlaz,<NOTE PLACE="foot">Printed "alinlaz" in the former edition. The first stroke of the <I>u</I> is longer than the second, and the tail of the <I>x</I> in the line above converts the second downstroke of the <I>u</I> into an apparent <I>i</I>.</NOTE> and god long knif,</L>
+<L>&THORN;at als he louede leme or lif,</L>
+<L N="2556">&THORN;at &thorn;ey sholden comen him to,</L>
+<L>With ful god wepne ye ber so,</L>
+<L>To lincolne, &thorn;er he lay,</L>
+<L>Of marz &thorn;e seuenten&thorn;e day,</L>
+<L N="2560">So &thorn;at he cou&thorn;e hem god &thorn;ank;</L>
+<L>And yif &thorn;at ani were so rang,</L>
+<L>That he &thorn;anne ne come anon,</L>
+<L>He swor bi crist, and [bi]<NOTE PLACE="foot">Cf. l. 1112.</NOTE> seint Iohan,
+<PB REF="00000135.tif" N="73"></L>
+<L N="2564">That he sholde maken him &thorn;ral,</L>
+<L>And al his of-spring forth with-al.</L>
+</LG>
+<LG TYPE="stanza">
+<L>&THORN;e englishe &thorn;at herde &thorn;at,</L>
+<L>Was non &thorn;at euere his bode sat,</L>
+<L N="2568">For he him dredde swi&thorn;e sore,</L>
+<L>So Runci spore, and mikle more.</L>
+<L>At &thorn;e day he come sone<MILESTONE N="217a:2" UNIT="folio"></L>
+<L>&THORN;at he hem sette, ful wel o bone,</L>
+<L N="2572">To lincolne, with gode stedes,</L>
+<L>And al &thorn;e wepne &thorn;at knith ledes.</L>
+<L>Hwan he wore come, sket was &thorn;e erl yare,<NOTE PLACE="foot"><I>Or</I> &thorn;are; but see l. 2954.</NOTE></L>
+<L>Ageynes denshe men to fare,</L>
+<L N="2576">And seyde, "ly&thorn;es me<NOTE PLACE="foot">MS. mi. Cf. l. 2204.</NOTE> alle samen,</L>
+<L>Haue ich gadred you for no gamen,</L>
+<L>But ich wile seyen you for&thorn;i;</L>
+<L>Lokes hware here at grimesbi,</L>
+<L N="2580">Hise uten-laddes here comen,</L>
+<L>And haues nu &thorn;e priorie numen;</L>
+<L>Al &thorn;at euere mithen he finde,</L>
+<L>He brenne kirkes, and prestes binde;</L>
+<L N="2584">He strangleth monkes, and nunnes bo&thorn;e:</L>
+<L>Wat wile ye, frend, her-offe Rede?</L>
+<L>Yif he regne &thorn;us-gate longe,</L>
+<L>He Moun us alle ouer-gange,</L>
+<L N="2588">He moun vs alle quic henge or slo,</L>
+<L>Or &thorn;ral maken, and do ful wo,</L>
+<L>Or elles reue us ure liues,</L>
+<L>And ure children, and ure wiues.</L>
+<L N="2592">But dos nu als ich wile you lere,</L>
+<L>Als ye wile be with me dere;</L>
+<L>Nimes nu swi&thorn;e forth and ra&thorn;e,</L>
+<L>And helpes me and yu-self ba&thorn;e,</L>
+<L N="2596">And slos up-o[n] &thorn;e dogges swi&thorn;e:</L>
+<L>For shal [i] neuere more be bli&thorn;e,
+<PB REF="00000136.tif" N="74"></L>
+<L>Ne hoseled ben, ne of prest shriuen,</L>
+<L>Til &thorn;at he ben of londe driuen.</L>
+<L N="2600">Nime we swi&thorn;e, and do hem fle,</L>
+<L>And folwes alle faste me,</L>
+<L>For ich am he, of al &thorn;e ferd,</L>
+<L>&THORN;at first shal slo with drawen swerd.</L>
+<L N="2604">Da&thorn;eyt hwo ne stonde faste</L>
+<L>Bi me, hwil hise armes laste!"</L>
+<L>"Ye! lef, ye!"<NOTE PLACE="foot">MS. <I>has</I> &thorn;e, &wyn;e, <I>or</I> ye <I>in both places</I>, But see l. 1888.</NOTE> couth &thorn;e erl gunter;</L>
+<L>"Ya!" quoth &thorn;e erl of cestre, reyner.</L>
+<L N="2608">And so dide alle &thorn;at &thorn;er stode,</L>
+<L>And stirte forth so he were wode.</L>
+<L>&THORN;o mouthe men se &thorn;e brinies brihte</L>
+<L>On backes keste, and late rithe,</L>
+<L N="2612">&THORN;e helmes heye on heued sette;</L>
+<L>To armes al so swi&thorn;e plette,</L>
+<L>&THORN;at &thorn;ei wore on a litel stunde</L>
+<L>Grethet, als men mithe telle a pund,<MILESTONE N="217b:1" UNIT="folio"></L>
+<L N="2616">And lopen on stedes sone anon,</L>
+<L>And toward grimesbi, ful god won,</L>
+<L>He foren softe bi &thorn;e sti,</L>
+<L>Til he come ney at grimesbi.</L>
+</LG>
+<LG TYPE="stanza">
+<L N="2620">Hauelok, &thorn;at hauede spired wel</L>
+<L>Of here fare, eueril del,</L>
+<L>With al his ferd cam hem a-geyn,</L>
+<L>For-bar he no&thorn;er knith ne sweyn.</L>
+<L N="2624">&THORN;e firste knith &thorn;at he &thorn;er mette,</L>
+<L>With &thorn;e swerd so he him grette,</L>
+<L>For his heued of he plette,</L>
+<L>Wolde he nouth for sinne lette.</L>
+<L N="2628">Roberd saw &thorn;at dint so hende,</L>
+<L>Wolde he neuere &thorn;e&thorn;e[n] wende,</L>
+<L>Til &thorn;at he hauede ano&thorn;er slawen,</L>
+<L>With &thorn;e swerd he held ut-drawen.
+<PB REF="00000137.tif" N="75"></L>
+<L N="2632">Willam wendut his swerd vt-drow,</L>
+<L>And &thorn;e &thorn;redde so sore he slow,</L>
+<L>&THORN;at he made up-on the feld</L>
+<L>His lift arm fleye, with the swerd.<NOTE PLACE="foot">Cf. l. 1825. We should otherwise be tempted to read <I>sheld;</I> especially as the <I>shield</I> is more appropriate to the <I>left</I> arm.</NOTE></L>
+</LG>
+<LG TYPE="stanza">
+<L N="2636">Huwe rauen ne forgat nouth</L>
+<L>&THORN;e swerd he hauede &thorn;ider brouth,</L>
+<L>He kipte it up, and smot ful sore</L>
+<L>An erl, &thorn;at he saw priken &thorn;ore,</L>
+<L N="2640">Ful noblelike upon a stede,</L>
+<L>&THORN;at with him wolde al quic wede.</L>
+<L>He smot him on &thorn;e heued so,</L>
+<L>&THORN;at he &thorn;e heued clef a-two,</L>
+<L N="2644">And &thorn;at bi &thorn;e shu[l]dre-blade</L>
+<L>&THORN;e sharpe swerd let [he] wade,</L>
+<L>&THORN;orw the brest unto &thorn;e herte;</L>
+<L>&THORN;e dint bigan ful sore to smerte,</L>
+<L N="2648">&THORN;at &thorn;e erl fel dun a-non,</L>
+<L>Al so ded so ani ston.</L>
+<L>Quoth ubbe, "nu dwelle ich to longe,"</L>
+<L>And leth his stede sone gonge</L>
+<L N="2652">To godrich, with a god spere,</L>
+<L>&THORN;at he saw a-no&thorn;er bere,</L>
+<L>And smoth godrich, and Godrich him,</L>
+<L>Hetelike with herte grim,</L>
+<L N="2656">So &thorn;at he bo&thorn;e felle dune,</L>
+<L>To &thorn;e er&thorn;e first &thorn;e croune.</L>
+<L>&THORN;anne he woren fallen dun bo&thorn;en,</L>
+<L>Grundlike here swerdes ut-drowen,</L>
+<L N="2660">&THORN;at weren swi&thorn;e sharp and gode,<MILESTONE N="217b:2" UNIT="folio"></L>
+<L>And fouhten so &thorn;ei woren wode,</L>
+<L>&THORN;at &thorn;e swot ran fro &thorn;e crune</L>
+<L>[To the fet rith &thorn;ere adune.]<NOTE PLACE="foot">Cf. l. 1904.</NOTE>
+<PB REF="00000138.tif" N="76"></L>
+<L N="2664">&THORN;er mouthe men se to knithes bete</L>
+<L>Ay&thorn;er on o&thorn;er dintes grete,</L>
+<L>So &thorn;at with al&thorn;er-lest[e] dint</L>
+<L>Were al to-shiuered a flint.</L>
+<L N="2668">So was bi-twenen hem a fiht,</L>
+<L>Fro &thorn;e morwen ner to &thorn;e niht,</L>
+<L>So &thorn;at &thorn;ei nouth ne blinne,</L>
+<L>Til &thorn;at to sette bigan &thorn;e sunne.</L>
+<L N="2672">&THORN;o yaf godrich &thorn;orw &thorn;e side</L>
+<L>Vbbe a wunde ful un-ride,</L>
+<L>So &thorn;at &thorn;orw &thorn;at ilke wounde</L>
+<L>Hauede ben brouth to &thorn;e grunde,</L>
+<L N="2676">And his heued al of-slawen,</L>
+<L>Yif god ne were, and huwe rauen,</L>
+<L>&THORN;at drow him fro godrich awey,</L>
+<L>And barw him so &thorn;at ilke day.</L>
+<L N="2680">But er he were fro godrich drawen,</L>
+<L>&THORN;er were a &thorn;ousind knihtes slawen</L>
+<L>Bi bo&thorn;e halue, and mo y-nowe,</L>
+<L>&THORN;er &thorn;e ferdes to-gidere slowe.</L>
+<L N="2684">&THORN;er was swilk dreping of &thorn;e folk,</L>
+<L>&THORN;at on &thorn;e feld was neuere a polk</L>
+<L>&THORN;at it ne stod of blod so ful,</L>
+<L>&THORN;at &thorn;e strem ran intil &thorn;e hul.</L>
+<L N="2688">&THORN;o tarst<NOTE PLACE="foot">So in MS. <I>Qu</I>. faste, as in next line.</NOTE> bigan godrich to go</L>
+<L>Vp-on &thorn;e danshe, and faste to slo,</L>
+<L>And forth rith also leuin fares,</L>
+<L>&THORN;at neuere kines best ne spares,</L>
+<L N="2692">&THORN;anne his [he] gon, for he garte alle</L>
+<L>&THORN;e denshe men biforn him falle.</L>
+<L>He felde browne, he felde blake,</L>
+<L>&THORN;at he mouthe ouer-take.</L>
+<L N="2696">Was neuere non &thorn;at mouhte &thorn;aue</L>
+<L>Hise dintes, noy&thorn;er knith ne knaue,</L>
+<L>&THORN;at he felden so dos &thorn;e gres
+<PB REF="00000139.tif" N="77"></L>
+<L>Bi-forn &thorn;e sy&thorn;e &thorn;at ful sharp is.</L>
+<L N="2700">Hwan hauelok saw his folk so brittene,</L>
+<L>And his ferd so swi&thorn;e littene,</L>
+<L>He cam driuende up-on a stede,</L>
+<L>And bigan til him to grede,</L>
+<L N="2704">And seyde, "godrich, wat is &thorn;e</L>
+<L>&THORN;at &thorn;ou fare &thorn;us with me?</L>
+<L>And mine gode knihtes slos,<MILESTONE N="218a:1" UNIT="folio"></L>
+<L>Siker-like &thorn;ou mis-gos.</L>
+<L N="2708">&THORN;ou wost ful wel, yif &thorn;u wilt wite,</L>
+<L>&THORN;at a&thorn;elwold &thorn;e dide site</L>
+<L>On knes, and sweren on messe-bok,</L>
+<L>On caliz, and on [pateyn]<NOTE PLACE="foot">MS. <I>here repeats</I> messe, <I>by mistake. Read</I> pateyn. Cf. l. 187.</NOTE> hok</L>
+<L N="2712">&THORN;at &thorn;ou hise douhter sholdest yelde,</L>
+<L>&THORN;an she were winnan<NOTE PLACE="foot">MS. w&imacr;man, <I>i.e.</I> winman <I>or</I> wimman; <I>but we are sure, from</I> l. 174, <I>that</I> winnan <I>is meant</I>.</NOTE> of elde,</L>
+<L>Engelond eueril del:</L>
+<L>Godrich &thorn;e erl, &thorn;ou wost it wel.</L>
+<L N="2716">Do nu wel with-uten fiht,</L>
+<L>Yeld hire &thorn;e lond, for &thorn;at is rith.</L>
+<L>Wile ich forgiue &thorn;e &thorn;e lathe,</L>
+<L>Al mi dede and al mi wrathe,</L>
+<L N="2720">For y se &thorn;u art so with,</L>
+<L>And of &thorn;i bodi so god knith."</L>
+<L>"&THORN;at ne wile ich neuere mo,"</L>
+<L>Quoth erl godrich, "for ich shal slo</L>
+<L N="2724">&THORN;e, and hire for-henge heye.</L>
+<L>I shal &thorn;rist ut &thorn;i rith eye</L>
+<L>&THORN;at &thorn;ou lokes with on me,</L>
+<L>But &thorn;u swi&thorn;e he&thorn;en fle."</L>
+<L N="2728">He grop &thorn;e swerd ut sone anon,</L>
+<L>And hew on hauelok, ful god won,</L>
+<L>So &thorn;at he clef his sheld on two:</L>
+<L>Hwan hauelok saw &thorn;at shame do
+<PB REF="00000140.tif" N="78"></L>
+<L N="2732">His bodi &thorn;er bi-forn his ferd,</L>
+<L>He drow ut sone his gode swerd,</L>
+<L>And smot him so up-on &thorn;e crune,</L>
+<L>&THORN;at godrich fel to &thorn;e er&thorn;e adune.</L>
+<L N="2736">But godrich stirt up swi&thorn;e sket,</L>
+<L>Lay he nowth longe at hise fet,</L>
+<L>And smot him on &thorn;e sholdre so,</L>
+<L>&THORN;at he dide &thorn;are undo</L>
+<L N="2740">Of his brinie ringes mo,</L>
+<L>&THORN;an &thorn;at ich kan tellen fro;</L>
+<L>And woundede him rith in &thorn;e flesh,</L>
+<L>&THORN;at tendre was, and swi&thorn;e nesh,</L>
+<L N="2744">So &thorn;at &thorn;e blod ran til his to:</L>
+<L>&THORN;o was hauelok swi&thorn;e wo,</L>
+<L>&THORN;at he hauede of him drawen</L>
+<L>Blod, and so sore him slawen.</L>
+<L N="2748">Hertelike til him he wente,</L>
+<L>And godrich &thorn;er fulike shente;</L>
+<L>For his swerd he hof up heye,</L>
+<L>And &thorn;e hand he dide of fleye,<MILESTONE N="218a:2" UNIT="folio"></L>
+<L N="2752">&THORN;at he smot him with so sore:</L>
+<L>Hw mithe he don him shame more?</L>
+</LG>
+<LG TYPE="stanza">
+<L>Hwan he hauede him so shamed,</L>
+<L>His hand of plat, and yuele lamed,</L>
+<L N="2756">He tok him sone bi &thorn;e necke</L>
+<L>Als a traytour, da&thorn;eyt wo recke!</L>
+<L>And dide him binde and fetere wel</L>
+<L>With gode feteres al of stel,</L>
+<L N="2760">And to &thorn;e quen he sende him,</L>
+<L>&THORN;at birde wel to him ben grim;</L>
+<L>And Bad she sholde don him gete,</L>
+<L>And &thorn;at non ne sholde him bete,</L>
+<L N="2764">Ne shame do, for he was knith,</L>
+<L>Til knithes haueden demd him Rith.</L>
+<L>&THORN;an &thorn;e englishe men &thorn;at sawe,
+<PB REF="00000141.tif" N="79"></L>
+<L>&THORN;at &thorn;ei wisten, heye and lawe,</L>
+<L N="2768">&THORN;at Goldeboru, &thorn;at was so fayr,</L>
+<L>Was of engeland rith eyr,</L>
+<L>And &thorn;at &thorn;e king hire hauede wedded,</L>
+<L>And haueden ben samen bedded,</L>
+<L N="2772">He comen alle to crie merci,</L>
+<L>Vnto &thorn;e king, at one cri,</L>
+<L>And beden him sone manrede and oth,</L>
+<L>&THORN;at he ne sholden, for lef ne loth,</L>
+<L N="2776">Neuere more ageyn him go,</L>
+<L>Ne ride, for wel ne for wo.</L>
+</LG>
+<LG TYPE="stanza">
+<L>&thorn;e king ne wolde nouth for-sake,</L>
+<L>&THORN;at he ne shulde of hem take</L>
+<L N="2780">Manrede &thorn;at he beden, and ok</L>
+<L>Hold o&thorn;es sweren on &thorn;e bok;</L>
+<L>But or bad he, &thorn;at &thorn;ider were brouth</L>
+<L>&THORN;e quen, for hem, swilk was his &thorn;outh,</L>
+<L N="2784">For to se, and forto shawe,</L>
+<L>Yif &thorn;at he hire wolde knawe.</L>
+<L>&THORN;oruth hem witen wolde he,</L>
+<L>Yif &thorn;at she aucte quen to be.</L>
+</LG>
+<LG TYPE="stanza">
+<L N="2788">Sixe erles weren sone yare,</L>
+<L>After hire for to fare.</L>
+<L>He nomen on-on, and comen sone,</L>
+<L>And brouthen hire, &thorn;at under mone</L>
+<L N="2792">In al &thorn;e werd ne hauede per,</L>
+<L>Of hende-leik, fer ne ner.</L>
+<L>Hwan she was come &thorn;ider, alle</L>
+<L>&THORN;e englishe men bi-gunne to falle</L>
+<L N="2796">O knes, and greten swi&thorn;e sore,<MILESTONE N="218b:1" UNIT="folio"></L>
+<L>And seyden, "leuedi, k[r]istes ore,</L>
+<L>And youres! we hauen misdo mikel,</L>
+<L>&THORN;at we ayen you haue be fikel,</L>
+<L N="2800">For englond auhte forto ben youres,
+<PB REF="00000142.tif" N="80"></L>
+<L>And we youre men and youres.</L>
+<L>Is non of us, yung ne old,</L>
+<L>&THORN;at we ne wot, &thorn;at a&thorn;elwold</L>
+<L N="2804">Was king of &thorn;is kunerike,</L>
+<L>And ye his eyr, and &thorn;at &thorn;e swike</L>
+<L>Haues it halden with mikel wronge:</L>
+<L>God leue him sone to honge!"</L>
+</LG>
+<LG TYPE="stanza">
+<L N="2808">Quot<NOTE PLACE="foot">MS. Guot. Cf. l. 1954.</NOTE> hauelok, "hwan &thorn;at ye it wite.</L>
+<L>Nu wile ich &thorn;at ye doun site,</L>
+<L>And after godrich haues wrouht,</L>
+<L>&THORN;at haues in sorwe him-self brouth,</L>
+<L N="2812">Lokes &thorn;at ye demen him rith,</L>
+<L>For dom ne spared<NOTE PLACE="foot"><I>Qu</I>. spares.</NOTE> clerk ne knith,</L>
+<L>And si&thorn;en shal ich under-stonde</L>
+<L>Of you, after lawe of londe,</L>
+<L N="2816">Manrede, and holde o&thorn;es bo&thorn;e,</L>
+<L>Yif ye it wilen, and ek rothe."</L>
+<L>Anon &thorn;er dune he hem sette,</L>
+<L>For non &thorn;e dom ne durste lette,</L>
+<L N="2820">And demden him to binden faste</L>
+<L>Vp-on an asse swi&thorn;e un-wraste,</L>
+<L>Andelong, nouht ouer-&thorn;wert,</L>
+<L>His nose went unto &thorn;e stert;</L>
+<L N="2824">And so to lincolne lede,</L>
+<L>Shamelike in wicke wede,</L>
+<L>And hwan he cam un-to &thorn;e borw,</L>
+<L>Shamelike ben led &thorn;er-&thorn;oru,</L>
+<L N="2828">Bisou&thorn;e &thorn;e borw, un-to a grene,</L>
+<L>&THORN;at &thorn;are is yet, als[o] y wene,</L>
+<L>And &thorn;ere be bunden til a stake,</L>
+<L>Abouten him ful gret fir make,</L>
+<L N="2832">And al to dust be brend Rith &thorn;ere;</L>
+<L>And yet demden he &thorn;er more,</L>
+<L>O&thorn;er swikes for to warne,
+<PB REF="00000143.tif" N="81"></L>
+<L>&THORN;at hise children sulde &thorn;arne</L>
+<L N="2836">Euere more &thorn;at eritage,</L>
+<L>&THORN;at his was, for hise utrage.</L>
+</LG>
+<LG TYPE="stanza">
+<L>Hwan &thorn;e dom was demd and seyd,</L>
+<L>Sket was &thorn;e swike on &thorn;e asse leyd,</L>
+<L N="2840">And [led vn-]til<NOTE PLACE="foot">MS. "And him til," which is nonsense. See l. 2827.</NOTE> &thorn;at ilke grene,</L>
+<L>And brend til asken al bidene.<MILESTONE N="218b:2" UNIT="folio"></L>
+<L>&THORN;o was Goldeboru ful bli&thorn;e,</L>
+<L>She &thorn;anked god fele sy&thorn;e,</L>
+<L N="2844">&THORN;at &thorn;e fule swike was brend,</L>
+<L>&THORN;at wende wel hire bodi haue shend,</L>
+<L>And seyde, "nu is time to take</L>
+<L>Manrede of brune and of blake,</L>
+<L N="2848">&THORN;at ich se ride[n] and go:</L>
+<L>Nu ich am wreke[n]<NOTE PLACE="foot">See l. 2992.</NOTE> of mi fo."</L>
+</LG>
+<LG TYPE="stanza">
+<L>Hauelok anon manrede tok</L>
+<L>Of alle englishe, on &thorn;e bok,</L>
+<L N="2852">And dide hem grete o&thorn;es swere,</L>
+<L>&THORN;at he sholden him god feyth bere</L>
+<L>Ageyn alle &thorn;at woren liues,</L>
+<L>And &thorn;at sholde ben born of wiues.</L>
+</LG>
+<LG TYPE="stanza">
+<L N="2856">&thorn;anne he hauede<NOTE PLACE="foot">MS. haueden.</NOTE> sikernesse</L>
+<L>Taken of more and of lesse,</L>
+<L>Al at hise wille, so dide he calle</L>
+<L>&THORN;e erl of cestre, and hise men alle,</L>
+<L N="2860">&THORN;at was yung knith wit-uten wif,</L>
+<L>And seyde, "sire erl, bi mi lif,</L>
+<L>And &thorn;ou wile mi conseyl tro,</L>
+<L>Ful wel shal ich with &thorn;e do,</L>
+<L N="2864">For ich shal yeue &thorn;e to wiue</L>
+<L>&THORN;e fairest &thorn;ing that is oliue.
+<PB REF="00000144.tif" N="82"></L>
+<L>&THORN;at is gunnild of grimesby,</L>
+<L>Grimes douther, bi seint dauy!</L>
+<L N="2868">&THORN;at me forth broute, and wel fedde,</L>
+<L>And ut of denemark with me fledde,</L>
+<L>Me for to burwe fro mi ded:</L>
+<L>Sikerlike, &thorn;oru his red</L>
+<L N="2872">Haue ich liued in-to &thorn;is day,</L>
+<L>Blissed wor&thorn;e his soule ay!</L>
+<L>I rede &thorn;at &thorn;u hire take,</L>
+<L>And spuse, and curteyse make,</L>
+<L N="2876">For she is fayr, and she is fre,</L>
+<L>And al so hende so she may be.</L>
+<L>&THORN;ertekene she is wel with me,</L>
+<L>&THORN;at shal ich ful wel shewe &thorn;e,</L>
+<L N="2880">For ich giue &thorn;e a giue,</L>
+<L>&THORN;at euere more hwil ich liue,</L>
+<L>For hire shal-tu be with me dere,</L>
+<L>&THORN;at wile ich &thorn;at &thorn;is folc al here."</L>
+<L N="2884">&THORN;e erl ne wolde nouth ageyn</L>
+<L>&THORN;e king[e] be, for knith ne sweyn,</L>
+<L>Ne of &thorn;e spusing seyen nay,<MILESTONE N="219a:1" UNIT="folio"></L>
+<L>But spusede [hire] &thorn;at ilke day.</L>
+<L N="2888">&THORN;at spusinge was god time maked,</L>
+<L>For it ne were neuere clad ne naked,</L>
+<L>In a &thorn;ede samened two</L>
+<L>&THORN;at cam to-gidere, liuede so,</L>
+<L N="2892">So &thorn;ey dide[n] al here liue:</L>
+<L>He geten samen sones fiue,</L>
+<L>&THORN;at were &thorn;e beste men at nede,</L>
+<L>&THORN;at mouthe riden on ani stede.</L>
+<L N="2896">Hwan gunnild was to cestre brouth,</L>
+<L>Hauelok &thorn;e gode ne for-gat nouth</L>
+<L>Bertram, &thorn;at was the erles kok,</L>
+<L>&THORN;at he ne dide callen ok,</L>
+<L N="2900">And seyde, "frend, so god me rede!</L>
+<L>Nu shaltu haue riche mede,
+<PB REF="00000145.tif" N="83"></L>
+<L>For wissing, and &thorn;i gode dede,</L>
+<L>&THORN;at tu me dides in ful gret nede.</L>
+<L N="2904">For &thorn;anne y yede in mi cuuel,</L>
+<L>And ich ne haue[de] bred, ne sowel,</L>
+<L>Ne y ne hauede no catel,</L>
+<L>&THORN;ou feddes and claddes me ful wel.</L>
+<L N="2908">Haue nu for-&thorn;i of cornwayle</L>
+<L>&THORN;e erldom ildel, with-uten fayle,</L>
+<L>And al &thorn;e lond &thorn;at godrich held,</L>
+<L>Bo&thorn;e in towne, and ek in feld;</L>
+<L N="2912">And &thorn;erto wile ich, &thorn;at &thorn;u spuse,</L>
+<L>And fayre bring hire un-til huse,</L>
+<L>Grimes douther, leuiue &thorn;e hende,</L>
+<L>For &thorn;ider shal she with &thorn;e wende.</L>
+<L N="2916">Hire semes curteys forto be,</L>
+<L>For she is fayr so flour on tre;</L>
+<L>&THORN;e heu is swilk in hire ler</L>
+<L>So [is] &thorn;e rose in roser,</L>
+<L N="2920">Hwan it is fayr sprad ut newe</L>
+<L>Ageyn &thorn;e sunne, brith and lewe."</L>
+<L>And girde him sone with &thorn;e swerd</L>
+<L>Of &thorn;e erldom, bi-forn his ferd,</L>
+<L N="2924">And with his hond he made him knith,</L>
+<L>And yaf him armes, for &thorn;at was rith,</L>
+<L>And dide him &thorn;ere sone wedde</L>
+<L>Hire &thorn;at was ful swete in bedde.</L>
+</LG>
+<LG TYPE="stanza">
+<L N="2928">After &thorn;at he spused wore,</L>
+<L>Wolde &thorn;e erl nouth dwelle &thorn;ore,</L>
+<L>But sone nam until his lond,</L>
+<L>And seysed it al in his hond,<MILESTONE N="219a:2" UNIT="folio"></L>
+<L N="2932">And liuede &thorn;er-inne, he and his wif,</L>
+<L>An hundred winter in god lif,<NOTE PLACE="foot">Between this line and the next are inserted in the MS. the words: <I>For he saw</I> &thorn;at he, which have been subsequently struck out by the same hand, and the word <I>vacat</I> affixed.</NOTE>
+<PB REF="00000146.tif" N="84"></L>
+<L>And gaten mani children samen,</L>
+<L>And liueden ay in blisse and gamen.</L>
+<L N="2936">Hwan &thorn;e maydens were spused bo&thorn;e,</L>
+<L>Hauelok anon bigan ful rathe</L>
+<L>His denshe men to feste wel</L>
+<L>Wit riche landes and catel,</L>
+<L N="2940">So &thorn;at he weren alle riche:</L>
+<L>For he was large and nouth chinche.</L>
+</LG>
+<LG TYPE="stanza">
+<L>&thorn;er-after sone, with his here,</L>
+<L>For he to lundone, forto bere</L>
+<L N="2944">Corune, so &thorn;at [alle] it sawe,</L>
+<L>Henglishe ant denshe, heye and lowe,</L>
+<L>Hwou he it bar with mikel pride,</L>
+<L>For his barnage &thorn;at was un-ride.</L>
+</LG>
+<LG TYPE="stanza">
+<L N="2948">&thorn;e feste of his coruni[n]g<NOTE PLACE="foot">MS. corunig.</NOTE></L>
+<L>Laste[de] with gret ioying</L>
+<L>Fourti dawes, and sumdel mo;</L>
+<L>&THORN;o bigunnen &thorn;e denshe to go</L>
+<L N="2952">Vn-to &thorn;e king, to aske leue,</L>
+<L>And he ne wolde hem nouth greue,</L>
+<L>For he saw &thorn;at he woren yare</L>
+<L>In-to denemark for to fare,</L>
+<L N="2956">But gaf hem leue sone anon,</L>
+<L>And bitauhte hem seint Johan;</L>
+<L>And bad ubbe, his iustise,</L>
+<L>&THORN;at he sholde on ilke wise</L>
+<L N="2960">Denemark yeme and gete so,</L>
+<L>&THORN;at no pleynte come him to.</L>
+</LG>
+<LG TYPE="stanza">
+<L>Hwan he wore parted alle samen,</L>
+<L>Hauelok bi-lefte wit ioie and gamen
+<PB REF="00000147.tif" N="85"></L>
+<L N="2964">In engelond, and was &thorn;er-inne</L>
+<L>Sixti winter king with winne,</L>
+<L>And Goldeboru quen, &thorn;at I wene:</L>
+<L>So mikel loue was hem bitwene,</L>
+<L N="2968">&THORN;at al &thorn;e werd spak of hem two:</L>
+<L>He louede hire, and she him so,</L>
+<L>&THORN;at ney&thorn;er o&thorn;e[r] mithe be</L>
+<L>For<NOTE PLACE="foot"><I>Qu</I>. Fro.</NOTE> o&thorn;er, ne no ioie se,</L>
+<L N="2972">But yf he were to-gidere<NOTE PLACE="foot">MS. togidede.</NOTE> bo&thorn;e;</L>
+<L>Neuere yete ne weren he wro&thorn;e,</L>
+<L>For here loue was ay newe,</L>
+<L>Neuere yete wordes ne grewe<MILESTONE N="219b:1" UNIT="folio"></L>
+<L N="2976">Bitwene hem, hwar-of ne lathe</L>
+<L>Mithe rise, ne no wrathe.</L>
+</LG>
+<LG TYPE="stanza">
+<L>He geten children hem bi-twene</L>
+<L>Sones and douthres rith fiuetene,</L>
+<L N="2980">Hwar-of &thorn;e sones were kinges alle,</L>
+<L>So wolde god it sholde bifalle;</L>
+<L>And &thorn;e douhtres alle quenes:</L>
+<L>Him stondes wel &thorn;at god child strenes.</L>
+<L N="2984">Nu haue ye herd &thorn;e gest al &thorn;oru</L>
+<L>Of hauelok and of goldeborw.</L>
+<L>Hw he weren born, and hw fedde,</L>
+<L>And hwou he woren with wronge ledde</L>
+<L N="2988">In here you&thorn;e, with trecherie,</L>
+<L>With tresoun, and with felounye,</L>
+<L>And hwou &thorn;e swikes haueden thit</L>
+<L>Reuen hem &thorn;at was here rith,</L>
+<L N="2992">And hwou he weren wreken wel,</L>
+<L>Haue ich sey you euerildel;</L>
+<L>And for&thorn;i ich wolde biseken you,</L>
+<L>&THORN;at hauen herd &thorn;e rim[e] nu,</L>
+<L N="2996">&THORN;at ilke of you, with gode wille,
+<PB REF="00000148.tif" N="86"></L>
+<L>Seye a pater-noster stille,</L>
+<L>For him &thorn;at haueth &thorn;e rym[e] maked,</L>
+<L>And &thorn;er-fore fele nihtes waked;</L>
+<L N="3000">&THORN;at ihesu crist his soule bringe</L>
+<L>Bi-forn his fader at his endinge.</L>
+</LG>
+<TRAILER>Amen.</TRAILER>
+</DIV1>
+</BODY>
+<BACK><DIV1 TYPE="omitted back matter"><P>
+
+<PB REF="00000149.tif" N="87">
+
+<PB REF="00000150.tif" N="88">
+
+<PB REF="00000151.tif" N="89">
+
+<PB REF="00000152.tif" N="90">
+
+<PB REF="00000153.tif" N="91">
+
+<PB REF="00000154.tif" N="92">
+
+<PB REF="00000155.tif" N="93">
+
+<PB REF="00000156.tif" N="94">
+
+<PB REF="00000157.tif" N="95">
+
+<PB REF="00000158.tif" N="96">
+
+<PB REF="00000159.tif" N="97">
+
+<PB REF="00000160.tif" N="98">
+
+<PB REF="00000161.tif" N="99">
+
+<PB REF="00000162.tif" N="100">
+
+<PB REF="00000163.tif" N="101">
+
+<PB REF="00000164.tif" N="102">
+
+<PB REF="00000165.tif" N="103">
+
+<PB REF="00000166.tif" N="104">
+
+<PB REF="00000167.tif" N="105">
+
+<PB REF="00000168.tif" N="106">
+
+<PB REF="00000169.tif" N="107">
+
+<PB REF="00000170.tif" N="108">
+
+<PB REF="00000171.tif" N="109">
+
+<PB REF="00000172.tif" N="110">
+
+<PB REF="00000173.tif" N="111">
+
+<PB REF="00000174.tif" N="112">
+
+<PB REF="00000175.tif" N="113">
+
+<PB REF="00000176.tif" N="114">
+
+<PB REF="00000177.tif" N="115">
+
+<PB REF="00000178.tif" N="116">
+
+<PB REF="00000179.tif" N="117">
+
+<PB REF="00000180.tif" N="118">
+
+<PB REF="00000181.tif" N="119">
+
+<PB REF="00000182.tif" N="120">
+
+<PB REF="00000183.tif" N="121">
+
+<PB REF="00000184.tif" N="122">
+
+<PB REF="00000185.tif" N="123">
+
+<PB REF="00000186.tif" N="124">
+
+<PB REF="00000187.tif" N="125">
+
+<PB REF="00000188.tif" N="126">
+
+<PB REF="00000189.tif" N="127">
+
+<PB REF="00000190.tif" N="128">
+
+<PB REF="00000191.tif" N="129">
+
+<PB REF="00000192.tif" N="130">
+
+<PB REF="00000193.tif" N="131">
+
+<PB REF="00000194.tif" N="132">
+
+<PB REF="00000195.tif" N="133">
+
+<PB REF="00000196.tif" N="134">
+
+<PB REF="00000197.tif" N="135">
+
+<PB REF="00000198.tif" N="136">
+
+<PB REF="00000199.tif" N="137">
+
+<PB REF="00000200.tif" N="138">
+
+<PB REF="00000201.tif" N="139">
+
+<PB REF="00000202.tif" N="140">
+
+<PB REF="00000203.tif" N="141">
+
+<PB REF="00000204.tif" N="142">
+
+<PB REF="00000205.tif" N="143">
+
+<PB REF="00000206.tif" N="144">
+
+<PB REF="00000207.tif" N="145">
+
+<PB REF="00000208.tif" N="146">
+
+<PB REF="00000209.tif" N="147">
+
+<PB REF="00000210.tif" N="148">
+
+<PB REF="00000211.tif" N="149">
+
+<PB REF="00000212.tif" N="150">
+
+<PB REF="00000213.tif" N="151">
+
+<PB REF="00000214.tif" N="152">
+
+<PB REF="00000215.tif" N="153">
+
+<PB REF="00000216.tif" N="154">
+
+<PB REF="00000217.tif" N="155">
+
+<PB REF="00000218.tif" N="156">
+
+<PB REF="00000219.tif" N="157">
+
+<PB REF="00000220.tif" N="158">
+
+<PB REF="00000221.tif" N="159">
+
+</P>
+<PB REF="00000222.tif">
+</DIV1></BACK>
+</TEXT>
+</ETS>

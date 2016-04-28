@@ -1,0 +1,1000 @@
+<DLPSTEXTCLASS><HEADER><FILEDESC><TITLESTMT><TITLE TYPE="245">Treatise on The Astrolabe : addressed to his son Lowys / by Geoffrey Chaucer ; edited from the earliest MSS. by Walter W. Skeat</TITLE><AUTHOR>Chaucer, Geoffrey, d. 1400</AUTHOR><EDITOR>Skeat, Walter W. (Walter William), 1835-1912</EDITOR></TITLESTMT><EXTENT>ca. 112 kb.</EXTENT><PUBLICATIONSTMT><PUBLISHER>University of Michigan Humanities Text Initiative</PUBLISHER><PUBPLACE>Ann Arbor, Mich.</PUBPLACE><IDNO TYPE="dlps">ChaucerAstr</IDNO><AVAILABILITY><P>These texts may be copied freely by individuals for personal use, research, and teaching (including distribution to classes) as long as this statement of availability is included in the text.  It may be linked to freely in Internet editions of all kinds, including for-profit works. Redistribution by commercial or not-for-profit content providers is expressly forbidden.</P></AVAILABILITY><DATE>1997</DATE></PUBLICATIONSTMT><SOURCEDESC><BIBLFULL><TITLESTMT><TITLE>A Treatise on The Astrolabe : addressed to his son Lowys</TITLE><AUTHOR>Geoffrey Chaucer</AUTHOR><EDITOR>Walter W. Skeat</EDITOR></TITLESTMT><PUBLICATIONSTMT><PUBPLACE>London</PUBPLACE><DISTRIBUTOR>Early English Text Society</DISTRIBUTOR><PUBLISHER>N. Trübner &amp; Co.</PUBLISHER><ADDRESS><ADDRLINE>60 Paternoster Row</ADDRLINE></ADDRESS><DATE>1872</DATE></PUBLICATIONSTMT><SERIESSTMT><TITLE>Early English Text Society (Series). Extra series 16, 1872</TITLE></SERIESSTMT><NOTESSTMT><NOTE><P>Call no. 820.6 E13e no.16</P></NOTE></NOTESSTMT></BIBLFULL></SOURCEDESC></FILEDESC><ENCODINGDESC><EDITORIALDECL N="4"><P>The Astrolabe was scanned at the University of Michigan HTI, where OCR was subsequently performed with ScanWorx.  All material, excluding front matter, is included, and is represented in the electronic edition as it was in the print edition (so far as is possible). Subsequent to OCR review of the scanned text, the text was marked up by Glenn Wright, proofread by Kenneth Church, and the markup reviewed by Jason Chu.</P><P>The Astrolabe is divided into two primary parts, marked up using DIV0 in this electronic edition.  Sections (at the DIV1 level) have been marked up to indicate the primary source manuscript using the ANA attribute, which refers to manuscript designations declared in the TextClass (below).  Skeat's base manuscript is Cambridge Univ. Dd.3.53.  The remainder of the material is derived from the following manuscripts:   Cambridge, St. John's College MS. E.2; Oxford, Bodleian Library MS. Digby 72; and Oxford, Bodleian Library MS. Bodley 619. </P><P>Skeat's organization has been retained in this electronic edition.  Textual notes have not been included in this electronic edition.  The notes include important information about the use of other manuscripts for emendations to this text, and should be consulted from the printed edition.</P><P>Square brackets (e.g., for supplied text) from the original printed edition have been retained in the electronic edition.</P></EDITORIALDECL></ENCODINGDESC><PROFILEDESC><LANGUSAGE><LANGUAGE ID="LAT">Latin</LANGUAGE></LANGUSAGE><TEXTCLASS><CLASSCODE ID="MS.Dd.3.53">Cambridge Univ. Dd.3.53</CLASSCODE><CLASSCODE ID="MS.E.2">Cambridge, St. John's College MS. E.2</CLASSCODE><CLASSCODE ID="MS.Digby.72">Oxford, Bodleian Library MS. Digby 72</CLASSCODE><CLASSCODE ID="MS.Bodley.619">Oxford, Bodleian Library MS. Bodley 619.</CLASSCODE></TEXTCLASS></PROFILEDESC></HEADER><TEXT><FRONT><DIV1 NODE="ChaucerAstr:1" TYPE="prologue" ANA="MS.Dd.3.53"><HEAD><FOREIGN LANG="LAT">Tractatus de Conclusionibus Astrolabii.</FOREIGN></HEAD><HEAD TYPE="sub">[Bred and mylk for childeren.]</HEAD><MILESTONE N="1" UNIT="folio"/><P>LItell Lowys my sone, I haue perceiued well by certeyne
+euidences thine abilite to lerne sciencez touchinge noumbres &amp; 
+proporciouns; ¶ &amp; as wel considere I thy bisi preyere in
+special to lerne the tretis of the astrelabie. ¶ than, for as mechel as
+a philosofre seith, ¶ he wrappeth him in his frend, þat 
+condescendith to the rihtful preiers of his frend / ther-for haue I geuen 
+the a suffisaunt astralabie as for owre orizonte, compowned after the latitude
+of Oxenford / vp-on which, by mediacion of this litel tretis, I
+purpose to teche the a certein nombre of conclusions apertenyng to
+the same instrument.  ¶ I seye a certein of couclusiouns, for thre
+causes.  ¶ the furste cause is this:  ¶ truste wel þat alle 
+the conclusiouns that han ben fownde, or elles possibli myhten be fownde
+in so noble an instrument as an astralabie, ben vn-knowe perfitly to
+any mortal man in this regioun, as I suppose.  ¶ a-nother cause is
+this ; þat sothly, in any tretis of the astrelabie þat I haue 
+seyn, there ben some conclusions þat wole nat in alle thinges performen
+hir byhestes;<EPB/><PB N="2"/>
+¶ &amp; some of hem ben to harde to thy tendre age of .x. yer
+to conseyue.  ¶ this tretis, diuided in 5 parties, wole I shewe the
+vnder ful lihte rewles &amp; naked wordes in englissh ; for latyn ne
+kanstow yit but smal, my lite sone.  ¶ but natheles, suffise to the
+thise trewe conclusiouns in englissh, as wel as suffisith to thise noble
+clerkes grekes thise same conclusiouns in grek, ¶ &amp; to arabiens in
+arabik, ¶ &amp; to Iewes in Ebrew, &amp; to the latyn folk in latyn / 
+whiche latyn folk han hem furst owt of othre diuerse langages, &amp; writen in
+hir owne tonge, þat is to sein, in latyn.  ¶ &amp; god wot, 
+þat in alle this[e] langages, &amp; in many mo, han thise conclusiouns 
+ben suffisantly lerned &amp; tawht / &amp; yit by diuerse rewles, ryht as 
+diuerse pathes leden diuerse folk the rihte wey to Roome.  ¶ Now wol I
+prey mekly euery discret persone þat redith or herith this litel tretis,
+to haue my rewde endytyng for excused, &amp; my superfluite of wordes,
+for two causes.  ¶ the firste cause is, for that curio[u]s enditing &amp;
+hard sentence Is ful heuy atones for swich a child to lerne.  ¶ &amp;
+the seconde cause is this, þat sothly me semeth betre to writen vn-to
+a child twies a good sentence, than he for-get it ones.  ¶ And lowis,
+ȝif so be þat I shewe the in my lihte Englissh as trewe conclusiouns
+touching this matere, &amp; nawht only as trewe but as many &amp; as subtil
+conclusiouns as ben shewed in latyn <MILESTONE N="1b" UNIT="folio"/>in ani commune tretis of the astrelabie / kon me the more thank ; 
+¶ and preye god saue the
+kyng, þat is lord of this langage, &amp; alle that him feyth bereth 
+&amp; obeieth, euerech in his degree, the more and the lasse. ¶ but 
+considere wel, that I ne vsurpe nat to haue fownde this werk of my labour 
+or of myn engin.  ¶ I nam but a lewd compilatour of the labour of olde 
+Astrolog[i]ens, and haue hit translated in myn englissh only for thi doctrine 
+; ¶ &amp; with this swerd shal I slen envie.</P><EPB/><PB N="3"/><P>¶ The firste partie of this tretis shal reherse the figures &amp; the
+membres of thin Astrolabie, by-cause þat thow shalt han the grettre
+knowyng of thin owne instrument.</P><P>¶ The second partie shal teche the werken the verrey practik of
+the forseide conclusiouns, as ferforth &amp; as narwe as may be shewyd
+in so smal an instrument portatif a-boute. ¶ For wel wot euery 
+astrologien þat smalest fraccions ne wol nat ben shewid in so smal an 
+instrument, as in subtil tables calkuled for a kawse.</P><P>¶ The .3. partie shal contienen diuerse tables of longitudes &amp; 
+latitudes of sterres fixe for the Astrolabie, ¶ &amp; tables of 
+declinacions of the [sonne], &amp; tables of longitudes of Citeez &amp; of 
+townes ; ¶ &amp; as wel for the gouernance of a clokke as for to fynde 
+the altitude Meridian / 
+&amp; many [a]-nother notable conclusioun, aftur the kalendres of the
+reuerent clerk[e]s, frere I. Somer &amp; frere N. Lenne.</P><P>¶ The .4. partie shal ben a theorik to declare the Moeuynge of
+the celestial bodies with [þe] causes. ¶ the whiche 4 partie in 
+special shal shewen a table of the verray Moeuyng of the Mone from howre
+to howre, euery day <MILESTONE N="2" UNIT="folio"/>&amp; in euery signe, after thin Almenak / 
+vp-on wych table ther folwith a canon, suffisant to teche as wel the
+maner  of the wyrkyng of þat same conclusioun / as to knowe in
+owre orizonte with wych degree of the zodiac that the Mone arisith
+in any latitude / &amp; the arising of any planete aftur his latitude fro
+the Ecliptik lyne.</P><P>¶ The .5. partie shal ben an introductorie aftur the statutz of owre
+doctours, in which thow maist lerne a gret part of the general rewles
+of theorik in Astrologie.  ¶ in which .5. partie shaltow fynde tables
+of equacions of howses aftur þe latitude of Oxenford; ¶ &amp; 
+tables of dignetes of planetes / &amp; other noteful thingez / yif god wol 
+vouche sauf &amp; his modur the mayde, mo than I be-hete, &amp;c.</P></DIV1></FRONT><BODY><DIV1 NODE="ChaucerAstr:2" TYPE="part"><EPB/><PB N="4"/><HEAD>Her by-gynneth the descripcion of the Astrelabie.</HEAD><DIV2 NODE="ChaucerAstr:2.1" TYPE="section" ANA="MS.Dd.3.53"><HEAD>1.</HEAD><P>¶ Thyn Astrelabie hath a ring to putten on the t[h]owmbe of
+thy ryht hand in takyng the heyhte of thynges. ¶ &amp; tak kep, for
+from hennes-forthward, I wol clepe tho heyhte of any thing þat is
+taken by thy rewle, the altitude, with-owte mo wordes.</P></DIV2><DIV2 NODE="ChaucerAstr:2.2" TYPE="section" ANA="MS.Dd.3.53"><HEAD>2.</HEAD><P>¶ This ring rennyth in A Maner turet, fast to the Moder of
+thyn Astrelabie, in so Rowm a space þat hit desturbith nat the 
+instrument to hangen aftur his rihte centre.</P></DIV2><DIV2 NODE="ChaucerAstr:2.3" TYPE="section" ANA="MS.Dd.3.53"><MILESTONE N="2b" UNIT="folio"/><HEAD>3.</HEAD><P>¶ The moder of thin Astrelabie is [þe] thikkeste plate,
+perced with a large hole, þat resseyuyth in hir wombe the thynne
+plates compowned for diuerse clymatz, &amp; thi Riet shapen in manere
+of a net or of a webbe of a loppe ; &amp; for the more declaracioun, lo
+here the figure.</P></DIV2><DIV2 NODE="ChaucerAstr:2.4" TYPE="section" ANA="MS.Dd.3.53"><HEAD>4.</HEAD><P>¶ This Moder is deuyded on the bakhalf with a lyne, þat
+cometh dessendinge fro the ryng down to the nethereste bordure.
+¶ the whiche lyne, fro þe for-seide Ryng vn-to the centre of the 
+large hole amydde, is cleped the sowth lyne, or elles the lyne Meridional.
+¶ &amp; the remenant of this lyne downe to the bordure is cleped the
+north lyne, or elles the lyne of Midnyht.  ¶ &amp; for the more 
+declaracioun, lo here the figure.</P></DIV2><DIV2 NODE="ChaucerAstr:2.5" TYPE="section" ANA="MS.Dd.3.53"><EPB/><PB N="5"/><MILESTONE N="3" UNIT="folio"/><HEAD>5.</HEAD><P>¶ Ouer-thwart this for-seide longe lyne, ther crosseth hym
+a-nother lyne of the same lengthe from est to west.  Of the whiche
+lyne, from a lityl croys + in the bordure vn-to the centre of the large
+hole, is cleped the Est lyne, or elles the lyne Orientale ; ¶ &amp; the
+remenant of this lyne fro the forseide + vn-to the bordure, is cleped
+the west lyne, or the lyne occidentale.  ¶ now hastow her the 4
+quarters of thin astrelabie, deuyded after the 4 principals plages or
+quarters of the firmament.  ¶ &amp; for the more declaracioun, lo here
+thi figure. </P></DIV2><DIV2 NODE="ChaucerAstr:2.6" TYPE="section" ANA="MS.Dd.3.53"><HEAD>6.</HEAD><P>¶ The est side of thin Astrelabie is cleped the riht side, ¶ 
+&amp; the west side is cleped the left side. ¶ for-get nat this, 
+lite[l] lowys.  ¶ put the ring of thin Astralabie vp-on the thowmbe of thy ryht
+hand, and thanne wole his right side be toward thy left side, &amp; his
+left side wol be toward thy right side ; tak this rewle general, as wel
+on the bak as on the wombe-side.  ¶ vp-on the ende of this est
+lyne, as I first seide, is marked a litel +, wher as euere-mo generaly
+is considered the entring of the first degree in wich the sonne arisith.
+¶ &amp; for the more declaracioun, lo here þe figure. </P></DIV2><DIV2 NODE="ChaucerAstr:2.7" TYPE="section" ANA="MS.Dd.3.53"><MILESTONE N="3b" UNIT="folio"/><HEAD>7.</HEAD><P>¶ Fro this litel + vp to the ende of the lyne Meridional, vndur the ryng, ¶ shaltow fynden the bordure deuyded with
+90 degres ; &amp; by that same proporcioun is euery quarter of thin Astrolabie deuyded.  ¶ ouer the wiche degrees ther ben nowmbres of
+augrym, þat deuyden thilke same degres fro 5 to 5, as shewith by
+longe strykes bytwene.  ¶ of wyche longe strykes the space by-
+twene contienith a Mile-wey.  ¶ &amp; euery degree of the bordure
+contieneth 4 Minutes, that [is] to seyn, minutes of an howre. ¶ &amp;
+for more declaracioun, lo here the figure. </P></DIV2><DIV2 NODE="ChaucerAstr:2.8" TYPE="section" ANA="MS.Dd.3.53"><EPB/><PB N="6"/><MILESTONE N="4" UNIT="folio"/><HEAD>8.</HEAD><P>¶ Vnder the compas of thilke degres ben writen the
+names of the 12 signes, as Aries, taurus, gemini, Cancer, leo, virgo,
+libra, Scorpio, Sagittarius, Capricornus, Aquarius, Pisces  &amp; the
+nombres of the degres of tho signes ben writen in Augrim aboue, &amp;
+with longe deuysiouns, fro 5 to 5 ; deuyded fro tyme þat the signe
+entreth vn-to the laste ende. ¶ but vndorstond wel, þat thise 
+degrees of signes ben euerich of hem considered of 60 Mynutes, &amp; euery
+Minute of 60 secondes, &amp; so forth in-to smale fraccions infinit, as
+seith Alkabucius. ¶ &amp; ther-for, know wel, þat a degree of the 
+bordure contienith 4 Minutis, and a degre of a signe contienith 60 Mynutis,
+&amp; haue this in Mynde. ¶ &amp; for the more declaracioun, lo here thi
+figure.</P></DIV2><DIV2 NODE="ChaucerAstr:2.9" TYPE="section" ANA="MS.Dd.3.53"><HEAD>9.</HEAD><P>¶ Next this folwyth the cercle of the dayes, þat ben figured
+in maner of degrees, þat contienen in nowmbre 365 ; dyuyded also
+with longe strikes fro 5 to 5, &amp; the nombre[s] in Augrym writen
+vnder þat cercle.  ¶ and for more declaracioun, loo heere thy 
+figure.</P></DIV2><DIV2 NODE="ChaucerAstr:2.10" TYPE="section" ANA="MS.Dd.3.53"><MILESTONE N="4b" UNIT="folio"/><HEAD>10.</HEAD><P>¶ Next the cercle of tho dayes folweth the Cercle of
+the names of the Monthes ; þat is to seyen, Ianuare, Februare,
+Marcius, Aprile, Mayus, Iuyn, Iulius, Augustus, Septembre, October, Novembre, Decembre. ¶ the names of thise Monthes were cleped
+in Arabyens, somme for hir propretes, &amp; some by statutz of lordes,
+some by other lordes of Rome. ¶ ek of thise Monthes, as liked to
+Iulius cesar &amp; to cesar Augustus, some were compowned of diuerse
+nombres of dayes, as Iuyl and August. ¶ thanne hath Ianuare xxxi
+daies, Februare 28, March 31, Aprille 30, May 31, Iunius 30, Iulius
+31, Augustus 31, September 30, Octobre 3l, Nouembre 30, December 31. ¶ natheles, al-thow that Iulius cesar tok 2 daies owt of
+Feuerer &amp; put hem in his monith of Iuylle, &amp; Augustus cesar cleped<EPB/><PB N="7"/>
+the Monyth of August After his name &amp; ordeyned it of 31 daies, yit
+truste wel, þat the sonne dwelleth ther-for neuere the more ne lesse
+in on signe than in another.</P></DIV2><DIV2 NODE="ChaucerAstr:2.11" TYPE="section" ANA="MS.Dd.3.53"><HEAD>11.</HEAD><P>¶ Than folwen the names of the halidayes in the kalender
+&amp; next hem the lettres of the A. b. c. on wich they fallen. ¶ &amp; 
+for the more declaracioun, loo here thi figure.</P></DIV2><DIV2 NODE="ChaucerAstr:2.12" TYPE="section" ANA="MS.Dd.3.53"><MILESTONE N="5" UNIT="folio"/><HEAD>12.</HEAD><P>¶ Next the forseide cercle of the A. b. c., vnder the
+cros-lyne, is Marked the skale, in Maner of 2 Squyres or elles in
+Manere of laddres, þat seruith by hise 12 poyntes &amp; hise deuisiouns
+of ful many a subtil conclusioun.  Of this forseide skale, fro the
+croos-lyne vn-to the verre angle, is clepid <FOREIGN LANG="LAT">vmbra [versa]</FOREIGN>, &amp; the nether
+partie is cleped the <FOREIGN LANG="LAT">vmbra [recta</FOREIGN>, or elles <FOREIGN LANG="LAT">umbra extensa</FOREIGN>.]  ¶ &amp; for
+the more declaracioun, loo here the figure.</P></DIV2><DIV2 NODE="ChaucerAstr:2.13" TYPE="section" ANA="MS.Dd.3.53"><HEAD>13.</HEAD><P>¶ Thanne hastow a brod Rewle, þat hath on either ende a
+Square plate perced with a certein holes, some more &amp; some lesse, to
+resseyuen the stremes of the sonne by day, and ek by mediacioun of<EPB/><PB N="8"/>
+thyn Eye, to knowe the altitude of sterres by nyhte ¶{ &amp; for the
+more declaracioun, lo here thi figure</P></DIV2><DIV2 NODE="ChaucerAstr:2.14" TYPE="section" ANA="MS.Dd.3.53"><HEAD>14.</HEAD><P>¶ Thanne is ther a large Pyn in maner of an Extre, þat goth
+thorow the hole / that halt the tables of the clymates &amp; the Riet in
+the wombe of the Moder / thorw wich pyn ther goth a litel wegge
+which þat is cleped the hors, þat streynet[h] alle thise parties 
+to hepe ; this forseide grete Pyn in maner of an extre is ymagyn[e]d to be the
+Pol Artyk in thin Astralabie.  ¶ &amp; for the more declaracioun, lo
+here the figure.</P></DIV2><DIV2 NODE="ChaucerAstr:2.15" TYPE="section" ANA="MS.Dd.3.53"><MILESTONE N="5b" UNIT="folio"/><HEAD>15.</HEAD><P>¶ The wombe-side of thyne Astrelabie is also deuyded wit[h] a longe croys in 4 quarters from est to West, fro sowth
+to north, fro riht side to left side, as is the bak-side. &amp; for the more
+declaracioun, lo here thi figure.</P></DIV2><DIV2 NODE="ChaucerAstr:2.16" TYPE="section" ANA="MS.Dd.3.53"><HEAD>16.</HEAD><P>¶ The bordure of which wombe-side is deuyded fro the
+poynt of the est lyne vn-to the poynt of the south lyne vnder the
+ring, in 90 degres ; &amp; by þat same proporcioun is euery quarter deuyded as ys the bak-side, þat amonteth 360 degres.  ¶ &amp; 
+vnderstond wel, þat degres of this Bordure ben answering &amp; 
+consentrik to the degrees of the Equynoxial, þat ys deuyded in the same 
+nombre as euery othere cercle is in the heie heuene.  ¶ This same bordure
+is deuyded also with 23 lettres capitals &amp; a smal croys + aboue the
+south lyne, þat shewith the 24 howres equals of the clokke / &amp;, as I
+haue said, 5 of thise degrees maken a Milewey, &amp; 3 Milewey maken
+an howre. ¶ &amp; euery degree of this bordure contineth 4 Mynutes, &amp;<EPB/><PB N="9"/>
+euery Minut 60 secoundes ; now haue [y] told the twye ¶ &amp; for the
+more declaracioun, lo here the figure.</P></DIV2><DIV2 NODE="ChaucerAstr:2.17" TYPE="section" ANA="MS.Dd.3.53"><MILESTONE N="6" UNIT="folio"/><HEAD>17.</HEAD><P>¶ The plate vnder thi Riet is descriued with 3 [principal] cerclis ; of wiche the leste is cleped the cercle of cancer / by-cause þat the heued of cancer turnyth euermor consentrik vp-on the
+same cercle.  ¶ in this heued of cancer is the grettest declinacioun
+northward of the sonne.  ¶ &amp; ther-for is he cleped the Solsticioun
+of somer; ¶ wiche declinacioun , aftur ptholome, is 23 degrees &amp; 50
+Minutis, as wel in cancer as in Capricorne. this signe of cancre is
+cleped the tropik of Somer, of <FOREIGN LANG="LAT">tropos</FOREIGN>, þat is to seyn  Agaynward, for
+thanne by-gynneth the sonne to passe fro vs-ward ; ¶ &amp; for the
+more declaracioun, lo here the figure.</P><MILESTONE N="6b" UNIT="folio"/><P>¶ The Middel cercle in wydnesse, of thise 3, is cleped
+the cercle equinoxial / vp-on whiche turneth euermo the hedes of
+aries &amp; libra.  ¶ &amp; vnderstond wel, þat euermo this cercle 
+equinoxial turnyth Iustly fro verrey est to verrey west; ¶ as I haue
+shewed the in the sper solide.  ¶ this same cercle is cleped also the
+weyere, <FOREIGN LANG="LAT">equator</FOREIGN>, of the day / for whan the sonne is in the heuedes of aries &amp; libra, than ben the daies &amp; the nyht[es] illike of lenghthe in
+al the world.  ¶ &amp; ther-fore ben thise two signes called the equinoxiis.  ¶ &amp; alle þat Moeuyth with-in the heuedes of thise aries &amp;
+libra, his Moeuyng is cleped north-ward / &amp; alle that Moeuyth withoute thise heuedes, his Moeuyng is clepid sowth-ward as fro the
+equinoxial.  ¶ tak kep of thise latitudes north and sowth, &amp; for-get
+it nat.  ¶ by this cercle equinoxial ben considered the 24 howres of
+the clokke ; for eueremo the  arisyng of 15 degrees of the equinoxial
+maketh an howre equal of the clokke.  ¶ this equinoxial is cleped<EPB/><PB N="10"/>
+the gyrdelle of the firste Moeuyng, or elles of the <FOREIGN LANG="LAT">angulus primi motus vel primi mobilis</FOREIGN>.  And nota, þat firste Moeuyng is cleped "Moeuyng" of the firste Moeuable of the 8 spere, whiche Moeuyng is fro est to west, ¶ &amp; eft agayn in-to est / also it is clepid "girdel" of the first Moeuyng, for it departeth the furste Moeuable, þat is to seyn, the spere, in 2 ilike parties, euene distantz fro the poles of this world.  </P><P>¶The wydeste of thise 3 principal cerkles is cleped the cercle of capricorne, by-cause þat the heued of capricorne turnyth euermo consentryk vp-on the same cercle / in the heued of this for-seide capricorne is the grettest declinacioun sowthward of the sonne, &amp; ther-for is it cleped the solsticioun of wyntur.  this signe of capricorne is also cleped the tropik of wyntur, for thanne bygynnyth the sonne to come agayn to vs-ward.  ¶ &amp; for the more declaracioun, lo here thi figure.</P></DIV2><DIV2 NODE="ChaucerAstr:2.18" TYPE="section" ANA="MS.Dd.3.53"><MILESTONE N="7" UNIT="folio"/><HEAD>18.</HEAD><P>¶ Vp-on this forseide plate ben compassed certein cerclis þat hihten Almicanteras / of which som of hem semen perfit cercles, &amp; somme semen inperfit.  the centre þat standith a-Middes the narwest cercle is cleped the senyth; ¶ &amp; the netherest cercle, or the furste cercle, is clepid the orisonte, ¶ þat is to seyn, the cercle<EPB/><PB N="11"/> þat deuydeth the two Emysperies / þat is, the partie of the heuene a-boue the Erthe &amp; the partie be-nethe.  ¶ thise almy-kanteras ben compowned by 2 &amp; 2, al be it so þat on diuers Astrelabies some almy-kanteras ben deuyded by on / &amp; some by two, &amp; somme by .3. aftur the quantite of the Astrelabie.  &amp; this forseide cenyth is ymagened to ben the verrey point ouer the crowne of thyn heued / &amp; also this senyth is the verrey pool of the orisonte in euery regioun.  ¶ &amp; for the more declaracioun, lo here thi figure.</P></DIV2><DIV2 NODE="ChaucerAstr:2.19" TYPE="section" ANA="MS.Dd.3.53"><HEAD>19.</HEAD><P>¶ From this senyth, as it semeth, ther come a maner krokede strikes like to the clawes of a loppe, or elles like to the werk of a womanes calle, in keruyng ouerthwart the Almykanteras.  ¶ &amp; thise same strikes or diuisiouns ben cleped Azymuthz.  ¶ &amp; they deuyden the Orisonte of thin astrelabie in 24 deuisiouns.  ¶ &amp; thise Aȝimutz seruen to knowe the costes of the firmament ¶ &amp; to othre conclusiouns, as for to knowe the cenyth of the sonne &amp; of euery sterre.  ¶ &amp; for [the] more declaracioun, lo here thi figure.</P></DIV2><DIV2 NODE="ChaucerAstr:2.20" TYPE="section" ANA="MS.Dd.3.53"><MILESTONE N="7b" UNIT="folio"/><HEAD>20.</HEAD><P>¶ Next thise azymutz, vnder the cercle of Cancer, ben ther 12 deuysiouns embelif, moche like to the shap of the azimutes, þat shewen the spaces of the howres of planetes / &amp; for mor declaracioun, lo here thi figure.</P></DIV2><DIV2 NODE="ChaucerAstr:2.21" TYPE="section" ANA="MS.Dd.3.53"><HEAD>21.</HEAD><P>¶ The riet of thin Astrelabie with thy zokiak, shapen in maner of a net or of a lop-webbe aftur the olde descripcioun, which thow maist tornen vp and down as thi-self likyth, contienith certein nombre of sterres fixes, with hir longitudes &amp; latitudes determynat;<EPB/><PB N="12"/>
+¶ ȝif so be þat the makere haue nat erred.  the names of 
+the sterres ben writen in the Margyn of the riet ther as they sitte; ¶ 
+Of whiche sterres the smale poynt is cleped the Centre / And vnderstond also
+þot alle sterres sittinge wyth-in the zodiak of thin astrolabie ben
+cleped sterres of the north, ¶ For thei Arisen by northe the est lyne.
+¶ &amp; alle the remenant fixed, owt of the zodiak, ben cleped sterres of
+the sowth; ¶ but y sey nat þat they arisen alle by southe the est
+lyne ; witnesse on aldeberan &amp; Algomeysa.  ¶ generally vnderstond
+this rewle, that thilke sterres þat ben cleped sterres of the north
+arisen rather than the degree of hire longitude, &amp; alle [the] sterres of
+the sowth arisen aftur the degree of hire longitude; this is to seyn,
+sterres fixed in thin Astralabie. the mesure of this longitude of
+sterres is taken in the lyne Eclyptik of heuene, vnder which lyne,
+whan that the sonne &amp; the Mone ben lyne-riht or elles in the
+superfice of this lyne / than is the Eclips of the sonne or of the
+Mone ; as y shal declare, &amp; ek the cause why. but <MILESTONE N="8" UNIT="folio"/>sothly the Ecliptik lyne of thy zodiak is the owttereste bordure of thy zodiak,
+ther the degrees ben marked.</P><P>¶ Thy zodiak of thin Astralabie is shapen as a compas wich þat
+contienith a large brede, as aftur the quantite of thin astralabie / in
+ensample þat the zodiak in heuene is ymagened to ben a superfice
+contienyng a latitude of 12 degrees, ¶ wher[as] al the remenant of
+cerkles in the heuene ben ymagined verrey lynes with-owte eny
+latitude.  ¶ Amiddes this celestial zodiak ys ymagined a lyne, which
+þat is cleped the Ecliptik lyne / vndur which lyne is euermo the
+wey of the sonne.  ¶ Thus ben ther 6 degrees of the zodiak on þat
+on side of the lyne, and 6 degrees on that other.  ¶ This zodiak is<EPB/><PB N="13"/>
+deuided in 12 principa1 deuisiouns, þat departen the 12 signes. ¶
+&amp;, for the streitnes of thin astrelabie, than is euery smal deuysioun in a
+signe departid by two degrees &amp; two; I Mene degrees contenyng 60
+Minutes.  ¶ &amp; this forseide heuenissh zodiak is cleped the cercle of
+the signes / or the cercle of the bestes / for <HI1 REND="i">zodia</HI1> in langage of grek sownyth `bestes' in latyn tonge.  ¶ &amp; in the zodiak ben the 12
+signes þat han names of bestes; or elles for whan the sonne entrith
+in any of the signes, he taketh the proprete of swich bestes ; or
+elles for þat the sterres that ben there fixed ben disposed in signes of
+bestes, ¶ or shape like bestes; ¶ or elles whan the planetes ben vnder
+thilke signes, þei causen vs by hir influence operaciouns &amp; effectes
+lik to the operaciouns of bestes.  ¶ &amp; vnderstonde Also, þat 
+whan an hot planete comyth in-to an hot signe, than encresseth his hete; &amp;
+ȝif a planete be cold, thanne amenuseth his coldnesse, by-cause of the
+hote signe.  ¶ &amp; by this conclusioun maistow take ensample in alle
+the signes, be they moist or drie, or moeble or fix; rekenyng the
+qualite of the planete as I furst seide. ¶ &amp; euerich of thise 12 
+Signes hath respecte to a certein parcelle of the body of a man and hath it
+in gouernance; as aries hath thin heued, &amp; taurus thy nekke &amp; thy
+throte / gemyni thyn armholes &amp; thin armes, ¶ &amp; so forth; as
+shal be shewed more pleyn in the 5 partie of this tretis. this zodiak,
+which þat is part of the 8 spere, ouer-kerueth the equinoxial; and
+he ouer-kerueth hym again in euene parties / &amp; þat on half declinith
+sowthward, &amp; þat other northward, as pleynli declareth the tretis of
+the spere.  ¶ &amp; for mor declaracioun, lo here thi figure.</P></DIV2><DIV2 NODE="ChaucerAstr:2.22" TYPE="section" ANA="MS.Dd.3.53"><MILESTONE N="8b" UNIT="folio"/><HEAD>22.</HEAD><P>¶ Thanne hastow a label, þat is schapen lik a rewle,<EPB/><PB N="14"/>
+saue þat it is streit &amp; hath no plates on either ende with holes ;
+¶ but with the smale point of the forseide label, shaltow kalcule
+thyne equaciouns in the bordure of thin Astrolabie as bi thin almury.
+¶ &amp; for the more declaracioun, lo here thy figure.</P></DIV2><DIV2 NODE="ChaucerAstr:2.23" TYPE="section" ANA="MS.Dd.3.53"><HEAD>23.</HEAD><P>¶ Thin almury is cleped the denticle of capricorne or elles
+the kalkuler.  ¶ this same Almury sit fix in the hed of capricorne, &amp; it seruyth of many a necessarie conclusioun in equaciouns
+of thynges, as shal be shewed; ¶ &amp; for the more declaracioun, lo here
+thi figure.</P></DIV2><CLOSER>Her endith the descripcion of the Astrelabie.</CLOSER></DIV1><DIV1 NODE="ChaucerAstr:3" TYPE="part"><MILESTONE N="9" UNIT="folio"/><HEAD>Her bygynnen the conclusions of the Astrelabie.</HEAD><DIV2 NODE="ChaucerAstr:3.1" TYPE="section" ANA="MS.Dd.3.53"><HEAD>1. To fynde the degree in which the sonne is day by day,
+after hir cours a-bowte.</HEAD><HEAD TYPE="sub"><FOREIGN LANG="LAT">[Hic incipiunt conclusiones astrolabii; &amp; prima est ad inveniendum gradus solis in quibus singulis diebus secundum cursum
+sol est existens.]</FOREIGN></HEAD><P>¶ Rekene and knowe which is the day of thi monthe ¶ &amp; ley
+thi reule vp that same day, &amp; thanne wol the verray point of thy
+rewle sitten in the bordure, vp-on the degree of thy sonne.  ¶ Ensample as thus ; the yer of oure lord 1391, the 12 day of March at
+Midday, I wolde knowe the degree of the sonne.  ¶ I sowhte in the
+bakhalf of myn astrelabie, and fond the sercle of the daies, ¶ the
+which I knowe by the names of the Monthes writen vndur the same
+Cercle.  ¶ Tho leide I my rewle ouer this forseide day, &amp; fond the<EPB/><PB N="15"/>
+point of my rewle in the bordure vp-on the firste degree of aries, A
+litel with-in the degree / &amp; thus knowe I this conclusioun. ¶ A-nother
+day, I wolde knowe the degree of my sonne, &amp; this was at Midday
+in the 13. day of decembre ; I fond the day of the monthe in maner
+as I seide / tho leide I my rewle vp-on this forseide 13. day, &amp; found
+the point of my rewle in the bordure vp-on the first degree of capricorne / 
+a lite with-in the degree ¶ &amp; than haddy of this conclusioun the 
+ful experience / &amp; for the more declaracioun, lo her thi figure.</P></DIV2><DIV2 NODE="ChaucerAstr:3.2" TYPE="section" ANA="MS.Dd.3.53"><MILESTONE N="9b" UNIT="folio"/><HEAD>2. To knowe the altitude of the sonne, or of othre celestial bodies.</HEAD><HEAD TYPE="sub"><FOREIGN LANG="LAT">[De altitudine solis &amp; aliorum corporum supra celestium.]</FOREIGN></HEAD><P>¶ Put the ring of thin Astrelabie vp-on thi riht thowmbe &amp;
+turne thi lift side a-gayn the light of the sonne/  And rem[e]ue thi
+rewle vp and down til þat the stremes of the sonne shyne thorgh
+bothe holes of thi rewle.  ¶ loke thanne how Many degrees thi
+rewle is a-reised fro the litel crois vp-on thin est line, &amp; tak ther the
+altitude of thi sonne.  ¶ &amp; in this same wyse maistow knowe by
+nyhte the altitude of the Mone, or of brihte sterres / this chapitre
+is so general euer in on, þat ther nedith no more declaracion; but
+for-get it nat.  ¶ &amp; for the more declaracioun, lo here the figure.</P></DIV2><DIV2 NODE="ChaucerAstr:3.3" TYPE="section" ANA="MS.Dd.3.53"><MILESTONE N="10" UNIT="folio"/><HEAD>3. To knowe euery tyme of the day by liht of the sonne,
+&amp; euery tyme of the nyht by the sterres fixe, &amp; eke to knowe by
+nyht or by day the degree of any signe þat assendith on the
+est Orisonte, which þat is cleped communly the assendent or
+elles oruscupum.</HEAD><EPB/><PB N="16"/><HEAD TYPE="sub"><FOREIGN LANG="LAT">[Ad cognoscendum quidlibet tempus diei per solis indicacionem,
+&amp; quodlibet tempus noctis per quasdam stellas in celo fixas;
+ac eciam ad inveniendum &amp; cognoscendum signum super orizontem qui communiter vocatur ascendens.]</FOREIGN></HEAD><P>¶ Tak the altitude of the sonne whan the list, as I haue said ;
+¶ &amp; set the degree of the sonne, in kas þat it be by-forn 
+the Middel of the day, among thin al-my-kanteras on the est side of thin
+astralabie ; &amp; ȝif it be after the Middel of the day, set the degree 
+of thy sonne vp-on the west side / tak this manere of settyng for a
+general rewle, ones for euere.  ¶ &amp; whan thow hast set the degree
+of thy sonne vp as many Almykanteras of heyhte as was the altitude of the 
+sonne takyn by thi rewle, ¶ ley ouer thi label, vp-on the
+degree of the sonne; ¶ &amp; thanne wol the point of thi label sit[t]en in
+the bordure, vp-on the verrey tid of the day.   Ensample as thus /
+the yer of owre lord 1391, the 12 day of March, I wold knowe the
+tyd of the day.  I tok the altitude of my sonne, ¶ &amp; fond þat it
+was 25 degrees and 30 of Minutes of heyhte in the bordure on the
+bak-side.  ¶ tho turnede I Myn astrelabie, &amp; by cause that it was
+by-forn̄ Midday, I turnede Mi riet and sette the degree of the sonne,
+that is to seyn the .1. degree of Aries / on the riht side of myn
+Astralabie, vp-on þat 25 degrees &amp; 30 of Minutes of heyhte among
+myn almy-kanteras / tho leide I my label vp-on the degree of my
+sonne, &amp; fond the poynte <MILESTONE N="10b" UNIT="folio"/>of my label in the bordure, vp-on a capital lettre þat is cleped an X; tho rekened I alle the capitalles lettres fro the lyne of Midnyght vn-to this forseide lettre X, &amp; fond
+þat it was 9 of the clokke of the day. tho loked I do[w]n vp-on the
+Est Orisonte, and fond there the 20 degree of gemynis assending ;<EPB/><PB N="17"/>
+which þat I tok for Myn assendent. &amp; in this wyse hadde I the
+experience for euer-mo in wich maner I sholde knowe the tyde of the
+day / &amp; ek myn assendent.  ¶ Tho wold I wyte the same nyght folwyng 
+the howr of the nyght / &amp; wrowhte in this wyse / among an
+hep of sterris fixe, it liked me for to take the altitude of the feire
+white sterre þat is cleped Alhabor / and fond hir sitting on the west
+side of the line of Midday, 18 degres of heyhte taken by my rewle
+on the bak-side.  ¶ tho sette I the centre of this Alhabor vp-on 18
+degrees among myn Almy-kanteras, vp-on the west side ; by cause
+þat she was fonden on the west side.  tho leide I my label ouer the
+degree of the sonne þat was descended vnder the weste Orisonte,
+¶ &amp; rikened alle the lettres capitals fro the lyne of Midday vn-to 
+þe point of my label in the bordure; ¶ &amp; fond þat it 
+was passed 8 of  the clokke the space of 2 degrees / tho loked I doun vp-on myn est
+orisonte, ¶ &amp; fond ther 23 degrees of libra assending, whom I tok
+for myn assendent; &amp; thus lerned I to knowe ones for euer in which
+Manere I shuld come to the howre of the nyht / and to myn assendent;
+as verreyli as may be taken by so smal [an] instrument / but natheles
+in general wold I warne the for euere / ne mak the neuere bold to
+haue take a Iust Ascendent by thin Astrilabie, or elles to haue sette
+Iustly a clokke, whan any celestial body by which þat thow wenest
+gouer e thilke thynges ben ney the sowth lyne / for trust wel, whan
+þat þe sonne is ney the Meridional lyne, the degree of the sonne
+rennyth so longe consentrik vp-on the almy-kanteras, þat sothly
+thow shalt erre fro the Iust assendent / the same conclusioun sey I by
+þe centre of any sterre fix by nyht; and more-ouer, by experience, I
+wot wel that in owre Orisonte, from .xi. of the clokke vn-to on of the<EPB/><PB N="18"/>
+clokke, in takyng of a Iust assendent in A portatif Astrelabie, hit is
+to hard to knowe.  I mene, from .xi. of the clokke by-forn the howre
+of noon til on of the clok next folwyng.  ¶ &amp; for the more 
+declaracion, lo her thi figure.</P></DIV2><DIV2 NODE="ChaucerAstr:3.4" TYPE="section" ANA="MS.Dd.3.53"><MILESTONE N="11" UNIT="folio"/><HEAD>4. Special declaracion of the assendent.</HEAD><HEAD TYPE="sub"><FOREIGN LANG="LAT">[Specialis declaracio de ascendente.]</FOREIGN></HEAD><P>¶ The assendent sothly, as wel in alle natiuitez as in questiouns
+&amp; elecciouns of tymes, is a thing which þat thise Astrologiens gretly
+obseruen / wher-fore me semeth conuenient, sin þat I speke of the
+assendent, to make of it special declaracioun / The assendent sothly,
+to take it at the [largeste], is thilke degree þat assendith at any of
+thise forseide tymes v[po]n the est Orisonte; &amp; there-for, yif þat 
+any planet assende at þat same tyme in thilke for-seide [degre of] 
+his longitude, Men seyn þat thilke planete is in <FOREIGN LANG="LAT">horoscopo</FOREIGN>. ¶ but  sothly, the hows of the assendent, þat is to seyn, the firste hous or the est Angle, is a thing more brod &amp; large.  ¶ For after the statutz of Astrologiens, what celestial body þat is 5 degres a-boue thilk degre þat
+assendith, or with-in þat nowmbre, þat is to seyn, nere the degree
+þat assendith / yit rikne thei thilke planet in the Assendent. ¶ And
+what planete þat is vnder thilke degree þat assendith the space 
+of [25] degrees, ¶ yit sein thei that thilke planete is lyk to him 
+þat is [in] the hows of the assendent / but sothly, yif he passe the bondes of thise
+forseide spaces, a-boue or by-nethe, they sein þat the planete is
+failling fro the assendent; / yit sein thise Astrolog[i]ens, that the
+assendent ¶ &amp; eke the lord of the assendent, may be shapen for to
+be fortunat or infortunat / as thus / a fortunat assendent clepen
+they whan þat no wykkid planete, as saturne or Mars, or elles the
+tail of the dragoun, is in [þe] hows <MILESTONE N="11b" UNIT="folio"/>of the assendent, ne þat no wikked planete haue non aspecte of enemyte vp-on the assendent ; but they wol caste þat thei haue a fortunat planete in hir assendent
+&amp; ȝit in his felicite, ¶ &amp; than sey they þat it is 
+wel.  ¶ fortherouer, <EPB/><PB N="19"/>
+ they seyn þat the infortunyng of an assendent is the contrarie of this forseide thinges.  ¶ the lord of the assendent sey they þat he is fortunat, whan he is in god place fro the assendent as in angle; or in a succedent, where-as he is in his dignite &amp; conforted with frendly aspectys of planetes &amp; [wel] resceiued, &amp; ek that he may sen the assendent, and þat he be nat retrograd ne combust, ne ioigned with no shrewe in the same signe / ne that he be nat in his des[c]encioun, ne ioigned with no planete in his discencioun, ne haue vp-on him non aspecte infortunat; &amp; [than] sey they þat he is wel.  ¶ natheles, theise ben obseruauncez of iudicial matiere &amp; rytes of paiens, in which my spirit ne hath no feith, ne no knowyng of hir <FOREIGN LANG="LAT">horoscopum</FOREIGN>; for they seyn þat euery signe is departid in 3 euene parties by [10] degrees, &amp; thilke porcioun they clepe a face.  ¶ &amp; al-thogh þat a planete haue a latitude fro the Ecliptik, yit sey [some folk] so þat the planete arise in þat same signe wyth any degree of the forseide face in which [h]is longitude is rekned, þat yit is the planete in <FOREIGN LANG="LAT">horoscopo</FOREIGN> / be it in natiuite or in eleccioun, &amp;c. ¶ &amp; for the more declaracioun, lo here the figure.</P></DIV2><DIV2 NODE="ChaucerAstr:3.5" TYPE="section" ANA="MS.Dd.3.53"><HEAD>5. To knowe the verrey equacioun of the degree of the sonne, yif so be þat it falle by-twixe thin Almykanteras.</HEAD><HEAD TYPE="sub"><FOREIGN LANG="LAT">[Ad cognoscendum veram equacionem de gradu solis, si contigerit fore in duas Almicanteras.]</FOREIGN></HEAD><MILESTONE N="12" UNIT="folio"/><P>¶ For as moche as the almykanteras in thin astrelabie ben compownet by two &amp; two, ¶ where-as some Almykanteras in sondri Astrelabies ben compownet by on and on, or elles by 2 &amp; 2, it is necessarie to thy lernyng to teche the first to knowe &amp; worke with thin owne Instrument.  ¶ where-for, whan þat the degreee of thy sonne falleth by-twixe two Almykanteras / or elles yif thin Almykanteras ben grauen with ouer gret a point of a compas / for bothe thise thinges may causen errour as wel in knowyng of the tid of the day as of the verrey Assendent / thow Most werken in this wise.<EPB/><PB N="20"/>
+¶ Set the degree [of] thy sonne vp-on the heyer Almykanteras of
+bothe / &amp; waite wel wher as thin Almury towcheth the bordure, &amp;
+set ther a prikke of ynke ¶ Set down agayn the degree of thy
+sonne vp-on the nethere Almy-kanteras of bothe / &amp; set ther another
+prikke. ¶ remewe thanne thin Almury in the bordure euene amiddes bothe prikkes / &amp; this wol lede iustly the degree of thi sonne to
+sitte by-twixe bothe Almykanteras in his riht place.  ¶ ley thanne
+thy label ouer the degree of thy sonne ; &amp; find in the bordure the
+verrey tide of the day or of the nyht.  ¶ &amp; as verreyly shaltow
+fynde vp-on thin est orisonte thyn assendent ¶ &amp; for more 
+declaracioun, lo here thi figure.</P></DIV2><DIV2 NODE="ChaucerAstr:3.6" TYPE="section" ANA="MS.Dd.3.53"><MILESTONE N="12b" UNIT="folio"/><HEAD>6. To knowe the spring of the dawyng &amp; the ende
+of the euenyng, the which ben called the two crepusculus :</HEAD><HEAD TYPE="sub"><FOREIGN LANG="LAT">[Ad cognoscendum ortum solis &amp; eius occasum, que uocatur vulgariter 
+crepusculum.]</FOREIGN></HEAD><P>¶ Set the nadir of thy sonne vp-on 18 degrees of heyhte /
+Among thyn Almykanteras on the west side, &amp; ley thy label on þe
+degre of thy sonne, &amp; thanne shal the poynt of thi label schewe the
+spryng of day.  ¶ Also set the nadir of thy sonne vp-on 18 degres
+of heyhte a-mong thin Almykanteras on the [est] side, &amp; ley ouer
+thy label vp-on the degree of the sonne / &amp; with the point of thy
+label fynd in the bordure the ende of the euenyng, þat is, verrey
+nyht. the nadir of the sonne is thilke degree þat is opposit to the
+degree of the sonne, in the 7 signe, as thus / euery degree of aries bi
+ordre is nadir to euery degree of libra by ordre / &amp; taurus to Scorpion 
+/ gemini to Sagittare / Cancer to Capricorne / leo to aquarie /
+virgo to pisces / &amp; ȝif any degree in thi zodiak be dirk, [h]is nadire
+shal declare him.  ¶ &amp; for the more declaracioun, lo heere thi figure.</P></DIV2><DIV2 NODE="ChaucerAstr:3.7" TYPE="section" ANA="MS.Dd.3.53"><EPB/><PB N="21"/><HEAD>7. To knowe the arch of the day, that some folk kallen the day
+artificial, from the sonne arisyng til hit go to rest[e].</HEAD><HEAD TYPE="sub"><FOREIGN LANG="LAT">[Ad cognoscendum archum diei, quem vu1gus vocat diem artificialem in hoc ab ortu solis vsque ad occasum.]</FOREIGN></HEAD><P>¶ Set the degree of thy sonne vp-on thin Est orisonte, &amp; ley thy
+label on the degree of the sonne, &amp; at the poynt of thy label in the
+bordure set a prikke.  ¶ Turn̄ thanne thi riet aboute til the degree<MILESTONE N="13" UNIT="folio"/>
+of the sonne sit vp-on the west Orisonte, &amp; ley thi label vp-on the same degree of the sonne,  &amp; at the point of thi label set a-nother prikke.  ¶ rekne thanne the quantite of tyme in the bordure by-twixe bothe prikkes, &amp; tak ther thin ark of the day.  ¶ the remenant of the bordure vnder the Orisonte is the ark of the nyht.  ¶ thus maistow rekne  bothe arches / or euery porcion, of wheither þat the liketh. ¶ &amp; by this Manere of wyrkyng / Maistow se how longe þat any sterre fix dwellith a-boue the erthe, fro tyme þat he risith til he go to rest .  ¶ but the day natural, þat is to
+seyn 24 houris, is the reuolucioun of the equinoxial with as moche
+partie of the zodiak as the sonne of his propre Moeuinge passeth in
+the mene while.  ¶ &amp; for the more declaracioun, lo her thi figure.</P></DIV2><DIV2 NODE="ChaucerAstr:3.8" TYPE="section" ANA="MS.Dd.3.53"><HEAD>8. To turn̄ the howres in-equales in howres equales.</HEAD><HEAD TYPE="sub"><FOREIGN LANG="LAT">[Ad conuertendum horas inequales in horas equales.]</FOREIGN></HEAD><P>¶ Knowe the nombre of the degrees in the howris in-equales, &amp;
+departe hem by 15, &amp; tak ther thin howris equales.  [¶ &amp; for the
+more declaracioun, lo here thi figure.]</P></DIV2><DIV2 NODE="ChaucerAstr:3.9" TYPE="section" ANA="MS.Dd.3.53"><EPB/><PB N="22"/><MILESTONE N="13b" UNIT="folio"/><HEAD>9. To knowe the quantite of the day vulgare, that is to
+seyen, from spring of the day vn-to verrey nyht.</HEAD><HEAD TYPE="sub"><FOREIGN LANG="LAT">[Ad cognoscendum qaantitatem diei vulgaris, viz. ab ortu diei
+vsque ad noctem.]</FOREIGN></HEAD><P>¶ Know the quantite of thi crepusculis, as I haue tawht in the
+chapitre by-forn, &amp; adde hem to the arch of thi day artificial / &amp; tak
+ther the space of alle the hole day vulgar, vn-to verrey nyht. / The
+same manere maistow worke to knowe the quantite of the vulgar
+nyht. / &amp; for the more declaracioun, lo here the figure.</P></DIV2><DIV2 NODE="ChaucerAstr:3.10" TYPE="section" ANA="MS.Dd.3.53"><HEAD>10. To knowe the quantite of howres in-equales by day.</HEAD><HEAD TYPE="sub"><FOREIGN LANG="LAT">[Ad cognoscendum horas inequale[s] in die.]</FOREIGN></HEAD><P>¶ Vnderstond wel, þat thise howris in-equalis ben cleped howres
+of planetes, &amp; vnderstond wel þat som tyme ben thei lengere by day
+[than] by nyht, &amp; som tyme the contrarie. ¶ but vnderstond wel
+þat euermo generaly þe howr in-equal of the [day with þe 
+howr in-equal of the] nyght contenen [30] degrees of tho bordure, whiche bordure is 
+euer-mo answering to the degrees of the equinoxial ; wherfor departe the arch 
+of the day artificial in 12, &amp; tak ther the quantite of the howr in-equal 
+by day.  ¶ &amp; ȝif thow abate the quantite
+of the howr in-equal by daye owt of 30 / than shal the remenant þat
+leueth performe the howr inequal by nyght.  ¶ &amp; for the more
+declaracioun, lo here the figure.</P></DIV2><DIV2 NODE="ChaucerAstr:3.11" TYPE="section" ANA="MS.Dd.3.53"><MILESTONE N="14" UNIT="folio"/><HEAD>11. To knowe the quantite of howres equales.</HEAD><HEAD TYPE="sub"><FOREIGN LANG="LAT">[Ad cognoscendum quantitatem horarum inequalium.]</FOREIGN></HEAD><P>¶ The quantite of howres equales, þat is to seyn, the howres
+of the clokke / ben departid by 15 degrees al-redy in the bordure<EPB/><PB N="23"/>
+of thin astalabie, as wel by nyht as by day, generaly for euere.  ¶ What nedith more declaracioun?  ¶ Wher-for, whan the list to know how manye howres of the clokke ben passed, or any part of any of thise howris þat ben passed, ¶ or elles how many howres or partie of howres ben to come, fro swich a tyme to swych a tyme, by day or by nyhte, ¶ knowe the degree of thy sonne, &amp; ley thy label on it / turne thi Riet abowte ioyntly with thy label, &amp; with the point of it rekne in the bordure fro the sonne arise vn-to the same place ther thow desirest, by day as by nyhte / this conclusioun wol I declare in the laste chapitre of the [4] partie of this tretis so openly, þat [þer] shal lakke no worde þat nedith to the declaracioun.  ¶ &amp; for the more declaracioun, lo here the figure.</P></DIV2><DIV2 NODE="ChaucerAstr:3.12" TYPE="section" ANA="MS.Dd.3.53"><HEAD>12. Special declarcioun of the howres of planetes.</HEAD><HEAD TYPE="sub"><FOREIGN LANG="LAT">Specialis declaracio de horis planetarum.]</FOREIGN></HEAD><P>¶ Vnderstond wel, þat euere-mo fro the arising of [the] sonne til it go to reste / the nader of the sonne shal shewe the howr of the planete / &amp; fro that tyme forward / al the nyht til the sonne arise / than shal the verrey degree of the sonne shewe the howr of the planete.  Ensample as thus.  ¶ the xiij. day of March fil vp-on a saterday per auenture / &amp; at the arising of the sonne, I fond the secounde degree of aries sitting vp-on myn est Orisonte, al be it þat it was but lite; <MILESTONE N="14b" UNIT="folio"/>than fond I the [2] degree of libra, nadir of my sonne, dessending on my west Orisonte, vp-on which west Orisonte euery day generally, at the sonne ariste, entrith the howr of any planete, after which planete the day berith his name; ¶ &amp; endith in<EPB/><PB N="24"/>
+the nexte strik of the plate vnder the forseide west Orisonte / &amp; euere
+as the sonne clymbith vppere &amp; vppere, so goth his nadir downere
+&amp; downere, techyng by swych strikes the howres of planetes by ordre
+as thei sitten in the heuene.  the first howr inequal of euery Satterd[a]y is to Saturne ; ¶ &amp; the secounde to Iupiter; ¶ the 3 to Mars ; the 4 to the sonne ; ¶ the 5 to venus ; ¶ the 6 to Mercurius; ¶ the 7 to the mone ; ¶ &amp; thanne agayn the 8 is to saturne ; 
+¶ the 9 to Iupiter; ¶ the 10 to Mars ; ¶ the 11 to the sonne; 
+¶ the 12 to venus ; ¶ And now is my sonne gon to reste as for that setterday.  ¶ Thanne shewyth the verrey degree of the sonne the howr
+of Mercurie entryng vnder my west orisonte at eue; ¶ &amp; next him
+succedith the Mone ; ¶ &amp; so forth by ordre, planete aftur planete,
+in howr after howr, a1 the nyht longe til the sonne arise.  ¶ now
+risith the sonne þat Sonday be the morwe ; ¶ &amp; the nadir of 
+the sonne vp-on the west Orizonte shewith me the entring of the howre of the
+forseide sonne.  ¶ &amp; in this maner succedith planete vnder planete,
+fro saturne vn-to the mone, &amp; fro the mone vp a-gayn to satourne,
+howre after howre generaly.  ¶ &amp; thus know[e] I this conclusioun.
+¶ &amp; for the more declaracioun, lo here the figure.</P></DIV2><DIV2 NODE="ChaucerAstr:3.13" TYPE="section" ANA="MS.Dd.3.53"><EPB/><PB N="25"/><MILESTONE N="15" UNIT="folio"/><HEAD>13. To knowe the altitude of the sonne in Middes of the
+day, that is cleped the altitude Meridian.</HEAD><HEAD TYPE="sub"><FOREIGN LANG="LAT">[Ad cognoscendum altitudinem solis in medio diei, que vocatur
+altitudo meridiana.]</FOREIGN></HEAD><P>¶ Set the degree of the sonne vp-on the lyne Meridional, &amp;
+rikene how many degrees of Almykanteras ben by-twyxe thyn est
+Orisonte &amp; the degree of the sonne.  ¶ &amp; tak ther thyn altitude
+Meridian / this [is] to seyne, the heiest of the sonne as for that day.
+¶ So maistow knowe in the same lyne, the heiest cours þat any
+sterre fix clymbith by nyht ; ¶ this is to seyn, þat w[h]an any 
+sterre fix is passed the lyne Meridional, than by-gynnyth it to descende,
+&amp; so doth the sonne.  ¶ &amp; for the more declaracioun, lo here thi
+figure.</P></DIV2><DIV2 NODE="ChaucerAstr:3.14" TYPE="section" ANA="MS.Dd.3.53"><HEAD>14. To knowe the degree of the sonne by thy riet, for a maner
+curiosite, &amp;c.</HEAD><HEAD TYPE="sub"><FOREIGN LANG="LAT">[Ad cognoscendum gradum solis curiose.]</FOREIGN></HEAD><P>¶ Sek bysily with thi rewle the heiest of the sonne in Midde of
+the day ; ¶ turne thanne thyn Astrelabie, &amp; with a prikke of ynk
+marke the nombre of þat same Altitude in the lyne Meridiona1.
+turne thanne thy Ryet a-bowte til thow fynde a degree of thi
+zodiak acording with the prikke, ¶ this is to seyn, sittynge on the
+prikke ; ¶ &amp; in soth, thow shalt fynde but 2 degrees in a1 the
+zodiak of that condicioun; ¶ &amp; yit thilke 2 degrees ben in diuerse
+signes; ¶ than maistow lyhtly by the sesoun of the yere knowe the
+signe in whiche þat is the sonne.   [¶ &amp; for the more 
+declaracioun, lo here thi figure.]</P></DIV2><DIV2 NODE="ChaucerAstr:3.15" TYPE="section" ANA="MS.Dd.3.53"><EPB/><PB N="26"/><MILESTONE N="15b" UNIT="folio"/><HEAD>15. To know which day is lik to wych day as of lengthe, &amp;c.</HEAD><HEAD TYPE="sub"><FOREIGN LANG="LAT">[Ad cognoscendum quales dies in longitudine sunt similes.]</FOREIGN></HEAD><P>¶ Loke whiche degrees ben illik fer fro the heuedes of Cancer &amp;
+Capricorn̛ ; &amp; lok, whan the sonne is in any of thilke degrees,
+than ben the dayes ilike of lengthe.  ¶ this is to seyn, þat as long
+is þat day in þat Monthe, as was swych a day in swich a month
+¶ ther variet[h] but lite.  ¶ Also yif þow take 2 daies 
+naturaly in the yer ilike fer fro eyther pointe of [the] equinoxial in the 
+opposit parties, ¶ than as long is the day artificial of þat on 
+day / as is the nyht of þat othere, &amp; the contrarie. ¶ &amp; 
+for [the] more declaracioun, lo here thi figure.</P></DIV2><DIV2 NODE="ChaucerAstr:3.16" TYPE="section" ANA="MS.Dd.3.53"><HEAD>16.This chapitre is a Maner declaracioun to conclusiouns þat folwen.</HEAD><HEAD TYPE="sub"><FOREIGN LANG="LAT">[Illud capitulum est quedam declaracio ad certas conclusiones sequentes.]</FOREIGN></HEAD><P>¶ Vnderstond wel þat thy zodiak is departid in 2 halfe cercles,
+as fro the heued of capricorne vn-to the heued of Cancer / &amp;
+agaynward fro the heued of cancer vn-to the heued of Capricorne.
+¶ the heued of Capricorne is the lowest point, wher as the sonne
+goth in wynter; ¶ &amp; the heued of Cancer is the heiest point, in
+whiche the sonne goth in somer.  ¶ &amp; ther-for vnderstond wel, 
+þat any two degrees þat ben ilike fer fro any of thise two heuedes
+/ truste wel þat thilke two degrees ben of il[i]ke declinacioun, be it 
+sowthward or northward ; &amp; the daies of hem ben ilike of lengthe, &amp; the<EPB/><PB N="27"/>
+nyhtes also ; &amp; the shadwes illke, &amp; the Altitudes ilike at Midday
+for euere.  ¶ &amp; for more declaracioun, lo here thi figure.</P></DIV2><DIV2 NODE="ChaucerAstr:3.17" TYPE="section" ANA="MS.Dd.3.53"><MILESTONE N="16" UNIT="folio"/><HEAD>17. To knowe the verrey degree of any maner sterre straunge or vnstraunge 
+after his longitude, thow he be indeterminat in thin astralabie; sothly to
+the trowthe, thus he shal be knowe.</HEAD><HEAD TYPE="sub"><FOREIGN LANG="LAT">[Ad cognoscendum verum gradum alicuius stelle aliene secundum
+eius latitudinem (sic), quamvis sit indeterminata in astrolabio; veraciter 
+isto modo.]</FOREIGN></HEAD><P>¶ Tak the altitude of this sterre whan he is on the Est side of
+the lyne Meridional, as ney as thow maist gesse ; ¶ &amp; tak an
+assendent a-non riht by som maner sterre fix which þat þow knowest
+¶ &amp; for-get nat the altitude of the firste sterre, ne thyn assendent ;
+4 &amp; whan þat this is don / espie diligently whan this same firste 
+sterre passeth any-thing the sowth westward, and hath him a-non riht in the
+same nowmbre of altitude on the west side of this lyne Meridional
+¶ as he was kawht on the est side ; &amp; tak a newe assendent a-non riht by som Maner sterre fixe which þat thow knowest ; &amp; for-get nat
+this secounde assendent. ¶ and whan þat this is don, rikne thanne
+how manye degrees ben by-twixe the firste assendent &amp; the seconde
+assendent / &amp; rikne wel the Middel degree by-twyne bothe Assendentes,<EPB/><PB N="28"/>
+ &amp; set thilke Middel degree vp-on thin est Orisonte ; ¶ &amp;
+waite thanne what degre þat sit vp-on the line Meridional, &amp; tak ther
+the verrey degre of the Ecliptik in which the sterre stondeth for
+the tyme.  ¶ For in the Ecliptik is the longitude of a celestial body
+rekened, euene fro the heued of aries vn-to [the] ende of pisces.
+¶ &amp; his latitude is Rikned after the quantite of [h]is declinacion,
+north or sowth to-warde þe poles of this world / as thus. ¶ yif it 
+be of the sonne or of any fix sterre / rekene [h]is latitude or his declinacioun fro thu Equinoxial cercle; ¶ &amp; yif it be of a planete, 
+rekne than the quantite of [h]is latitude fro the Ecliptik lyne.  ¶ Al 
+be it so þat fro [the] Equinoxial may the declinacion or the latitude 
+of any body celestial be rikned, after the site north or south, &amp; after the
+quantite of [h]is declinacion. ¶ &amp; riht so may the latitude or the 
+declinacion of any body celestial, saue only of the sonne, after his site
+north or south, &amp; after the quantite of his declinacioun, be rekned fro
+the Ecliptik lyne ; ¶ Fro which lyne alle planetes som tyme declinen
+north or south, saue only the for-seide sonne. ¶ &amp; for the more
+declaracioun, lo here thi figure.</P></DIV2><EPB/><PB N="29"/><MILESTONE N="16b" UNIT="folio"/><DIV2 NODE="ChaucerAstr:3.18" TYPE="section" ANA="MS.Dd.3.53"><HEAD>18. To knowe the degrees of the longitudes of fixe sterres after þat 
+they ben determinat in thin astralabie, yif so be þat they ben trewly 
+set.</HEAD><HEAD TYPE="sub"><FOREIGN LANG="LAT">[Ad cognoscendum gradus longitudinis de stellis fixis que determinantur in astrolabio, sicut in suis locis recte locentur.]</FOREIGN></HEAD><P>¶ Set the centre of the sterre vp-on the lyne Meridional, &amp; tak
+kep of thi zodiak, ¶ &amp; loke what degree of any signe þat sit 
+on the same lyne Meridional at þat same tyme, &amp; tak the degree in 
+which the sterre standith ; ¶ &amp; with that same degree com[e]th 
+þat same sterre vn-to that same lyne fro the Orisonte. ¶ &amp; 
+for more declaracioun, lo here thi figure.</P></DIV2><DIV2 NODE="ChaucerAstr:3.19" TYPE="section" ANA="MS.Dd.3.53"><HEAD>19. To knowe with which degree of the zodiak any sterre fixe in thin 
+Astrelabie arisith vp-on the est Orisonte, Al-they [h]is dwellyng be in 
+a-nother signe.</HEAD><HEAD TYPE="sub"><FOREIGN LANG="LAT">[Ad cognoscendum cum quibus gradibus zodiaci que stella fyxa
+in astrolabio ascendit super orizontem orientalem, quamuis
+eius orizon (sic) sit in alio signo.]</FOREIGN></HEAD><P>¶ Set the Sentre of the sterre vp-on the est Orisonte, ¶ &amp; loke what degre of any signe þat sit vp- on the same Orisonte at þat same
+tyme.  ¶ And vnderstond wel, þat with þat same degre arisith þat
+same sterre ; and thys <MILESTONE N="17" UNIT="folio"/>merueyllous arising with a strange de-gree in another signe is by-cause þat the latitude of the sterre fix is either north or sowth fro the equinoxial.  ¶ but sothly, the latitudes<EPB/><PB N="30"/>
+of planetes ben comu[n]ly rekned fro the Ecliptik, bi-cause þat non
+of hem declinet[h] but fewe degrees owt fro the brede of the zodiak.
+¶ &amp; tak god kep of this chapitre of arising of the celestial bodies ;
+for truste wel, þat neyther mone ne sterre as in owre Embelif
+orisonte arisith with þat same degree of his longitude, saue in O cas;
+¶ &amp; that is, whan they haue no latitude fro the Ecliptik lyne. but
+natheles som tyme is eueriche of thes planetes vnder the same lyne.
+¶ &amp; for more declaracioun, lo here thi figure.</P></DIV2><DIV2 NODE="ChaucerAstr:3.20" TYPE="section" ANA="MS.Dd.3.53"><HEAD>20.To knowe the declinacioun of any degree in the zodiak fro
+the equinoxial cercle, &amp;c.</HEAD><HEAD TYPE="sub"><FOREIGN LANG="LAT">[Ad cognoscendum declinacionem alicuius gradus [in] zodiaco
+[a] circulo equinoctiali.]</FOREIGN></HEAD><P>¶ Set the degree of any signe vp-on the lyne Meridional, &amp;
+rikne [h]is altitude in Almykanteras fro the Est Orizonte vp to the
+same degree set in the forseide lyne, &amp; set ther a prikke. ¶ turne vp
+thanne thy Riet, and set the heued of aries or libra in the same
+Meridional lyne, &amp; set ther a-nother prikke. ¶ &amp; whan þat 
+this is don, considere the <MILESTONE N="17b" UNIT="folio"/>Altitudes of hem bothe ; for sothly the
+difference of thilke altitudes is the declinacion of thilke degre fro
+the equinoxial. ¶ &amp; yif so be þat thilke degree be northward 
+fro the equinoxial, than is his declinacion north ; ¶ yif it be sowthward,
+than is it sowth. ¶ &amp; for the more declaracioun, lo here thi figure.</P></DIV2><DIV2 NODE="ChaucerAstr:3.21" TYPE="section" ANA="MS.Dd.3.53"><EPB/><PB N="31"/><HEAD>21. To knowe for what latitude in any regioun the Almikanteras of any 
+table ben compowned.</HEAD><HEAD TYPE="sub"><FOREIGN LANG="LAT">[Ad cognoscendum pro qua latitudine in aliqua regione almicantre tabule 
+mee sunt composite.]</FOREIGN></HEAD><P>¶ Rikne how manie degrees of Almikanteras in the Meridional
+lyne be fro the cercle equinoxial vn-to the senyth ; ¶ Or elles fro the
+pool artik vn-to the north Orisonte; &amp; for so gret a latitude or for so
+smal a latitude is the table compowned. ¶ &amp; for more declaracion,
+lo here thi figure.</P></DIV2><DIV2 NODE="ChaucerAstr:3.22" TYPE="section" ANA="MS.Dd.3.53"><MILESTONE N="18" UNIT="folio"/><HEAD>22. To knowe in special the latitude of owre countray, I mene after the 
+latitude of Oxenford, &amp; the heyhte of owre pol.</HEAD><HEAD TYPE="sub"><FOREIGN LANG="LAT">[Ad cognoscendum specialiter latitudinem nostri centri (sic),
+scilicet latitudinem Oxonie, et altitudinem poli nostri.]</FOREIGN></HEAD><P>Vnderstond wel, þat as fer is the heued of aries or libra in the
+equinoxial from owre orisonte as is the cenyth fro the pole artik ;
+¶ &amp; as hey [is] the pol Artik fro the Orisonte as the Equinoxial is
+fer fro the senyth.  ¶ I proue it thus by the latitude of Oxenford /
+vnderstond wel, þat the heyhte of owre pool Artik fro owre north
+Orisonte is 51 degrees &amp; 50 Minutes; than is the cenyth from owre
+pool Artik 38 degrees &amp; l0 Minutes; than is the equinoxial from
+owre senyth 51 degrees &amp; 50 Minutes; ¶ than is owre south Orisonte
+from owre equinoxial 38 degrees &amp; l0 Minutes.  ¶ vnderstond wel<EPB/><PB N="32"/>
+this Reknyng.  ¶ Also for-get nat þat the cenyth is 90 degrees of
+heyhte fro the Orisonte, &amp; owre equinoxial is 90 degrees from owre
+pool Artik.  ¶ Also this shorte rewle is soth, þat the latitude of
+any place in a regioun is the distance fro the senyth vnto the Equinoxial. ¶ &amp; for more declaracioun, lo here þi figure.</P></DIV2><DIV2 NODE="ChaucerAstr:3.23" TYPE="section" ANA="MS.Dd.3.53"><HEAD>23. To proue euidently the latitude of any place in a Regioun, by the 
+preue of the heyhte of the pol Artik in þat same place.</HEAD><HEAD TYPE="sub"><FOREIGN LANG="LAT">[Ad probandum euidenter latitudinem alicuius loci in aliqua
+regione, per probacionem altitudinis de polo artico in eodem loco.]</FOREIGN></HEAD><P>In some wynters nyht, whan the firmament is clere &amp; thikke-
+sterred / waite a tyme til þat any sterre fix sit lyne-riht perpendiculer ouer <MILESTONE N="18b" UNIT="folio"/>the pol Artik, &amp; clepe þat sterre A. ¶ &amp; wayte 
+a-nother sterre þat sit lyne-riht vnder A, &amp; vnder the pol / &amp; 
+clepe þat sterre F. And vnderstond wel, þat F is nat consideret but only [to] declare þat A sit euene ouere the pool.  ¶ tak thanne a-non riht the 
+altitude of A from the Orisonte / &amp; forget it nat.  ¶ Lat A &amp; 
+F go farwel til agayns the dawenyng a gret while / &amp; come thanne agayn 
+&amp; Abid til þat A is euene vnder the pol &amp; vnder F ; ¶ for 
+sothly, than wole F sit ouer the pool / &amp; A wol sit vnder the pool. ¶
+tak than eft-sones the altitude of A from the Orisonte ¶ &amp; note as 
+wel [h]is secounde altitude as his furste Altitude / &amp; whan þat this
+is don, ¶ rikne how manye degrees þat the firste altitude of A excedith his
+seconde altitude, ¶ &amp; tak half thilke porcioun þat is excedit, 
+&amp; adde it to his seconde altitude ; ¶ &amp; tak ther the eleuacioun of thi pool,
+&amp; eke the latitude of thy regioun ; ¶ for thise two ben of a nombre ;
+¶ this is to seyn, as many degrees as thy pool is eleuat / so michel<EPB/><PB N="33"/>
+is the latitude of the Regioun.  ¶ Ensample as thus:  par auenture
+the altitude of A in the euenyng is 56 degrees of heyte than wol 
+his seconde altitude or the dawyng be 48 / þat is [8] lasse than 56,
+þat was his furste altitude at euen. ¶ take thanne the of 8 / &amp;
+adde it to 48, þat was [h]is seconde altitude, and [than] hastow 52.
+¶ now hastow the heyhte of thy pol and the latitude of the regioun
+¶ but vnderstond wel þat to proue this conclusioun &amp; many a-nother fair conclusioun, thow most haue a plomet hanging on a lyne heyer
+than thin heued on a perche ¶ &amp; thilke lyne mot hange euene 
+perpendiculer by-twixe the pool &amp; thin eye / &amp; thanne shal-tow sen 
+yif A sitte euene ouer the pool &amp; ouer F at euene / &amp; also yif F sitte euene
+ouer the pool &amp; ouer A or day. ¶ &amp; for more declaracion, lo here
+thi figure.</P></DIV2><DIV2 NODE="ChaucerAstr:3.24" TYPE="section" ANA="MS.Dd.3.53"><MILESTONE N="19" UNIT="folio"/><HEAD>24. Another conclusioun to proue the heyhte of the pool Artik fro the 
+orisonte.</HEAD><HEAD TYPE="sub"><FOREIGN LANG="LAT">[Alia conclusio ad probandum altitudinem de polo artico ab orizonte.]</FOREIGN></HEAD><P>Tak any sterre fixe þat neuere dissendith vnder the Orisonte in
+thilke regioun, &amp; considere his heiest altitude &amp; his lowest Altitude
+fro the Orisonte ; ¶ &amp; make a nombre of bothe thise altitudes ; tak
+thanne &amp; abate half þat nombre, &amp; tak þer the eleuacioun of the pol Artik in þat same Regioun / &amp; for more declaracioun, lo here thi
+figure.</P></DIV2><DIV2 NODE="ChaucerAstr:3.25" TYPE="section" ANA="MS.Dd.3.53"><EPB/><PB N="34"/><HEAD>25. A-nother conclusioun to proue the latitude of the Regioun, &amp;c.</HEAD><HEAD TYPE="sub"><FOREIGN LANG="LAT">[Alia conclusio ad probandum latitudinem regionis.]</FOREIGN></HEAD><P>¶ Vnderstond wel þat the latitude of any place in A Regioun is
+verreyly the space by-twixe the senythe of hem þat dwellen there &amp;
+[the] equinoxial cerkle, north or sowthe, takyng the mesure in the
+Meridional lyne, as shewith in the Almykanteras of thin Astrelabie.
+¶ &amp; thilke space is as moche as the pool artik is hey in the same
+place fro the Orisonte.  ¶ And than is the depressioun of the pol
+antartik, þat is to seyn, than is the pol antartik by-nethe the
+Orisonte the same quantite of space, neither mor ne lasse. thanne,
+yif thow desire to knowe this latitude of the Regioun, tak the altitude of 
+the sonne in the Middel of the day, whan the sonne is in the
+heuedes of aries or of libra / for thanne Moeuyth the sonne in the
+lyne equinoxial ; ¶ &amp; abate the nombre of that same sonnes Altitude
+owt of 90, &amp; thanne is the remenaunt <MILESTONE N="19b" UNIT="folio"/>of the noumbre þat leuyth the latitude of the Regioun, as thus : I suppose that the sonne
+is thilke day at noon 38 degrees And l0 minutes of heyhte.  Abate
+thanne thees degrees And minutes owt of 90 ; so leueth there 51
+degrees and 50 minutes, the latitude.  ¶ I sey nat this but for ensample ; for wel I wot the latitude of Oxenforde is certein minutes
+lasse, as y myght proue.  ¶ Now yif so be þat the semith to long a
+tarienge, to abide til þat [þe] sonne be in the heuedes of aries 
+or of libra, thanne whaite whan the sonne is in any other degree of the
+zodiak, &amp; considere the degree of [h]is declinacion fro the equinoxial
+lyne ; ¶ &amp; yif it so be þat the sonnes declinacion be northward
+fro the equinoxial, abate thanne fro the sonnes altitude at noon the nombre<EPB/><PB N="35"/>
+of his declinacion, ¶ &amp; thanne hastow the heyhte of the heuedes of
+aries &amp; libra ; as thus / My sonne is, par Auenture, in þe firste
+degre of leoun, 58 degrees and 10 Minutes of heyhte at noon / &amp;
+his declinacion is almost 20 degrees northward fro the equinoxial ;
+abate thanne thilke 20 degrees of declinacion owt of the altitude at
+noon, than leueth the 38 degrees and odde Minutes ; lo ther the
+heued of aries or libra, &amp; thin equinoxial in that Regioun.  ¶ Also
+yif so be þat the sonnes declinacioun be sowthward fro the Equinoxial, 
+¶ Adde thanne thilke declinacion to the altitude of the sonne
+at noon / and tak ther the heuedes of aries &amp; libra &amp; thin Equinoxial.
+¶ abate thanne the heyhte of the Equinoxial owt of 90 degrees,
+&amp; thanne leuyth there þe distans of the pole, 51 degrees &amp; 50
+Minutes, of that regioun fro the Equinoxial.  ¶ Or elles yif the
+lest, take the haiest altitude fro the equinoxial of any sterre fix that
+thow knowest, &amp; tak his nethere elongacioun lengthing fro the same
+equinoxial lyne, &amp; wirke in the maner forseid. ¶ &amp; for more 
+declaracion, lo here thi figure.    </P></DIV2><DIV2 NODE="ChaucerAstr:3.26" TYPE="section" ANA="MS.Dd.3.53"><MILESTONE N="20" UNIT="folio"/><HEAD>26. Declaracioun of the assensioun of signes, &amp;c.</HEAD><HEAD TYPE="sub"><FOREIGN LANG="LAT">[Declaracio de ascensione signorum.]</FOREIGN></HEAD><P>The excellence of the spere solide, amonges other noble conclusiouns, shewyth Manifeste the diuerse assenciouns of signes in
+diuerse places, as wel in the rihte cercle as in the Embelif cercle.
+¶ thise Auctours writen þat thilke signe is clept of riht 
+Ascensioun, with which more part of the cercle Equinoxial &amp; lasse part of the
+zodiak ascendith / &amp; thilke signe assendith Embelif, with whiche
+lasse part of the Equinoxial and more part of the zodiak assendith.<EPB/><PB N="36"/>
+[Ferther ouer they seyn, that in thilke cuntrey where as the senith
+of hem that dwellen there is in the equinoxial lyne and her orisonte
+passyng by the poles of this worlde, thilke folke han this right cercle
+and the right orisonte;] ¶ &amp; euere mo the Arch of the day &amp; 
+the arch of the nyht is ther ylike long, &amp; the sonne twyes euery yer passinge
+thorow the cenyth of her heued; &amp; 2 someres &amp; 2 wynteres in a yer
+han this forseide poeple.  ¶ And the Almykanteras in her Astrolabies
+ben streyhte as a lyne / so as shewyth in this figure.  ¶ The vtilite to
+knowe the Assenciouns in the rihte cercle is this / truste wel þat by
+mediacioun of thilke assenciouns thise Astrologiens by hir tables &amp;<EPB/><PB N="37"/>
+hir instrumentz knowen verreyly the Assencioun of euery degree &amp;
+Mynut in al the zodiak, as shal be shewyd.  ¶ And nota, þat this
+forseid rihte orisonte, þat is clepid <FOREIGN LANG="LAT">orison rectum</FOREIGN> / diuideth the equinoxial in-to riht Angles ; &amp; the embelif orisonte, wher as the
+pol is enhawsed vp-on the orisonte, ouerkeruyth the equinoxial in
+Embelif Angles, as shewith in the figure. ¶ &amp; for the more 
+declaracioun, lo here the figure.</P></DIV2><DIV2 NODE="ChaucerAstr:3.27" TYPE="section" ANA="MS.Dd.3.53"><HEAD>27.This is the conclusioun to knowe the Assenciouns of signes in the riht cercle, þat is, <FOREIGN LANG="LAT">circulus directus, &amp;c.</FOREIGN></HEAD><HEAD TYPE="sub"><FOREIGN LANG="LAT">[Ad cognoscendum ascenciones signorum in recto circulo, qui vocatur 
+circulus directus.]</FOREIGN></HEAD><MILESTONE N="20b" UNIT="folio"/><P>Set the heued of what signe the liste to knowe his
+Assending in the riht cercle / vp-on [the] lyne Meridional, ¶ &amp; waite
+wher thin Almury towchiet[h] the bordure, &amp; set ther a prikke/ turne
+thanne thy riet westward til þat the ende of the forseide signe sitte
+vp-on the Meridional lyne / &amp; eft-sones waite wher thin almury
+towchith the bordure, &amp; set ther Another prikke.  Rikne thanne the
+nombre of degrees in the bordure by-twyxe bothe prikkes, ¶ &amp; tak
+the Assencioun of the signe in the riht cercle.  And thus maistow
+wyrke with euery porcioun of thy zodiak, &amp;c. ¶ &amp; for the more
+declaracioun, lo her thi figure.</P></DIV2><DIV2 NODE="ChaucerAstr:3.28" TYPE="section" ANA="MS.Dd.3.53"><HEAD>28.To knowe the assencions of signes in the Embelif cercle in euery 
+regioun, I Mene, <FOREIGN LANG="LAT">in circulo obliquo.</FOREIGN></HEAD><HEAD TYPE="sub"><FOREIGN LANG="LAT">[Ad cognoscendum ascenciones signorum in recto (sic!) circulo in omni 
+regione, hoc est, in circulo obliquo.]</FOREIGN></HEAD><P>¶ Set the heued of the signe which as the list to knowe his Ascensioun<EPB/><PB N="38"/>
+ vp-on the est Orisonte, ¶ &amp; waite wher thyn Almury towchith 
+the bordure, &amp; [set] ther a prikke.  ¶ turne thanne thy riet
+vpward til þat the ende of the same signe sitte vp-on the Est Orisonte 
+/ and waite eft-sones wher as thin almury towcheth the
+bordure, &amp; set ther a-nother prikke.  ¶ Rikne thanne the nowmbre
+of degrees in the bordure by-twyxe bothe prikkes, &amp; tak ther the
+Assencioun of the signe in the Embelif cercle.  ¶ &amp; vnderstond wel,
+þat alle signes in thy zodiak fro the heued of aries vnto the ende
+of virgo ben cleped signes of the north fro the Equinox[i]al, ¶ &amp;
+the[se] signes arisen by-twyxe the verrey est &amp; the verrey north in
+owre Orisonte generaly for euere ; &amp; alle signes fro the heued of
+libra vn-to þe ende of pisces ben cleped signes of the sowth fro  <MILESTONE N="21" UNIT="folio"/>
+the Equinoxial ; ¶ &amp; thise signes arisen euer-mo by-twyxe the
+verrey est &amp; the verrey sowth in owre orisonte.  ¶ Also euery signe
+by-twixe the heued of capricorne vn-to the ende of geminis ariseth
+on owre Orisonte in lasse than 2 howres equales; ¶ &amp; thise same
+signes, fro the heued of capricorne vn-to the ende of geminis, ben
+cleped tortuos signes or kroked signes / for they arisen embelif on
+oure Orisonte; ¶ &amp; thise crokede signes ben obedient to the signes
+þat ben of riht Assencioun.  ¶ The signes of riht assencioun ben
+fro the heued of cancer to þe [ende] of sagittare; ¶ &amp; thise 
+signes arisen more vpriht, &amp; they ben called eke souereyn signes ; ¶ &amp;
+euerich of hem ariseth in mor space than in to howres.  ¶ Of which<EPB/><PB N="39"/>
+signes gemini obeieth to Cancer, ¶ &amp; taurus to leo / Aries to virgo /
+pisces to libra, ¶ Aquarius to Scorpioun, and Capricorne to Sagittare.
+¶ &amp; thus euermo 2 signes that ben illike fer fro the heued of
+capricorne / obeien euerich of hem til other.  ¶ &amp; for more 
+declaracioun, lo here the figure.</P></DIV2><DIV2 NODE="ChaucerAstr:3.29" TYPE="section" ANA="MS.Dd.3.53"><HEAD>29.To knowe Iustly the 4 quarters of the world, as est, west,
+north, &amp; sowth.</HEAD><HEAD TYPE="sub"><FOREIGN LANG="LAT">[Ad cognoscendum euidenter quatuor partes mundi, scilicet,
+orientem, austrum, aquilonem, &amp; occidentem.]</FOREIGN></HEAD><P>¶ Take the altitude of thy sonne whan the list / &amp; note wel the
+quarter of the world in which the sonne is for the tyme by the
+Azymutz.  ¶ turne thanne thin Astrolabie / &amp; set the degree of the
+sonne in the Almykanteras of his altitude on thilke side þat the
+sonne stant / as is the manere in takyng of howres ; ¶ &amp; ley thy
+label on the degree of the sonne, And rikene how many degres of the
+bordure ben by-twixe the lyne Meridional &amp; the point of thy
+label; &amp; note wel þat nowmbre.  ¶ <MILESTONE N="21b" UNIT="folio"/>Turne thanne a-gayn thyn Astralabie, &amp; set the point of thy gret Rewle ther thow takest
+thyne Altitudes / vp-on as many degrees in his bordure fro his Meridional 
+as was the point of thy label fro the lyne Meridional on the
+wombe-side.  ¶ tak thanne thyn Astrolabie with bothe handes sadly
+&amp; slely, &amp; lat the sonne shyne thorow bothe holes of thy rewle; 
+¶ &amp; sleyly in thilke shynynge lat thyn Astrelabie kowch adown euene vp-
+on a smothe grond, &amp; thanne wol the verrey lyne Merydional of thyn<EPB/><PB N="40"/>
+Astrolabie lye euene sowth, &amp; the est lyne wole lie est, &amp; the west
+lyne west, &amp; north lyne north, so þat thow werke softly &amp; 
+avisely in the cowchyng ; &amp; thus hastow the 4 quarters of the firmament.
+¶ &amp; for the more declaracioun, lo here the figure.</P></DIV2><DIV2 NODE="ChaucerAstr:3.30" TYPE="section" ANA="MS.Dd.3.53"><HEAD>30. To knowe the Altitude of planetes fro the wey of the sonne,
+whether so they be north or sowth fro the forseide wey.</HEAD><HEAD TYPE="sub"><FOREIGN LANG="LAT">[Ad cognoscendum altitudinem planetarum a cursu solis, utrum
+sint in parte australi vel boreali a cursu supra dicto.]</FOREIGN></HEAD><P>¶ Lok whan þat a planete is in the lyne Meridional, yif 
+þat hir altitude be of the same heyhte þat is the degree of the sonne for 
+þat day, &amp; than is the planete in the verrey wey of the sonne, ¶ &amp; 
+hath no latitude.  ¶ &amp; yif the altitude of the planete be heyere than the
+degree of the sonne, þan is the planete north fro the wey of the
+sonne swych a quantite of latitude as [shewith] by thyn Almykanteras.  
+&amp; ȝif the altitude of the planete be lasse than the degree
+of the sonne / thanne <MILESTONE N="22" UNIT="folio"/>is the planete sowth fro the wey of
+the sonne swich a quantite of latitude as [shewith] by thin almykanteras ; 
+¶ This is to seyn, fro the wey wher as the sonne wente thilke
+day / but nat from the wey of the sonne in euery place of the zodiak.
+¶ &amp; for the more declaracioun, lo here the figure.</P></DIV2><DIV2 NODE="ChaucerAstr:3.31" TYPE="section" ANA="MS.Dd.3.53"><HEAD>31. To knowe the senyth of the arysing of the sonne, this is to
+seyn, the partie of the Orisonte in which þat the sonne
+arisith.</HEAD><HEAD TYPE="sub"><FOREIGN LANG="LAT">[Ad cognoscendum signum de ortu solis, scilicet, illam partem
+orientis in qua oritur sol.]</FOREIGN></HEAD><P>¶ Thow most first considere þat the sonne ariseth nat al-wey
+verrey est, but some tyme by north the est, and som tyme by sowthe<EPB/><PB N="41"/>
+the est / Sothly the sonne ariseth neuer-mo verrey est in owere
+Orisonte, ¶ but he be in the heued of aries or libra. now is thin
+Orisonte departed in 24 parties by thi azymutz, in significacion of 24
+partiez of the world; al be it so þat shipmen rikne thilke partiez in
+32 / thanne is ther no more but waite in which azymut þat thi sonne
+entreth at [h]is arisyng / &amp; take ther the senyth of the arising of the
+sonne.  ¶ the manere of the deuisioun of thin Astralabie is this / I
+Mene as in this cas.  ¶ First is it deuided in 4 plages principalx
+with the lyne þat goth from est to west, ¶ &amp; than with 
+a-nother lyne þat goth fro so[w]th to north.  ¶ than is it deuided in smale 
+partiez of Azymutz, as est, and est by sowthe, whereas is the firste Azimut
+aboue the est lyne ; ¶ &amp; so forth fro partie to partie / til 
+þat thow come agayn vn-to the est lyne / thus maistow vnderstond also the
+senyth of any sterre, in which partie he riseth, &amp;c. ¶ &amp; for 
+the more declaracion, lo here the figure.</P></DIV2><DIV2 NODE="ChaucerAstr:3.32" TYPE="section" ANA="MS.Dd.3.53"><MILESTONE N="22b" UNIT="folio"/><HEAD>32. To knowe in which partie of the firmament is the
+coniunccioun.</HEAD><HEAD TYPE="sub"><FOREIGN LANG="LAT">[Ad cognoscendum in qua parte firmamenti sunt coniuncciones
+solis &amp; lune.]</FOREIGN></HEAD><P>¶ Considere the tyme of the coniuncc[i]on by thy kalender / as
+thus ; lok how many howres thilke coniunccion is fro the Midday of<EPB/><PB N="42"/>
+the day precedent, as shewith by the canoun of thi kalender; ¶ rikne
+thanne thilke nombre of howres in the bordure of thyn Astralabie /
+as thow art wont to do in knowyng of the howres of the day or of
+the nyht; ¶ &amp; ley thy label ouer the degree of the sonne; ¶ &amp;
+thanne wol the point of thy label sitte vp-on the hour of the con-
+iunccion.  ¶ loke thanne in which Azymut the degree of thy sonne
+sittith, &amp; in that partie of the firmament is the coniunccioun.  ¶ 
+&amp; for the more declaracioun, lo here thy figure.</P></DIV2><DIV2 NODE="ChaucerAstr:3.33" TYPE="section" ANA="MS.Dd.3.53"><MILESTONE N="23" UNIT="folio"/><HEAD>33. To knowe the senyth of the Altitude of the sonne, &amp;c.</HEAD><HEAD><FOREIGN LANG="LAT">[Ad cognoscendum signa de altitudine solis.]</FOREIGN></HEAD><P>This is no mor to seyn but any tyme of the day tak the altitude
+of the sonne, &amp; by the Azymut in which he stondith, ¶ Maistou
+sen in which partie of the firmament he is ¶ &amp; [in] the same wyse
+maistou sen, by the nyht, of any sterre, wheither the sterre sitte est
+or west or north, or any partie by-twene, aftur the name of the
+Azimut in which is the sterre.  ¶ &amp; for the more declaracioun, lo
+here the figure.</P></DIV2><DIV2 NODE="ChaucerAstr:3.34" TYPE="section" ANA="MS.Dd.3.53"><HEAD>34. To knowe sothly the degree of the longitude of the mone,
+or of any planete þat hath no latitude for the tyme fro the
+Ecliptik lyne.</HEAD><EPB/><PB N="43"/><HEAD TYPE="sub"><FOREIGN LANG="LAT">[Ad cognoscendum veraciter gradum de longitudine lune, vel
+alicuius planete qui non habet longitudinem pro tempore
+causante (sic) linea ecliptica.]</FOREIGN></HEAD><P>¶ Tak the altitude of the mone, &amp; rikne thin altitude vp among
+thyne Almykanteras on which side that the Mone stande, &amp; set there
+a prikke. ¶ Tak thenne anon riht, vp-on the mones side, the Altitude
+of any sterre fix which þat thow knowest, &amp; set his Centre vp-on his
+altitude Among thin Almykanteras ther the sterre is fownde.
+¶ Waite thanne which degree of the zodiak [towchith] the prikke of
+the altitude of the mone, &amp; tak ther the degree in which the mone
+standith.  ¶ this conclusioun is verrey soth, yif the sterres in thin
+Astrolabie stonden aftur <MILESTONE N="23b" UNIT="folio"/>the trowthe ; of comune, tretis of Astralabie ne make non excepcioun wheyth[er] the mone haue latitude, or non / ne on wheither side of the mone the Altitude of the
+sterre fix be taken.  ¶ And nota, þat yif the Mone [shewe] 
+himself by liht of day, than maistow wyrke this same conclusioun by the sonne,
+as wel as by the fix sterre.  ¶ &amp; for the more declaracioun, lo here
+thy figure.</P></DIV2><DIV2 NODE="ChaucerAstr:3.35" TYPE="section" ANA="MS.Dd.3.53"><HEAD>35. This is the workinge of the conclusioun, to knowe yif þat any planete be directe or retrograde.</HEAD><HEAD TYPE="sub"><FOREIGN LANG="LAT">[Hec conclusio operatur ad cognoscendum si aliqua planeta sit directa uel retrograda.]</FOREIGN></HEAD><P>¶ Tak the altitude of any sterre þat is cleped a planete, ¶ &amp; note
+it wel.  ¶ &amp; tak ek anon the altitude of any sterre fix that thow<EPB/><PB N="44"/>
+knowest, &amp; note it wel also.  ¶ Come thanne agayn the thridde or
+the ferthe nyht next folwyng ; for thanne shaltow aperceyue wel the
+Moeuyng of a planete, wheither so he Moeue forthward or bakward.
+¶ Awaite wel thanne w[h]an þat thi sterre fix is in the same 
+altitude þat she was w[h]an thow toke hir firste altitude ; ¶ and tak than 
+eftsones the Altitude of the forseide planete, &amp; note it wel.  ¶ for 
+trust wel, yif so be þat the planete be on the riht side of the 
+Meridional lyne, so þat his seconde altitude be lasse than [h]is 
+firste altitude was, thanne is the planete directe.  ¶ And yif he be on the west side in
+that condicion / thanne is he retrograd.  ¶ And yif so be þat this
+planete be vp-on the Est side whan [h]is altitude is <MILESTONE N="24" UNIT="folio"/>taken, so þat his secounde altitude be more than [h]is firste altitude, thanne is
+he retrograde, &amp; yif he be on the west side, than is he directe.  ¶ 
+but the contrarie of this parties is of the cours of the Moone ; for
+[sothly] the Moone Moeuyth the contrarie from othere planetes as in
+hire Episicle, but in non other manere.  ¶ &amp; for the more 
+declaracioun, lo here thi figure.</P></DIV2><DIV2 NODE="ChaucerAstr:3.36" TYPE="section" ANA="MS.Dd.3.53"><HEAD>36. The conclusiouns of equaciouns of howses, after the astralabie, &amp;c.</HEAD><HEAD TYPE="sub"><FOREIGN LANG="LAT">[Conclusio de equacione domorum.]</FOREIGN></HEAD><P>Set the by-gynnyng of the degree þat assendith vp-on the ende of
+the 8 howre inequal ; thanne wol the by-gynnyng of the 2 hows
+sitte vp-on the lyne of Midnyht.  ¶ rem[e]ue thanne the degree þat
+assendith, &amp; set him on the ende of the 10 howr inequal; &amp; thanne<EPB/><PB N="45"/>
+wol the by-gynnyng of the 3 howis sitte vp-on the Midnyht lyne.
+¶ bryng vp agayn the same degree þat assendith first / &amp; 
+set him vp-on the Orisonte / &amp; thanne wol the be-gynnyng of the 4 howys
+sitte vp-on the lyne of Midnyht.  ¶ tak thanne the nadir of the
+degree þat first Assendith / &amp; set him on the ende of the 2 howre
+inequal / &amp; thanne wol the by-gynnyng of the 5 howys sitte vp-on
+the lyne of Midnyth ; set thanne the nadir of the assendent on the
+ende of the 4 howre, þan wol the bygynnyng of the 6 house sitte on
+the Midnyht lyne.  ¶ þe bygynnyng of the 7 hows is nadir of the
+Assendent / &amp; the bygynnyng of the 8 hows is nadir of the 2; &amp; þe
+by-gynnyng of the 9 hous is nadir of the 3 ; &amp; þe by-gynnyng of 
+þe 10 hows is the nadir of the 4 ; &amp; þe bygynnyng of the 11 howys is
+nader of the 5 ; &amp; the bygynnyng of the 12 hows is nadir of the 6.
+¶ &amp; for the more declaracion, lo here the figure.</P></DIV2><DIV2 NODE="ChaucerAstr:3.37" TYPE="section" ANA="MS.Dd.3.53"><MILESTONE N="24b" UNIT="folio"/><HEAD>37. A-nother manere of equaciouns of howses by the Astrelabie.</HEAD><HEAD TYPE="sub"><FOREIGN LANG="LAT">[De aliqua forma equacionis domorum secundum astrolabium.]</FOREIGN></HEAD><P>¶ Tak thin assendent, &amp; thanne hastow thi 4 Angles; for wel
+thow wost þat the opposit of thin assendent, þat is to seyn, thy
+by-gynnyng of the 7 howis, sit vp-on the west orizonte ; ¶ &amp; the
+bygynnyng of the 10 howis sit vp-on the lyne Meridional ; ¶ &amp; his
+opposit vp- on the lyne of Mydnyht.  ¶ Thanne ley thi label ouer<EPB/><PB N="46"/>
+the degree þat assendet[h] / &amp; rekne fro the point of thy label alle
+the degrees in the bordure, til thow come to the Meridional lyne / &amp;
+departe alle thilke degrees in 3 euene parties, &amp; take the euene
+equacion of 3 ; for ley thy label ouer euerich of 3 parties, &amp; [than]
+maistow se by thy label in which degree of the zodiak [is] the by-
+gynnyng of euerich of thise same howses fro the assendent / þat is to
+seyn, the begynyng of the [12] howse nex[t] aboue thin assendent /
+And [thanne] the begynnyng of the 11 howse, &amp; thanne the 10 vp-on the Meridional lyne / as I first seide.  ¶ The same wyse wyrke
+thow fro the assendent down to the lyne of Mydnyht / &amp; thanne
+thus hastow other 3 howses, þat is to seyn, the bygynnyng of the 2
+&amp; the 3 And the 4 howses ; thanne is [the] nader of thise 3 howsez
+the by-gynnyng of the 3 howses þat folwen.  ¶ &amp; for the more 
+declaracioun, lo here thi figure.</P></DIV2><DIV2 NODE="ChaucerAstr:3.38" TYPE="section" ANA="MS.Dd.3.53"><MILESTONE N="25" UNIT="folio"/><HEAD>38. To fynde the lyne Merydional to dwelle fix in any
+certein place.</HEAD><HEAD TYPE="sub"><FOREIGN LANG="LAT">[Ad inueniendum lineam meridionalem per subtiles operaciones.]</FOREIGN></HEAD><P>Tak a rond plate of metal, for [warpyng] the brodere the bettre ;
+¶ &amp; make ther-vpon [a] Iust compas, a lite with-in the bordure / &amp;
+ley this ronde plate vp-on an euene grond or on a[n] euene ston or on
+a[n] euene stok fix in the gronde / &amp; ley it euen bi a leuel ¶ 
+&amp; in centre of the compas stike an euene pyn or a whir vp-riht / the smallere þe
+betere ¶ set thy pyn by a plom-rewle euene vpryht ¶ &amp; let this 
+pyn be no lengere than a quarter of the diametre of thi compas, fro the
+centre.  ¶ &amp; waite bisily aboute 10 or 11 of the clokke, &amp; whan the<EPB/><PB N="47"/>
+sonne shynyth, whan the shadwe of the pyn entreth any-thyng
+with-in the cercle of thi plate an her-mele, ¶ &amp; mark ther a prikke
+with inke.  Abide thanne stille waityng on the sonne aftur 1 of the
+clokke, til that the schadwe of the wyr or of the pyn passe ony-thyng
+owt of the cercle of the compas, be it neuer so lite / &amp; set ther
+a-nother prikke of ynke.  ¶ take than a compas, and mesure euene
+the Middel by-twixe bothe prikkes, &amp; set þer a prikke.  ¶ take
+thanne a rewle / &amp; draw a strike, euene alyne fro the pyn vn-to the
+Middel prikke; ¶ &amp; tak ther thy lyne Meridional for euere-mo, as in
+that same place.  ¶ &amp; yif thow drawe a cros-lyne ouer-thwart the
+compas Iustly ouer the lyne Meridional, than hastow est and west
+&amp; sowth / &amp;, par consequence, than the nader of the sowth lyne is
+the north lyne.  ¶ &amp; for more declaracioun, lo here thi figure.</P></DIV2><DIV2 NODE="ChaucerAstr:3.39" TYPE="section" ANA="MS.Dd.3.53"><MILESTONE N="25b" UNIT="folio"/><HEAD>39. Descripcion of the Meridional lyne, of longitudes, &amp;
+latitudes of Citees and townes from on to a-no[t]her of clymatz.</HEAD><P>This lyne Meridional ys but a Maner descripcion [of lyne]
+ymagined, that passeth vpon the pooles of þis world And by the
+cenyth of owre heued / And hit is [ycleped the] lyne Meridional / for
+in what place þat any maner man [ys at] any tyme of the yer / whan
+that the sonne [by moeuyng] of the firmament cometh to his verrey
+[meridian] place , than is hit verrey Midday, þat we clepen owre
+noon, ¶ As to thilke man ; ¶ And therfore ys it clepid þe lyne of<EPB/><PB N="48"/>
+Midday.  ¶ And nota, for euermo, of [2 citees] or of 2 Townes, of
+whiche þat o town aprochith [more] towarde the Est þan doth þat
+other town, ¶ Truste wel that thylke townes han diuerse Meridians.
+¶ Nota also, that the Arch of the Equinoxial that is [conteyned] or
+bownded by-twyxe the 2 Meridians ys cleped þe longitude of the
+town.  ¶ And [yf] so be þat two townes haue illike Meridian, or on
+Meridian, ¶ Than is the distance of hem bothe ylike fer fro the Est /
+&amp; the contrarie.  And in this Manere they chaunge nat her Meridian,
+¶ But sothly they chaungen here Almikanteras, For the enhausyng
+of the pool and the distance of the sonne.  ¶ The longitude of a
+clymat ys a lyne ymagined fro Est to west, illike distant by-twene
+them alle.  ¶ þe latitude of a climat is a lyne ymagined from north
+to south þe space of the erthe, fro the byginnyng <MILESTONE N="26" UNIT="folio"/>of the firste clymat vnto to the verrey ende of the [same] climat, euene directe
+agayns [þe poole Artik.]  ¶ Thus seyn some Auctours / And somme
+of hem seyn þat yif men clepen þe latitude, thay mene the arch 
+meridian þat is contiened or [inter]cept by-twixe the cenyth and the
+eqninoxial.  Thanne sey þey that the distaunce fro the equinoxial
+vnto þe ende of a clymat, euene agayns þe pool artyk, ys the 
+latitude of a climat for sothe.  ¶ &amp; for more declaracioun, lo here thi figure.</P></DIV2><DIV2 NODE="ChaucerAstr:3.40" TYPE="section" ANA="MS.Dd.3.53"><EPB/><PB N="49"/><HEAD>40.To knowe with which degree of the zodiak þat any planete
+Assendith on the Orisonte, wheyther so that his latitude be north or sowth.</HEAD><P>¶ Knowe be thin almenak the degree of the Ecliptik of any
+signe in which þat the planete is rekned for to be / &amp; that is cleped
+the degree of his longitude; &amp; knowe Also the degree of his latitude fro the Ecliptik, north or sowth.  ¶ And by this samples
+folwynge in special / maistow wyrke for [sothe] in euery signe of the
+zodiak.  the degree of [longitude] par auenture, of venus or of
+another planete was 6 of Capricorne, &amp; the latitude of him was
+northward 2 degrees fro the Ecliptik lyne.  I tok a subtil compas,
+&amp; cleped þat on poynt of my compas A, &amp; þat other poynt F.
+¶ Than [tok] I the point of A, &amp; set it in [the] Ecliptik line 
+euene in my zodiak, in the degree of the longitude of venus / þat is to seyn, in
+the 6 degree of Capricorne ¶ &amp; thanne set I the point of F vpward
+in the same <MILESTONE N="26b" UNIT="folio"/>signe, bycause þat the latitude was north, vpon  the latitude of venus, that is to seyn, in the 6 degree fro the heued of capricorne; &amp; thus hauy 2 degrees by-twixe my to prikkes; than leide I down softely my compas, ¶ &amp; sette the degree of the 
+longitude vp-on the Orisonte / tho tok I &amp; wexede my label in Maner of
+a peyre tables to resceyue distynctly the prikkes of my compas.
+¶ Tho tok I this forseide label, &amp; leide it fix ouer the degree of my
+longitude / tho tok I vp my compas, ¶ &amp; sette the point of A in the
+wex on my label, as euene as y kowde gesse ouer the Ecliptik lyne,
+in the ende of [the] longitude / &amp; sette the point of F endlang in my
+label vp-on the space of the latitude, inwarde &amp; ouer the zodiak, that<EPB/><PB N="50"/>
+is to seyn, north-ward fro the Ecliptik // than leide I down my compas &amp; 
+lokede wel in the wey vpon the prikke of A &amp; of F; tho
+turned I my Riet til þat the prikke of F sat vp-on the Orisonte /
+than saw I wel þat the body of venus, in hir latitude of [2] degrees
+septentrionalis, assendid, in the ende of the 6 degree, in the heued
+of capricorne.  ¶ And nota, þat in the same maner maistow wyrke
+with any latitude septentrional [in alle] signes ; but sothly the
+latitude Meridional of a planete in Capricorne may not be take, by
+cause of the litel space by-twixe the Ecliptik / &amp; the bordure of the
+Astrelabie; but sothly, in alle other [signes] it May.</P><MILESTONE N="27" UNIT="folio"/><P>¶ Also the degree, par auenture, of Iuppiter or of a-nother
+planete, was in the furst degree of pisces in longitude / &amp; his latitude was 3 degrees Meridional; tho tok I the point of A / &amp; set it
+in the firste degree of pisces on the Ecliptik / &amp; thanne set I the
+point of F downward in the same signe, by cause þat the latitude was
+sowth 3 degrees / þat is to seyn̄, fro the heued of pisces / &amp; 
+thus hauy 3 degrees by-twixe bothe prikkes ; thanne sette I the degree of the
+longitude vp-on the Orisonte; tho tok I my label / &amp; leide it fix vp-on the degree of the longitude; tho sette I the point of A on my
+label, euene ouer the Ecliptik lyne in the ende euene of the degree of
+the longitude / &amp; set the point of [F endlang] in my label the space
+[of] 3 [degrees] of the latitude fro the zodiak, this is to seyn,
+sowthward fro the Ecliptik, toward the bordure; and turned my<EPB/><PB N="51"/>
+Riet [til] the prikke of F sat vp-on the Orisonte; thanne [saw] I wel
+þat the body of Iuppiter, in his latitude of 3 degrees Meridional,
+ascendit with 14 degrees of pisces <FOREIGN LANG="LAT">in horoscopo</FOREIGN> / &amp; in this Maner maistow wyrke with any latitude Meridional, as I first seide, saue in
+Capricorne / And yif thow wolt pleie this craft with the arisyng of
+the Mone, loke thow rekne wel her cours howre by howre; for she ne
+dwellith nat in a degree of [hire] longitude but [a] litel while, as thow
+wel knowest / but natheles, yif thow rekne hir verreye Moeuyng by
+thy tables howre after howre——[þou shalt do wel ynow.</P><TRAILER><FOREIGN LANG="LAT">Explicit tractatus de Conclusionibus Astrolabii compilatus per
+Galfridum Chauciers ad Filium suum Lodewicum scolarem tunc
+temporis Oxonie ac sub tutela illius nobilissimi Philosophi
+Magistri N. Strode, &amp;c.</FOREIGN></TRAILER></DIV2><DIV2 NODE="ChaucerAstr:3.41" TYPE="section" ANA="MS.E.2"><EPB/><PB N="52"/><HEAD>41. <FOREIGN LANG="LAT">Vmbra Recta.</FOREIGN></HEAD><P>Ȝif it so be þat þou wylt werke be <FOREIGN LANG="LAT">vmbra <MILESTONE N="32" UNIT="folio"/>recta</FOREIGN>, &amp; þou may come to þe bas of þe towre, in þis maner þou schalt werke.  Tak þe altitude of þe tour be boþe holes, so þat þi rewle ligge euyn in a poynt.  Ensample as þus : y see hym þorw at þe poynt of 4; þan mete y þe space be-twen me &amp; þe tour, &amp; y fynde yt 20 feet; þan be-holde y how 4 ys to 12, riȝt so is the space be[-twen] þe &amp; þe tour to þe altitude of þe tour.  [For] 4 is þe [þ]ridde 
+part of 12, so is þe space be-twen þe &amp; þe tour þe þridde part of þe altitude of þe tour; þan þries 20 feet ys þe heyȝte of þe tour, wiþ addyng of þyn owne persone to þyn eye; &amp; þis rewle is so general in <FOREIGN LANG="LAT">vmbra recta</FOREIGN>, fro þe poyn[t] of oon to 12.  And ȝif þi rewle falle vppon 5, þan is 5
+12-partyes of þe heyȝt þe space be-twen þe &amp; 
+þe towre; wyþ addyng of þyn owne heyȝth.</P></DIV2><DIV2 NODE="ChaucerAstr:3.42" TYPE="section" ANA="MS.E.2"><HEAD>42. <FOREIGN LANG="LAT">Vmbra Versa.</FOREIGN></HEAD><P>Anoþer maner of werkynge, be <FOREIGN LANG="LAT">vmbra versa</FOREIGN>. Ȝif so be þat  þou may nat come to þe bas of þe tour, y [see] hym  þorw þe nombre of 1 ; y sette þer a prikke <MILESTONE N="32b" UNIT="folio"/>at my foote; þan goo [y] ner to þe tour, &amp; y see hym þorw at þe poynt of 2, &amp; þere y sette a-noþer prikke; &amp;<EPB/><PB N="53"/>
+y be-holde how 1 hath hym to 12, &amp; þer fynde y þat yt hath hym
+twelfe sithes ; þan be-holde y how 2 hath hym to 12, &amp; þou 
+schalt fynde it sexe syþes; þan þou schalt fynde þat [as] 
+12 [above] 6 [is þe] numbre of 6, Ryȝt so is þe space be-twen þi too 
+prikkis þe space of 6 tymes þyn altitude. &amp; note, þat at þe ferste altitude of 1, þou settest a prikke, &amp; aftyrward, whan þou [seest] hym at 2, þer þou settest an-oþer prikke, þan þou fyndest betwen too prikkys [60] fett; þan þou schalt fynde þat [10 is þe 6-party of 
+60.  And þen is 10 fete] þe altitude of þe tour.  [For] oþer poyntis, 
+ȝif yt fylle in <FOREIGN LANG="LAT">vmbra versa</FOREIGN>, as þus: y sette caas it fill vppon [2], &amp; at þe secunde vppon [3]; þan schalt þou fynde þat [2] is [6] partyes of 
+12; [and 3 is 4 partyes of 12]; þan passeþ 6 4, be nombre of 2; so ys 
+þe space be[twen] too prikkes twyes þe heyȝte of þe tour. &amp; ȝif 
+þe differens were þries, þan schulde it be [þre] tymes; &amp; þus mayst þou werke fro 2 to
+12; &amp; ȝif yt <MILESTONE N="33" UNIT="folio"/>be 4, 4 tymes; or 5, 5 tymes, &amp; <FOREIGN LANG="LAT">sic de ceteris</FOREIGN>. </P></DIV2><DIV2 NODE="ChaucerAstr:3.43" TYPE="section" ANA="MS.E.2"><HEAD>43. <FOREIGN LANG="LAT">Vmbra [Recta].</FOREIGN></HEAD><P>An oþer maner of wyrkyng be <FOREIGN LANG="LAT">vmbra [recta]</FOREIGN>.  Ȝif it so be 
+þat þou mayst nat come to þe baas of þe tour, yn þis maner 
+þou schalt werke.  Sette þi Rewle vppon [1] till þou see þe altitude, &amp; sette at þi foot a prikke. þan sette þi Rewle vppon 2, &amp; be-holde what ys þe diff[e]rense be-twen 1 and 2, &amp; þou shalt fynde þat it is 1. þan mete þe space be-twen too prikkes, &amp; þat ys þe 12 partie of þe altitude of þe tour; &amp; ȝif þer were 2, yt were þe 6 partye; &amp; ȝif þer were 3, þe 4 partye, &amp; <FOREIGN LANG="LAT">sic deinceps</FOREIGN>.  And note, ȝif it were 5, yt were þe 5 party of 12 ; &amp; 7, 7 party of 12 ; and note, at þe altitude of þi conclusioun, adde þe stature of þyn heythe.</P></DIV2><DIV2 NODE="ChaucerAstr:3.44" TYPE="section" ANA="MS.Digby.72"><EPB/><PB N="54"/><HEAD>44. Another maner conclusion, to knowe the mene mote &amp; þe
+argumentis of any planete.  To know the mene mote &amp; the argumentis 
+of euery planete fro ȝere to ȝere, from day to day,
+from owre to owre, And from smale fraccionis infinite.</HEAD><HEAD TYPE="sub">[Ad cognoscendum medios motus &amp; argumenta de hora in horam
+cuiuslibet planete, de anno in annum, de die in diem.]</HEAD><P>In this maner shalt þou worche: consider thy rote furst, <MILESTONE N="106" UNIT="folio"/>the wyche is made the begynning of the tabelis fro the ȝere of owre lord
+1397, &amp; entere hit in-to thy slate for the laste merydye of December;
+and þan consider þe ȝere of ovre lord, what is þe 
+date, &amp; be-hold wheþer thy date be more or lasse þan þe ȝere 1397.  And yf hit so be þat hit be more, loke how many [ȝeris] hit passith, &amp; with so many entere into thy tabelis in þe furst lyne þer as is wreten <FOREIGN LANG="LAT">anni  collecti &amp; expansi</FOREIGN>.  And loke [where] the same planet is wreten in the hede
+of thy tabele, and than [loke] what þou findest in directe of the same
+ȝere of owre lord wyche is passid, be hit 8, or 9, or 10, [or what
+nombre þat euere it be, tyl þe tyme þat þou come to 
+20, or] 40, or 60.  And that þou fyndest in directe [wryte] in thy slate vnder thy rote,
+&amp; adde hit [to-geder], and þat is thy mene mote, for the laste
+meridian of the december, for the same ȝere wyche þat þou 
+[hast] purposid.  And yf hit so be [þat] hit passe 20, consider welle 
+þat fro [1] to 20 ben <FOREIGN LANG="LAT">anni expansi</FOREIGN>, And fro 20 to 3000 ben <FOREIGN LANG="LAT">anni collecti</FOREIGN>; and yf thy nombere passe 20, þan take þat þou findest in 
+directe of 20, &amp; yf hit be more, as 6 or 18, than take þat þou findist in 
+directe there-of, that is to sayen, signes, degreis, Minutes, &amp; secundis, and
+adde [to-gedere] vn-to thy rote; and thus to make rotes; and note,<EPB/><PB N="55"/>
+þat yf hit <MILESTONE N="106b" UNIT="folio"/>so be [þat] the ȝere of ovre lord be [lasse] than the rote, wyche is the ȝere of ovre lord 1397, than shalt þou write in the same wyse furst thy rote in thy slate, and after entere in-to thy table in the same ȝere [þat] be lasse, as I tauȝth be-fore; and þan consider how many signes, degrees, Minutes, &amp; secundis thyne entrynge conteynith.  And so be that [þer] be 2 entres, than adde hem togeder, &amp; after with-drawe hem from the rote, the ȝere of ovre lord 1397; and the
+residue þat lewyth is thy mene mote fro the laste mer[y]die of
+December, the wyche þou haste purposid; and yf hit so be þat 
+þou wolt weten thy mene mote [for] eny day, or [for] ony fraccion of day,
+in þis maner þou shalt worche. make thy rote fro the laste day of
+Decembere in þe maner as I thaȝthe, and afterward behold how many
+monythis, dayes, &amp; howris ben passid from [þe] merydye of Decembere 
+&amp; with that entere [with þe] laste moneth þat is ful passid, 
+and take þat þou findest in directe of hym, &amp; wryte hit in 
+thy slate; &amp; entere with as mony dayes as be more, and wryte þat þou findest in directe of the same planete þat þou worchyst fore; and in 
+þe same wyse in-to þe table of howris, for hovris þat ben 
+passid, and adde alle these to thy rote; and the <MILESTONE N="107" UNIT="folio"/>residue is the mene mote for the same day &amp; þe same hovre.</P></DIV2><DIV2 NODE="ChaucerAstr:3.45" TYPE="section" ANA="MS.Digby.72"><HEAD>45. Another manere to knowe the mene mote.</HEAD><P>Whan þou wolte make the mene mote of eny planete to be by
+arsechieles tables, take thy rote, the wyche is for the ȝere of ovre
+lord 1397; and yf so be that thy ȝere be passid the date, wryte that
+date / and than write that nombere of the ȝeris.  þan wyth-drawe 
+þe ȝeris oute of the ȝeris that ben passid that rote. 
+Ensampulle as thus : the ȝere of ovre lord 1400, I-wryton precise, my 
+rote; þan wrote I<EPB/><PB N="56"/>
+furst 1400.  And vnder that nombere I wrote a 1397; þan withdrowe I the 
+laste nombere owte of þat, and þan fond I þe residue was
+3 ȝere; I wyst þat 3 ȝere was passid fro the rote, þe wyche was
+wreten in my tabelis. Than after-ward soȝth I in my tabelis þe <FOREIGN LANG="LAT">annis col1ectis &amp; expansis</FOREIGN>, &amp; amonge myne expanse ȝeris fond I 3 ȝere. þan toke I alle þe signes, degreis, &amp; minutes, 
+þat I fond directe vnder þe same planete þat I wroȝth 
+fore, &amp; wrote so many signes degreis, &amp; Minutes in my slate, &amp; 
+after-ward added I too signes, degreis, Minutes, &amp; Secundis, þe 
+wiche I fond in my rote the ȝere of owre lord 1397; And kepte the residue; &amp; þan had I the mene mote for þe laste day of Decembere. And yf þou woldest wete þe mene  mote ofany planete in March, Aprile, or may, oþer in any oþer tyme or monyth of the ȝere, loke how many monethes &amp; dayes <MILESTONE N="107b" UNIT="folio"/>ben passid from þe laste day of Decembere, the ȝere of owre lord 1400; and soe
+with monithis &amp; dayes entere in-to þy table þer þou 
+findist thy mene mote I-wreten in monethis &amp; dayes, and take alle 
+þe signes, degrees, Minutes, &amp; secundis þat þou findest I-wrete in directe of thy monethis, and [adde] to signes, degreis, Minutes, &amp; secundis þat 
+þou findest with thy rote þe ȝere of ovre lord 1400, and the 
+residue þat leuyth is þe mene mote for that same day. And note 
+yf hit so be that þou woldest [wete þe] mene mote in ony ȝere þat is lasse þan thy rote, with-drawe þe nombere of so many ȝeris as hit is lasse 
+þan þe ȝere of ovre lord a 1397, &amp; kepe þe 
+residue; &amp; so many ȝeris, monythis, &amp; dayes entere
+in-to thy tabelis of thy mene mote.  And take alle the signes,
+degreis, and Minutes, [and] Secundis, þat þou findest in directe 
+of alle þe ȝeris, monythis, &amp; dayes, &amp; wryte hem in þy 
+slate; and abowe þilke nombere write þe signes, degreis, Minutes, 
+&amp; secundis, þe wyche þou findest with thy rote þe ȝere of ovre lord a l397; &amp; with-drawe alle þe nethere signis &amp; degreis fro þe signes 
+&amp; degrees, Minutes, &amp; Secundis of oþer signes with thy rote, 
+and thy residue þat lewyth is thy mene mote for þat day.</P></DIV2><DIV2 NODE="ChaucerAstr:3.46" TYPE="section" ANA="MS.E.2"><EPB/><PB N="57"/><HEAD>4la. <FOREIGN LANG="LAT">Vmbra Recta.</FOREIGN></HEAD><MILESTONE N="34b" UNIT="folio"/><P>Ȝif þi rewle falle vppon þe 8 poynt on riȝt schadwe, 
+þan make þi figure of 8; þan loke how moche space of feet ys be-twen 
+þe &amp; þe tour, &amp; multiplie þat be 12, &amp; whan þou 
+[hast] multiplied it, þan diuide yt be þe same nombre of 8, &amp; kepe þe residue, &amp; adde þerto 4 vp to þyn eye to þe residue, &amp; þat schal be þe verry heyȝt of þe tour.  &amp; þus mayst þou werke on þe same wyse, fro 1 to 12.</P></DIV2><DIV2 NODE="ChaucerAstr:3.47" TYPE="section" ANA="MS.E.2"><HEAD>41b. <FOREIGN LANG="LAT">Vmbra Recta.</FOREIGN></HEAD><P>An-oþer maner of werkyng vppon þe same syde.  Loke vppon
+whych poynt þi Rewle falliþ whan þou seest þe top of 
+þe tour þorow too litil holes, &amp; mete þan þe space fro þi foot to þe baas of þe tour; &amp; ryȝt <MILESTONE N="36" UNIT="folio"/>as the nombre of þy poynt hath hym-self to 12, 
+ryȝt so þe mesure be-twen þe &amp; þe tour haþ hym-self to 
+þe heiȝte of þe same tour.  Ensample : y sette caas þi rewle falle vpon 8, þan ys 8 to-þridd partyes of 12; so þe space ys þe too-þridd partyes of þe tour.</P></DIV2><DIV2 NODE="ChaucerAstr:3.48" TYPE="section" ANA="MS.E.2"><HEAD>42a. <FOREIGN LANG="LAT">Vmbra Versa.</FOREIGN></HEAD><P>To knowe þe [heyth by þy] poyntes of <FOREIGN LANG="LAT">umbra versa</FOREIGN>.  Ȝif  þy rewle falle vppon 3, whan þou seest þe top of þe tour / 
+sett a prikke þere-as þi foot stont; &amp; goo ner tyl þou mayst see 
+þe same top at þe poynt of 4, &amp; sette þer anoþer lyk prikke / þan mete how many foot ben be-twen þe too prikkis, &amp; adde þe lengþe vp to þyn eye þer-to ; &amp; þat schal be þe heyȝte of þe tour.  And note, þat 3 ys fourþe party of 12, &amp; 4 is þe þridde party of 12.  Now passeþ 4 þe nombre of 3 be þe distaunce of 1; þerfore þe same space, wyþ þyn heyȝt to<EPB/><PB N="58"/>
+þyn eye, ys þe heyȝt of þe tour. &amp; ȝif it so 
+be þat þer be 2 or 3 distaunce in þe nombres, so schulde 
+þe mesures be-twen þe prikkes be twyes or þries þe 
+heyȝte of þe tour.</P></DIV2><DIV2 NODE="ChaucerAstr:3.49" TYPE="section" ANA="MS.E.2"><HEAD>43a. <FOREIGN LANG="LAT">Ad cognoscendum  altitudinem alicuius rei per vmbram [rectam].</FOREIGN></HEAD><MILESTONE N="36b" UNIT="folio"/><P>To knowe þe heyȝte of þynges, ȝif þou mayst 
+[nat] come to þe bas of a þyng. sette þy rewle vppon what þou 
+wylt, so þat þou may see þe topp of þe þyng þorw þe too holes, &amp; make a marke þer þy foot standeþ; and goo neer or forþer / till þou mayst see þorw anoþer poynt, &amp; marke þer a-noþer marke; &amp; loke þan what ys þe differense be-twen þe too poyntes in þe scale; &amp; riȝt as þat difference haþ hym to 12, riȝt so þe space be-twen þe &amp; þe too markys haþ hym to þe heyȝte of þe þyng.  Ensample : y set caas þou seest it þorw a poynt of 4 ; aftyr, at þe poynt of 3.  Now passiþ þe nombre 
+of 4 þe nombre of 3 be þe difference of 1, and riȝt as þis 
+difference 1 haþ hym-self to 12, riȝt so þe mesure be-twen þe too markis haþ hym to þe heyȝte of þe þyng, puttyng to þe heyȝte of þi-self to þyn eye ; &amp; þus mayst þou werke fro 1 to 12.</P></DIV2><DIV2 NODE="ChaucerAstr:3.50" TYPE="section" ANA="MS.E.2"><HEAD>42b. <FOREIGN LANG="LAT">Per vmbram versam.</FOREIGN></HEAD><P>Furþermore, ȝif þou wilt knowe in <FOREIGN LANG="LAT">vmbra versa</FOREIGN> / be þe craft of
+<FOREIGN LANG="LAT">vmbra recta</FOREIGN>, y suppose þou take þe altitude at þe poynt of 4, &amp;
+makest a marke, &amp; þou goost neer tyl þou hast yt at þe poynt of 3, &amp; þan makyst <MILESTONE N="37" UNIT="folio"/>þou þer an-noþer mark. þan muste þou deuide 144 be eche of þe poyntes be-fornseyd, [as] þus : ȝif þou deuide 144<EPB/><PB N="59"/>
+be [4,] &amp; þe nombre þat comeþ þer-of schal be 
+36, &amp; ȝif þou deuide 144 be 3, &amp; þe nombre þat comeþ þer-of schal be 48, þanne loke what ys þe difference be-twen 36 &amp; 48, &amp; þer schalt þou fynde 12; and ryȝt as 12 haþ hym to 12, ryȝt so þe space be-twen too prikkes haþ hym to þe altitude of þe þyng.</P></DIV2><DIV2 NODE="ChaucerAstr:3.51" TYPE="section" ANA="MS.Bodley.619"><HEAD>46. For to knowe at what houre of þe day, or of the night, shal be
+Flode or ebbe.</HEAD><P>First wite thou certeinly, how that haven stondith, that thou list
+to werke fore ; þat is to say in whiche place of the firmament the
+mone beyng, makiþ fulle see.  Than awayte þou redily in what
+degree of þe zodiak þat þe mone at þat tyme is ynne.  
+Bringe furth than þe labelle, &amp; sett the point therof in þat same cost 
+þat the mone makiþ flode, and sett þou þere þe degre of þe mone according wiþ þe egge of þe label.  Than afterward awayte where is than þe degre of the sonne, at þat tyme.  Remeue þou than þe label fro the mone, &amp; bringe &amp; sette [it] iustly vpon þe degre of þe sonne. And þe point of þe label shal þan declare to þe, at what houre of þe day or of þe night shal be flode.  And þere also maist þou wite by þe same point of þe label, wheþir it be, at þat same, flode or ebbe, or half flode, or quarter flode, or ebbe, or half or quarter ebbe ; or ellis at what houre it was last, or shalbe next by night or by day, þou þan [maist] esely<EPB/><PB N="60"/>
+knowe, etc.  Furþermore if it so be þat thou happe to worke for 
+þis matere aboute þe tyme of coniunccioun, bringe furþe þe 
+degre of þe mone wiþ þe labelle to þat coste as it is before seyde. 
+but than þou shalt vnderstonde þat þou may not bringe furþe þe label fro þe degre of þe mone as þou dide before; For-why the sonne is þan in þe same degre with the mone.  And so þou may at þat tyme by þe point of the labelle vnremevid knowe þe houre of þe flode or of þe ebbe as it is before seyd, &amp;c.  And euermore as þou findest þe mone passe fro þe sonne, so remeve þou þe labelle þan fro þe 
+degre of þe mone, and bringe it to the degre of þe sonne.  And worke þou þan as þou dide before, etc.  Or ellis knowe þou what houre it is þat þou art inne, by þin instrument.  Than bringe þou furthe fro thennes þe labelle and ley it vpon þe degre of þe mone, and þerby may þou wite also whan it was flode, or whan it wol be next, be it nyght or day; &amp;c.</P></DIV2></DIV1></BODY><EPB/></TEXT></DLPSTEXTCLASS>

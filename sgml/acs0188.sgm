@@ -1,0 +1,2644 @@
+<!DOCTYPE ETS PUBLIC "-//UMDLPS//DTD Proof 1.0//EN">
+<ETS ID="ACS0188">
+<TEMPHEAD>
+<REVDESCR>
+<CHANGE>
+<DATE>10-2-00</DATE>
+<RESPSTMT>
+<NAME>latta</NAME>
+<RESP>MURP</RESP>
+</RESPSTMT>
+<ITEM>Validated (added one TYPE to DIV). Checked title page: series title and dissertation lines need review. No proof changes or transcription changes. Corrected $s. Checked quotations and punctuation. No ligatures. No "errata". DONE. 35 mins. </ITEM>
+</CHANGE>
+</REVDESCR>
+</TEMPHEAD>
+<TEXT>
+<FRONT>
+<DIV1 TYPE="omitted cover"><P>
+
+<PB REF="00000001.tif">
+
+</P>
+
+</DIV1>
+<TITLEPAGE><PB REF="00000002.tif">
+
+<PB REF="00000003.tif" N="[a]">
+<DOCTITLE>
+<TITLEPART TYPE="series">YALE STUDIES IN ENGLISH<LB>ALBERT S. COOK, EDITOR<LB>LXI</TITLEPART>
+<TITLEPART TYPE="main">PURITY</TITLEPART>
+<TITLEPART TYPE="sub">A MIDDLE ENGLISH POEM</TITLEPART>
+</DOCTITLE>
+<BYLINE>EDITED WITH INTRODUCTION, NOTES, AND GLOSSARY<LB>BY<LB><DOCAUTHOR>ROBERT J. MENNER</DOCAUTHOR><LB>Instructor in English in Yale University</BYLINE>
+<DOCTITLE>
+<TITLEPART TYPE="sub">A Dissertation presented to the Faculty of the Graduate School of Yale University in Candidacy for the Degree of Doctor of Philosophy</TITLEPART>
+</DOCTITLE>
+<DOCIMPRINT><PUBPLACE>NEW HAVEN:</PUBPLACE>
+<PUBLISHER>YALE UNIVERSITY PRESS</PUBLISHER>
+<PUBPLACE>LONDON:</PUBPLACE>
+<PUBLISHER>HUMPHREY MILFORD OXFORD UNIVERSITY PRESS</PUBLISHER>
+<DOCDATE>MDCCCCXX</DOCDATE></DOCIMPRINT>
+
+</TITLEPAGE>
+<DIV1 TYPE="omitted front matter"><PB REF="00000004.tif"><P>
+
+<PB REF="00000005.tif">
+
+<PB REF="00000006.tif">
+
+<PB REF="00000007.tif">
+
+<PB REF="00000008.tif">
+
+<PB REF="00000009.tif">
+
+<PB REF="00000010.tif" N="viii">
+
+<PB REF="00000011.tif" N="ix">
+
+<PB REF="00000012.tif" N="x">
+
+<PB REF="00000013.tif" N="xi">
+
+<PB REF="00000014.tif" N="xii">
+
+<PB REF="00000015.tif" N="xiii">
+
+<PB REF="00000016.tif" N="xiv">
+
+<PB REF="00000017.tif" N="xv">
+
+<PB REF="00000018.tif" N="xvi">
+
+<PB REF="00000019.tif" N="xvii">
+
+<PB REF="00000020.tif" N="xviii">
+
+<PB REF="00000021.tif" N="xix">
+
+<PB REF="00000022.tif" N="xx">
+
+<PB REF="00000023.tif" N="xxi">
+
+<PB REF="00000024.tif" N="xxii">
+
+<PB REF="00000025.tif" N="xxiii">
+
+<PB REF="00000026.tif" N="xxiv">
+
+<PB REF="00000027.tif" N="xxv">
+
+<PB REF="00000028.tif" N="xxvi">
+
+<PB REF="00000029.tif" N="xxvii">
+
+<PB REF="00000030.tif" N="xxviii">
+
+<PB REF="00000031.tif" N="xxix">
+
+<PB REF="00000032.tif" N="xxx">
+
+<PB REF="00000033.tif" N="xxxi">
+
+<PB REF="00000034.tif" N="xxxii">
+
+<PB REF="00000035.tif" N="xxxiii">
+
+<PB REF="00000036.tif" N="xxxiv">
+
+<PB REF="00000037.tif" N="xxxv">
+
+<PB REF="00000038.tif" N="xxxvi">
+
+<PB REF="00000039.tif" N="xxxvii">
+
+<PB REF="00000040.tif" N="xxxviii">
+
+<PB REF="00000041.tif" N="xxxix">
+
+<PB REF="00000042.tif" N="xl">
+
+<PB REF="00000043.tif" N="xli">
+
+<PB REF="00000044.tif" N="xlii">
+
+<PB REF="00000045.tif" N="xliii">
+
+<PB REF="00000046.tif" N="xliv">
+
+<PB REF="00000047.tif" N="xlv">
+
+<PB REF="00000048.tif" N="xlvi">
+
+<PB REF="00000049.tif" N="xlvii">
+
+<PB REF="00000050.tif" N="xlviii">
+
+<PB REF="00000051.tif" N="xlix">
+
+<PB REF="00000052.tif" N="l">
+
+<PB REF="00000053.tif" N="li">
+
+<PB REF="00000054.tif" N="lii">
+
+<PB REF="00000055.tif" N="liii">
+
+<PB REF="00000056.tif" N="liv">
+
+<PB REF="00000057.tif" N="lv">
+
+<PB REF="00000058.tif" N="lvi">
+
+<PB REF="00000059.tif" N="lvii">
+
+<PB REF="00000060.tif" N="lviii">
+
+<PB REF="00000061.tif" N="lix">
+
+<PB REF="00000062.tif" N="lx">
+
+<PB REF="00000063.tif" N="lxi">
+
+</P>
+<PB REF="00000064.tif" N="lxii">
+</DIV1>
+</FRONT>
+<BODY>
+
+<PB REF="00000065.tif" N="[1]">
+<HEAD>PURITY TEXT</HEAD>
+<DIV1 TYPE="abbreviations">
+
+<PB REF="00000066.tif" N="[2]">
+<LIST>
+<HEAD>ABBREVIATIONS</HEAD>
+<ITEM>M.= Morris, revised edition of 1869 (for full titles, see Bibliog|raphy).</ITEM>
+<ITEM>M.<SUP>1</SUP>= Morris, 1864 when differences between the editions are noted.</ITEM>
+<ITEM>M.<SUP>2</SUP>= Morris, 1869 when differences between the editions are noted.</ITEM>
+<ITEM>Sk. = Morris and Skeat, <I>Specimens</I>, 1884.</ITEM>
+<ITEM>K. = Knigge.</ITEM>
+<ITEM>Fi. = Fischer, pp. 61-3, unless otherwise stated.</ITEM>
+<ITEM>Sch. = Schumacher, pp. 183-4, unless otherwise stated.</ITEM>
+<ITEM>Th. = J. Thomas.</ITEM>
+<ITEM>B. = Bateson, <I>Mod. Lang. Rev.</I> 13. 377-86.</ITEM>
+<ITEM>G. = Gollancz, <I>ibid</I>. 14. 152-62.</ITEM>
+<ITEM>E. = Emerson, <I>Publ. Mod. Lang. Ass.</I> 34. 494-522.</ITEM>
+</LIST>
+</DIV1>
+<DIV1 N="1" TYPE="section">
+
+<PB REF="00000067.tif" N="[3]">
+<HEAD>I. CHRIST'S PRAISE OF PURITY; THE WEDDING-FEAST</HEAD>
+<LG TYPE="stanza">
+<L>Clannesse who so kyndly cow&thorn;e comende,<MILESTONE N="61a" UNIT="folio"></L>
+<L>And rekken up alle &thorn;e resounz &thorn;at ho by ri&yogh;t askez,<NOTE PLACE="foot">and <I>here, as generally, represented by</I> &amp; <I>in MS</I>.</NOTE></L>
+<L>Fayre formez my&yogh;t he fynde in for [&thorn;] ering his speche,<NOTE PLACE="foot"><I>MS., M</I>. forering; <I>M. note</I> forbering (?); <I>Th.</I> (<I>p. 44</I>), <I>B.</I> for&thorn;ering.</NOTE></L>
+<L N="4">And in &thorn;e contrare, kark and combraunce huge.</L>
+<L>For wonder wroth is &thorn;e Wy&yogh; &thorn;at wro&yogh;t alle &thorn;inges</L>
+<L>Wyth &thorn;e freke &thorn;at in fyl&thorn;e fol&yogh;es hym after&mdash;</L>
+<L>As renkez of relygioun &thorn;at reden and syngen,</L>
+<L N="8">And aprochen to hys presens, and prestez arn called.</L>
+<L>Thay teen unto his temmple and temen to hymselven,</L>
+<L>Reken wyth reverence &thorn;ay r[ec] hen his auter,<NOTE PLACE="foot"><I>MS.</I>, w<SUP>t</SUP> <I>which M. here, as always, expands</I> with, <I>I have expanded</I> wyth, <I>since this is the spelling in over two-thirds of the cases where the scribe writes it out: MS.</I> r. .hen <I>with second and third letters blurred, though</I> c <I>is partly legible</I>.</NOTE></L>
+<L>&THORN;ay hondel &thorn;er his aune body and usen hit bo&thorn;e:</L>
+<L N="12">If &thorn;ay in clannes be clos, &thorn;ay cleche gret mede;</L>
+<L>Bot if &thorn;ay conterfete crafte, and cortaysye wont,</L>
+<L>As be honest utwyth, and inwith alle fyl&thorn;ez,</L>
+<L>&THORN;en ar &thorn;ay synful hemself, and sulped altogeder,</L>
+<L N="16">Lo&thorn;e God and his gere, and hym to greme cachen.<NOTE PLACE="foot"><I>MS.</I> (<I>but see Introd., p. x</I>); <I>M.</I> bo&thorn;e.</NOTE></L>
+<L>He is so clene in his corte, &thorn;e Kyng &thorn;at al weldez,<NOTE PLACE="foot">corte, <I>M. here, as always, expands courte</I> (<I>but see Introd., p. x, n. 3</I>).</NOTE></L>
+<L>And honeste in his housholde and hagherlych served,</L>
+<L>With angelez enorled in alle &thorn;at is clene,</L>
+<L N="20">Bo&thorn;e wythinne and wythouten, in wedez ful bry&yogh;t,</L>
+<L>Nif he nere scoymus and skyg and non sca&thorn;e lovied,</L>
+<L>Hit were a mervayl to much, hit mo&yogh;t not falle.</L>
+</LG>
+<LG TYPE="stanza">
+<L>Kryst kydde hit hymself in a carp onez,
+<PB REF="00000068.tif" N="4"></L>
+<L N="24">&THORN;er as he hevened a&yogh;t happez, and hy&yogh;t hem her medez.</L>
+<L>Me mynez on one amonge o&thorn;er, as Ma&thorn;ew recordez,</L>
+<L>&THORN;at &thorn;us of clannesse unclosez a ful cler speche:<NOTE PLACE="foot">clannesse, <I>the scribe has corrected the first</I> s <I>from</I> &yogh;.</NOTE></L>
+<L>&THORN;e ha&thorn;el clene of his hert hapenez ful fayre,</L>
+<L N="28">For he schal loke on oure Lorde wyth a bone chere;<NOTE PLACE="foot"><I>MS., M.</I> bone; <I>Sch</I>,?lovly.</NOTE></L>
+<L>As so saytz, to &thorn;at sy&yogh;t seche schal he never</L>
+<L>&THORN;at any unclannesse hatz on, auwhere abowte;<NOTE PLACE="foot"><I>M</I>. anwhere (<I>MS. might be either</I> n <I>or</I> u; <I>M. note</I> aywhere(?); <I>Fi</I>. awhere, <I>B</I>. anwhere: abowte, <I>the last three letters are blurred and barely legible, like the last few letters of most of ll. 26-36</I>.</NOTE></L>
+<L>For he &thorn;at flemus uch fyl&thorn;e fer fro his hert</L>
+<L N="32">May not byde &thorn;at bur[n]e &thorn;at hit his body ne&yogh;en.<NOTE PLACE="foot"><I>M</I>. burne; <I>M.</I><SUP>2</SUP> <I>is mistaken in noting that MS. looks like</I> burre, <I>since the fourth letter resembles rather the top of a</I> y.</NOTE></L>
+<L>For&thorn;y hy&yogh; not to heven in haterez totorne,</L>
+<L>Ne in &thorn;e harlatez hod and handez unwaschen.<NOTE PLACE="foot"><I>MS</I>. harlate&yogh;, <I>though second</I> a <I>blurred; M</I>. harlote&yogh;.</NOTE></L>
+<L>For what ur&thorn;ly ha&thorn;el &thorn;at hy&yogh; honor haldez</L>
+<L N="36">Wolde lyke if a ladde com ly&thorn;erly attyred,</L>
+<L>When he were sette solempnely in a sete ryche,<MILESTONE N="61b" UNIT="folio"></L>
+<L>Abof dukez on dece, wyth dayntys served&mdash;<NOTE PLACE="foot"><I>MS</I>. duke&yogh;; <I>M</I>. dukes.</NOTE></L>
+<L>&THORN;en &thorn;e harlot wyth haste helded to &thorn;e table</L>
+<L N="40">Wyth rent cokrez at &thorn;e kne, and his clutte traschez,<NOTE PLACE="foot"><I>MS</I>. trasche&yogh;; <I>M</I>. trasches.</NOTE></L>
+<L>And his tabarde totorne, and his totez oute,</L>
+<L>O&thorn;er ani on of alle &thorn;yse, he schulde be halden utter,</L>
+<L>With mony blame, ful bygge a boffet, peraunter,</L>
+<L N="44">Hurled to &thorn;e halle-dore and harde &thorn;eroute schowved,</L>
+<L>And be forboden &thorn;at bor&yogh;e to bowe &thorn;ider never,</L>
+<L>On payne of enprysonment and puttyng in stokkez;</L>
+<L>And &thorn;us schal he be schent for his schrowde feble,</L>
+<L N="48">&THORN;a&yogh; never in talle ne in tuch he trespas more.</L>
+</LG>
+<LG TYPE="stanza">
+<L>And if unwelcum he were to a wor[d]lych prynce,<NOTE PLACE="foot"><I>MS., M</I>. wor&thorn;lych; <I>M.</I><SUP>2</SUP> <I>note</I> worldlych (?).</NOTE>
+<PB REF="00000069.tif" N="5"></L>
+<L>&YOGH;et hym is &thorn;e hy&yogh;e Kyng harder in [heven],<NOTE PLACE="foot"><I>MS., M.</I> in her euen; <I>M.</I><SUP>2</SUP> <I>note</I> her-in(?); <I>so Fi.</I></NOTE></L>
+<L>As Ma&thorn;ew melez in his masse of &thorn;at man ryche,</L>
+<L N="52">&THORN;at made &thorn;e mukel mangerye to marie his here dere,</L>
+<L>And sende his sonde &thorn;en to say &thorn;at &thorn;ay samne schulde,</L>
+<L>And in comly quoyntis to com to his feste.<NOTE PLACE="foot"><I>B.</I> to-com.</NOTE></L>
+<L>'For my boles and my borez arn bayted and slayne,</L>
+<L N="56">And my fedde foulez fatted wyth scla&yogh;t,</L>
+<L>My polyle &thorn;at is penne-fed and partrykez bo&thorn;e,<NOTE PLACE="foot"><I>MS.</I> partryke&yogh;; <I>M.</I> partrykes.</NOTE></L>
+<L>Wyth scheldez of wylde swyn, swanez and cronez&mdash;</L>
+<L>Al is ro&thorn;eled and rosted ry&yogh;t to &thorn;e sete;</L>
+<L N="60">Comez cof to my corte, er hit colde wor&thorn;e.'</L>
+</LG>
+<LG TYPE="stanza">
+<L>When &thorn;ay knewen his cal &thorn;at &thorn;ider com schulde,</L>
+<L>Alle excused hem by &thorn;e skyly he scape by mo&yogh;t.<NOTE PLACE="foot"><I>MS., M.</I> he; <I>Fi.</I> &thorn;ay.</NOTE></L>
+<L>On hade bo&yogh;t hym a bor&yogh;, he sayde, by hys traw&thorn;e,</L>
+<L N="64">'Now t[ur]ne I &thorn;eder als tyd, &thorn;e toun to byholde.'<NOTE PLACE="foot"><I>MS.</I> tne; <I>M.</I> t[ur]ne.</NOTE></L>
+<L>Ano&thorn;er nayed also, and nurned &thorn;is cawse:</L>
+<L>'I haf &yogh;erned and &yogh;at &yogh;okkez of oxen,</L>
+<L>And for my hy&yogh;ez hem bo&yogh;t; to bowe haf I mester,</L>
+<L N="68">To see hem pulle in &thorn;e plow aproche me byhovez.'</L>
+<L>'And I haf wedded a wyf,' so wer hym &thorn;e &thorn;ryd,<NOTE PLACE="foot"><I>MS., M.</I> sower; <I>M. note</I> swer(?); <I>Fi.</I> (<I>p. 47</I>) so werp; <I>B.</I> so werned.</NOTE></L>
+<L>'Excuse me at &thorn;e cort, I may not com &thorn;ere.'</L>
+<L>&THORN;us &thorn;ay dro&yogh; hem adre&yogh; wyth daunger uch one,</L>
+<L N="72">&THORN;at non passed to &thorn;e pla[c]e, &thorn;a&yogh; he prayed were.<NOTE PLACE="foot"><I>MS.</I> plate, as <I>M. notes</I>.</NOTE></L>
+</LG>
+<LG TYPE="stanza">
+<L>Thenne &thorn;e ludych lorde lyked ful ille,<MILESTONE N="62a" UNIT="folio"></L>
+<L>And hade dedayn of &thorn;at dede; ful dry&yogh;ly he carpez.</L>
+<L>He saytz: 'Now for her owne sor&yogh;e &thorn;ay forsaken habbez,</L>
+<L N="76">More to wyte is her wrange &thorn;en any wylle gentyl.</L>
+<L>&THORN;enne gotz forth, my gomez, to &thorn;e grete streetez,</L>
+<L>And forsettez on uche a syde &thorn;e cete aboute;</L>
+<L>&THORN;e wayferande frekez, on fote and on hors,
+<PB REF="00000070.tif" N="6"></L>
+<L N="80">Bo&thorn;e burnez and burdez, &thorn;e better and &thorn;e wers,</L>
+<L>La&thorn;ez hem alle luflyly to lenge at my fest,</L>
+<L>And bryngez hem bly&thorn;ly to bor&yogh;e as barounez &thorn;ay were,</L>
+<L>So &thorn;at my palays plat ful be py&yogh;t al aboute;</L>
+<L N="84">&THORN;ise o&thorn;er wrechez iwysse wor&thorn;y no&yogh;t wern.'</L>
+</LG>
+<LG TYPE="stanza">
+<L>&THORN;en &thorn;ay cayred and com &thorn;at &thorn;e cost waked,</L>
+<L>Bro&yogh;ten bachlerez hem wyth &thorn;at &thorn;ay by bonkez metten,<NOTE PLACE="foot">metten, n <I>corrected by scribe from</I> &yogh;.</NOTE></L>
+<L>Swyerez &thorn;at swyftly swyed on blonkez,</L>
+<L N="88">And also fele upon fote, of fre and of bonde.</L>
+<L>When &thorn;ay com to &thorn;e corte, keppte wern &thorn;ay fayre,</L>
+<L>Sty&yogh;tled wyth &thorn;e stewarde, stad in &thorn;e halle,</L>
+<L>Ful manerly wyth marchal mad for to sitte,</L>
+<L N="92">As he watz dere of degre dressed his seete.</L>
+<L>&THORN;enne seggez to &thorn;e soverayn sayden &thorn;erafter:</L>
+<L>'Lo! lorde, wyth yor leve, at yor lege heste,</L>
+<L>And at &thorn;i banne we haf bro&yogh;t, as &thorn;ou beden habbez,</L>
+<L N="96">Mony renischche renkez, and &yogh;et is roum more.'</L>
+<L>Sayde &thorn;e lorde to &thorn;o ledez, 'Laytez &yogh;et ferre,</L>
+<L>Ferre out in &thorn;e felde, and fechez mo gestez,</L>
+<L>Waytez gorstez and grevez, if ani gomez lyggez,</L>
+<L N="100">What-kyn folk so &thorn;er fare, fechez hem hider;</L>
+<L>Be &thorn;ay fers, be &thorn;ay feble, forlotez none,<NOTE PLACE="foot"><I>MS., M.</I> forlotez; <I>M. note</I> forletez(?).</NOTE></L>
+<L>Be &thorn;ay hol, be &thorn;ay halt, be &thorn;ay on-y&yogh;ed,</L>
+<L>And &thorn;a&yogh; &thorn;ay ben bo&thorn;e blynde and balterande cruppelez,</L>
+<L N="104">&THORN;at my hous may holly by halkez by fylled.<NOTE PLACE="foot">may, <I>scribe apparently first wrote</I> ia <I>and corrected to</I> m: <I>MS.</I> halke&yogh;; <I>M.</I> halkes: <I>MS., M.</I> by; <I>Fi.</I> be.</NOTE></L>
+<L>For, certez, &thorn;yse ilk renkez &thorn;at me renayed habbe</L>
+<L>And denounced me no&yogh;t now at &thorn;is tyme,</L>
+<L>Schul never sitte in my sale my soper to fele,</L>
+<L N="108">Ne suppe on sope of my seue, &thorn;a&yogh; &thorn;ay swelt schulde.'<NOTE PLACE="foot"><I>MS., M.</I><SUP>1</SUP> &thorn;a&yogh; &thorn;a&yogh;; <I>M.</I><SUP>2</SUP> &thorn;a&yogh;.</NOTE>
+<PB REF="00000071.tif" N="7"></L>
+</LG>
+<LG TYPE="stanza">
+<L>Thenne &thorn;e sergauntez, at &thorn;at sawe, swengen &thorn;eroute,<MILESTONE N="62b" UNIT="folio"></L>
+<L>And diden &thorn;e dede &thorn;at [is] demed, as he devised hade,<NOTE PLACE="foot"><I>MS.</I> &thorn;at demed; <I>M.</I> &thorn;at [is]; <I>Fi.</I> &thorn;at [he].</NOTE></L>
+<L>And wyth peple of alle plytez &thorn;e palays &thorn;ay fyllen&mdash;</L>
+<L N="112">Hit weren not alle on wyvez sunez, wonen wyth on fader.</L>
+<L>Whe&thorn;er &thorn;ay wern wor&thorn;y o&thorn;er wers, wel wern &thorn;ay stowed,</L>
+<L>Ay &thorn;e best byfore and bry&yogh;test atyred,</L>
+<L>&THORN;e derrest at &thorn;e hy&yogh;e dese &thorn;at dubbed wer fayrest;</L>
+<L N="116">And sy&thorn;en on len&thorn;e bilooghe ledez inogh,<NOTE PLACE="foot">bilooghe, <I>see Introd., p. x, n. 2.</I></NOTE></L>
+<L>And ay a segge soerly semed by her wedez.<NOTE PLACE="foot"><I>MS., M.</I> soerly; <I>M. note</I> soberly(?); <I>E.</I> serly.</NOTE></L>
+<L>So with marschal at her mete mensked &thorn;ay were;</L>
+<L>Clene men in compaynye forknowen wern lyte,<NOTE PLACE="foot">compaynye, <I>scribe corrected second</I> y <I>from</I> i.</NOTE></L>
+<L N="120">And &yogh;et &thorn;e symplest in &thorn;at sale watz served to &thorn;e fulle,</L>
+<L>Bo&thorn;e with menske and wyth mete and mynstrasy noble,</L>
+<L>And alle &thorn;e laykez &thorn;at a lorde a&yogh;t in londe schewe.</L>
+<L>And &thorn;ay bigonne to be glad &thorn;at god drink haden,</L>
+<L N="124">And uch mon wyth his mach made hym at ese.</L>
+</LG>
+</DIV1>
+<DIV1 N="2" TYPE="section">
+<HEAD>II. THE PUNISHMENT OF THE MAN IN FOUL CLOTHES</HEAD>
+<LG TYPE="stanza">
+<L>Now inmyddez &thorn;e mete &thorn;e mayster hym bi&thorn;o&yogh;t,</L>
+<L>&THORN;at he wolde se &thorn;e semble &thorn;at samned was &thorn;ere,</L>
+<L>And rehayte rekenly &thorn;e riche and &thorn;e poveren,<NOTE PLACE="foot"><I>MS.</I> povener, <I>i. e. scribe put curl for -er over wrong letter; cf. Gaw. 124</I>, sylvener for sylveren.</NOTE></L>
+<L N="128">And cherisch hem alle wyth his cher, and chaufen her joye.</L>
+<L>&THORN;en he bowez fro his bour into &thorn;e brode halle,</L>
+<L>And to &thorn;e best on &thorn;e bench, and bede hym be myry,</L>
+<L>Solased hem wyth semblaunt and syled fyrre,
+<PB REF="00000072.tif" N="8"></L>
+<L N="132">Tron fro table to table and talkede ay myr&thorn;e.</L>
+</LG>
+<LG TYPE="stanza">
+<L>Bot as he ferked over &thorn;e flor, he fande wyth his y&yogh;e&mdash;</L>
+<L>Hit watz not for a halyday honestly arayed&mdash;</L>
+<L>A &thorn;ral &thorn;ry&yogh;t in &thorn;e &thorn;rong un&thorn;ryvandely clo&thorn;ed,</L>
+<L N="136">Ne no festival frok, bot fyled with werkkez;</L>
+<L>&THORN;e gome watz ungarnyst wyth god men to dele.</L>
+<L>And gremed &thorn;erwyth &thorn;e grete lord, and greve hym he &thorn;o&yogh;t.</L>
+<L>'Say me, frende,' quod &thorn;e freke wyth a felle chere,</L>
+<L N="140">'Hou wan &thorn;ou into &thorn;is won in wedez so fowle?</L>
+<L>&THORN;e abyt &thorn;at &thorn;ou hatz upon, no halyday hit menskez;</L>
+<L>&THORN;ou, burne, for no brydale art busked in wedez!</L>
+<L>How watz &thorn;ou hardy &thorn;is hous for &thorn;yn unhap [to] ne&yogh;e,<NOTE PLACE="foot">to <I>supplied by M.</I></NOTE></L>
+<L N="144">In on so ratted a robe and rent at &thorn;e sydez?</L>
+<L>&THORN;ow art a gome ungoderly in &thorn;at goun febele;<MILESTONE N="63a" UNIT="folio"></L>
+<L>&THORN;ou praysed me and my place ful pover and ful [g]nede,<NOTE PLACE="foot"><I>MS.</I> nede; <I>M.</I> [g]nede.</NOTE></L>
+<L>&THORN;at watz so prest to aproche my presens hereinne.</L>
+<L N="148">Hopez &thorn;ou I be a harlot &thorn;i erigaut to prayse?'<NOTE PLACE="foot"><I>M.</I> erigant.</NOTE></L>
+<L>&THORN;at o&thorn;er burne watz abayst of his bro&thorn;e wordez,</L>
+<L>And hurkelez doun with his hede, &thorn;e ur&thorn;e he biholdez;</L>
+<L>He watz so scoumfit of his scylle, lest he ska&thorn;e hent,</L>
+<L N="152">&THORN;at he ne wyst on worde what he warp schulde.</L>
+<L>&THORN;en &thorn;e lorde wonder loude laled and cryed,</L>
+<L>And talkez to his tormenttorez: 'Takez hym,' he biddez,</L>
+<L>'Byndez byhynde, at his bak, bo&thorn;e two his handez,</L>
+<L N="156">And felle fetterez to his fete festenez bylyve;</L>
+<L>Stik hym stifly in stokez, and stekez hym &thorn;erafter</L>
+<L>Depe in my doungoun &thorn;er doel ever dwellez,</L>
+<L>Greving and gretyng and gryspyng harde
+<PB REF="00000073.tif" N="9"></L>
+<L N="160">Of te&thorn;e tenfully togeder, to teche hym be quoynt.'</L>
+</LG>
+<LG TYPE="stanza">
+<L>Thus comparisunez Kryst &thorn;e kyndom of heven<NOTE PLACE="foot"><I>MS., M.</I> heven.</NOTE></L>
+<L>To &thorn;is frelych feste &thorn;at fele arn to called;</L>
+<L>For alle arn la&thorn;ed luflyly, &thorn;e lu&thorn;er and &thorn;e better,</L>
+<L N="164">&THORN;at ever wern ful&yogh;ed in font &thorn;at fest to have.</L>
+<L>Bot war &thorn;e wel, if &thorn;ou wylt, &thorn;y wedez ben clene,</L>
+<L>And honest for &thorn;e halyday, lest &thorn;ou harme lache,</L>
+<L>For aproch &thorn;ou to &thorn;at Prynce of parage noble&mdash;</L>
+<L N="168">He hates helle no more &thorn;en hem &thorn;at ar sowle.<NOTE PLACE="foot"><I>MS., M.</I> sowle; <I>M. note</I> fowle(?); <I>Fi.</I> soudly.</NOTE></L>
+<L>Wich arn &thorn;enne &thorn;y wedez &thorn;ou wrappez &thorn;e inne,</L>
+<L>&THORN;at schal schewe hem so schene schrowde of &thorn;e best?</L>
+<L>Hit arn &thorn;y werkez, wyterly, &thorn;at &thorn;ou wro&yogh;t havez,</L>
+<L N="172">And lyved wyth &thorn;e lykyng &thorn;at ly&yogh;e in &thorn;yn hert,</L>
+<L>&THORN;at &thorn;o be frely and fresch fonde in &thorn;y lyve,</L>
+<L>And fetyse of a fayr forme, to fote and to honde,</L>
+<L>And sy&thorn;en alle &thorn;yn o&thorn;er lymez lapped ful clene;</L>
+<L N="176">&THORN;enne may &thorn;ou se &thorn;y Savior and his sete ryche,</L>
+</LG>
+<LG TYPE="stanza">
+<L>For fele fautez may a freke forfete his blysse,</L>
+<L>&THORN;at he &thorn;e Soverayn ne se&mdash;&thorn;en for slau&thorn;e one,</L>
+<L>As for bobaunce and bost, and bolnande pryde,<NOTE PLACE="foot"><I>MS., M.</I> priyde, <I>but this is merely the scribe's error in adding y after he had already made the abbreviation</I>.</NOTE></L>
+<L N="180">&THORN;roly into &thorn;e develez &thorn;rote man &thorn;ryngez bylyve;</L>
+<L>For covetyse, and colwarde and croked dedez,</L>
+<L>For mon-sworne, and men-scla&yogh;t, and to much drynk,<MILESTONE N="63b" UNIT="folio"></L>
+<L>For &thorn;efte, and for &thorn;repyng, un&thorn;onk may mon have;</L>
+<L N="184">For roborrye, and riboudrye, and resounez untrwe,</L>
+<L>And dysheriete and depryve dowrie of wydoez,</L>
+<L>For marryng of maryagez, and mayntnaunce of schrewez,</L>
+<L>For traysoun and trichcherye, and tyrauntyre bo&thorn;e,<NOTE PLACE="foot"><I>M. suggests</I> lo&thorn;e(?) <I>for</I> bo&thorn;e.</NOTE></L>
+<L N="188">And for fals famacions and fayned lawez&mdash;</L>
+<L>Man may mysse &thorn;e myr&thorn;e &thorn;at much is to prayse
+<PB REF="00000074.tif" N="10"></L>
+<L>For such un&thorn;ewez as &thorn;ise, and &thorn;ole much payne,</L>
+<L>And in &thorn;e Creatores cort com never more,</L>
+<L N="192">Ne never see hym with sy&yogh;t for such sour tornez.</L>
+</LG>
+</DIV1>
+<DIV1 N="3" TYPE="section">
+<HEAD>III. GOD'S VENGEANCE ON LUCIFER AND ON ADAM</HEAD>
+<LG TYPE="stanza">
+<L>Bot I have herkned and herde of mony hy&yogh;e clerkez,</L>
+<L>And als in resounez of ry&yogh;t red hit myselven,</L>
+<L>&THORN;at &thorn;at ilk proper Prynce &thorn;at paradys weldez</L>
+<L N="196">Is displesed at uch a poynt &thorn;at plyes to sca&thorn;e.</L>
+<L>Bot never &yogh;et in no boke breved I herde</L>
+<L>&THORN;at ever he wrek so wy&thorn;erly on werk &thorn;at he made,</L>
+<L>Ne venged for no vilte of vice ne synne,</L>
+<L N="200">Ne so hastyfly watz hot for hatel of his wylle,</L>
+<L>Ne never so sodenly so&yogh;t unsoundely to weng[e],<NOTE PLACE="foot"><I>MS., M.</I> weng.</NOTE></L>
+<L>As for fyl&thorn;e of &thorn;e flesch &thorn;at foles han used.</L>
+<L>For, as I fynde, &thorn;er he for&yogh;et alle his fre &thorn;ewez,<NOTE PLACE="foot"><I>MS.</I> &thorn;ewe&yogh;; <I>M.</I> &thorn;ewes.</NOTE></L>
+<L N="204">And wex wod to &thorn;e wrache for wrath at his hert.</L>
+</LG>
+<LG TYPE="stanza">
+<L>For &thorn;e fyrste felonye &thorn;e falce fende wro&yogh;t,</L>
+<L>Whyl he watz hy&yogh;e in &thorn;e heven hoven upon lofte,</L>
+<L>Of alle &thorn;yse a&thorn;el aungelez attled &thorn;e fayrest;</L>
+<L N="208">And he unkyndely as a karle kydde a reward.<NOTE PLACE="foot"><I>MS., M.</I> areward; <I>NED.</I> a reward.</NOTE></L>
+<L>He se&yogh; no&yogh;t bot hymself how semly he were,</L>
+<L>Bot his Soverayn he forsoke, and sade &thorn;yse wordez:</L>
+<L>'I schal telde up my trone in &thorn;e tramountayne,<NOTE PLACE="foot"><I>MS., M.</I><SUP>1</SUP> tramountayne, <I>M.</I><SUP>2</SUP> tra mountayne.</NOTE></L>
+<L N="212">And by lyke to &thorn;at Lorde &thorn;at &thorn;e lyft made.'</L>
+<L>With &thorn;is worde &thorn;at he warp, &thorn;e wrake on hym ly&yogh;t,</L>
+<L>Dry&yogh;tyn wyth his dere dom hym drof to &thorn;e abyme,</L>
+<L>In &thorn;e mesure of his mode, his metz never &thorn;e lasse;<NOTE PLACE="foot"><I>MS., M., G.</I> met&yogh;; <I>B.</I> meth (<I>see note</I>).</NOTE></L>
+<L N="216">Bot &thorn;er he tynt &thorn;e ty&thorn;e dool of his tour ryche.</L>
+<L>&THORN;a&yogh; &thorn;e feloun were so fers for his fayre wedez<MILESTONE N="64a" UNIT="folio"></L>
+<L>And his glorious glem &thorn;at glent so bry&yogh;t,</L>
+<L>As sone as Dry&yogh;tynez dome drof to hymselven,
+<PB REF="00000075.tif" N="11"></L>
+<L N="220">&THORN;ikke &thorn;owsandez &thorn;ro &thorn;rwen &thorn;eroute,<NOTE PLACE="foot"><I>M.</I><SUP>1</SUP> Thikke; <I>M.</I><SUP>2</SUP> [&thorn;i]kke, <I>but the &thorn; and</I> i <I>are both distin|guishable, the</I> i <I>very plainly in the offset; many of the words beginning the lines of this fol. are hardly decipherable, and some are partly 'offset' on the opposite page</I> (<I>see Introd., p. viii</I>).</NOTE></L>
+<L>Fellen fro &thorn;e fyrmament fendez ful blake,</L>
+<L>[S]weved at &thorn;e fyrst swap as &thorn;e snaw &thorn;ikke,<NOTE PLACE="foot"><I>MS.</I> (?), <I>M.</I> weued; <I>M. note</I> wened (?); <I>Fi.</I> (<I>p. 46</I>) sweyed; <I>G. reads</I> sweued, <I>saying that the first letter, though blurred, can still be read. I cannot see this</I> s.</NOTE></L>
+<L>Hurled into helle-hole as &thorn;e hyve swarmez.</L>
+<L N="224">Fy[lt]er fenden folk forty dayez lenc&thorn;e,<NOTE PLACE="foot"><I>MS.</I> fy. .er; <I>M.</I><SUP>1</SUP> fylter; <I>M.</I><SUP>2</SUP> fyltyr, <I>but</I> -er <I>fairly plain and confirmed by offset</I>, lt <I>very indistinct; E.</I> fylter[ed].</NOTE></L>
+<L>Er &thorn;at styngande storme stynt ne my&yogh;t;<NOTE PLACE="foot">er, r <I>blurred, but clear in offset</I>.</NOTE></L>
+<L>Bot as smylt mele under smal sive smokez for&thorn;ikke,<NOTE PLACE="foot">bot <I>blurred, but confirmed by offset: MS.</I> smoke&yogh;; <I>M.</I> smokes.</NOTE></L>
+<L>So fro heven to helle &thorn;at hatel schor laste,</L>
+<L N="228">On uche syde of &thorn;e worlde aywhere ilyche.<NOTE PLACE="foot"><I>MS., M.</I> worlde; <I>Sch.</I> er&thorn;e <I>for allit.</I> (<I>but see note</I>).</NOTE></L>
+<L>&THORN;is hit watz a brem brest and a byge wrache;<NOTE PLACE="foot"><I>MS., M.</I> &thorn;is, <I>upper part of &thorn; indistinct in MS.; M. note</I> &yogh;is(?) <I>adopted by Fi.</I></NOTE></L>
+<L>And &yogh;et wrathed not &thorn;e Wy&yogh;, ne &thorn;e wrech sa&yogh;tled,<NOTE PLACE="foot"><I>G. suggests</I> wroth.</NOTE></L>
+<L>Ne never wolde for wyl[fulnes] his wor&thorn;y God knawe,<NOTE PLACE="foot"><I>MS., M.</I> wylnesful; <I>Gollancz</I> (<I>Athen. 1894. 2. 646</I>), <I>Fi.</I> wilfulnes.</NOTE></L>
+<L N="232">Ne pray hym for no pite, so proud watz his wylle.</L>
+<L>For&thorn;y &thorn;a&yogh; &thorn;e rape were rank, &thorn;e raw&thorn;e watz lyttel;<NOTE PLACE="foot"><I>MS.</I> lyttlel </NOTE></L>
+<L>&THORN;a&yogh; he be kest into kare, he kepes no better.</L>
+</LG>
+<LG TYPE="stanza">
+<L>Bot &thorn;at o&thorn;er wrake &thorn;at wex, on wy&yogh;ez hit ly&yogh;t</L>
+<L N="236">&THORN;ur&yogh; &thorn;e faut of a freke &thorn;at fayled in traw&thorn;e,</L>
+<L>Adam inobedyent, ordaynt to blysse,<NOTE PLACE="foot"><I>MS. M.</I> in obedyent; <I>M. note</I> obedience(?), <I>accepted by Fi.; but M. in notes</I> in-obedyent(?), <I>so Sk.</I></NOTE></L>
+<L>&THORN;er pryvely in paradys his place watz devised,</L>
+<L>To lyve &thorn;er in lykyng &thorn;e len&thorn;e of a terme,</L>
+<L N="240">And &thorn;enne enherite &thorn;at home &thorn;at aungelez forgart;
+<PB REF="00000076.tif" N="12"></L>
+<L>Bot &thorn;ur&yogh; &thorn;e eggyng of Eve he ete of an apple</L>
+<L>&THORN;at enpoysened alle peplez &thorn;at parted fro hem bo&thorn;e,</L>
+<L>For a defence &thorn;at watz dy&yogh;t of Dry&yogh;tyn selven,</L>
+<L N="244">And a payne &thorn;eron put and pertly halden.</L>
+<L>&THORN;e defence watz &thorn;e fryt &thorn;at &thorn;e freke towched,<NOTE PLACE="foot"><I>MS.</I> towched <I>retraced like the rest of the last words in ll. 245-52 by second hand</I> (<I>see Introd., pp. viii-ix</I>).</NOTE></L>
+<L>And &thorn;e dom is &thorn;e de&thorn;e &thorn;at drepez uus alle.</L>
+<L>Al in mesure and me&thorn;e watz mad &thorn;e veng[a]unce,<NOTE PLACE="foot"><I>MS.</I> (<I>second hand</I>), <I>M.</I> vengiaunce; <I>the crowding of the second stroke of</I> u <I>before</I> c, <I>and the extension of the line over</I> u (<I>abbrev. for</I> n) <I>seem to show that the corrector has made</I> iau <I>out of the scribe's original</I> au, <I>cf. scribe's spelling in other instances, 744, 1013; Pat. 284.</I></NOTE></L>
+<L N="248">And efte amended wyth a mayden &thorn;at make had never.<NOTE PLACE="foot"><I>MS.</I> (<I>second hand</I>), <I>M</I><SUP>1</SUP>. had; <I>M</I><SUP>2</SUP>. hade.</NOTE></L>
+</LG>
+</DIV1>
+<DIV1 N="4" TYPE="section">
+<HEAD>IV. GOD'S WARNING TO NOAH</HEAD>
+<LG TYPE="stanza">
+<L>Bot in &thorn;e &thorn;ryd watz for&thorn;rast al &thorn;at &thorn;ryve schuld:</L>
+<L>&THORN;er watz malys mercyles and mawgre much scheued,</L>
+<L>&THORN;at watz for fyl&thorn;e upon folde &thorn;at &thorn;e folk used,</L>
+<L N="252">&THORN;at &thorn;en wonyed in &thorn;e worlde wythouten any may|sterz.<NOTE PLACE="foot"><I>M.</I> [&thorn;]at, <I>but &thorn; seems to me as legible as initial &thorn; in two lines preceding, all extremely faint.</I></NOTE></L>
+<L>Hit wern &thorn;e fayrest of forme and of face als,<MILESTONE N="64b" UNIT="folio"></L>
+<L>&THORN;e most and &thorn;e myriest &thorn;at maked wern ever,</L>
+<L>&THORN;e styfest, &thorn;e stalwor&thorn;est &thorn;at stod ever on fete,</L>
+<L N="256">And lengest lyf in hem lent of ledez alle o&thorn;er;</L>
+<L>For hit was &thorn;e forme-foster &thorn;at &thorn;e folde bred,<NOTE PLACE="foot"><I>MS.</I> ffor, <I>the</I> r <I>resembles a modern</I> x, <I>and is unlike either of the scribe's</I> r's (<I>cf.</I> bro&thorn;er, 924, <I>and see Introd., p. ix</I>); <I>MS., M., Sk.</I> forme-foster; <I>M. note, Fi.</I> forme-fosterez.</NOTE></L>
+<L>&THORN;e a&thorn;el aunceterez sunez &thorn;at Adam watz called,</L>
+<L>To wham God hade geven alle &thorn;at gayn were,</L>
+<L N="260">Alle &thorn;e blysse boute blame &thorn;at bodi my&yogh;t have,</L>
+<L>And &thorn;ose lykkest to &thorn;e lede &thorn;at lyved next after;<NOTE PLACE="foot"><I>MS., M., Sk.</I> lede; <I>M. in notes</I> ledes(?), <I>accepted by Fi.</I></NOTE>
+<PB REF="00000077.tif" N="13"></L>
+<L>For&thorn;y so semly to see sy&thorn;en wern none.</L>
+<L>&THORN;er watz no law to hem layd bot loke to kynde,</L>
+<L N="264">And kepe to hit, and alle hit cors clanly fulfylle.</L>
+</LG>
+<LG TYPE="stanza">
+<L>And &thorn;enne founden &thorn;ay fyl&thorn;e in fleschlych dedez,</L>
+<L>And controeved agayn kynde contrare werkez,</L>
+<L>And used hem un&thorn;ryftyly uch on on o&thorn;er,</L>
+<L N="268">And als with o&thorn;er, wylsfully, upon a wrange wyse.</L>
+<L>So ferly fowled her flesch &thorn;at &thorn;e fende loked<NOTE PLACE="foot"><I>MS., M.</I> fende; <I>Sk., E.</I> fende[z].</NOTE></L>
+<L>How &thorn;e de&yogh;ter of &thorn;e dou&thorn;e wern derelych fayre,</L>
+<L>And fallen in fela&yogh;schyp wyth hem on folken wyse,</L>
+<L N="272">And engendered on hem jeauntez wyth her japez ille.</L>
+<L>&THORN;ose wern men me&thorn;elez and ma&yogh;ty on ur&thorn;e,</L>
+<L>&THORN;at for her lodlych laykez alosed &thorn;ay were.</L>
+<L>He watz famed for fre &thorn;at fe&yogh;t loved best,<NOTE PLACE="foot"><I>MS., M., Sk.</I> famed; <I>M. note</I> fained(?).</NOTE></L>
+<L N="276">And ay &thorn;e bigest in bale &thorn;e best watz halden.</L>
+</LG>
+<LG TYPE="stanza">
+<L>And &thorn;enne evelez on er&thorn;e ernestly grewen,</L>
+<L>And multyplyed monyfolde inmongez mankynde;</L>
+<L>For &thorn;at &thorn;e ma&yogh;ty on molde so marre &thorn;ise o&thorn;er,<NOTE PLACE="foot"><I>MS., M.</I> marre; <I>Sk.</I> marre[d].</NOTE></L>
+<L N="280">&THORN;at &thorn;e Wy&yogh;e &thorn;at al wro&yogh;t ful wro&thorn;ly bygynnez.</L>
+<L>When he knew uche contre coruppte in hitselven,<NOTE PLACE="foot"><I>MS.</I> coruppte; <I>M., Sk.</I> corupte.</NOTE></L>
+<L>And uch freke forloyned fro &thorn;e ry&yogh;t wayez,</L>
+<L>Felle temptande tene towched his hert;</L>
+<L N="284">As wy&yogh;e, wo hym withinne werp to hymselven:</L>
+<L>'Me for&thorn;ynkez ful much &thorn;at ever I mon made,</L>
+<L>Bot I schal delyver and do away &thorn;at doten on &thorn;is molde,</L>
+<L>And fleme out of &thorn;e folde al &thorn;at flesch werez,</L>
+<L N="288">Fro &thorn;e burne to &thorn;e best, fro bryddez to fyschez;</L>
+<L>Al schal doun and be ded and dryven out of er&thorn;e<MILESTONE N="65a" UNIT="folio"></L>
+<L>&THORN;at ever I sette saule inne, and sore hit me rwez</L>
+<L>&THORN;at ever I made hem myself; bot if I may herafter,</L>
+<L N="292">I schal wayte to be war her wrenchez to kepe.'</L>
+</LG>
+<LG TYPE="stanza">
+<L>&THORN;enne in worlde watz a wy&yogh;e wonyande on lyve,
+<PB REF="00000078.tif" N="14"></L>
+<L>Ful redy and ful ry&yogh;twys, and rewled hym fayre;</L>
+<L>In &thorn;e drede of Dry&yogh;tyn his dayez he usez,</L>
+<L N="296">And ay glydande wyth his God his grace watz &thorn;e more.</L>
+<L>Hym watz &thorn;e nome Noe, as is innoghe knawen;</L>
+<L>He had &thorn;re &thorn;ryven sunez, and &thorn;ay &thorn;re wyvez,</L>
+<L>Sem so&thorn;ly &thorn;at on, &thorn;at o&thorn;er hy&yogh;t Cam,</L>
+<L N="300">And &thorn;e jolef Japheth watz gendered &thorn;e &thorn;ryd.</L>
+</LG>
+<LG TYPE="stanza">
+<L>Now God in nwy to Noe con speke</L>
+<L>Wylde wrakful wordez in his wylle greved:</L>
+<L>'&THORN;e ende of alle-kynez flesch &thorn;at on ur&thorn;e mevez,</L>
+<L N="304">Is fallen for&thorn; wyth my face, and for&thorn;er hit I &thorn;enk.</L>
+<L>Wyth her unwor&thorn;elych werk me wlatez wythinne,</L>
+<L>&THORN;e gore &thorn;erof me hatz greved and &thorn;e glette nwyed;</L>
+<L>I schal strenkle my distresse, and strye al togeder,</L>
+<L N="308">Bo&thorn;e ledez and londe and alle &thorn;at lyf habbez.</L>
+<L>Bot make to &thorn;e a mancioun, and &thorn;at is my wylle,</L>
+<L>A cofer closed of tres, clanlych planed;</L>
+<L>Wyrk wonez &thorn;erinne for wylde and for tame,</L>
+<L N="312">And &thorn;enne cleme hit wyth clay comly wythin[n]e.<NOTE PLACE="foot"><I>MS.</I> w<SUP>t</SUP>&imacr;me.</NOTE></L>
+<L>And alle &thorn;e endentur dryven daube wythouten.</L>
+<L>And &thorn;us of len&thorn;e and of large &thorn;at lome &thorn;ou make:</L>
+<L>&THORN;re hundred of cupydez &thorn;ou holde to &thorn;e len&thorn;e,</L>
+<L N="316">Of fyfty fayre over&thorn;wert forme &thorn;e brede;</L>
+<L>And loke even &thorn;at &thorn;yn ark have of he&yogh;&thorn;e &thorn;rette,</L>
+<L>And a wyndow wyd upon, wro&yogh;t upon lofte,</L>
+<L>In &thorn;e compas of a cubit kyndely sware,</L>
+<L N="320">A wel dutande dor don on &thorn;e syde;</L>
+<L>Haf hallez &thorn;erinne and halkez ful mony,</L>
+<L>Bo&thorn;e boskez and bourez and wel bounden penez.<NOTE PLACE="foot"><I>MS.</I> bourez (<I>see Introd., p. x, n. 3</I>).</NOTE><NOTE PLACE="foot"><I>MS.</I> bo&thorn;e, <I>but e peculiar, as though corrected from</I> o: boskez <I>retraced by second hand, as also parts of ll. 324-5</I> (<I>see Introd., p. ix</I>).</NOTE></L>
+<L>For I schal waken up a water to wasch alle &thorn;e worlde,</L>
+<L N="324">And quelle alle &thorn;at is quik wyth quavende flodez;<NOTE PLACE="foot"><I>MS.</I> &thorn;at &thorn;at, <I>with a line drawn through second &thorn;at; M.</I><SUP>1</SUP> &thorn;at &thorn;at; <I>M.</I><SUP>2</SUP> &thorn;at.</NOTE>
+<PB REF="00000079.tif" N="15"></L>
+<L>Alle &thorn;at glydez and gotz and gost of lyf habbez,<MILESTONE N="65b" UNIT="folio"></L>
+<L>I schal wast with my wrath, &thorn;at wons upon ur&thorn;e.</L>
+<L>Bot my forwarde wyth &thorn;e I festen on &thorn;is wyse,</L>
+<L N="328">For &thorn;ou in reysoun hatz rengned and ry&yogh;twys ben ever:</L>
+<L>&THORN;ou schal enter &thorn;is ark wyth &thorn;yn a&thorn;el barnez</L>
+<L>And &thorn;y wedded wyf; with &thorn;e &thorn;ou take</L>
+<L>&THORN;e makez of &thorn;y myry sunez; &thorn;is meyny of a&yogh;te</L>
+<L N="332">I schal save of monnez saulez, and swelt &thorn;ose o&thorn;er.</L>
+<L>Of uche best &thorn;at berez lyf busk &thorn;e a cupple;</L>
+<L>Of uche clene comly kynde enclose seven makez,</L>
+<L>Of uche horwed in ark halde bot a payre,</L>
+<L N="336">For to save me &thorn;e sede of alle ser kyndez;</L>
+<L>And ay &thorn;ou meng wyth &thorn;e malez &thorn;e mete ho-bestez,</L>
+<L>Uche payre by payre to plese ay&thorn;er o&thorn;er;</L>
+<L>Wyth alle &thorn;e fode &thorn;at may be founde, frette &thorn;y cofer,</L>
+<L N="340">For sustnaunce to yowself and also &thorn;ose o&thorn;er.'</L>
+<L>Ful gray&thorn;ely gotz &thorn;is god man and dos Godez hestes,</L>
+<L>In dry&yogh; dred and daunger, &thorn;at durst do non o&thorn;er.</L>
+<L>Wen hit watz fettled and forged and to &thorn;e fulle gray&thorn;ed,</L>
+<L N="344">&THORN;enn con Dry&yogh;ttyn hym dele dry&yogh;ly &thorn;yse wordez.</L>
+</LG>
+</DIV1>
+<DIV1 N="5" TYPE="section">
+<HEAD>V. THE FLOOD</HEAD>
+<LG TYPE="stanza">
+<L>'Now, Noe,' quod oure Lorde, 'art &thorn;ou al redy?</L>
+<L>Hatz &thorn;ou closed &thorn;y kyst wyth clay alle aboute?'</L>
+<L>'&YOGH;e, Lorde, wyth &thorn;y leve,' sayde &thorn;e lede &thorn;enne,</L>
+<L N="348">'Al is wro&yogh;t at &thorn;i worde, as &thorn;ou me wyt lantez.'</L>
+<L>'Enter in, &thorn;enn,' quod he, 'and haf &thorn;i wyf wyth &thorn;e,</L>
+<L>&THORN;y &thorn;re sunez, wythouten &thorn;rep, and her &thorn;re wyvez;</L>
+<L>Bestez, as I bedene have, bosk &thorn;erinne als,</L>
+<L N="352">And when &yogh;e arn staued styfly, stekez yow &thorn;erinne.</L>
+<L>Fro seven dayez ben seyed I sende out bylyve</L>
+<L>Such a rowtande ryge &thorn;at rayne schal swy&thorn;e,
+<PB REF="00000080.tif" N="16"></L>
+<L>&THORN;at schal wasch alle &thorn;e worlde of werkez of fyl&thorn;e;</L>
+<L N="356">Schal no flesch upon folde by fonden on lyve,</L>
+<L>Outtaken yow a&yogh;t in &thorn;is ark staued,</L>
+<L>And sed &thorn;at I wyl save of &thorn;yse ser bestez.'</L>
+<L>[No]w Noe never sty[n]tez&mdash;&thorn;at [n]y&yogh;[t] he by|gynnez&mdash;<NOTE PLACE="foot"><I>M.</I> now, <I>but I cannot distinguish first two letters, which are very blurred: MS., M.</I> stystez, <I>M. note</I> styntez(?), <I>accepted by Fi.: MS.</I> my&yogh;, <I>M., Sk.</I> niy&yogh;[t].</NOTE></L>
+<L N="360">Er al wer stawed and stoken as &thorn;e steven wolde.<NOTE PLACE="foot">er al <I>very faint.</I></NOTE></L>
+</LG>
+<LG TYPE="stanza">
+<L>Thenne sone com &thorn;e seven&thorn;e day when samned wern alle,<MILESTONE N="66a" UNIT="folio"></L>
+<L>And alle woned in &thorn;e whichche, &thorn;e wylde and &thorn;e tame.</L>
+<L>&THORN;en bolned &thorn;e abyme, and bonkez con ryse,</L>
+<L N="364">Waltes out uch w[e]lle-heved in ful wode stremez,</L>
+<L>Watz no brymme &thorn;at abod unbrosten bylyve;<NOTE PLACE="foot"><I>MS., M., Sk.</I> walle (<I>but cf. 428</I>).</NOTE></L>
+<L>&THORN;e mukel lavande loghe to &thorn;e lyfte rered.</L>
+<L>Mony clustered clowde clef alle in clowtez,</L>
+<L N="368">Torent uch a rayn-ryfte and rusched to &thorn;e ur&thorn;e,</L>
+<L>Fon never in forty dayez; and &thorn;en &thorn;e flod ryses,</L>
+<L>Overwaltez uche a wod and &thorn;e wyde feldez.</L>
+<L>For when &thorn;e water of &thorn;e welkyn wyth &thorn;e worlde mette,</L>
+<L N="372">Alle &thorn;at deth mo&yogh;t dry&yogh;e drowned &thorn;erinne.</L>
+<L>&THORN;er watz moon for to make when meschef was cnowen,</L>
+<L>&THORN;at no&yogh;t dowed bot &thorn;e deth in &thorn;e depe stremez.</L>
+<L>Water wylger ay wax, wonez &thorn;at stryede,</L>
+<L N="376">Hurled into uch hous, hent &thorn;at &thorn;er dowelled.<NOTE PLACE="foot"><I>MS., M.</I> dowelled; <I>Sk.</I> dwelled.</NOTE></L>
+<L>Fyrst feng to &thorn;e fly&yogh;t alle &thorn;at fle my&yogh;t,</L>
+<L>Uuche burde wyth her barne &thorn;e byggyng &thorn;ay levez,</L>
+<L>And bowed to &thorn;e hy&yogh; bonk &thorn;er brentest hit wer[e],<NOTE PLACE="foot"><I>MS., M.</I> wern; <I>Sk. emends to</I> were; <I>B. would read</I> bonkes.</NOTE></L>
+<L N="380">And heterly to &thorn;e hy&yogh;e hyllez &thorn;ay aled on faste.<NOTE PLACE="foot"><I>MS., M.</I><SUP>1</SUP> aled; <I>M.</I><SUP>2</SUP>, <I>Sk.</I> [h]aled, <I>but consistency in this respect would necessitate many more emendations.</I></NOTE>
+<PB REF="00000081.tif" N="17"></L>
+<L>Bot al watz nedlez her note, for never cow&thorn;e stynt</L>
+<L>&THORN;e ro&yogh;e raynande ryg, &thorn;e raykande wawez,<NOTE PLACE="foot"><I>M. unnecessarily inserts</I> &amp; <I>after</I> ryg; <I>if any word is omitted, it would more probably be</I> ne.</NOTE></L>
+<L>Er uch bo&thorn;om watz brurdful to &thorn;e bonkez eggez,</L>
+<L N="384">And uche a dale so depe &thorn;at demmed at &thorn;e brynkez.</L>
+</LG>
+<LG TYPE="stanza">
+<L>&THORN;e moste mountaynez on mor &thorn;enne watz no more dry&yogh;e,</L>
+<L>And &thorn;eron flokked &thorn;e folke, for ferde of &thorn;e wrake.</L>
+<L>Sy&thorn;en &thorn;e wylde of &thorn;e wode on &thorn;e water flette;</L>
+<L N="388">Summe swymmed &thorn;eron &thorn;at save hemself trawed,</L>
+<L>Summe sty&yogh;e to a stud and stared to &thorn;e heven,</L>
+<L>Rwly wyth a loud rurd rored for drede.</L>
+<L>Harez, herttez also, to &thorn;e hy&yogh;e runnen,</L>
+<L N="392">Bukkez, bausenez, and bulez to &thorn;e bonkkez hy&yogh;ed;</L>
+<L>And alle cryed for care to &thorn;e Kyng of heven,</L>
+<L>Recoverer of &thorn;e Creator &thorn;ay cryed uch one,</L>
+<L>&THORN;at amounted &thorn;e mase&mdash;his mercy watz passed,<NOTE PLACE="foot"><I>MS., M.</I> &thorn;e masse &thorn;e mase; <I>Sk.</I> &thorn;e mase.</NOTE></L>
+<L N="396">And alle his pyte departed fro peple &thorn;at he hated.</L>
+<L>Bi &thorn;at &thorn;e flod to her fete flo&yogh;ed and waxed,<MILESTONE N="66b" UNIT="folio"></L>
+<L>&THORN;en uche a segge se&yogh; wel &thorn;at synk hym byhoved;</L>
+<L>Frendez fellen in fere and fa&thorn;med togeder,</L>
+<L N="400">To dry&yogh; her delful deystyne and dy&yogh;en alle samen;</L>
+<L>Luf lokez to luf and his leve takez,<NOTE PLACE="foot"><I>MS.</I> to, <I>letters curiously combined,</I> o <I>perhaps by another hand.</I></NOTE></L>
+<L>For to ende alle at onez and for ever twynne.</L>
+<L>By forty dayez wern faren, on folde no flesch styryed,</L>
+<L N="404">&THORN;at &thorn;e flod nade al freten wyth fe&yogh;tande wa&yogh;ez;<NOTE PLACE="foot"><I>MS., M., Sk.</I> wa&yogh;ez, <I>M. note</I> wawez(?).</NOTE></L>
+<L>For hit clam uche a clyffe cubites fyftene,</L>
+<L>Over &thorn;e hy&yogh;est hylle &thorn;at hurkled on er&thorn;e.</L>
+</LG>
+<LG TYPE="stanza">
+<L>&THORN;enne morkne in &thorn;e mudde most ful nede</L>
+<L N="408">Alle &thorn;at spyrakle inspranc, no sprawlyng awayled,<NOTE PLACE="foot"><I>MS., M., Sk.</I> inspranc; <I>M. note</I> insprang(?).</NOTE></L>
+<L>Save &thorn;e ha&thorn;el under hach and his here straunge,</L>
+<L>Noe &thorn;at ofte nevened &thorn;e name of oure Lorde,
+<PB REF="00000082.tif" N="18"></L>
+<L>Hym a&yogh;tsum in &thorn;at ark as a&thorn;el God lyked,</L>
+<L N="412">&THORN;er alle ledez in lome lenged druye.</L>
+<L>&THORN;e arc hoven watz on hy&yogh;e wyth hurlande gotez,</L>
+<L>Kest to kythez uncou&thorn;e &thorn;e clowdez ful nere.</L>
+<L>Hit waltered on &thorn;e wylde flod, went as hit lyste,</L>
+<L N="416">Drof upon &thorn;e depe dam, in daunger hit semed,</L>
+<L>Withouten mast, o&thorn;er myke, o&thorn;er myry bawelyne,</L>
+<L>Kable o&thorn;er capstan to clyppe to her ankrez,</L>
+<L>Hurrok o&thorn;er hande-helme hasped on ro&thorn;er,</L>
+<L N="420">O&thorn;er any sweande sayl to seche after haven,</L>
+<L>Bot flote forthe wyth &thorn;e flyt of &thorn;e felle wyndez.<NOTE PLACE="foot"><I>MS., M., Sk.</I> flote, <I>E.</I> flote[d].</NOTE></L>
+<L>Whederwarde so &thorn;e water wafte, hit rebounde;<NOTE PLACE="foot"><I>MS., M., Sk.</I> rebounde; <I>Fi.</I> rebounded.</NOTE></L>
+<L>Ofte hit roled on rounde and rered on ende;</L>
+<L N="424">Nyf oure Lorde hade ben her lodezmon, hem had lumpen harde.</L>
+</LG>
+<LG TYPE="stanza">
+<L>Of &thorn;e len&thorn;e of Noe lyf to lay a lel date,</L>
+<L>&THORN;e sex hundreth of his age and none odde &yogh;erez,</L>
+<L>Of secounde monyth, &thorn;e seven&thorn;e day ry&yogh;tez,</L>
+<L N="428">Towalten alle &thorn;yse welle-hedez and &thorn;e water flowed;</L>
+<L>And &thorn;ryez fyfty &thorn;e flod of folwande dayez,</L>
+<L>Uche hille watz &thorn;er hidde wyth y[&thorn;]ez ful graye.<NOTE PLACE="foot"><I>MS., M.</I> yre&yogh;; <I>M. note</I> y&thorn;ez(?); <I>so Sk., Fi.</I></NOTE></L>
+<L>Al watz wasted &thorn;at &thorn;er wonyed &thorn;e worlde wythinne,<NOTE PLACE="foot">wasted <I>perhaps partly retraced</I> (<I>see Introd., p. ix</I>).</NOTE></L>
+<L N="432">&THORN;er ever flote, o&thorn;er flwe, o&thorn;er on fote &yogh;ede,<NOTE PLACE="foot">on <I>inserted above line</I> (<I>see Introd., p. ix, n. 2</I>).</NOTE></L>
+<L>That ro&yogh;ly watz &thorn;e remnaunt &thorn;at &thorn;e rac dryvez,<MILESTONE N="67a" UNIT="folio"><NOTE PLACE="foot"><I>at end of preceding page</I> &thorn;at ro&yogh;ly watz <I>as catchwords: Sk. note</I> rwly(?).</NOTE></L>
+<L>&THORN;at alle gendrez so joyst wern joyned wythinne.</L>
+<L>Bot quen &thorn;e Lorde of &thorn;e lyfte lyked hymselven</L>
+<L N="436">For to mynne on his mon his meth &thorn;at abydez,</L>
+<L>&THORN;en he wakened a wynde on watterez to blowe;</L>
+<L>&THORN;enne lasned &thorn;e llak &thorn;at large watz are.</L>
+<L>&THORN;en he stac up &thorn;e stangez, stoped &thorn;e wellez,</L>
+<L N="440">Bed blynne of &thorn;e rayn, hit batede as fast;
+<PB REF="00000083.tif" N="19"></L>
+<L>&THORN;enne lasned &thorn;e lo&yogh; lowkande togeder.</L>
+<L>After harde dayez wern out on hundreth and fyfte,</L>
+<L>As &thorn;at lyftande lome luged aboute</L>
+<L N="444">Where &thorn;e wynde and &thorn;e weder warpen hit wolde,</L>
+<L>Hit sa&yogh;tled on a softe day synkande to grounde;</L>
+<L>On a rasse of a rok, hit rest at &thorn;e laste,</L>
+<L>On &thorn;e mounte of Mararach of Armene hilles,</L>
+<L N="448">&THORN;at o&thorn;erwayez on Ebru hit hat &thorn;e Thanes.</L>
+<L>Bot &thorn;a&yogh; &thorn;e kyste in &thorn;e cragez wer[e] closed to byde,<NOTE PLACE="foot"><I>MS.</I>, wern; <I>Sk.</I> wer[e]; <I>Schwahn</I> (<I>p. 26</I>) wer enclosed, <I>but cf. 379.</I></NOTE></L>
+<L>&YOGH;et fyned not &thorn;e flod, ne fel to &thorn;e bo&thorn;emez;</L>
+<L>Bot &thorn;e hy&yogh;est of &thorn;e eggez unhuled wern a lyttel,<NOTE PLACE="foot"><I>MS., M.</I> wern; <I>Sk.</I> were.</NOTE></L>
+<L N="452">&THORN;at &thorn;e burne bynne borde byhelde &thorn;e bare er&thorn;e.<NOTE PLACE="foot"><I>M.</I><SUP>1</SUP> lorde, <I>M.</I><SUP>2</SUP> borde, <I>cf. 467.</I></NOTE></L>
+</LG>
+<LG TYPE="stanza">
+<L>&THORN;enne wafte he upon his wyndowe, and wysed &thorn;eroute</L>
+<L>A message fro &thorn;at meyny hem moldez to seche:</L>
+<L>&THORN;at watz &thorn;e raven so ronk, &thorn;at rebel watz ever;</L>
+<L N="456">He watz colored as &thorn;e cole, corbyal untrwe.<NOTE PLACE="foot"><I>MS., M., Sk.</I> corbyal; <I>G. and E. suggest</I> corby al.</NOTE></L>
+<L>And he fongez to &thorn;e fly&yogh;t and fannez on &thorn;e wyndez,</L>
+<L>H[o]vez hy&yogh;e upon hy&yogh;t to herken ty&thorn;yngez.<NOTE PLACE="foot"><I>M., Sk.</I> hove&yogh;, <I>but second letter blurred, perhaps second stroke of</I> o <I>omitted: MS.</I> ty&thorn;ynge&yogh;; <I>M.</I> ty&thorn;ynges.</NOTE></L>
+<L>He croukez for comfort when carayne he fyndez</L>
+<L N="460">Kast up on a clyffe &thorn;er costese lay drye;</L>
+<L>He hade &thorn;e smelle of &thorn;e smach and smoltes &thorn;eder sone,<NOTE PLACE="foot"><I>MS., M.</I> smoltes; <I>Sk.</I> smolte, <I>following M.'s suggestion in Glossary.</I></NOTE></L>
+<L>Fallez on &thorn;e foule flesch and fyllez his wombe,</L>
+<L>And sone &yogh;ederly for&yogh;ete &yogh;isterday steven,</L>
+<L N="464">How &thorn;e chevetayn hym charged &thorn;at &thorn;e kyst &yogh;emed.<NOTE PLACE="foot"><I>MS., M., Sk.</I> kyst; <I>Fi.</I> (<I>p. 42</I>) <I>and Sch.</I> (<I>p. 169</I>) <I>would read</I> chyst <I>for alliteration, but elsewhere form always</I> kyst (<I>see Glossary and Introd., p. lvii, n. 2</I>).</NOTE></L>
+<L>&THORN;e raven raykez hym forth, &thorn;at reches ful lyttel</L>
+<L>How alle fodez &thorn;er fare, ellez he fynde mete;
+<PB REF="00000084.tif" N="20"></L>
+<L>Bot &thorn;e burne bynne borde &thorn;at bod to hys come,<NOTE PLACE="foot"><I>M.</I><SUP>1</SUP> lorde; <I>M.</I><SUP>2</SUP>, <I>Sk.</I> borde, <I>noting that MS. reads</I> lorde; <I>perhaps MS. intended for</I> lorde; <I>cf. 452 and Introd., p. x.</I></NOTE></L>
+<L N="468">Banned hym ful bytterly wyth bestes alle samen.</L>
+<L>He sechez ano&thorn;er sondezmon and settez on &thorn;e dou[v]e,<MILESTONE N="67b" UNIT="folio"><NOTE PLACE="foot"><I>MS., M., Sk.</I> doune; <I>M. note</I> douue <I>or</I> douene(?); <I>Sk. note 'for</I> douene'; <I>K.</I> (<I>p. 54</I>) douue; <I>cf. note on this line, and 481, 485.</I></NOTE></L>
+<L>Bryngez &thorn;at bry&yogh;t upon borde blessed, and sayde:</L>
+<L>'Wende, wor&thorn;elych wy&yogh;t, uus wonez to seche,</L>
+<L N="472">Dryf over &thorn;is dymme water; if &thorn;ou druye fyndez,</L>
+<L>Bryng bodworde to bot blysse to uus alle;</L>
+<L>&THORN;a&yogh; &thorn;at fowle be false, fre be &thorn;ou ever.'</L>
+<L>Ho wyrle out on &thorn;e weder on wyngez ful scharpe,</L>
+<L N="476">Dre&yogh;ly alle alonge day &thorn;at dorst never ly&yogh;t;</L>
+<L>And when ho fyndez no folde her fote on to pyche,</L>
+<L>Ho umbekestez &thorn;e coste and &thorn;e kyst sechez;</L>
+<L>Ho hittez on &thorn;e eventyde and on &thorn;e ark sittez,</L>
+<L N="480">Noe nymmes hir anon and naytly hir stauez.</L>
+<L>Noe on ano&thorn;er day nymmez efte &thorn;e do[wv]e,<NOTE PLACE="foot"><I>MS.</I> doveue <I>or</I> dovene; <I>M., Sk.</I> dovene, <I>cf. 469, 485.</I></NOTE></L>
+<L>And byddez hir bowe over &thorn;e borne efte bonkez to seche;</L>
+<L>And ho skyrmez under skwe and skowtez aboute,</L>
+<L N="484">Tyl hit watz ny&yogh;e at &thorn;e na&yogh;t, and Noe &thorn;en sechez.</L>
+</LG>
+</DIV1>
+<DIV1 N="6" TYPE="section">
+<HEAD>VI. THE DEPARTURE FROM THE ARK</HEAD>
+<LG TYPE="stanza">
+<L>On ark on an eventyde hovez &thorn;e dowve,<NOTE PLACE="foot"><I>M., Sk.</I> downe; <I>K.</I> (<I>p. 54</I>) dowue.</NOTE></L>
+<L>On stamyn ho stod and stylle hym abydez.</L>
+<L>What! ho bro&yogh;t in hir beke a bronch of olyve,</L>
+<L N="488">Gracyously umbegrouen al wyth grene levez;</L>
+<L>&THORN;at watz &thorn;e syngne of savyte &thorn;at sende hem oure Lorde,</L>
+<L>And &thorn;e sa&yogh;tlyng of hymself wyth &thorn;o sely bestez.</L>
+<L>&THORN;en watz &thorn;er joy in &thorn;at gyn where jumpred er dry&yogh;ed,
+<PB REF="00000085.tif" N="21"></L>
+<L N="492">And much comfort in &thorn;at cofer &thorn;at watz clay-daubed.</L>
+<L>Myryly on a fayr morn, monyth &thorn;e fyrst,</L>
+<L>&THORN;at fallez formast in &thorn;e &yogh;er, and &thorn;e fyrst day,</L>
+<L>Ledez lo&yogh;en in &thorn;at lome, and loked &thorn;eroute</L>
+<L N="496">How &thorn;at watterez wern woned and &thorn;e worlde dryed.</L>
+<L>Uch on loved oure Lorde, bot lenged ay stylle,</L>
+<L>Tyl &thorn;ay had ty&thorn;yng fro &thorn;e Tolke &thorn;at tyned hem &thorn;erinne.</L>
+<L>&THORN;en Godez glam to hem glod &thorn;at gladed hem alle,</L>
+<L N="500">Bede hem drawe to &thorn;e dor, delyver hem he wolde.</L>
+<L>&THORN;en went &thorn;ay to &thorn;e wykket, hit walt upon sone,<NOTE PLACE="foot"><I>MS., M.</I> walt; <I>M.</I><SUP>2</SUP> <I>in notes</I> wafte(?).</NOTE></L>
+<L>Bo&thorn;e &thorn;e burne and his barnez bowed &thorn;eroute,</L>
+<L>Her wyvez walkez hem wyth, and &thorn;e wylde after,</L>
+<L N="504">&THORN;roly &thorn;rublande in &thorn;ronge, &thorn;rowen ful &thorn;ykke.</L>
+</LG>
+<LG TYPE="stanza">
+<L>Bot Noe of uche honest kynde nem out an odde,<MILESTONE N="68a" UNIT="folio"></L>
+<L>And hevened up an auter and hal&yogh;ed hit fayre,</L>
+<L>And sette a sakerfyse &thorn;eron of uch a ser kynde</L>
+<L N="508">&THORN;at watz comly and clene&mdash;God kepez non o&thorn;er.</L>
+<L>When bremly brened &thorn;ose bestez, and &thorn;e bre&thorn;e rysed,</L>
+<L>&THORN;e savor of his sacrafyse so&yogh;t to hym even</L>
+<L>&THORN;at al spedez and spyllez; he spekes wyth &thorn;at ilke</L>
+<L N="512">In comly comfort ful clos and cortays wordez:</L>
+<L>'Now, Noe, no more nel I never wary</L>
+<L>Alle &thorn;e mukel mayny [on] molde for no mannez synnez,<NOTE PLACE="foot"><I>M., Sk. insert</I> on.</NOTE></L>
+<L>For I se wel &thorn;at hit is sothe, &thorn;at alle mannez wyttez</L>
+<L N="516">To un&thorn;ryfte arn alle &thorn;rawen wyth &thorn;o&yogh;t of her herttez,</L>
+<L>And ay hatz ben, and wyl be &yogh;et, fro her barnage;</L>
+<L>Al is &thorn;e mynde of &thorn;e man to malyce enclyned;</L>
+<L>For&thorn;y schal I never schende so schortly at ones</L>
+<L N="520">As dysstrye al for manez [dedes], dayez of &thorn;is er&thorn;e.<NOTE PLACE="foot"><I>MS.</I> synne <I>inserted above line after</I> manez; <I>M., Sk.</I> synne; <I>M., Sk. insert</I> in <I>before</I> dayez.</NOTE></L>
+<L>Bot waxez now and wendez forth and wor&thorn;ez to monye,
+<PB REF="00000086.tif" N="22"></L>
+<L>Multyplyez on &thorn;is molde, and menske yow bytyde.</L>
+<L>Sesounez schal yow never sese of sede ne of hervest,</L>
+<L N="524">Ne hete, ne no harde forst, umbre ne dro&yogh;&thorn;e,</L>
+<L>Ne &thorn;e swetnesse of somer, ne &thorn;e sadde wynter,</L>
+<L>Ne &thorn;e ny&yogh;t, ne &thorn;e day, ne &thorn;e newe &yogh;erez,</L>
+<L>Bot ever renne restlez&mdash;rengnez &yogh;e &thorn;erinne!'<NOTE PLACE="foot"><I>MS., M.</I><SUP>1</SUP> rengne&yogh;&yogh;e; <I>M.</I><SUP>2</SUP>, <I>Sk.</I> rengne&yogh; &yogh;e.</NOTE></L>
+<L N="528">&THORN;erwyth he blessez uch a best, and byta&yogh;t hem &thorn;is er&thorn;e.</L>
+</LG>
+<LG TYPE="stanza">
+<L>&THORN;en watz a skylly skyvalde, quen scaped alle &thorn;e wylde:</L>
+<L>Uche fowle to &thorn;e fly&yogh;t &thorn;at fy&thorn;erez my&yogh;t serve,</L>
+<L>Uche fysch to &thorn;e flod &thorn;at fynne cou&thorn;e nayte,</L>
+<L N="532">Uche beste to &thorn;e bent &thorn;at bytes on erbez;<NOTE PLACE="foot"><I>MS., M.</I><SUP>1</SUP> &thorn;at &thorn;at; <I>M.</I><SUP>2</SUP>, <I>Sk.</I> &thorn;at.</NOTE></L>
+<L>Wylde wormez to her won wry&thorn;ez in &thorn;e er&thorn;e,</L>
+<L>&THORN;e fox and &thorn;e folmarde to &thorn;e fryth wyndez,</L>
+<L>Herttes to hy&yogh;e he&thorn;e, harez to gorstez,</L>
+<L N="536">And lyounez and lebardez to &thorn;e lake-ryftes;</L>
+<L>Hernez and havekez to &thorn;e hy&yogh;e rochez,</L>
+<L>&THORN;e hole-foted fowle to &thorn;e flod hy&yogh;ez,</L>
+<L>And uche best at a brayde &thorn;er hym best lykez.</L>
+<L N="540">&THORN;e fowre frekez of &thorn;e folde fongez &thorn;e empyre.</L>
+<L>Lo! suche a wrakful wo for wlatsum dedez<MILESTONE N="68b" UNIT="folio"></L>
+<L>Parformed &thorn;e hy&yogh;e Fader on folke &thorn;at he made;</L>
+<L>&THORN;at he chysly hade cherisched he chastysed ful hard[e],<NOTE PLACE="foot"><I>MS., M.</I> hardee; <I>Sk.</I> harde.</NOTE></L>
+<L N="544">In devoydynge &thorn;e vylanye &thorn;at venkquyst his &thorn;ewez.</L>
+</LG>
+<LG TYPE="stanza">
+<L>For&thorn;y war &thorn;e now, wy&yogh;e &thorn;at worschyp desyres</L>
+<L>In his comlych corte &thorn;at Kyng is of blysse,</L>
+<L>In &thorn;e fyl&thorn;e of &thorn;e flesch &thorn;at &thorn;ou be founden never,</L>
+<L N="548">Tyl any water in &thorn;e worlde to wasche &thorn;e fayly.</L>
+<L>For is no segge under sunne so seme of his craftez,</L>
+<L>If he be sulped in synne, &thorn;at syttez unclene&mdash;<NOTE PLACE="foot"><I>M.</I><SUP>2</SUP> <I>inserts</I> ne <I>after</I> &thorn;at.</NOTE></L>
+<L>On spec of a spote may spede to mysse</L>
+<L N="552">Of &thorn;e sy&yogh;te of &thorn;e Soverayn &thorn;at syttez so hy&yogh;e;
+<PB REF="00000087.tif" N="23"></L>
+<L>For &thorn;at schewe me schale in &thorn;o schyre howsez,<NOTE PLACE="foot"><I>MS., M.</I> me; <I>Fi.</I> we.</NOTE></L>
+<L>As &thorn;e beryl bornyst byhovez be clene,</L>
+<L>&THORN;at is sounde on uche a syde and no sem habes,</L>
+<L N="556">Wythouten maskle o&thorn;er mote as margerye-perle.</L>
+</LG>
+</DIV1>
+<DIV1 N="7" TYPE="section">
+<HEAD>VII. A WARNING OF GOD'S WRATH AGAINST SINNERS</HEAD>
+<LG TYPE="stanza">
+<L>Sy&thorn;en &thorn;e Soverayn in sete so sore for&thorn;o&yogh;t</L>
+<L>&THORN;at ever he man upon molde merked to lyvy;</L>
+<L>For he in fyl&thorn;e watz fallen, felly he venged,</L>
+<L N="560">Quen forferde alle &thorn;e flesch &thorn;at he formed hade.<NOTE PLACE="foot">forferde <I>abbrev. in MS.</I> (<I>see Introd., p. x, n. 3</I>); <I>M.</I> fourferde, <I>note</I> forferde(?).</NOTE></L>
+<L>Hym rwed &thorn;at he hem uprerde and ra&yogh;t hem lyflode,</L>
+<L>And efte &thorn;at he hem undyd, hard hit hym &thorn;o&yogh;t;</L>
+<L>For quen &thorn;e swemande sor&yogh;e so&yogh;t to his hert,</L>
+<L N="564">He knyt a covenaunde cortaysly wyth monkynde &thorn;ere,</L>
+<L>In &thorn;e mesure of his mode and me&thorn;e of his wylle,</L>
+<L>&THORN;at he schulde never, for no syt, smyte al at onez,</L>
+<L>As to quelle alle quykez for qued &thorn;at my&yogh;t falle,</L>
+<L N="568">Whyl of &thorn;e len&thorn;e of &thorn;e londe lastez &thorn;e terme.</L>
+<L>&THORN;at ilke skyl for no sca&thorn;e ascaped hym never.</L>
+<L>Wheder wonderly he wrak on wykked men after:</L>
+<L>Ful felly for &thorn;at ilk faute forferde a kyth ryche,</L>
+<L N="572">In &thorn;e anger of his ire &thorn;at ar&yogh;ed mony;</L>
+<L>And al watz for &thorn;is ilk evel, &thorn;at unhappen glette,</L>
+<L>&THORN;e venym and &thorn;e vylanye and &thorn;e vycios fyl&thorn;e</L>
+<L>&THORN;at bysulpez mannez saule in unsounde hert,</L>
+<L N="576">&THORN;at he his Saveour ne see wyth sy&yogh;t of his y&yogh;en,</L>
+<L>&THORN;at alle illez he hates as helle &thorn;at stynkkez;<MILESTONE N="69a" UNIT="folio"></L>
+<L>Bot non nuyez hym, on na&yogh;t ne never upon dayez,</L>
+<L>As harlottrye unhonest, he&thorn;yng of selven;</L>
+<L N="580">&THORN;at schamez for no schrewedschyp schent mot he wor&thorn;e!</L>
+</LG>
+<LG TYPE="stanza">
+<L>Bot sa[v]or, mon, in &thorn;yself, &thorn;a&yogh; &thorn;ou a sotte lyvie,<NOTE PLACE="foot"><I>MS.</I> sauy&otilde;; <I>M.</I> sauyour.</NOTE>
+<PB REF="00000088.tif" N="24"></L>
+<L>&THORN;a&yogh; &thorn;ou bere &thorn;yself babel, by&thorn;enk &thorn;e sumtyme</L>
+<L>Whe&thorn;er he &thorn;at stykked uche a stare in uche steppe y&yogh;e,</L>
+<L N="584">&YOGH;if hymself be bore blynde, hit is a brod wonder;<NOTE PLACE="foot"><I>MS.</I> sele, <I>as M. notes.</I></NOTE></L>
+<L>And he &thorn;at fetly in face fettled alle eres,</L>
+<L>If he hatz losed &thorn;e lysten hit lyftez mervayle;<NOTE PLACE="foot"><I>MS., M.</I><SUP>1</SUP> he he; <I>M.</I><SUP>2</SUP> he.</NOTE></L>
+<L>Traue &thorn;ou never &thorn;at tale, untrwe &thorn;ou hit fyndez.</L>
+<L N="588">&THORN;er is no dede so derne &thorn;at dittez his y&yogh;en;</L>
+<L>&THORN;er is no wy&yogh;e in his werk so war ne so stylle</L>
+<L>&THORN;at hit ne &thorn;rawez to hym &thorn;ro er he hit &thorn;o&yogh;t have.<NOTE PLACE="foot"><I>in</I> &thorn;ro, o <I>of MS. has apparently been altered to</I> e <I>by drawing a stroke through it, but</I> o <I>nevertheless unmistakable; M., who prints MS. as</I> &thorn;re, <I>suggests</I> &thorn;er(?), <I>which is accepted by Fi.</I></NOTE></L>
+<L>For he is &thorn;e gropande God, &thorn;e grounde of alle dedez,</L>
+<L N="592">Rypande of uche a ring &thorn;e reynyez and hert;<NOTE PLACE="foot"><I>MS., M.</I> ring; <I>M. note</I> rink <I>or</I> renk(?).</NOTE></L>
+<L>And &thorn;ere he fyndez al fayre a freke wythinne,</L>
+<L>&THORN;at hert honest and hol, &thorn;at ha&thorn;el he honorez,</L>
+<L>Sendez hym a sad sy&yogh;t to se his auen face,</L>
+<L N="596">And harde honysez &thorn;ise o&thorn;er, and of his erde flemez.</L>
+<L>Bot of &thorn;e dome of &thorn;e dou&thorn;e for dedez of schame&mdash;</L>
+<L>He is so skoymos of &thorn;at ska&thorn;e, he scarrez bylyve;</L>
+<L>He may not dry&yogh;e to draw allyt, bot drepez in hast,</L>
+<L N="600">And &thorn;at watz schewed schortly by a sca&thorn;e onez.<NOTE PLACE="foot"><I>MS., M.</I> sca&thorn;e; <I>Fi.</I> scha&thorn;e, <I>cf. K. p. 65</I> (<I>but see Introd., p. lvii, n. 2, and Glossary</I>).</NOTE></L>
+</LG>
+</DIV1>
+<DIV1 N="8" TYPE="section">
+<HEAD>VIII. ABRAHAM ENTERTAINS THE THREE ANGELS</HEAD>
+<LG TYPE="stanza">
+<L>Olde Abraham in erde onez he syttez</L>
+<L>Even byfore his hous-dore, under an oke grene;</L>
+<L>Bry&yogh;t blykked &thorn;e bem of &thorn;e brode heven,</L>
+<L N="604">In &thorn;e hy&yogh;e hete &thorn;erof Abraham bidez,</L>
+<L>He watz schunt to &thorn;e schadow under schyre levez.</L>
+<L>&THORN;enne watz he war on &thorn;e waye of wlonk wy&yogh;ez &thorn;rynne;</L>
+<L>If &thorn;ay wer farande and fre and fayre to beholde,
+<PB REF="00000089.tif" N="25"></L>
+<L N="608">Hit is e&thorn;e to leve by &thorn;e last ende.</L>
+<L>For &thorn;e lede &thorn;at &thorn;er laye &thorn;e levez anunder,</L>
+<L>When he hade of hem sy&yogh;t, he hy&yogh;ez bylyve,</L>
+<L>And as to God &thorn;e good mon gos hem agaynez,</L>
+<L N="612">And haylsed hem in onhede, and sayde: 'Hende Lorde,</L>
+<L>&YOGH;if ever &thorn;y mon upon molde merit disserved,<MILESTONE N="69b" UNIT="folio"></L>
+<L>Lenge a lyttel with &thorn;y lede, I lo&yogh;ly biseche;</L>
+<L>Passe never fro &thorn;i povere, &yogh;if I hit pray durst,</L>
+<L N="616">Er &thorn;ou haf biden with &thorn;i burne and under bo&yogh;e restted;</L>
+<L>And I schal wynne yow wy&yogh;t of water a lyttel,</L>
+<L>And fast aboute schal I fare yor fette wer waschene;<NOTE PLACE="foot"><I>MS., M.</I> wer waschene; <I>Fi.</I> forto waschen.</NOTE></L>
+<L>Resttez here on &thorn;is rote, and I schal rachche after</L>
+<L N="620">And brynge a morsel of bred to banne yor hertte.'</L>
+<L>'Fare forthe,' quod &thorn;e frekez, 'and fech as &thorn;ou seggez;</L>
+<L>By bole of &thorn;is brode tre we byde &thorn;e here.'</L>
+</LG>
+<LG TYPE="stanza">
+<L>&THORN;enne orppedly into his hous he hy&yogh;ed to Sare,</L>
+<L N="624">Comaunded hir to be cof and quyk at &thorn;is onez:</L>
+<L>'&THORN;re mettez of mele menge, and ma kakez,</L>
+<L>Under askez ful hote happe hem bylive.</L>
+<L>Quyl I fete sumquat fat, &thorn;ou &thorn;e fyr bete,</L>
+<L N="628">Prestly at &thorn;is ilke poynte sum polment to make.'</L>
+<L>He cached to his cou-hous and a calf bryngez<NOTE PLACE="foot"><I>MS.</I> prob|ably covhous, <I>though</I> v <I>is raised above</I> o <I>slightly, so that it very much resembles a</I> b; <I>M.</I> cobhous, <I>but note</I> 'cov-hous=cow|house(?).'</NOTE></L>
+<L>&THORN;at watz tender and not to&yogh;e; bed tyrve of &thorn;e hyde,</L>
+<L>And sayde to his servaunt &thorn;at he hit se&thorn;e faste,</L>
+<L N="632">And he dervely at his dome dy&yogh;t hit bylyve.</L>
+<L>&THORN;e burne to be bare-heved buskez hym &thorn;enne,</L>
+<L>Clechez to a clene clo&thorn;e and kestez on &thorn;e grene,</L>
+<L>&THORN;rwe &thorn;ryftyly &thorn;eron &thorn;o &thorn;re &thorn;erve kakez,
+<PB REF="00000090.tif" N="26"></L>
+<L N="636">And bryngez butter wythal, and by &thorn;e bred settez;</L>
+<L>Mete messez of mylke he merkkez bytwene,</L>
+<L>Sy&thorn;en potage and polment in plater honest.</L>
+<L>As sewer in a god assyse he served hem fayre,</L>
+<L N="640">Wyth sadde semblaunt and swete, of such as he hade;</L>
+<L>And God as a glad gest mad god chere,</L>
+<L>&THORN;at watz fayn of his frende, and his fest praysed.</L>
+<L>Abraham, al hodlez, wyth armez upfolden,</L>
+<L N="644">Mynystred mete byfore &thorn;o men &thorn;at my&yogh;tes al weldez.</L>
+</LG>
+<LG TYPE="stanza">
+<L>&THORN;enne &thorn;ay sayden, as &thorn;ay sete samen alle &thorn;rynne,</L>
+<L>When &thorn;e mete watz remued, and &thorn;ay of mensk speken.</L>
+<L>'I schal efte here away, Abram,' &thorn;ay sayden,</L>
+<L N="648">'&YOGH;et er &thorn;y lyvez ly&yogh;t le&thorn;e upon er&thorn;e,</L>
+<L>And &thorn;enne schal Sare consayve and a sun bere,<MILESTONE N="70a" UNIT="folio"></L>
+<L>&THORN;at schal be Abrahamez ayre, and after hym wynne</L>
+<L>Wyth wele and wyth worschyp &thorn;e wor&thorn;ely peple,</L>
+<L N="652">&THORN;at schal halde in heritage &thorn;at I haf men &yogh;ark[ed].'<NOTE PLACE="foot"><I>MS.</I> &yogh;ark; <I>Fi.</I> (<I>p. 9</I>) <I>reads</I> '&thorn;at I hafe me(n) &yogh;ark[ed].'</NOTE></L>
+<L>&THORN;enne &thorn;e burde byhynde &thorn;e dor for busmar la&yogh;ed,</L>
+<L>And sayde sothly to hirself Sare &thorn;e madde:<NOTE PLACE="foot"><I>MS., M.</I> sothly; <I>M. note</I> softly <I>or</I> sotly(?); <I>Fi.</I> sotly.</NOTE></L>
+<L>'May &thorn;ou traw for tykle &thorn;at &thorn;ou t[em]e mo&yogh;tez,<NOTE PLACE="foot"><I>MS., M.</I> tonne; <I>E.</I> te[m]e.</NOTE></L>
+<L N="656">And I so hy&yogh;e out of age, and also my lorde.'</L>
+<L>For so&thorn;ely, as says &thorn;e wryt, he wern of sadde elde,</L>
+<L>Bo&thorn;e &thorn;e wy&yogh;e and his wyf, such werk watz hem fayled;</L>
+<L>Fro mony a brod day byfore ho barayn ay b[e]ne,<NOTE PLACE="foot"><I>MS.</I> by ene (<I>perhaps</I>=eue), <I>M.</I> byene, <I>M.</I><SUP>2</SUP> <I>note</I> bycame(?)</NOTE></L>
+<L N="660">&THORN;at selve Sare wythouten sede into &thorn;at same tyme.</L>
+<L>&THORN;enne sayde oure Syre &thorn;er he sete: 'Se! so Sare la&yogh;es,</L>
+<L>Not trawande &thorn;e tale &thorn;at I &thorn;e to schewed.</L>
+<L>Hopez ho o&yogh;t may be harde my hondez to work?</L>
+<L N="664">And &yogh;et I avow verayly &thorn;e avaunt &thorn;at I made,</L>
+<L>I schal &yogh;eply a&yogh;ayn and &yogh;elde &thorn;at I hy&yogh;t,
+<PB REF="00000091.tif" N="27"></L>
+<L>And sothely sende to Sare a soun and an hayre.'<NOTE PLACE="foot"><I>M.</I><SUP>1</SUP> soun, <I>M.</I><SUP>2</SUP> son, <I>but cf. 1299, where M.</I><SUP>2</SUP> <I>prints same abbrev.</I> sone; <I>perhaps it should here be considered double</I> n <I>as in</I> heuen, <I>161.</I></NOTE></L>
+<L>&THORN;enne swenged forth Sare and swer, by hir traw&thorn;e,<NOTE PLACE="foot"><I>MS., M.</I><SUP>1</SUP> by, <I>M.</I><SUP>2</SUP> hy (<I>prob. misprint</I>).</NOTE></L>
+<L N="668">&THORN;at for lot &thorn;at &thorn;ay lansed ho la&yogh;ed never.<NOTE PLACE="foot"><I>M.</I> lansed, <I>note laused</I>(?).</NOTE></L>
+<L>'Now innoghe, hit is not so,' &thorn;enne nurned &thorn;e Dry&yogh;tyn,<NOTE PLACE="foot"><I>MS.</I> &ntilde;ned, <I>M.</I> nurned (<I>see Introd., p. x, n. 3</I>).</NOTE></L>
+<L>'For &thorn;ou la&yogh;ed alo&yogh;, bot let we hit one.'</L>
+</LG>
+<LG TYPE="stanza">
+<L>With &thorn;at &thorn;ay ros up radly, as &thorn;ay rayke schulde,</L>
+<L N="672">And setten toward Sodamas her sy&yogh;t alle at onez;</L>
+<L>For &thorn;at cite &thorn;erbysyde watz sette in a vale,</L>
+<L>No mylez fro Mambre mo &thorn;en tweyne,</L>
+<L>Where so wonyed &thorn;is ilke wy&yogh; &thorn;at wendez wyth oure Lorde,</L>
+<L N="676">For to tent hym wyth tale and teche hym &thorn;e gate.</L>
+<L>&THORN;en glydez forth God; &thorn;e god mon hym fol&yogh;ez,</L>
+<L>Abraham heldez hem wyth, hem to conveye<NOTE PLACE="foot"><I>Fi.</I> for to.</NOTE></L>
+<L>In towarde &thorn;e cety of Sodamas &thorn;at synned had &thorn;enne</L>
+<L N="680">In &thorn;e faute of &thorn;is fyl&thorn;e. &THORN;e Fader hem &thorn;retes,</L>
+<L>And sayde &thorn;us to &thorn;e segg &thorn;at sued hym after:</L>
+<L>'How my&yogh;t I hyde myn hert fro Habraham &thorn;e trwe,</L>
+<L>&THORN;at I ne dyscovered to his corse my counsayl so dere?</L>
+<L N="684">Sy&thorn;en he is chosen to be chef chyldryn fader,</L>
+<L>&THORN;at so folk schal falle fro, to flete alle &thorn;e worlde,<MILESTONE N="70b" UNIT="folio"></L>
+<L>And uche blod in &thorn;at burne blessed schal wor&thorn;e,</L>
+<L>Me bos telle to &thorn;at tolk &thorn;e tene of my wylle,</L>
+<L N="688">And alle myn atlyng to Abraham unhaspe bilyve.</L>
+</LG>
+</DIV1>
+<DIV1 N="9" TYPE="section">
+<HEAD>IX. ABRAHAM'S PLEA FOR LOT</HEAD>
+<LG TYPE="stanza">
+<L>'The grete soun of Sodamas synkkez in myn erez,</L>
+<L>And &thorn;e gult of Gomorre garez me to wrath.</L>
+<L>I schal ly&yogh;t into &thorn;at led and loke myselven</L>
+<L N="692">If &thorn;ay haf don as &thorn;e dyne dryvez on lofte.<NOTE PLACE="foot"><I>MS.</I> &imacr;f, <I>cf. Pearl, 1185, and</I> &imacr;s, <I>1524.</I></NOTE>
+<PB REF="00000092.tif" N="28"></L>
+<L>&THORN;ay han lerned a lyst &thorn;at lykez me ille,</L>
+<L>&THORN;at &thorn;ay han founden in her flesch of fautez &thorn;e werst:</L>
+<L>Uch male matz his mach a man as hymselven,</L>
+<L N="696">And fylter folyly in fere on femmalez wyse.</L>
+<L>I compast hem a kynde crafte and kende hit hem derne,</L>
+<L>And amed hit in myn ordenaunce oddely dere,</L>
+<L>And dy&yogh;t drwry &thorn;erinne, doole al&thorn;erswettest,</L>
+<L N="700">And &thorn;e play of paramorez I portrayed myselven;</L>
+<L>And made &thorn;erto a maner myriest of o&thorn;er,</L>
+<L>When two true togeder had ty&yogh;ed hemselven,</L>
+<L>Bytwene a male and his make such mer&thorn;e schulde co[m]e,<NOTE PLACE="foot"><I>MS., M.</I> conne; <I>M. note</I> come(?).</NOTE></L>
+<L N="704">Wel ny&yogh;e pure paradys mo&yogh;t preve no better,</L>
+<L>Ellez &thorn;ay mo&yogh;t honestly ay&thorn;er o&thorn;er welde;</L>
+<L>At a stylle stollen steven, unstered wyth sy&yogh;t,</L>
+<L>Luf-lowe hem bytwene lasched so hote,</L>
+<L N="708">&THORN;at alle &thorn;e meschefez on mold mo&yogh;t hit not sleke.</L>
+<L>Now haf &thorn;ay skyfted my skyl and scorned natwre,</L>
+<L>And henttez hem in he&thorn;yng an usage unclene.</L>
+<L>Hem to smyte for &thorn;at smod smartly I &thorn;enk,</L>
+<L N="712">&THORN;at wy&yogh;ez schal be by hem war, worlde wythouten ende.'</L>
+</LG>
+<LG TYPE="stanza">
+<L>&THORN;enne ar&yogh;ed Abraham, and alle his mod chaunge[d]<NOTE PLACE="foot"><I>MS.</I> chaunge, <I>M.</I> chaunge[d].</NOTE></L>
+<L>For hope of &thorn;e harde hate &thorn;at hy&yogh;t hatz oure Lorde.</L>
+<L>Al sykande he sayde: 'Sir, wyth yor leve,<NOTE PLACE="foot">sir <I>abbrev., as also at 900, 1622, M.</I><SUP>1</SUP> <I>syre, M.</I><SUP>2</SUP> sir; <I>apparently the only instance of expansion in the MS. is Gaw. 387, where Gollancz prints</I> Sir.</NOTE></L>
+<L N="716">Schal synful and saklez suffer al on payne?</L>
+<L>We&thorn;er ever hit lyke my Lorde to lyfte such domez,</L>
+<L>&THORN;at &thorn;e wykked and &thorn;e wor&thorn;y schal on wrake suffer,</L>
+<L>And weye upon &thorn;e worre half &thorn;at wrathed &thorn;e never?</L>
+<L N="720">&THORN;at watz never &thorn;y won &thorn;at wro&yogh;tez uus alle.
+<PB REF="00000093.tif" N="29"></L>
+<L>Now fyfty fyn frendez wer founde in &yogh;onde toune,<MILESTONE N="71a" UNIT="folio"></L>
+<L>In &thorn;e cety of Sodamas and also Gomorre,</L>
+<L>&THORN;at never lakked &thorn;y laue, bot loved ay trau&thorn;e,</L>
+<L N="724">And re&yogh;tful wern, and resounable, and redy &thorn;e to serve</L>
+<L>Schal &thorn;ay falle in &thorn;e faute &thorn;at o&thorn;er frekez wro&yogh;t,</L>
+<L>And joyne to her juggement her juise to have?</L>
+<L>&THORN;at nas never &thorn;yn note, unnevened hit wor&thorn;e,</L>
+<L N="728">&THORN;at art so gaynly a God and of goste mylde!'</L>
+<L>'Nay, for fyfty,' quod &thorn;e Fader, 'and &thorn;y fayre speche,</L>
+<L>And &thorn;ay be founden in &thorn;at folk of her fyl&thorn;e clene,<NOTE PLACE="foot"><I>MS., M.</I> &amp;; <I>M. note</I> An(?), <I>and similarly, 864, 1346.</I></NOTE></L>
+<L>I schal forgyve alle &thorn;e gylt &thorn;ur&yogh; my grace one,</L>
+<L N="732">And let hem smolt al unsmyten smo&thorn;ely at onez.'</L>
+<L>'Aa! blessed be &thorn;ow,' quod &thorn;e burne, 'so boner and &thorn;ewed,</L>
+<L>And al haldez in &thorn;y honde, &thorn;e heven and &thorn;e er&thorn;e;</L>
+<L>Bot for I haf &thorn;is talke, tatz to non ille</L>
+<L N="736">&YOGH;if I mele a lyttel more &thorn;at mul am and askez.</L>
+<L>What if fyve faylen of fyfty &thorn;e noumbre,</L>
+<L>And &thorn;e remnaunt be reken, how restes &thorn;y wylle?'</L>
+<L>'And fyve wont of fyfty,' quod God, 'I schal for&yogh;ete alle,<NOTE PLACE="foot">wont <I>inserted above line</I> (<I>see Introd., p. ix, n. 2</I>).</NOTE></L>
+<L N="740">And wythhalde my honde for hortyng on lede.'</L>
+<L>'And quat if faurty be fre, and fauty &thorn;yse o&thorn;er,</L>
+<L>Schalt &thorn;ow schortly al schende and schape non o&thorn;er?'</L>
+<L>'Nay, &thorn;a&yogh; faurty forfete, &yogh;et fryst I a whyle</L>
+<L N="744">And voyde away my vengaunce, &thorn;a&yogh; me vyl &thorn;ynk.'</L>
+<L>&THORN;en Abraham obeched hym and [hy]&yogh;ly him &thorn;onkkez:<NOTE PLACE="foot"><I>MS., M.</I> &amp; lo&yogh;ly him &thorn;onkke&yogh;; <I>Fi.</I> (<I>p. 47</I>) <I>reads</I> he&yogh;ly, <I>referring to Gaw. 773; Sch. proposes</I> 'and bowe&yogh; to him lo&yogh;ly.'</NOTE></L>
+<L>'Now sayned be &thorn;ou, Savior, so symple in &thorn;y wrath!</L>
+<L>I am bot er&thorn;e ful evel and usle so blake,</L>
+<L N="748">For to mele wyth such a Mayster as my&yogh;tez hatz alle;
+<PB REF="00000094.tif" N="30"></L>
+<L>Bot I have bygonnen wyth my God, and he hit gayn &thorn;ynkez,</L>
+<L>&YOGH;if I, forloyne as a fol, &thorn;y fraunchyse may serve.</L>
+<L>What if &thorn;retty &thorn;ryvande be &thorn;rad in &yogh;on tounez,</L>
+<L N="752">What schal I leve [o]f my Lorde, if he hem le&thorn;e wolde?'<NOTE PLACE="foot"><I>MS., M.</I> if my; <I>M.</I><SUP>1</SUP> <I>note</I> of(?), <I>which E. accepts</I>.</NOTE></L>
+<L>&THORN;enne &thorn;e godlych God gef hym onsware,</L>
+<L>'&YOGH;et for &thorn;retty in &thorn;rong I schal my &thorn;ro steke,</L>
+<L>And spare spakly of spyt, in space of my &thorn;ewez,</L>
+<L N="756">And my rankor refrayne for &thorn;y reken wordez.'</L>
+<L>'What for twenty,' quod &thorn;e tolke, 'untwynez &thorn;ou hem &thorn;enne?'<MILESTONE N="71b" UNIT="folio"></L>
+<L>'Nay, &yogh;if &thorn;ou &yogh;ernez hit, &yogh;et &yogh;ark I hem grace;</L>
+<L>If &thorn;at twenty be trwe, I tene hem no more,</L>
+<L N="760">Bot relece alle &thorn;at regioun of her ronk werkkez.'</L>
+<L>'Now, a&thorn;el lorde,' quod Abraham, 'onez a speche,</L>
+<L>And I schal schape no more &thorn;o schalkkez to helpe.</L>
+<L>If ten trysty in toune be tan in &thorn;i werkkez,</L>
+<L N="764">Wylt &thorn;ou mese &thorn;y mode, and menddyng abyde?'</L>
+<L>'I graunt,' quod &thorn;e grete God, 'graunt mercy,' &thorn;at o&thorn;er,</L>
+<L>And &thorn;enne arest &thorn;e renk, and ra&yogh;t no fyrre.</L>
+</LG>
+<LG TYPE="stanza">
+<L>And Godde glydez his gate by &thorn;ose grene wayez,</L>
+<L N="768">And he conveyen hym con wyth cast of his y&yogh;e;</L>
+<L>And as he loked along &thorn;ere as oure Lorde passed,<NOTE PLACE="foot"><I>M.</I> als, <I>but scribe has written</I> s <I>directly over</I> l.</NOTE></L>
+<L>&YOGH;et he cryed hym after wyth careful steven:</L>
+<L>'Meke Mayster, on &thorn;y mon to mynne if &thorn;e lyked,</L>
+<L N="772">Loth lengez in &yogh;on leede &thorn;at is my lef bro&thorn;er,</L>
+<L>He syttez &thorn;er in Sodomis, &thorn;y servaunt so povere,</L>
+<L>Among &thorn;o mansed men &thorn;at han &thorn;e much greved.</L>
+<L>&YOGH;if &thorn;ou tynez &thorn;at toun, tempre &thorn;yn yre,</L>
+<L N="776">As &thorn;y mersy may malte &thorn;y meke to spare.'</L>
+<L>&THORN;en he wendez his way, wepande for care,<NOTE PLACE="foot"><I>MS., M.</I> wende&yogh; wende&yogh;.</NOTE>
+<PB REF="00000095.tif" N="31"></L>
+<L>Towarde &thorn;e mere of Mambre, [morn]ande for so[r&yogh;e],<NOTE PLACE="foot"><I>MS., M.</I> wepande; <I>Sch. suggests</I> mourninge: <I>M.</I><SUP>1</SUP> sorewe, <I>M.</I><SUP>2</SUP> so[r&yogh;e] <I>with note</I> 'sorewe <I>is written by a late hand over the original word</I>,' (<I>see Introd., p. viii, and also note on this line</I>).</NOTE></L>
+<L>And &thorn;ere in longyng al ny&yogh;t he lengez in wones,</L>
+<L N="780">Whyl &thorn;e Soverayn to Sodamas sende to spye.</L>
+</LG>
+</DIV1>
+<DIV1 N="10" TYPE="section">
+<HEAD>X. LOT ENTERTAINS THE TWO ANGELS</HEAD>
+<LG TYPE="stanza">
+<L>His sondes into Sodamas watz sende in &thorn;at tyme,</L>
+<L>In &thorn;at ilk eventyde, by aungels tweyne,</L>
+<L>Mevande mekely togeder as myry men &yogh;onge,<NOTE PLACE="foot"><I>M.S., M.</I> meuand, meuande.</NOTE></L>
+<L N="784">As Loot in a loge-dor lened hym alone,</L>
+<L>In a porche of &thorn;at place py&yogh;t to &thorn;e &yogh;ates,<NOTE PLACE="foot"><I>in</I> place <I>the second stroke of the</I> p <I>covers an extra</I> 1.</NOTE></L>
+<L>&THORN;at watz ryal and ryche&mdash;so watz &thorn;e renkes selven.</L>
+<L>As he stared into &thorn;e strete &thorn;er stout men played,</L>
+<L N="788">He sy&yogh;e &thorn;er swey in asent swete men tweyne;</L>
+<L>Bolde burnez were &thorn;ay bo&thorn;e, wyth berdles chynnez,</L>
+<L>Royl rollande fax, to raw sylk lyke,</L>
+<L>Of ble as &thorn;e brere-flor where so &thorn;e bare schew[e]d;<NOTE PLACE="foot"><I>MS., M.</I> scheweed.</NOTE></L>
+<L N="792">Ful clene watz &thorn;e countenaunce of her cler y&yogh;en;</L>
+<L>Wlonk whit watz her wede and wel hit hem semed.<MILESTONE N="72a" UNIT="folio"></L>
+<L>Of alle feturez ful fyn and fautlez bo&thorn;e,</L>
+<L>Watz non au[c]ly in ou&thorn;er, for aungels hit wern.<NOTE PLACE="foot"><I>MS., M.</I> autly, <I>G. reads MS.</I> aucly (<I>but see note</I>).</NOTE></L>
+</LG>
+<LG TYPE="stanza">
+<L N="796">And &thorn;at &thorn;e &yogh;ep under&yogh;ede &thorn;at in &thorn;e &yogh;ate syttez,</L>
+<L>He ros up ful radly and ran hem to mete,</L>
+<L>And lo&yogh;e he loutez hem to, Loth, to &thorn;e grounde,</L>
+<L>And sy&thorn;en soberly: 'Syrez, I yow byseche,<NOTE PLACE="foot"><I>M. inserts</I> sat&yogh; (<I>form would probably be</I> sayt&yogh;) <I>after</I> soberly.</NOTE></L>
+<L N="800">&THORN;at &yogh;e wolde ly&yogh;t at my loge and lenge &thorn;erinne;</L>
+<L>Comez to yor knavez kote, I crave at &thorn;is onez;<NOTE PLACE="foot"><I>MS.</I> knaue&yogh; kote; <I>M.</I><SUP>1</SUP> kuchie&yogh;-kote (<I>which MS. resembles because second stroke of</I> a <I>is high</I>); <I>M.</I><SUP>2</SUP> knaues kote.</NOTE>
+<PB REF="00000096.tif" N="32"></L>
+<L>I schal fette yow a fatte yor fette forto wasche.</L>
+<L>I norne yow bot for on ny&yogh;t ne&yogh;e me to lenge,</L>
+<L N="804">And in &thorn;e myry mornyng &yogh;e may yor waye take.'</L>
+<L>And &thorn;ay nay &thorn;at &thorn;ay nolde ne&yogh; no howsez,</L>
+<L>Bot stylly &thorn;er in &thorn;e strete as &thorn;ay stadde wern,</L>
+<L>&THORN;ay wolde lenge &thorn;e long na&yogh;t and logge &thorn;eroute;</L>
+<L N="808">Hit watz hous inno&yogh;&edot; to hem &thorn;e heven upon lofte.</L>
+<L>Loth la&thorn;ed so longe wyth luflych wordez</L>
+<L>&THORN;at pay hym graunted to go, and gru&yogh;t no lenger.</L>
+<L>&THORN;e bolde to his byggyng bryngez hem bylyve,</L>
+<L N="812">&THORN;at [watz] ryally arayed, for he watz ryche ever.<NOTE PLACE="foot"><I>MS.</I> &thorn;at ryally arayed; <I>M. inserts</I> watz <I>after</I> ryally.</NOTE></L>
+</LG>
+<LG TYPE="stanza">
+<L>&THORN;e wy&yogh;ez wern welcom as &thorn;e wyf cou&thorn;e;</L>
+<L>His two dere do&yogh;terez devoutly hem haylsed,</L>
+<L>&THORN;at wer maydenez ful meke, maryed not &yogh;et,</L>
+<L N="816">And &thorn;ay wer semly and swete, and swy&thorn;e wel arayed.</L>
+<L>Loth &thorn;enne ful ly&yogh;tly lokez hym aboute,</L>
+<L>And his men amonestes mete for to dy&yogh;t:</L>
+<L>'Bot &thorn;enkkez on hit be &thorn;refte, what &thorn;ynk so &yogh;e make,<NOTE PLACE="foot"><I>MS., M.</I> &thorn;ynk; <I>M. note</I> &thorn;yng(?).</NOTE></L>
+<L N="820">For wyth no sour ne no salt servez hym never.'<NOTE PLACE="foot"><I>MS. M., Fi.</I> sour; <I>M. note</I> savour(?).</NOTE></L>
+<L>Bot &yogh;et I wene &thorn;at &thorn;e wyf hit wroth to dyspyt,<NOTE PLACE="foot"><I>MS., M.</I> wroth; <I>M. note</I> wro&yogh;t(?); <I>Fi.</I> wro&yogh;te.</NOTE></L>
+<L>And sayde softely to hirself: '&THORN;is un[s]avere hyne<NOTE PLACE="foot"><I>MS.</I> vnfavere; <I>M. corrects to</I> vnsavere.</NOTE></L>
+<L>Lovez no salt in her sauce; &yogh;et hit no skyl were</L>
+<L N="824">&THORN;at o&thorn;er burne be boute, &thorn;a&yogh; bo&thorn;e be nyse.'</L>
+<L>&THORN;enne ho saverez wyth salt her seuez uch one,</L>
+<L>Agayne &thorn;e bone of &thorn;e burne &thorn;at hit forboden hade,</L>
+<L>And als ho scelt hem in scorne &thorn;at wel her skyl knewen.</L>
+<L N="828">Why watz ho, wrech, so wod? Ho wrathed oure Lorde.</L>
+<L>&THORN;enne seten &thorn;ay at &thorn;e soper, wern served bylyve,<MILESTONE N="72b" UNIT="folio"></L>
+<L>&THORN;e gestes gay and ful glad, of glam debonere,</L>
+<L>Welawynnely wlonk tyl &thorn;ay waschen hade,
+<PB REF="00000097.tif" N="33"></L>
+<L N="832">&THORN;e trestes tylt to &thorn;e wo&yogh;e and &thorn;e table bo&thorn;e.</L>
+</LG>
+<LG TYPE="stanza">
+<L>Fro &thorn;e seggez haden souped and seten bot a whyle,</L>
+<L>Er ever &thorn;ay bosked to bedde, &thorn;e bor&yogh; watz al up,</L>
+<L>Alle &thorn;at weppen my&yogh;t welde, &thorn;e wakker and &thorn;e stronger,</L>
+<L N="836">To umbely&yogh;e Lothez hous &thorn;e ledez to take.</L>
+<L>In grete flokkez of folk &thorn;ay fallen to his &yogh;atez;</L>
+<L>As a scowte-wach scarred, so &thorn;e asscry rysed;</L>
+<L>Wyth kene clobbez of &thorn;at clos &thorn;ay clatz on &thorn;e wowez,</L>
+<L N="840">And wyth a schrylle scharp schout &thorn;ay schewe &thorn;yse worde:<NOTE PLACE="foot"><I>MS., M.</I> worde; <I>Fi.</I> worde&yogh;.</NOTE></L>
+<L>'If &thorn;ou lovyez &thorn;y lyf, Loth, in &thorn;yse wones,<NOTE PLACE="foot"><I>MS.</I> wones; <I>M.</I> wone&yogh;.</NOTE></L>
+<L>&YOGH;ete uus out &thorn;ose &yogh;ong men &thorn;at &yogh;ore-whyle here entred,</L>
+<L>&THORN;at we may lere hym of lof, as oure lyst biddez,<NOTE PLACE="foot"><I>MS., M.</I> hym; <I>M. note</I> hem(?), <I>which Fi. accepts.</I></NOTE></L>
+<L N="844">As is &thorn;e asyse of Sodomas to seggez &thorn;at passen.'</L>
+<L>Whatt! &thorn;ay sputen and speken of so spitous fyl&thorn;e,</L>
+<L>What! &thorn;ay &yogh;e&yogh;ed and &yogh;olped of &yogh;estande sor&yogh;e,</L>
+<L>&THORN;at &yogh;et &thorn;e wynd, and &thorn;e weder, and &thorn;e worlde stynkes</L>
+<L N="848">Of &thorn;e brych &thorn;at upbraydez &thorn;ose bro&thorn;elych wordez.</L>
+</LG>
+<LG TYPE="stanza">
+<L>&THORN;e god man glyfte wyth &thorn;at glam and gloped for noyse;</L>
+<L>So scharpe schame to hym schot, he schrank at &thorn;e hert,</L>
+<L>For he knew &thorn;e costoum &thorn;at ky&thorn;ed &thorn;ose wrechez,</L>
+<L N="852">He doted never for no doel so depe in his mynde.</L>
+<L>'Allas!' sayd hym &thorn;enne Loth, and ly&yogh;tly he rysez,</L>
+<L>And bowez forth fro &thorn;e bench into &thorn;e brode &yogh;ates.</L>
+<L>What! he wonded no wo&thorn;e of wekked knavez,</L>
+<L N="856">&THORN;at he ne passed &thorn;e port &thorn;e p[er]il to abide.<NOTE PLACE="foot"><I>MS.</I> pil; <I>M.</I> peril.</NOTE></L>
+<L>He went forthe at &thorn;e wyket and waft hit hym after,</L>
+<L>&THORN;at a clyket hit cle&yogh;t clos hym byhynde.</L>
+<L>&THORN;enne he meled to &thorn;o men mesurable wordez,</L>
+<L N="860">For harlotez wyth his hendelayk he hoped to chast:
+<PB REF="00000098.tif" N="34"></L>
+<L>'Oo, my frendez so fre, yor fare is to strange;</L>
+<L>Dotz away yor derf dyn, and derez never my gestes.</L>
+<L>Avoy! hit is yor vylaynye, &yogh;e vylen yorselven;</L>
+<L N="864">And &yogh;e ar jolyf gentylmen, yor japez ar ille.<NOTE PLACE="foot"><I>MS.</I> iape&yogh;; <I>M.</I> iapes.</NOTE></L>
+<L>Bot I schal kenne yow by kynde a crafte &thorn;at is better:<MILESTONE N="73a" UNIT="folio"></L>
+<L>I haf a tresor in my telde of tow my fayre de&yogh;ter,</L>
+<L>&THORN;at ar maydenez unmard for alle men &yogh;ette,</L>
+<L N="868">In Sodamas, &thorn;a&yogh; I hit say, non semloker burdes;</L>
+<L>Hit arn ronk, hit arn rype, and redy to manne;</L>
+<L>To samen wyth &thorn;o semly &thorn;e solace is better.</L>
+<L>I schal biteche yow &thorn;o two &thorn;at tayt arn and quoynt,</L>
+<L N="872">And laykez wyth hem as yow lyst, and letez my gestes one.'</L>
+</LG>
+<LG TYPE="stanza">
+<L>&THORN;enne &thorn;e rebaudez so ronk rerd such a noyse,</L>
+<L>&THORN;at a&yogh;ly hurled in his erez her harlotez speche:</L>
+<L>'Wost &thorn;ou not wel &thorn;at &thorn;ou wonez here a wy&yogh;e strange?</L>
+<L N="876">An outcomlyng, a carle, we kylle of &thorn;yn heved!</L>
+<L>Who joyned &thorn;e be jostyse oure japez to blame,</L>
+<L>&THORN;at com a boy to &thorn;is bor&yogh;, &thorn;a&yogh; &thorn;ou be burne ryche?'</L>
+<L>&THORN;us &thorn;ay &thorn;robled and &thorn;rong and &thorn;rwe umbe his erez,</L>
+<L N="880">And distresed hym wonder strayt wyth strenk&thorn;e in &thorn;e prece,</L>
+<L>Bot &thorn;at &thorn;e &yogh;onge men, so &yogh;epe, &yogh;ornen &thorn;eroute,</L>
+<L>Wapped upon &thorn;e wyket and wonnen hem tylle,</L>
+<L>And by &thorn;e hondez hym hent and horyed hym wythinne,</L>
+<L N="884">And steken &thorn;e &yogh;ates ston-harde wyth stalworth barrez.</L>
+<L>&THORN;ay blwe a boffet in blande &thorn;at banned peple,</L>
+<L>&THORN;at &thorn;ay blustered as blynde as Bayard watz ever;</L>
+<L>&THORN;ay lest of Lotez logging any lysoun to fynde,</L>
+<L N="888">Bot nyteled &thorn;er alle &thorn;e ny&yogh;t for no&yogh;t at &thorn;e last.</L>
+<L>&THORN;enne uch tolke ty&yogh;t hem &thorn;at hade of tayt fayled,</L>
+<L>And uch on ro&thorn;eled to &thorn;e rest &thorn;at he reche mo&yogh;t.</L>
+<L>Bot &thorn;ay wern wakned al wrank &thorn;at &thorn;er in won lenged,<NOTE PLACE="foot"><I>MS., M.</I> wrank; <I>M. note</I> wrang(?).</NOTE></L>
+<L N="892">Of on &thorn;e uglokest unhap &thorn;at ever on erd suffred.
+</L>
+</LG>
+
+</DIV1>
+<DIV1 N="11" TYPE="section"><PB REF="00000099.tif" N="35">
+<HEAD>XI. THE DESTRUCTION OF THE CITIES</HEAD>
+<LG TYPE="stanza">
+<L>Ruddon of &thorn;e day-rawe ros upon u&yogh;ten,</L>
+<L>When merk of &thorn;e mydny&yogh;t mo&yogh;t no more last.</L>
+<L>Ful erly &thorn;ose aungelez &thorn;is ha&thorn;el &thorn;ay ru&thorn;en,</L>
+<L N="896">And glopnedly on Godez halve gart hym upryse;</L>
+<L>Fast &thorn;e freke ferkez up ful ferd at his hert,</L>
+<L>&THORN;ay comaunded hym cof to cach &thorn;at he hade,</L>
+<L>'Wyth &thorn;y wyf and &thorn;y wy&yogh;ez and &thorn;y wlonc de&yogh;tters,</L>
+<L N="900">For we la&thorn;e &thorn;e, Sir Loth, &thorn;at &thorn;ou &thorn;y lyf have.</L>
+<L>Cayre tid of &thorn;is kythe er combred &thorn;ou wor&thorn;e,<MILESTONE N="73b" UNIT="folio"></L>
+<L>With alle &thorn;i here upon haste, tyl &thorn;ou a hil fynde;</L>
+<L>Foundez faste on yor fete, bifore yor face lokes,</L>
+<L N="904">Bot bes never so bolde to blusch yow bihynde,</L>
+<L>And loke &yogh;e stemme no stepe, bot strechez on faste,</L>
+<L>Til &yogh;e reche to a reset, rest &yogh;e never.</L>
+<L>For we schal tyne &thorn;is toun and tray&thorn;ely disstrye,</L>
+<L N="908">Wyth alle &thorn;ise wy&yogh;ez so wykke wy&yogh;tly devoyde,</L>
+<L>And alle &thorn;e londe wyth &thorn;ise ledez we losen at onez;</L>
+<L>Sodomas schal ful sodenly synk into grounde,</L>
+<L>And &thorn;e grounde of Gomorre gorde into helle,</L>
+<L N="912">And uche a koste of &thorn;is kyth clater upon hepes.'<NOTE PLACE="foot"><I>M.</I><SUP>1</SUP> kyth, <I>M.</I><SUP>2</SUP> kythe (<I>but see Introd., p. x, n. 2, on the flourish after</I> h).</NOTE></L>
+<L>&THORN;en laled Loth: 'Lorde, what is best?<NOTE PLACE="foot"><I>Fi. would insert</I> lo&yogh;ly <I>after</I> &thorn;en.</NOTE></L>
+<L>If I me fele upon fote &thorn;at I fle mo&yogh;t,</L>
+<L>Hou schulde I huyde me fro hem &thorn;at hatz his hate kynned,</L>
+<L N="916">In &thorn;e brath of his breth &thorn;at brennez alle &thorn;inkez,<NOTE PLACE="foot"><I>MS., M.</I> &thorn;inke&yogh;; <I>M. note</I> &thorn;inge&yogh;.</NOTE></L>
+<L>To crepe fro my Creator, and know not wheder,</L>
+<L>Ne whe&thorn;er his fooschip me fol&yogh;ez bifore o&thorn;er bi|hynde?'<NOTE PLACE="foot"><I>last four letters of</I> fooschip <I>retraced, as also</I> sake (<I>922</I>), (Q) ut of (<I>923</I>), <I>etc.</I> (<I>see Introd., p. ix</I>).</NOTE></L>
+<L>&THORN;e freke sayde: 'No foschip oure Fader hatz &thorn;e schewed,
+<PB REF="00000100.tif" N="36"></L>
+<L N="920">Bot hi&yogh;ly hevened &thorn;i hele fro hem &thorn;at arn combred:</L>
+<L>Nou wale &thorn;e a wonnyng &thorn;at &thorn;e warisch my&yogh;t,<NOTE PLACE="foot"><I>M.</I> walle, <I>but</I> e <I>of MS. written over second</I> l.</NOTE></L>
+<L>And he schal save hit for &thorn;y sake &thorn;at hatz uus sende hider,</L>
+<L>For &thorn;ou art oddely &thorn;yn one out of &thorn;is fyl&thorn;e,</L>
+<L N="924">And als Abraham, &thorn;y[n em], hit at himself asked.'<NOTE PLACE="foot"><I>MS.</I> bro&thorn;er <I>is written in a second hand, the</I> b <I>and</I> r <I>being unlike the scribe's, over the</I> n <I>of</I> &thorn;yn <I>and what was apparently</I> em, <I>perhaps</I> eme; <I>the first stroke of</I> n <I>is plainly visible just before the</I> b, <I>and some other bits of the original handwriting may be distinguished.</I></NOTE></L>
+<L>'Lorde, loved he wor&thorn;e,' quod Loth, 'upon er&thorn;e!</L>
+<L>&THORN;e[r] is a cite herbisyde &thorn;at Segor hit hatte,<NOTE PLACE="foot"><I>MS., M.</I> &thorn;en.</NOTE></L>
+<L>Here utter on a rounde hil hit hovez hit one,</L>
+<L N="928">I wolde, if his wylle wore, to &thorn;at won scape.'<NOTE PLACE="foot">wore <I>apparently retraced.</I></NOTE></L>
+<L>'&THORN;enn fare forth,' quod &thorn;at fre, 'and fyne &thorn;ou never,</L>
+<L>Wyth &thorn;ose ilk &thorn;at &thorn;ow wylt &thorn;at &thorn;renge &thorn;e after,</L>
+<L>And ay goande on yor gate, wythouten agayntote,</L>
+<L N="932">For alle &thorn;is londe schal be lorne, longe er &thorn;e sonne rise.'</L>
+</LG>
+<LG TYPE="stanza">
+<L>&THORN;e wy&yogh;e wakened his wyf and his wlonk de&yogh;teres,</L>
+<L>And o&thorn;er two myri men &thorn;o maydenez schulde wedde;</L>
+<L>And &thorn;ay token hit as t[a]yt, and tented hit lyttel,<NOTE PLACE="foot"><I>MS., M.</I> tyt.</NOTE></L>
+<L N="936">&THORN;a&yogh; fast la&thorn;ed hem Loth, &thorn;ay le&yogh;en ful stylle.</L>
+<L>&THORN;e aungelez hasted &thorn;ise o&thorn;er, and a&yogh;ly hem &thorn;ratten,<MILESTONE N="74a" UNIT="folio"></L>
+<L>And enforsed alle fawre forth at &thorn;e &yogh;atez:</L>
+<L>&THORN;o wern Loth and his lef, his luflyche de&yogh;ter,</L>
+<L N="940">&THORN;er so&yogh;t no mo to savement of cities a&thorn;el fyve.</L>
+<L>&THORN;ise aungelez hade hem by hande out at &thorn;e &yogh;atez,</L>
+<L>Prechande hem &thorn;e perile, and beden hem passe fast:</L>
+<L>'Lest &yogh;e be taken in &thorn;e teche of tyrauntez here,</L>
+<L N="944">Loke &yogh;e bowe now bi bot, bowez fast hence!'</L>
+<L>And &thorn;ay kayre ne con and kenely flowen;<NOTE PLACE="foot"><I>MS., E.</I> kayre ne con; <I>M.</I> kayre-ne (<I>Glossary</I> kayrene); <I>Fi. quotes and accepts Trautmann's emendation</I> encon (<I>see note</I>).</NOTE>
+<PB REF="00000101.tif" N="37"></L>
+<L>Erly, er any heven-glem, &thorn;ay to a hil comen.</L>
+</LG>
+<LG TYPE="stanza">
+<L>&THORN;e grete God in his greme bygynnez on lofte;</L>
+<L N="948">To wakan wederez so wylde &thorn;e wyndez he callez,</L>
+<L>And &thorn;ay wro&thorn;ely upwafte and wrastled togeder,</L>
+<L>Fro fawre half of &thorn;e folde flytande loude.</L>
+<L>Clowdez clustered bytwene, kesten up torres,</L>
+<L N="952">&THORN;at &thorn;e &thorn;ik &thorn;under-&thorn;rast &thorn;irled hem ofte.</L>
+<L>&THORN;e rayn rueled adoun, ridlande &thorn;ikke,</L>
+<L>Of felle flaunkes of fyr and flakes of soufre,</L>
+<L>Al in smolderande smoke smachande ful ille,</L>
+<L N="956">Swe aboute Sodamas and hit sydez alle,<NOTE PLACE="foot"><I>MS., M.</I> swe; <I>M. note</I> sweyed (?) <I>accepted by Fi.; B.</I> swe[d] or swe[led].</NOTE></L>
+<L>Gorde to Gomorra, &thorn;at &thorn;e grounde laused,</L>
+<L>Abdama and Syboym, &thorn;ise ceteis alle faure,</L>
+<L>Al birolled wyth &thorn;e rayn, rostted and brenned,</L>
+<L N="960">And ferly flayed &thorn;at folk &thorn;at in &thorn;ose fees lenged.</L>
+<L>For when &thorn;at &thorn;e helle herde &thorn;e houndez of heven,</L>
+<L>He watz ferlyly fayn, unfolded bylyve;</L>
+<L>&THORN;e grete barrez of &thorn;e abyme he barst up at onez,</L>
+<L N="964">&THORN;at alle &thorn;e regioun torof in riftes ful grete,</L>
+<L>And cloven alle in lyttel cloutes &thorn;e clyffez aywhere,</L>
+<L>As lance levez of &thorn;e boke &thorn;at lepes in twynne.</L>
+<L>&THORN;e brethe of &thorn;e brynston bi &thorn;at hit blende were,</L>
+<L N="968">Al &thorn;o citees and her sydes sunkken to helle.</L>
+<L>Rydelles wern &thorn;o grete rowtes of renkkes wythinne,</L>
+<L>When &thorn;ay wern war of &thorn;e wrake &thorn;at no wy&yogh;e achaped;</L>
+<L>Such a &yogh;omerly &yogh;arm of &yogh;ellyng &thorn;er rysed,</L>
+<L N="972">&THORN;erof clatered &thorn;e cloudes &thorn;at Kryst my&yogh;t haf raw&thorn;e.</L>
+</LG>
+<LG TYPE="stanza">
+<L>&THORN;e segge herde &thorn;at soun to Segor &thorn;at &yogh;ede,<MILESTONE N="74b" UNIT="folio"></L>
+<L>And &thorn;e wenches hym wyth &thorn;at by &thorn;e way fol&yogh;ed;</L>
+<L>Ferly ferde watz her flesch &thorn;at flowen ay ilyche,</L>
+<L N="976">Trynande ay a hy&yogh;e trot &thorn;at torne never dorsten.</L>
+<L>Loth and &thorn;o luly-whit, his lefly two de&yogh;ter,
+<PB REF="00000102.tif" N="38"></L>
+<L>Ay fol&yogh;ed here face, bifore her bo&thorn;e y&yogh;en;</L>
+<L>Bot &thorn;e balleful burde &thorn;at never bode keped,</L>
+<L N="980">Blusched byhynden her bak, &thorn;at bale for to herkken.</L>
+<L>Hit watz lusty Lothes wyf &thorn;at over he[r] lyfte schulder<NOTE PLACE="foot"><I>MS.</I> he, <I>M.</I> he[r].</NOTE></L>
+<L>Ones ho bluschet to &thorn;e bur&yogh;e, bot bod ho no lenger,</L>
+<L>&THORN;at ho nas stadde a stiffe ston, a stalworth image</L>
+<L N="984">Also salt as ani se, and so ho &yogh;et standez.</L>
+<L>&THORN;ay slypped bi and sy&yogh;e hir not &thorn;at wern hir samen|feres,</L>
+<L>Tyl &thorn;ay in Segor wern sette, and sayned our Lorde;</L>
+<L>Wyth ly&yogh;t lovez uplyfte &thorn;ay loved hym swy&thorn;e,</L>
+<L N="988">&THORN;at so his servauntes wolde see and save of such wo&thorn;e.</L>
+<L>Al watz dampped and don and drowned by &thorn;enne;</L>
+<L>&THORN;e ledez of &thorn;at lyttel toun wern lopen out for drede</L>
+<L>Into &thorn;at malscrande mere, marred bylyve,</L>
+<L N="992">&THORN;at no&yogh;t saved watz bot Segor &thorn;at sat on a lawe,</L>
+<L>&THORN;e &thorn;re ledez &thorn;erin, Loth and his de&yogh;ter.</L>
+<L>For his make watz myst, &thorn;at on &thorn;e mount lenged</L>
+<L>In a stonen statue &thorn;at salt savor habbes,</L>
+<L N="996">For two fautes &thorn;at &thorn;e fol watz founde in mistrau&thorn;e:</L>
+<L>On, ho served at &thorn;e soper salt bifore Dry&yogh;tyn,</L>
+<L>And sy&thorn;en, ho blusched hir bihynde, &thorn;a&yogh; hir forboden were;</L>
+<L>For on ho standes a ston, and salt for &thorn;at o&thorn;er,</L>
+<L N="1000">And alle lyst on hir lik &thorn;at arn on launde bestes.</L>
+</LG>
+<LG TYPE="stanza">
+<L>Abraham ful erly watz up on &thorn;e morne,</L>
+<L>&THORN;at alle na&yogh;t much niye hade nom[e]n in his hert,<NOTE PLACE="foot"><I>MS., M.</I> no mon, <I>M. inserting</I> [so] <I>after</I> na&yogh;t; <I>Fi. would omit</I> alle; <I>E. suggests</I> nomon (<I>see note</I>).</NOTE></L>
+<L>Al in longing for Loth leyen in a wache,</L>
+<L N="1004">&THORN;er he lafte hade oure Lorde, he is on lofte wonnen;</L>
+<L>He sende toward Sodomas &thorn;e sy&yogh;t of his y&yogh;en,</L>
+<L>&THORN;at ever hade ben an erde of er&thorn;e &thorn;e swettest,</L>
+<L>As aparaunt to paradis &thorn;at plantted &thorn;e Dry&yogh;tyn;
+<PB REF="00000103.tif" N="39"></L>
+<L N="1008">Nou is hit plunged in a pit like of pich fylled.</L>
+<L>Suche a ro&thorn;un of a reche ros fro &thorn;e blake,<MILESTONE N="75a" UNIT="folio"></L>
+<L>Askez upe in &thorn;e ayre and usellez &thorn;er flowen,</L>
+<L>As a fornes ful of flot &thorn;at upon fyr boyles</L>
+<L N="1012">When bry&yogh;t brennande brondez ar bet &thorn;er anunder.</L>
+</LG>
+<LG TYPE="stanza">
+<L>&THORN;is watz a vengaunce violent &thorn;at voyded &thorn;ise places,</L>
+<L>&THORN;at foundered hatz so fayr a folk, and &thorn;e folde sonkken.</L>
+<L>&THORN;er faure citees wern set, nou is a see called,<NOTE PLACE="foot">&thorn;er faure <I>by second hand, the</I> r <I>of</I> &thorn;er <I>being unlike the scribe's</I> (<I>cf.</I> for <I>257,</I> bro&thorn;er, <I>924</I>) <I>and the</I> r <I>of</I> faur <I>having an extraordinary flourish above it, apparently intended as abbrev. for</I> e; <I>a faint stroke under a may indicate that the original had</I> fyve: is, <I>inserted above line by second hand, which is betrayed by the Greek</I> s.</NOTE></L>
+<L N="1016">&THORN;at ay is drovy and dym, and ded in hit kynde,</L>
+<L>Blo, blubrande, and blak, unbly&thorn;e to ne&yogh;e,</L>
+<L>As a stynkande stanc &thorn;at stryed synne,</L>
+<L>&THORN;at ever of s[mell]e and of smach, smart is to fele.<NOTE PLACE="foot"><I>MS., M., Sk.</I> synne.</NOTE></L>
+<L N="1020">For&thorn;y &thorn;e derk Dede See hit is demed evermore,</L>
+<L>For hit dedez of de&thorn;e duren &thorn;ere &yogh;et;</L>
+<L>For hit is brod and bo&thorn;emlez, and bitter as &thorn;e galle,</L>
+<L>And no&yogh;t may lenge in &thorn;at lake &thorn;at any lyf berez,</L>
+<L N="1024">And alle &thorn;e costez of kynde hit combrez uch one.</L>
+<L>For lay &thorn;eron a lump of led, and hit on loft fletez,</L>
+<L>And folde &thorn;eron a ly&yogh;t fy&thorn;er, and hit to founs synkkez;</L>
+<L>And &thorn;er water may walter to wete any er&thorn;e,<NOTE PLACE="foot"><I>Sk. inserts</I> &thorn;at <I>after</I> &thorn;er.</NOTE></L>
+<L N="1028">Schal never grene &thorn;eron growe, gresse ne wod naw&thorn;er.<NOTE PLACE="foot"><I>M.</I><SUP>1</SUP> greue, <I>note</I> grene(?); <I>M.</I><SUP>2</SUP> grene.</NOTE></L>
+<L>If any schalke to be schent wer schowved &thorn;erinne,</L>
+<L>&THORN;a&yogh; he bode in &thorn;at bo&thorn;em bro&thorn;ely a monyth,</L>
+<L>He most ay lyve in &thorn;at lo&yogh;e in losyng evermore,</L>
+<L N="1032">And never dry&yogh;e no dethe to dayes of ende.</L>
+<L>And as hit is corsed of kynde, and hit coostez als,</L>
+<L>&THORN;e clay &thorn;at clenges &thorn;erby arn corsyes strong,
+<PB REF="00000104.tif" N="40"></L>
+<L>As alum and alkaran, &thorn;at angre arn bo&thorn;e,<NOTE PLACE="foot"><I>MS., M., Sk.</I> alkaran; <I>M. note</I> alkatran (?).</NOTE></L>
+<L N="1036">Soufre sour, and saundyver, and o&thorn;er such mony;</L>
+<L>And &thorn;er waltez of &thorn;at water, in waxlokes grete,<NOTE PLACE="foot"><I>M., Sk.</I> angre; <I>M. note</I> augre=aigre(?).</NOTE></L>
+<L>&THORN;e spu[m]ande aspaltoun &thorn;at spyserez sellen;<NOTE PLACE="foot"><I>MS. has five strokes between</I> sp <I>and</I> ande, <I>and the last of these strokes is an</I> i <I>as stroke above shows; M., Sk.</I> spuniande; <I>M. note</I> spinnande(?); <I>Sk. Glossary</I> spinnande <I>or</I> spumande, <I>latter adopted by NED</I>.</NOTE></L>
+<L>And suche is alle &thorn;e soyle by &thorn;at se halves,</L>
+<L N="1040">&THORN;at fel fretes &thorn;e flesch and festre[s] bones.<NOTE PLACE="foot"><I>MS., M., Sk.</I> festred; <I>M. note</I> festres(?).</NOTE></L>
+<L>And &thorn;er ar tres by &thorn;at terne of traytores,<NOTE PLACE="foot"><I>Sk. adds</I> kynde <I>after</I> traytores.</NOTE></L>
+<L>And &thorn;ay borgounez and beres blomez ful fayre,</L>
+<L>And &thorn;e fayrest fryt &thorn;at may on folde growe,</L>
+<L N="1044">As orenge and o&thorn;er fryt and apple garnade,</L>
+<L>Also red and so ripe and rychely hwed<MILESTONE N="75b" UNIT="folio"></L>
+<L>As any dom my&yogh;t device of dayntyez oute;</L>
+<L>Bot quen hit is brused, o&thorn;er broken, o&thorn;er byten in twynne,</L>
+<L N="1048">No worldez goud hit wythinne, bot wyndowande askes.<NOTE PLACE="foot"><I>MS.</I> wyndowande; <I>M., Sk.</I> wydowande, <I>noting MS. reading, but Sk. Glossary 'or</I> wyndowande.'</NOTE></L>
+</LG>
+</DIV1>
+<DIV1 N="11a" TYPE="section">
+<HEAD>XIa. EXHORTATION TO PURITY</HEAD>
+<LG TYPE="stanza">
+<L>Alle &thorn;yse ar teches and tokenes to trow upon &yogh;et,</L>
+<L>And wittnesse of &thorn;at wykked werk, and &thorn;e wrake after</L>
+<L>&THORN;at oure Fader forferde for fyl&thorn;e of &thorn;ose ledes.</L>
+<L N="1052">&THORN;enne uch wy&yogh;e may wel wyt &thorn;at he &thorn;e wlonk lovies;</L>
+<L>And if he lovyes clene layk &thorn;at is oure Lorde ryche,<NOTE PLACE="foot"><I>E.</I> clenelayk.</NOTE></L>
+<L>And to be cou&thorn;e in his corte &thorn;ou coveytes &thorn;enne,</L>
+<L>To se &thorn;at Semly in sete and his swete face,</L>
+<L N="1056">Clerrer counseyl con I non, bot &thorn;at &thorn;ou clene wor&thorn;e.<NOTE PLACE="foot"><I>MS., M.</I> counseyl counsayl.</NOTE></L>
+<L>For Clopyngnel in &thorn;e compas of his clene Rose,</L>
+<L>&THORN;er he expounez a speche, to hym &thorn;at spede wolde,
+<PB REF="00000105.tif" N="41"></L>
+<L>Of a lady to be loved: 'Loke to hir sone,</L>
+<L N="1060">Of wich beryng &thorn;at ho be, and wych ho best lovyes,</L>
+<L>And be ry&yogh;t such, in uch a bor&yogh;e, of body and of dedes,</L>
+<L>And fol&yogh; &thorn;e fet of &thorn;at fere &thorn;at &thorn;ou fre haldes;</L>
+<L>And if &thorn;ou wyrkkes on &thorn;is wyse, &thorn;a&yogh; ho wyk were,</L>
+<L N="1064">Hir schal lyke &thorn;at layk &thorn;at lyknes hir tylle.'</L>
+<L>If &thorn;ou wyl dele drwrye wyth Dry&yogh;tyn, &thorn;enne,</L>
+<L>And lelly lovy &thorn;y Lorde, and his leef wor&thorn;e,</L>
+<L>&THORN;enne conforme &thorn;e to Kryst, and &thorn;e clene make,</L>
+<L N="1068">&THORN;at ever is polyced als playn as &thorn;e perle selven.</L>
+</LG>
+<LG TYPE="stanza">
+<L>For loke fro fyrst &thorn;at he ly&yogh;t wythinne &thorn;e lel Mayden,</L>
+<L>By how comly a kest he watz clos &thorn;ere,</L>
+<L>When venkkyst watz no vergynyte, ne vyolence maked,<NOTE PLACE="foot"><I>MS</I>. he <I>expunged, after</I> when.</NOTE></L>
+<L N="1072">Bot much clener watz hir corse, God kynned &thorn;erinne.</L>
+<L>And efte when he borne watz in Be&thorn;elen &thorn;e ryche,</L>
+<L>In wych puryte &thorn;ay departed; &thorn;a&yogh; &thorn;ay pover were,</L>
+<L>Watz never so blysful a bour as watz a bos &thorn;enne,<NOTE PLACE="foot"><I>MS., M</I>. abos; <I>M. note</I> abof(?); <I>Sk</I>. a bos.</NOTE></L>
+<L N="1076">Ne no schroude-hous so schene as a schepon &thorn;are,</L>
+<L>Ne non so glad under God as ho &thorn;at grone schulde.</L>
+<L>For &thorn;er watz seknesse al sounde &thorn;at sarrest is halden,</L>
+<L>And &thorn;er watz rose reflayr where rote hatz ben ever,</L>
+<L N="1080">And &thorn;er watz solace and songe wher sor&yogh; hatz ay cryed;</L>
+<L>For aungelles wyth instrumentes of organes and pypes,<MILESTONE N="76a" UNIT="folio"></L>
+<L>And rial ryngande rotes, and &thorn;e reken fy&thorn;el,</L>
+<L>And alle hende &thorn;at honestly mo&yogh;t an hert glade,</L>
+<L N="1084">Aboutte my Lady watz lent, quen ho delyver were.</L>
+<L>&THORN;enne watz her bly&thorn;e barne burnyst so clene</L>
+<L>&THORN;at bo&thorn;e &thorn;e ox and &thorn;e asse hym hered at ones:</L>
+<L>&THORN;ay knewe hym by his clannes for Kyng of nature,
+<PB REF="00000106.tif" N="42"></L>
+<L N="1088">For non so clene of such a clos com never er &thorn;enne.</L>
+</LG>
+<LG TYPE="stanza">
+<L>And &yogh;if clanly he &thorn;enne com, ful cortays &thorn;erafter,</L>
+<L>&THORN;at alle &thorn;at longed to lu&thorn;er ful lodly he hated;</L>
+<L>By nobleye of his norture he nolde never towche</L>
+<L N="1092">O&yogh;t &thorn;at watz ungoderly o&thorn;er ordure watz inne.</L>
+<L>&YOGH;et comen lodly to &thorn;at Lede, as lazares monye,</L>
+<L>Summe lepre, summe lome, and lomerande blynde,</L>
+<L>Poysened, and parlatyk, and pyned in fyres,</L>
+<L N="1096">Drye folk, and ydropike, and dede, at &thorn;e laste&mdash;</L>
+<L>Alle called on &thorn;at Cortayse and claymed his grace.</L>
+<L>He heled hem wyth hynde speche of &thorn;at &thorn;ay ask after,</L>
+<L>For what so he towched, also tyd torned to hele,</L>
+<L N="1100">Wel clanner &thorn;en any crafte cow&thorn;e devyse.</L>
+<L>So clene watz his hondelyng uche ordure hit schonied,</L>
+<L>And &thorn;e gropyng so goud of God and man bo&thorn;e,</L>
+<L>&THORN;at for fetys of his fyngeres fonded he never</L>
+<L N="1104">Nau&thorn;er to cout ne to kerve wyth knyf ne wyth egge;<NOTE PLACE="foot"><I>MS., M</I>. cout; <I>M. note</I> cut(?).</NOTE></L>
+<L>For&thorn;y brek he &thorn;e bred blades wythouten,</L>
+<L>For hit ferde freloker in fete in his fayre honde,</L>
+<L>Displayed more pryvyly when he hit part schulde,</L>
+<L N="1108">&THORN;enne alle &thorn;e toles of Tolowse mo&yogh;t ty&yogh;t hit to kerve.</L>
+</LG>
+<LG TYPE="stanza">
+<L>&THORN;us is he kyryous and clene &thorn;at &thorn;ou his cort askes;</L>
+<L>Hou schulde &thorn;ou com to his kyth bot if &thorn;ou clene were?</L>
+<L>Nou ar we sore and synful and souly uch one,<NOTE PLACE="foot"><I>MS</I>. sovly; <I>M</I>. sov[er]ly; <I>Fi</I>. soudly <I>or</I> solwy.</NOTE></L>
+<L N="1112">How schulde we se, &thorn;en may we say, &thorn;at Syre upon throne?</L>
+<L>&YOGH;is, &thorn;at Mayster is mercyable, &thorn;a&yogh; &thorn;ou be man fenny</L>
+<L>And al tomarred in myre, whyl &thorn;ou on molde lyvyes;</L>
+<L>&THORN;ou may schyne &thorn;ur&yogh; schryfte, &thorn;a&yogh; &thorn;ou haf schome served,</L>
+<L N="1116">And pure &thorn;e with penaunce tyl &thorn;ou a perle wor&thorn;e.</L>
+<L>Perle praysed is prys &thorn;er perre is schewed,<MILESTONE N="76b" UNIT="folio">
+<PB REF="00000107.tif" N="43"></L>
+<L>&THORN;a&yogh; hym not derrest be demed to dele for penies.</L>
+<L>Quat may &thorn;e cause be called bot for hir clene hwes,</L>
+<L N="1120">&THORN;at wynnes worschyp abof alle whyte stones?</L>
+<L>For ho schynes so schyr &thorn;at is of schap rounde,</L>
+<L>Wythouten faut o&thorn;er fyl&thorn;e, &yogh;if ho fyn were</L>
+<L>And wax ever in &thorn;e worlde in weryng so olde,<NOTE PLACE="foot"><I>Fi. adopts M.'s suggestion</I> (<I>in notes</I>) <I>of</I> wax ho euer.</NOTE></L>
+<L N="1124">&YOGH;et &thorn;e perle payres not whyle ho in pyese lasttes;<NOTE PLACE="foot"><I>MS., M</I>. pyese; <I>B</I>. pye[r]e.</NOTE></L>
+<L>And if hit cheve &thorn;e chaunce uncheryst ho wor&thorn;e,</L>
+<L>&THORN;at ho blyndes of ble in bour &thorn;er ho lygges,</L>
+<L>No-bot wasch hir wyth worchyp in wyn, as ho askes,</L>
+<L N="1128">Ho by kynde schal becom clerer &thorn;en are.</L>
+<L>So if folk be defowled by unfre chaunce,</L>
+<L>&THORN;at he be sulped in sawle, seche to schryfte,</L>
+<L>And he may polyce hym at &thorn;e prest, by penaunce taken,</L>
+<L N="1132">Wel bry&yogh;ter &thorn;en &thorn;e beryl o&thorn;er browden perles.</L>
+</LG>
+<LG TYPE="stanza">
+<L>Bot war &thorn;e wel, if &thorn;ou be waschen wyth water of schryfte,</L>
+<L>And polysed als playn as parchmen schaven,</L>
+<L>Sulp no more &thorn;enne in synne &thorn;y saule &thorn;erafter,</L>
+<L N="1136">For &thorn;enne &thorn;ou Dry&yogh;tyn dyspleses wyth dedes ful sore,</L>
+<L>And entyses hym to tene more tray&thorn;ly &thorn;en ever,</L>
+<L>And wel hatter to hate &thorn;en hade &thorn;ou not waschen.</L>
+<L>For when a sawele is sa&yogh;tled and sakred to Dry&yogh;tyn,</L>
+<L N="1140">He holly haldes hit his, and have hit he wolde;</L>
+<L>&THORN;enne efte lastes hit likkes, he loses hit ille,</L>
+<L>As hit were rafte wyth unry&yogh;t, and robbed wyth &thorn;ewes.<NOTE PLACE="foot"><I>MS., M</I>. &thorn;ewes; <I>M. note</I> &thorn;eues(?).</NOTE></L>
+<L>War &thorn;e &thorn;enne for &thorn;e wrake; his wrath is achaufed</L>
+<L N="1144">For &thorn;at &thorn;at ones watz his schulde efte be unclene,</L>
+<L>&THORN;a&yogh; hit be bot a bassyn, a bolle, o&thorn;er a scole,</L>
+<L>A dysche, o&thorn;er a dobler, &thorn;at Dry&yogh;tyn onez served,</L>
+<L>To defowle hit ever upon folde fast he forbedes,</L>
+<L N="1148">So is he scoymus of sca&thorn;e &thorn;at scylful is ever.
+<PB REF="00000108.tif" N="44"></L>
+<L>And &thorn;at watz bared in Babyloyn in Baltazar tyme,</L>
+<L>Hou harde unhap &thorn;er hym hent and hastyly sone,</L>
+<L>For he &thorn;e vesselles avyled &thorn;at vayled in &thorn;e temple</L>
+<L N="1152">In servyse of &thorn;e Soverayn sumtyme byfore.</L>
+<L>&YOGH;if &yogh;e wolde ty&yogh;t me a tom, telle hit I wolde,<MILESTONE N="77a" UNIT="folio"></L>
+<L>Hou charged more watz his chaunce &thorn;at hem cherych nolde</L>
+<L>&THORN;en his fader forloyne &thorn;at feched hem wyth stren&thorn;e,<NOTE PLACE="foot"><I>MS., M.</I> forloyne; <I>Fi., E.</I> forloyn[ed].</NOTE></L>
+<L N="1156">And robbed &thorn;e relygioun of relykes alle.</L>
+</LG>
+</DIV1>
+<DIV1 N="12" TYPE="section">
+<HEAD>XII. THE CAPTURE OF JERUSALEM</HEAD>
+<LG TYPE="stanza">
+<L>Danyel in his dialokez devysed sumtyme,</L>
+<L>As &yogh;et is proved expresse in his profecies,</L>
+<L>Hou &thorn;e gentryse of Juise and Jherusalem &thorn;e ryche<NOTE PLACE="foot"><I>MS.</I> jhrlem, <I>M.</I> Iherusalem.</NOTE></L>
+<L N="1160">Watz disstryed wyth distres, and drawen to &thorn;e er&thorn;e.</L>
+<L>For &thorn;at folke in her fayth watz founden untrwe,</L>
+<L>&THORN;at haden hy&yogh;t &thorn;e hy&yogh;e God to halde of hym ever;</L>
+<L>And he hem hal&yogh;ed for his and help at her nede</L>
+<L N="1164">In mukel meschefes mony, &thorn;at mervayl [is] to here;<NOTE PLACE="foot"><I>M. inserts</I> [is].</NOTE></L>
+<L>And &thorn;ay forloyne her fayth and fol&yogh;ed o&thorn;er goddes,</L>
+<L>And &thorn;at wakned his wrath and wrast hit so hy&yogh;e,</L>
+<L>&THORN;at he fylsened &thorn;e faythful in &thorn;e falce lawe</L>
+<L N="1168">To forfare &thorn;e falce in &thorn;e faythe trwe.</L>
+</LG>
+<LG TYPE="stanza">
+<L>Hit watz sen in &thorn;at sy&thorn;e &thorn;at Zede[c]hyas rengned<NOTE PLACE="foot"><I>MS.</I> &yogh;edethyas, <I>as M. notes.</I></NOTE></L>
+<L>In Juda, &thorn;at justised &thorn;e Juyne kynges.</L>
+<L>He sete on Salamones solie, on solemne wyse,</L>
+<L N="1172">Bot of leaute he watz lat to his Lorde hende:</L>
+<L>He used abominaciones of idolatrye,</L>
+<L>And lette ly&yogh;t bi &thorn;e lawe &thorn;at he watz lege tylle.</L>
+<L>For&thorn;i oure Fader upon folde a foman hym wakned,</L>
+<L N="1176">Nabigodenozar nuyed hym swy&thorn;e;</L>
+<L>He pursued into Palastyn wyth proude men mony,
+<PB REF="00000109.tif" N="45"></L>
+<L>And &thorn;er he wast wyth werre &thorn;e wones of &thorn;orpes.<NOTE PLACE="foot"><I>MS.</I> wyth with.</NOTE></L>
+<L>He her&yogh;ed up alle Israel, and hent of &thorn;e beste,<NOTE PLACE="foot"><I>MS.</I> isrl, <I>with usual abbrev. for</I> e <I>attached to</I> 1; <I>M.</I> Israel.</NOTE></L>
+<L N="1180">And &thorn;e gentylest of Judee in Jerusalem biseged,<NOTE PLACE="foot"><I>MS.</I> jrlem; <I>M.</I> Ierusalem (<I>so also 1235, 1432</I>).</NOTE></L>
+<L>Umbewalt alle &thorn;e walles wyth wy&yogh;es ful stronge,</L>
+<L>At uche a dor a do&yogh;ty duk, and dutte hem wythinne;</L>
+<L>For &thorn;e bor&yogh; watz so bygge b[a]tayled alofte,<NOTE PLACE="foot"><I>MS., M.</I> baytayled.</NOTE></L>
+<L N="1184">And stoffed wythinne wyth stout men to stalle hem &thorn;eroute.</L>
+</LG>
+<LG TYPE="stanza">
+<L>&THORN;enne watz &thorn;e sege sette &thorn;e cete aboute,</L>
+<L>Skete skarmoch skelt, much ska&thorn;e lached;</L>
+<L>At uch brugge a berfray on basteles wyse,</L>
+<L>&THORN;at seven sy&thorn;e uch a day asayled &thorn;e &yogh;ates;<MILESTONE N="77b" UNIT="folio"></L>
+<L N="1189">Trwe tulkkes in toures teveled wythinne,<NOTE PLACE="foot"><I>M.</I><SUP>1</SUP> teneled, <I>M.</I><SUP>2</SUP> teueled.</NOTE><NOTE PLACE="foot"><I>NED. prints</I> atwappene (<I>see note</I>).</NOTE></L>
+<L>In bigge brutage of borde, bulde on &thorn;e walles;</L>
+<L>&THORN;ay fe&yogh;t and &thorn;ay fende of, and fylter togeder</L>
+<L N="1192">Til two &yogh;er overtorned, &yogh;et tok &thorn;ay hit never.</L>
+<L>At &thorn;e laste upon longe, &thorn;o ledes wythinne</L>
+<L>Faste fayled hem &thorn;e fode, enfaminied monie;</L>
+<L>&THORN;e hote hunger wythinne hert hem wel sarre</L>
+<L N="1196">&THORN;en any dunt of &thorn;at douthe &thorn;at dowelled &thorn;eroute.</L>
+<L>&THORN;enne wern &thorn;o rowtes redles in &thorn;o ryche wones;</L>
+<L>Fro &thorn;at mete watz myst, megre &thorn;ay wexen,</L>
+<L>And &thorn;ay stoken so strayt &thorn;at &thorn;ay ne stray my&yogh;t</L>
+<L N="1200">A fote fro &thorn;at forselet to forray no goudes.</L>
+</LG>
+<LG TYPE="stanza">
+<L>&THORN;enne &thorn;e kyng of &thorn;e kyth a counsayl hym takes,</L>
+<L>Wyth &thorn;e best of his burnes a blench for to make:</L>
+<L>&THORN;ay stel out on a stylle ny&yogh;t er any steven rysed,</L>
+<L N="1204">And harde hurles &thorn;ur&yogh; &thorn;e oste, er enmies hit wyste.</L>
+<L>Bot er &thorn;ay atwappe ne mo&yogh;t &thorn;e wach wythoute,</L>
+<L>Hi&yogh;e skelt watz &thorn;e askry &thorn;e skewes anunder;</L>
+<L>Loude alarom upon launde lulted watz &thorn;enne;</L>
+<L N="1208">Ryche, ru&thorn;ed of her rest, ran to her wedes,
+<PB REF="00000110.tif" N="46"></L>
+<L>Hard hattes &thorn;ay hent and on hors lepes;</L>
+<L>Cler claryoun crak cryed on lofte.</L>
+<L>By &thorn;at, watz alle on a hepe hurlande swy&thorn;[e],<NOTE PLACE="foot"><I>MS., M.</I> swy&thorn;ee.</NOTE></L>
+<L N="1212">Fol&yogh;ande &thorn;at o&thorn;er flote, and fonde hem bilyve,</L>
+<L>Overtok hem as tyd, tult hem of sadeles,</L>
+<L>Tyl uche prynce hade his per put to &thorn;e grounde.</L>
+</LG>
+<LG TYPE="stanza">
+<L>And &thorn;er watz &thorn;e kyng ka&yogh;t wyth Calde prynces,</L>
+<L N="1216">And alle hise gentyle forjusted on Jerico playnes,</L>
+<L>And presented wern as presoneres to &thorn;e prynce rychest,</L>
+<L>Nabigodenozar, noble in his chayer;</L>
+<L>And he &thorn;e faynest freke &thorn;at he his fo hade,</L>
+<L N="1220">And speke spitously hem to, and spylt &thorn;erafter.</L>
+<L>&THORN;e kynges sunnes in his sy&yogh;t he slow everuch one,</L>
+<L>And holkked out his auen y&yogh;en heterly bo&thorn;e,</L>
+<L>And bede &thorn;e burne to be bro&yogh;t to Babyloyn &thorn;e ryche,</L>
+<L>And &thorn;ere in doungoun be don to dre&yogh;e &thorn;er his wyrdes.<MILESTONE N="78a" UNIT="folio"></L>
+</LG>
+<LG TYPE="stanza">
+<L N="1225">Now se, so &thorn;e Soveray[n] set hatz his wrake;<NOTE PLACE="foot"><I>MS.</I> soveray; <I>M.</I> soueray[n].</NOTE></L>
+<L>Nas hit not for Nabugo ne his noble nau&thorn;er,</L>
+<L>&THORN;at o&thorn;er depryved watz of pryde with paynes stronge,</L>
+<L N="1228">Bot for his beryng so badde agayn his bly&thorn;e Lorde;</L>
+<L>For hade &thorn;e Fader ben his frende &thorn;at hym bifore keped,</L>
+<L>Ne never trespast to him in teche of mysseleve,</L>
+<L>To C[a]lde wer alle calde, and kythes of Ynde&mdash;<NOTE PLACE="foot"><I>MS., M.</I> to Colde wer al Calde (<I>see note</I>); <I>Fi. suggests</I> to-corven (!) <I>for</I> to Colde.</NOTE></L>
+<L N="1232">&YOGH;et take Torkye hem wyth, her tene hade ben little.</L>
+</LG>
+<LG TYPE="stanza">
+<L>&YOGH;et nolde never Nabugo &thorn;is ilke note leve,</L>
+<L>Er he hade t[yrv]ed &thorn;is toun and torne hit to grounde.<NOTE PLACE="foot"><I>MS., M., E.</I> tuyred; <I>G.</I> tyrued: <I>E.</I> torne[d].</NOTE></L>
+<L>He joyned unto Jerusalem a gentyle duc &thorn;enne,</L>
+<L N="1236">His name watz Nabuzardan, to noye &thorn;e Jues;</L>
+<L>He watz mayster of his men and my&yogh;ty himselven,
+<PB REF="00000111.tif" N="47"></L>
+<L>&THORN;e chef of his chevalrye his chekkes to make;</L>
+<L>He brek &thorn;e bareres as bylyve, and &thorn;e bur&yogh; after,</L>
+<L N="1240">And enteres in ful ernestly, in yre of his hert.</L>
+<L>What! &thorn;e maysterry watz mene, &thorn;e men wern away,</L>
+<L>&THORN;e best bo&yogh;ed wyth &thorn;e burne &thorn;at &thorn;e bor&yogh; &yogh;emed;</L>
+<L>And &thorn;o &thorn;at byden wer [s]o biten with &thorn;e bale hunger<NOTE PLACE="foot"><I>MS.</I> fo, <I>as M. notes</I>.</NOTE></L>
+<L N="1244">&THORN;at on wyf hade ben wor&thorn;e &thorn;e welgest fourre.</L>
+<L>Nabizardan no&yogh;t for&thorn;y nolde not spare,</L>
+<L>Bot bede al to &thorn;e bronde under bare egge;</L>
+<L>&THORN;ay slowen of swettest semlych burdes,</L>
+<L N="1248">Ba&thorn;ed barnes in blod, and her brayn spylled,</L>
+<L>Prestes and prelates &thorn;ay presed to de&thorn;e,</L>
+<L>Wyves and wenches her wombes tocorven,</L>
+<L>&THORN;at her boweles outborst aboute &thorn;e diches,</L>
+<L N="1252">And al watz carfully kylde &thorn;at &thorn;ay cach my&yogh;t.</L>
+<L>And alle [&thorn;at] swypped unswol&yogh;ed of &thorn;e sworde kene,<NOTE PLACE="foot"><I>M. supplies</I> &thorn;at.</NOTE></L>
+<L>&THORN;ay wer cagged and ka&yogh;t on capeles al bare,</L>
+<L>Festned fettres to her fete under fole wombes,</L>
+<L N="1256">And bro&thorn;ely bro&yogh;t to Babyloyn &thorn;er bale to suffer;</L>
+<L>So sytte in servage and syte &thorn;at sumtyme wer gentyle;<NOTE PLACE="foot"><I>M.</I> to (<I>with comma after</I> suffer <I>and semi-colon after</I> syte), <I>but MS., though very faint, seems to read</I> so.</NOTE></L>
+<L>Now ar chaunged to chorles, and charged wyth werkkes,</L>
+<L>Bo&thorn;e to cayre at &thorn;e kart and &thorn;e kuy mylke,</L>
+<L>&THORN;at sumtyme sete in her sale syres and burdes.<MILESTONE N="78b" UNIT="folio"></L>
+</LG>
+</DIV1>
+<DIV1 N="12a" TYPE="section">
+<HEAD>XIIa. THE SEIZURE OF THE HOLY RELICS</HEAD>
+<LG TYPE="stanza">
+<L N="1261">And &yogh;et Nabuzardan nyl never stynt</L>
+<L>Er he to &thorn;e tempple tee wyth his tulkkes alle;</L>
+<L>Betes on &thorn;e barers, brestes up &thorn;e &yogh;ates,</L>
+<L N="1264">Slouen alle at a slyp &thorn;at served &thorn;erinne,</L>
+<L>Pulden prestes bi &thorn;e polle, and plat of her hedes,</L>
+<L>Di&yogh;ten dekenes to de&thorn;e, dungen doun clerkkes,
+<PB REF="00000112.tif" N="48"></L>
+<L>And alle &thorn;e maydenes of &thorn;e munster ma&yogh;tyly h[e] kyllen<NOTE PLACE="foot"><I>MS., M.</I> hokyllen, <I>E. suggests</I> hom kylled.</NOTE></L>
+<L N="1268">Wyth &thorn;e swayf of &thorn;e sworde &thorn;at swol&yogh;ed hem alle.</L>
+<L>&THORN;enne ran &thorn;ay to &thorn;e relykes as robbors wylde,</L>
+<L>And pyled alle &thorn;e apparement &thorn;at pented to &thorn;e kyrke&mdash;</L>
+<L>&THORN;e pure pyleres [o]f bras portrayd in golde,<NOTE PLACE="foot">of, o <I>blotted in MS.</I></NOTE></L>
+<L N="1272">And &thorn;e chef chaundeler, charged with &thorn;e ly&yogh;t,</L>
+<L>&THORN;at ber &thorn;e lamp upon lofte &thorn;at lemed evermore</L>
+<L>Bifore &thorn;[e] Sancta Sanctorum, &thorn;er selcouth watz ofte.<NOTE PLACE="foot"><I>MS.</I> &thorn;sancta, <I>M.</I> &thorn;[e] sancta; <I>MS.</I> scor <I>with abbrev. for um, M.</I> sanctorum.</NOTE></L>
+<L>&THORN;ay ca&yogh;t away &thorn;at condelstik, and &thorn;e crowne als,</L>
+<L N="1276">&THORN;at &thorn;e auter hade upon, of a&thorn;el golde ryche;</L>
+<L>&THORN;e gredirne and &thorn;e goblotes garnyst of sylver,</L>
+<L>&THORN;e bases of &thorn;e bry&yogh;t postes and bassynes so schyre,</L>
+<L>Dere disches of golde and dubleres fayre,</L>
+<L N="1280">&THORN;e vyoles and &thorn;e vesselment of vertuous stones.</L>
+<L>Now hatz Nabuzardan nomen alle &thorn;yse noble &thorn;ynges,</L>
+<L>And pyled &thorn;at precious place, and pakked &thorn;ose godes;</L>
+<L>&THORN;e golde of &thorn;e gazafylace to swy&thorn;e gret noumbre,</L>
+<L N="1284">Wyth alle &thorn;e urnmentes of &thorn;at hous, he hamppred togeder.</L>
+<L>Alle he spoyled spitously in a sped whyle</L>
+<L>&THORN;at Salomon so mony a sadde &yogh;er so&yogh;t to make,</L>
+<L>Wyth alle &thorn;e coyntyse &thorn;at he cow&thorn;e, clene to wyrke,</L>
+<L N="1288">Devised he &thorn;e vesselment, &thorn;e vestures clene;</L>
+<L>Wyth sly&yogh;t of his ciences, his Soverayn to love,</L>
+<L>&THORN;e hous and &thorn;e anornementes he hy&yogh;tled togedere.</L>
+<L>Now hatz Nabuzardan num[men] hit al samen,<NOTE PLACE="foot"><I>MS.</I> n&umacr;n&emacr;d; <I>M.</I> numnend, <I>but note</I> nummen(?).</NOTE></L>
+<L N="1292">And sy&thorn;en bet doun &thorn;e bur&yogh; and brend hit in askes.</L>
+</LG>
+<LG TYPE="stanza">
+<L>&THORN;enne wyth legiounes of ledes over londes he rydes,</L>
+<L>Her&yogh;ez of Israel &thorn;e hyrne aboute;
+<PB REF="00000113.tif" N="49"></L>
+<L>Wyth charged chariotes &thorn;e cheftayn he fynde[z],<NOTE PLACE="foot"><I>MS.</I> fynde, <I>M.</I> fynde[&yogh;].</NOTE></L>
+<L>Bikennes &thorn;e catel to &thorn;e kyng, &thorn;at he ca&yogh;t hade,<MILESTONE N="79a" UNIT="folio"><NOTE PLACE="foot"><I>Catchwords</I> Bikennes &thorn;e catel <I>at bottom of preceding page.</I></NOTE></L>
+<L N="1297">Presented him &thorn;e presoneres in pray &thorn;at &thorn;ay token&mdash;<NOTE PLACE="foot"><I>M. expands the same abbreviation above</I> p <I>differently</I>, presented, <I>but</I> prisoneres; <I>but cf.</I> presoneres <I>written out in 1217.</I></NOTE></L>
+<L>Moni a wor&thorn;ly wy&yogh;e whil her worlde laste,</L>
+<L>Moni semly syre soun, and swy&thorn;e rych maydenes,<NOTE PLACE="foot"><I>M.</I><SUP>1</SUP> soun; <I>M.</I><SUP>2</SUP> sone, <I>cf. 666.</I></NOTE></L>
+<L N="1300">&THORN;e pruddest of &thorn;e province, and prophetes childer,</L>
+<L>As Ananie, and Azarie, and als Mizael,</L>
+<L>And dere Daniel also, &thorn;at watz devine noble,</L>
+<L>With moni a modey moder chylde mo &thorn;en innoghe.</L>
+<L N="1304">And Nabugodenozar makes much joye,</L>
+<L>Nou he &thorn;e kyng hatz conquest and &thorn;e kyth wunnen,</L>
+<L>And dreped alle &thorn;e do&yogh;tyest and derrest in armes,</L>
+<L>And &thorn;e lederes of her lawe layd to &thorn;e grounde,</L>
+<L N="1308">And &thorn;e pryce of &thorn;e profecie presoners maked;<NOTE PLACE="foot"><I>M. expands</I> prisoners, <I>but cf. 1297.</I></NOTE></L>
+<L>Bot &thorn;e joy of &thorn;e juelrye so gentyle and ryche,</L>
+<L>When hit watz schewed hym so schene, scharp watz his wonder;</L>
+<L>Of such vessel avayed &thorn;at vayled so huge,</L>
+<L N="1312">Never &yogh;et nas Nabugodenozar er &thorn;enne.</L>
+<L>He sesed hem wyth solemnete, &thorn;e Soverayn he praysed</L>
+<L>&THORN;at watz a&thorn;el over alle, Israel Dry&yogh;tyn;</L>
+<L>Such god, such gomes, such gay vesselles,</L>
+<L N="1316">Comen never out of kyth to Caldee reames.</L>
+<L>He trussed hem in his tresorye in a tryed place</L>
+<L>Rekenly wyth reverens, as he ry&yogh;t hade;</L>
+<L>And &thorn;er he wro&yogh;t as &thorn;e wyse, as &yogh;e may wyt hereafter,</L>
+<L N="1320">For hade he let of hem ly&yogh;t, hym mo&yogh;t haf lumpen worse.</L>
+</LG>
+<LG TYPE="stanza">
+<L>&THORN;at ryche in gret rialte rengned his lyve,</L>
+<L>As conqueror of uche a cost he cayser watz hatte,</L>
+<L>Emperor of alle &thorn;e er&thorn;e, and also &thorn;e saudan,
+<PB REF="00000114.tif" N="50"></L>
+<L N="1324">And als &thorn;e god of &thorn;e grounde watz graven his name,</L>
+<L>And al &thorn;ur&yogh; dome of Daniel, fro he devised hade<NOTE PLACE="foot"><I>MS., M.</I> fro, <I>M. note</I> for(?).</NOTE></L>
+<L>&THORN;at alle goudes com of God, and gef hit hym bi samples,</L>
+<L>&THORN;at he ful clanly bicnu his carp bi &thorn;e laste,<NOTE PLACE="foot"><I>M.</I><SUP>1</SUP> bicuver <I>which MS. resembles, M.</I><SUP>2</SUP> bicnv.</NOTE></L>
+<L N="1328">And ofte hit mekned his mynde, his maysterful werkkes.</L>
+<L>Bot al drawes to dy&yogh;e wyth doel up[o]n ende;<NOTE PLACE="foot"><I>MS.</I> vpn.</NOTE></L>
+<L>Bi a ha&thorn;el never so hy&yogh;e, he heldes to grounde,<NOTE PLACE="foot"><I>MS., M.</I> bi; <I>M. note</I> be(?), <I>accepted by Fi.</I></NOTE></L>
+<L>And so Nabugodenozar, as he nedes moste,</L>
+<L>For alle his empire so hi&yogh;e, in er&thorn;e is he graven.<MILESTONE N="79b" UNIT="folio"></L>
+</LG>
+<LG TYPE="stanza">
+<L N="1333">Bot &thorn;enn &thorn;e bolde Baltazar, &thorn;at watz his barn aldest,</L>
+<L>He watz stalled in his stud, and stabled &thorn;e rengne;</L>
+<L>In &thorn;e bur&yogh; of Babiloyne &thorn;e biggest he trawed,</L>
+<L N="1336">&THORN;at nau&thorn;er in heven ne [on] er&thorn;e hade no pere;<NOTE PLACE="foot"><I>MS., M.</I> no er&thorn;e; <I>M. note</I> on(?).</NOTE></L>
+<L>For he bigan in alle &thorn;e glori &thorn;at hym &thorn;e gome lafte,</L>
+<L>Nabugodenozar, &thorn;at watz his noble fader;</L>
+<L>So kene a kyng in Caldee com never er &thorn;enne.</L>
+<L N="1340">Bot honored he not hym &thorn;at in heven wonies,</L>
+<L>Bot fals fantummes of fendes, formed with handes</L>
+<L>Wyth tool out of harde tre, and telded on lofte,</L>
+<L>And of stokkes and stones he stoute goddes callz</L>
+<L N="1344">When &thorn;ay are gilde al with golde and gered wyth sylver,</L>
+<L>And &thorn;ere he kneles and callez, and clepes after help.</L>
+<L>And &thorn;ay reden him ry&yogh;t, rewarde he hem hetes,</L>
+<L>And if &thorn;ay gruchen him his grace to gremen his hert,</L>
+<L N="1348">He cleches to a gret klubbe and knokkes hem to peces.</L>
+<L>&THORN;us in pryde and olipraunce his empyre he haldes,</L>
+<L>In lust and in lecherye, and lo&thorn;elych werkkes;</L>
+<L>And hade a wyf for to welde, a wor&thorn;elych quene,
+<PB REF="00000115.tif" N="51"></L>
+<L N="1352">And mony a lemman, never &thorn;e later, &thorn;at ladis wer called.</L>
+<L>In &thorn;e clernes of his concubines and curious wedez,</L>
+<L>In notyng of nwe metes and of nice gettes,</L>
+<L>Al watz &thorn;e mynde of &thorn;at man on misschapen &thorn;inges,</L>
+<L N="1356">Til &thorn;e Lorde of &thorn;e lyfte liste hit abate.</L>
+</LG>
+</DIV1>
+<DIV1 N="13" TYPE="section">
+<HEAD>XIII. BELSHAZZAR'S FEAST</HEAD>
+<LG TYPE="stanza">
+<L>Thenne &thorn;is bolde Baltazar bi&thorn;enkkes hym ones</L>
+<L>To vouche on avayment of his vayneg[l]orie:<NOTE PLACE="foot"><I>MS.</I> vayne gorie; <I>M.</I> vayne g[l]orie.</NOTE></L>
+<L>Hit is not innoghe to &thorn;e nice al no&yogh;ty &thorn;ink use,<NOTE PLACE="foot"><I>MS., M.</I> &thorn;ink; <I>M. note</I> &thorn;ing(?).</NOTE></L>
+<L N="1360">Bot if alle &thorn;e worlde wyt his wykked dedes.</L>
+<L>Baltazar &thorn;ur&yogh; Babiloyn his banne gart crye,</L>
+<L>And &thorn;ur&yogh; &thorn;e cuntre of Caldee his callyng con spryng,</L>
+<L>&THORN;at alle &thorn;e grete upon grounde schulde geder hem samen,</L>
+<L N="1364">And assemble at a set day at &thorn;e saudans fest.</L>
+<L>Such a mangerie to make &thorn;e man watz avised,</L>
+<L>&THORN;at uche a kythyn kyng schuld com &thorn;ider;</L>
+<L>Uche duk wyth his duthe and o&thorn;er dere lordes</L>
+<L>Schulde com to his cort to ky&thorn;e hym for lege,<MILESTONE N="80a" UNIT="folio"></L>
+<L N="1369">And to reche hym reverens, and his revel herkken,</L>
+<L>To loke on his lemanes and ladis hem calle.</L>
+</LG>
+<LG TYPE="stanza">
+<L>To rose hym in his rialty rych men so&yogh;tten,</L>
+<L N="1372">And mony a baroun ful bolde, to Babyloyn &thorn;e noble.</L>
+<L>&THORN;er bowed toward Babiloyn burnes so mony,</L>
+<L>Kynges, cayseres ful kene, to &thorn;e cort wonnen,</L>
+<L>Mony ludisch lordes &thorn;at ladies bro&yogh;ten,</L>
+<L N="1376">&THORN;at to neven &thorn;e noumbre to much nye were.</L>
+<L>For &thorn;e bor&yogh; watz so brod and so bigge alce,</L>
+<L>Stalled in &thorn;e fayrest stud &thorn;e sterrez anunder,</L>
+<L>Prudly on a plat playn, plek al&thorn;erfayrest,</L>
+<L N="1380">Umbesweyed on uch a syde wyth seven grete wateres,
+<PB REF="00000116.tif" N="52"></L>
+<L>Wyth a wonder wro&yogh;t walle wruxeled ful hi&yogh;e,</L>
+<L>Wyth koynt carneles above, corven ful clene,</L>
+<L>Troched toures bitwene, twenty spere len&thorn;e,</L>
+<L N="1384">And &thorn;iker &thorn;rowen umbe&thorn;or wyth over&thorn;wert palle.</L>
+<L>&THORN;e place &thorn;at plyed &thorn;e pursaunt wythinne,<NOTE PLACE="foot"><I>MS.</I> &thorn;&otilde; w<SUP>t</SUP>, <I>M.</I> &thorn;our-with; <I>M. note</I> &thorn;ore(?).</NOTE></L>
+<L>Watz longe and ful large and ever ilych sware,</L>
+<L>And uch a syde upon soyle helde seven myle,</L>
+<L N="1388">And &thorn;e saudans sete sette in &thorn;e myddes.</L>
+<L>&THORN;at watz a palayce of pryde passande alle o&thorn;er,</L>
+<L>Bo&thorn;e of werk and of wunder and walle al aboute;</L>
+<L>He&yogh;e houses wythinne &thorn;e halle to hit m[a]d,<NOTE PLACE="foot"><I>MS., M.</I> to hit med; <I>Fi. proposes</I> ful hy&yogh;e(!).</NOTE></L>
+<L N="1392">So brod bilde in a bay &thorn;at blonkkes my&yogh;t renne.</L>
+</LG>
+<LG TYPE="stanza">
+<L>When &thorn;e terme of &thorn;e tyde watz towched of [&thorn;e] feste,<NOTE PLACE="foot"><I>MS.</I> towched <I>quite clearly; M.</I> to vsched; <I>Fi.</I> touched: <I>M. reads</I> &thorn;e feste, <I>but in MS. both words are written at the end of 1392 above a break, and though some letters certainly precede</I> feste, <I>I cannot distinguish them.</I></NOTE></L>
+<L>Dere dro&yogh;en &thorn;erto, and upon des metten,</L>
+<L>And Baltazar upon bench was busked to sete;</L>
+<L N="1396">Stepe stayred stones of his stoute throne.</L>
+<L>&THORN;enne watz alle &thorn;e halle-flor hiled wyth kny&yogh;tes,</L>
+<L>And barounes at &thorn;e sidebordes bounet a[y]where,<NOTE PLACE="foot"><I>M.</I> aywhere, <I>but</I> y <I>blurred in MS. and very much like</I> o.</NOTE></L>
+<L>For non watz dressed upon dece bot &thorn;e dere selven,</L>
+<L N="1400">And his clere concubynes in clo&thorn;es ful bry&yogh;t.</L>
+</LG>
+<LG TYPE="stanza">
+<L>When alle segges were &thorn;er set, &thorn;en servyse bygynnes,</L>
+<L>Sturnen trumpen strake steven in halle,</L>
+<L>Aywhere by &thorn;e wowes wrasten krakkes,</L>
+<L>And brode baneres &thorn;erbi blusnande of gold;<MILESTONE N="80b" UNIT="folio"></L>
+<L N="1405">Burnes berande &thorn;e bredes upon brode skeles,<NOTE PLACE="foot"><I>MS.</I> &thorn;e &thorn;e.</NOTE></L>
+<L>&THORN;at were of sylveren sy&yogh;t, and s[e]rved &thorn;erwyth,<NOTE PLACE="foot"><I>MS.</I> seved <I>with a flourish apparently over</I> v, <I>M. reads MS.</I> severed, <I>and prints</I> seerved.</NOTE>
+<PB REF="00000117.tif" N="53"></L>
+<L>Lyfte logges &thorn;erover and on lofte corven,</L>
+<L N="1408">Pared out of paper and poynted of golde,<NOTE PLACE="foot"><I>MS.</I> glolde.</NOTE></L>
+<L>Bro&thorn;e baboynes abof, besttes anunder,</L>
+<L>Foles in foler flakerande bitwene,</L>
+<L>And al in asure and ynde enaumayld ryche,</L>
+<L N="1412">And al on blonkken bak bere hit on honde.</L>
+<L>And ay &thorn;e nakeryn noyse, notes of pipes,</L>
+<L>Tymbres and tabornes, tulket among;<NOTE PLACE="foot"><I>MS., M.</I> among; <I>Fi.</I> among[es].</NOTE></L>
+<L>Symbales and sonetez sware &thorn;e noyse,</L>
+<L N="1416">And bougounz busch batered so &thorn;ikke.</L>
+<L>So watz served fele sy&thorn;e &thorn;e sale alle aboute,</L>
+<L>Wyth solace at &thorn;e sere course bifore &thorn;e self lorde,</L>
+<L>&THORN;er &thorn;e lede and alle his love lenged at &thorn;e table.</L>
+<L N="1420">So faste &thorn;ay we&yogh;ed to him wyne, hit warmed his hert,</L>
+<L>And brey&thorn;ed uppe into his brayn and blemyst his mynde,</L>
+<L>And al waykned his wyt, and wel ne&yogh;e he foles;</L>
+<L>For he waytez on wyde, his wenches he byholdes,</L>
+<L N="1424">And his bolde baronage aboute bi &thorn;e wo&yogh;es.</L>
+</LG>
+<LG TYPE="stanza">
+<L>&THORN;enne a dotage ful depe drof to his hert,</L>
+<L>And a caytif counsayl he ca&yogh;t bi hymselven.</L>
+<L>Maynly his marschal &thorn;e mayster upon calles,</L>
+<L N="1428">And comaundes hym cofly coferes to lance,</L>
+<L>And fech for&thorn;e vessel &thorn;at his fader bro&yogh;t,<NOTE PLACE="foot"><I>MS., M.</I> for&thorn;e; <I>Fi.</I> for &thorn;e.</NOTE></L>
+<L>Nabugodenozar, noble in his stren&thorn;e,</L>
+<L>Conquerd with his kny&yogh;tes, and of kyrk rafte,</L>
+<L N="1432">In Jude, in Jerusalem in gentyle wyse:</L>
+<L>'Bryng hem now to my borde, of beverage hem fylles,</L>
+<L>Let &thorn;ise ladyes of hem lape&mdash;I luf hem in hert!</L>
+<L>&THORN;at schal I cortaysly ky&thorn;e, and &thorn;ay schin knawe sone</L>
+<L N="1436">&THORN;er is no bounte in burne lyk Baltazar &thorn;ewes.'</L>
+</LG>
+<LG TYPE="stanza">
+<L>&THORN;enne towchede to &thorn;e tresor &thorn;is tale watz sone,</L>
+<L>And he wyth keyes uncloses kystes ful mony;
+<PB REF="00000118.tif" N="54"></L>
+<L>Mony bur&thorn;en ful bry&yogh;t watz bro&yogh;t into halle,</L>
+<L>And covered mony a cupborde with clo&thorn;es ful quite.<MILESTONE N="81a" UNIT="folio"></L>
+<L N="1441">&THORN;e jueles out of Jerusalem wyth gemmes ful bry&yogh;t,<NOTE PLACE="foot"><I>MS.</I> jsrlem.</NOTE></L>
+<L>Bi &thorn;e syde of &thorn;e sale were semely arayed;</L>
+<L>&THORN;e a&thorn;el auter of brasse watz hade into place;</L>
+<L N="1444">&THORN;e gay coroun of golde gered on lofte,</L>
+<L>&THORN;at hade ben blessed bifore wyth bischopes hondes,</L>
+<L>And wyth besten blod busily anoynted,</L>
+<L>In &thorn;e solempne sacrefyce &thorn;at goud savor hade,</L>
+<L N="1448">Bifore &thorn;e Lorde of &thorn;e lyfte in lovyng hymselven,</L>
+<L>Now is sette for to serve Satanas &thorn;e blake,</L>
+<L>Bifore &thorn;e bolde Baltazar wyth bost and wyth pryde.</L>
+<L>Hoven upon &thorn;is auter watz a&thorn;el vessel,</L>
+<L N="1452">&THORN;at wyth so curious a crafte corven watz wyly.<NOTE PLACE="foot"><I>MS. apparently</I> fo.</NOTE></L>
+<L>Salamon sete him s[eve]n &yogh;ere and a sy&thorn;e more,<NOTE PLACE="foot"><I>MS.</I> s. . .n <I>badly blurred, M.</I> s[eue]n.</NOTE></L>
+<L>Wyth alle &thorn;e syence &thorn;at hym sende &thorn;e soverayn Lorde,</L>
+<L>For to compas and kest to haf hem clene wro&yogh;t.</L>
+<L N="1456">For &thorn;er wer bassynes ful bry&yogh;t of brende golde clere,</L>
+<L>Enaumaylde wyth azer, and eweres of sute;</L>
+<L>Covered cowpes foul clene, as casteles arayed,<NOTE PLACE="foot"><I>MS., M.</I> foul; <I>M. note</I> ful(?).</NOTE></L>
+<L>Enbaned under batelment wyth bantelles quoynt,</L>
+<L N="1460">And fyled out of fygures of ferly[ch]e schappes.<NOTE PLACE="foot"><I>MS., M.</I> ferlyle; <I>M. note</I> ferlyke(?); <I>Fi.</I> ferlyche.</NOTE></L>
+<L>&THORN;e coperounes of &thorn;e c[ov]acles &thorn;at on &thorn;e cuppe reres<NOTE PLACE="foot"><I>MS., M.</I> canacles.</NOTE></L>
+<L>Wer fetysely formed out in fylyoles longe,</L>
+<L>Pinacles py&yogh;t &thorn;er apert &thorn;at profert bitwene,</L>
+<L N="1464">And al bolled abof wyth braunches and leves,</L>
+<L>Pyes and papejayes purtrayed withinne,<NOTE PLACE="foot">papejayes, <I>second</I> p <I>ill-formed and per|haps not complete.</I></NOTE></L>
+<L>As &thorn;ay prudly hade piked of pomgarnades;</L>
+<L>For alle &thorn;e blomes of &thorn;e bo&yogh;es wer blyknande perles,</L>
+<L N="1468">And alle &thorn;e fruyt in &thorn;o formes of flaumbeande gemmes,
+<PB REF="00000119.tif" N="55"></L>
+<L>Ande safyres, and sardiners, and semely topace,<NOTE PLACE="foot"><I>MS., M.</I> sardiners; <I>NED., B.</I> sardines.</NOTE></L>
+<L>Alabaund[a]rynes, and amaraunz, and amaffised stones,<NOTE PLACE="foot"><I>MS.</I> alaba&umacr;da|rynes(?), or alaba&umacr;darrynes (?), <I>the letter(s) after</I> d <I>are smudged and perhaps retraced, a stroke preceding the</I> r <I>possibly indicating an</I> i; <I>M.</I><SUP>1</SUP> alabaunderrynes; <I>M.</I><SUP>2</SUP> alabaunderynes <I>without remark</I>.</NOTE></L>
+<L>Casydoynes, and crysolytes, and clere rubies,</L>
+<L N="1472">Penitotes, and pynkardines, ay perles bitwene;</L>
+<L>So trayled and tryfled a-traverce wer alle,</L>
+<L>Bi uche bekyr ande bol[l]e &thorn;e brurdes al umbe,<NOTE PLACE="foot"><I>MS., M.</I> bekyrande &thorn;e bolde; <I>B.</I> ande bole.</NOTE></L>
+<L>&THORN;e gobelotes of golde graven aboute,</L>
+<L>And fyoles fretted wyth flores and fleez of golde.<MILESTONE N="81b" UNIT="folio"></L>
+</LG>
+<LG TYPE="stanza">
+<L N="1477">Upon &thorn;at auter watz al aliche dresset.</L>
+<L>&THORN;e candelstik bi a cost watz cayred &thorn;ider sone,</L>
+<L>[U]pon &thorn;e pyleres apyked &thorn;at praysed hit mony,<NOTE PLACE="foot"><I>MS.</I> pon, <I>M.</I> [V]pon.</NOTE></L>
+<L N="1480">Upon hit basez of brasse &thorn;at ber up &thorn;e werkes,</L>
+<L>&THORN;e bo&yogh;es bry&yogh;t &thorn;er abof, brayden of golde,</L>
+<L>Braunches bredande &thorn;eron, and bryddes &thorn;er seten</L>
+<L>Of mony [curious] kyndes, of fele-kyn hues,<NOTE PLACE="foot"><I>MS.</I> mony kyndes; <I>B&uuml;lbring</I> (<I>Sch., p. 185</I>) <I>pro|posed</I> mony curious kyndes; <I>B.</I> mony kyndes colored; <I>G.</I> mony cler kyndes.</NOTE></L>
+<L N="1484">As &thorn;ay wyth wynge upon wynde hade waged her fy&thorn;eres.</L>
+<L>Inmong &thorn;e leves of &thorn;e [launces] lampes wer gray&thorn;ed,<NOTE PLACE="foot"><I>B&uuml;lbring</I> (<I>Sch., p. 183</I>) <I>inserts</I> launces.</NOTE></L>
+<L>And o&thorn;er louflych ly&yogh;t &thorn;at lemed ful fayre;<NOTE PLACE="foot"><I>M. corrects MS. to</I> louelych.</NOTE></L>
+<L>As mony morteres of wax merkked wythoute,</L>
+<L N="1488">Wyth mony a borlych best al of brende golde.</L>
+<L>Hit watz not wonte in &thorn;at wone to wast no serges,</L>
+<L>Bot in temple of &thorn;e trau&thorn;e trwly to stonde,</L>
+<L>Bifore &thorn;e sancta sanctorum [&thorn;er] so&thorn;efast Dry&yogh;tyn<NOTE PLACE="foot"><I>MS.</I> sca scorum: <I>I insert</I> &thorn;er.</NOTE></L>
+<L N="1492">Expouned his speche spyrytually to special prophetes.<NOTE PLACE="foot"><I>MS.</I> sp&umacr;ally; <I>M.</I><SUP>1</SUP> specually; <I>M.</I><SUP>2</SUP> spiritually.</NOTE></L>
+<L>Leve &thorn;ou wel &thorn;at &thorn;e Lorde &thorn;at &thorn;e lyfte &yogh;emes,
+<PB REF="00000120.tif" N="56"></L>
+<L>Displesed much at &thorn;at play in &thorn;at plyt stronge,</L>
+<L>&THORN;at his jueles so gent wyth javeles wer fouled,</L>
+<L N="1496">&THORN;at presyous in his presens wer proved sumwhyle.</L>
+<L>Soberly in his sacrafyce summe wer anoynted,</L>
+<L>&THORN;ur&yogh; &thorn;e somones of himselfe &thorn;at syttes so hy&yogh;e;</L>
+<L>Now a boster on benche bibbes &thorn;erof,</L>
+<L N="1500">Tyl he be dronkken as &thorn;e devel, and dotes &thorn;er he syttes.</L>
+</LG>
+<LG TYPE="stanza">
+<L>So &thorn;e Worcher of &thorn;is worlde wlates &thorn;erwyth,</L>
+<L>&THORN;at in &thorn;e poynt of her play he porvayes a mynde;</L>
+<L>Bot er harme hem he wolde in haste of his yre,</L>
+<L N="1504">He wayned hem a warnyng &thorn;at wonder hem &thorn;o&yogh;t.</L>
+<L>Nou is alle &thorn;is guere geten glotounes to serve,</L>
+<L>Stad in a ryche stal and stared ful bry&yogh;t[e];<NOTE PLACE="foot"><I>MS., M.</I> bry&yogh;t&yogh;; <I>M. note</I> bry&yogh;te(?).</NOTE><NOTE PLACE="foot"><I>MS., M.</I> vus.</NOTE></L>
+<L>Baltazar in a brayd bede [b]us &thorn;erof&mdash;</L>
+<L N="1508">'We&yogh;e wyn in &thorn;is won&mdash;Wassayl!' he cryes.</L>
+<L>Swyfte swaynes ful swy&thorn;e swepen &thorn;ertylle,</L>
+<L>Kyppe kowpes in honde kyngez to serve;</L>
+<L>In bry&yogh;t bollez ful bayn birlen &thorn;ise o&thorn;er,</L>
+<L>And uche mon for his mayster machches alone.<MILESTONE N="82a" UNIT="folio"></L>
+<L N="1513">&THORN;er watz rynging, on ry&yogh;t, of ryche metalles,</L>
+<L>Quen renkkes in &thorn;at ryche rok rennen hit to cache,</L>
+<L>Clatering of covaclez &thorn;at kesten &thorn;o burdes,<NOTE PLACE="foot"><I>M.</I> conacle&yogh;.</NOTE></L>
+<L N="1516">As sonet out of sau[t]eray songe als myry.<NOTE PLACE="foot"><I>MS.</I> saueray; <I>M.</I> sau[t]eray.</NOTE></L>
+<L>&THORN;en &thorn;e dotel on dece drank &thorn;at he my&yogh;t;</L>
+<L>And &thorn;enne [drinkez] arn dressed [to] dukez and prynces,<NOTE PLACE="foot"><I>B&uuml;lbring</I> (<I>Sch., p. 184</I>) <I>reads</I> &THORN;enne [drinkes] arn dressed [for] dukez and prynces; <I>B. would insert</I> dere <I>after</I> dressed; <I>G. reads</I> &thorn;enne &thorn;at derrest arn dressed; <I>E.</I> &thorn;enne derely arn dressed.</NOTE></L>
+<L>Concubines and kny&yogh;tes, bi cause of &thorn;at merthe;</L>
+<L N="1520">As uch on hade hym inhelde, he haled of &thorn;e cuppe.</L>
+<L>So long likked &thorn;ise lordes &thorn;ise lykores swete,</L>
+<L>And gloryed on her falce goddes, and her grace calles,
+<PB REF="00000121.tif" N="57"></L>
+<L>&THORN;at were of stokkes and stones, stille evermore&mdash;</L>
+<L N="1524">Never steven hem astel, so stoken is hor tonge;<NOTE PLACE="foot"><I>MS.</I> &imacr;s, <I>cf</I>. &imacr;f, <I>692.</I></NOTE></L>
+<L>Alle &thorn;e goude golden goddes &thorn;e gaulez &yogh;et nevenen,</L>
+<L>Belfagor, and Belyal, and Belssabub als,</L>
+<L>Heyred hem as hy&yogh;ly as heven wer &thorn;ayres,</L>
+<L N="1528">Bot hym &thorn;at alle goudes gives, &thorn;at God &thorn;ay for&yogh;eten.</L>
+</LG>
+</DIV1>
+<DIV1 N="13a" TYPE="section">
+<HEAD>XIIIa. THE WRITING ON THE WALL</HEAD>
+<LG TYPE="stanza">
+<L>For &thorn;er a ferly bifel &thorn;at fele folk se&yogh;en&mdash;</L>
+<L>Fyrst knew hit &thorn;e kyng, and alle &thorn;e cort after:</L>
+<L>In &thorn;e palays pryncipale upon &thorn;e playn wowe,</L>
+<L N="1532">In contrary of &thorn;e candelstik &thorn;at clerest hit schyned,</L>
+<L>&THORN;er apered a paume, wyth poyntel in fyngres,</L>
+<L>&THORN;at watz grysly and gret, and grymly he wrytes;</L>
+<L>Non o&thorn;er forme bot a fust faylande &thorn;e wryste,</L>
+<L N="1536">Pared on &thorn;e parget, purtrayed lettres.</L>
+<L>When &thorn;at bolde Baltazar blusched to &thorn;at neve,</L>
+<L>Such a dasande drede dusched to his hert,</L>
+<L>&THORN;at al falewed his face and fayled &thorn;e chere;</L>
+<L N="1540">&THORN;e stronge strok of &thorn;e stonde strayned his joyntes,</L>
+<L>His cnes cachches to close, and cluchches his hommes,</L>
+<L>And he wyth plattyng his paumes displayes his lers,<NOTE PLACE="foot"><I>MS.</I>
+<ABBR>lers</ABBR>.</NOTE></L>
+<L>And romyes as a rad ryth &thorn;at rorez for drede,</L>
+<L N="1544">Ay biholdand &thorn;e honde til hit hade al graven,</L>
+<L>And rasped on &thorn;e ro&yogh; wo&yogh;e runisch sauez.</L>
+<L>When hit &thorn;e scrypture hade scraped wyth a s[c]rof penne,<NOTE PLACE="foot"><I>MS.</I> strof, <I>as M. notes.</I></NOTE></L>
+<L>As a coltor in clay cerves &thorn;o for&yogh;es,</L>
+<L>&THORN;enne hit vanist verayly and voyded of sy&yogh;t;<MILESTONE N="82b" UNIT="folio"></L>
+<L N="1549">Bot &thorn;e lettres bileved ful large upon plaster.</L>
+</LG>
+<LG TYPE="stanza">
+<L>Sone so &thorn;e kynge for his care carping my&yogh;t wynne,</L>
+<L>He bede his burnes bo&yogh; to, &thorn;at wer bok-lered,<NOTE PLACE="foot"><I>M.</I> were.</NOTE></L>
+<L N="1552">To wayte &thorn;e wryt &thorn;at hit wolde, and wyter hym to say,
+<PB REF="00000122.tif" N="58"></L>
+<L>'For al hit frayes my flesche, &thorn;e fyngres so grymme.'</L>
+<L>Scoleres skelten &thorn;eratte &thorn;e skyl for to fynde,</L>
+<L>Bot &thorn;er watz never on so wyse cou&thorn;e on worde rede,</L>
+<L N="1556">Ne what ledisch lore ne langage nau&thorn;er,</L>
+<L>What ty&thorn;yng ne tale tokened &thorn;o dra&yogh;tes.</L>
+<L>&THORN;enne &thorn;e bolde Baltazar bred ner wode,</L>
+<L>And [b]ede &thorn;e cete to seche segges &thorn;ur&yogh;out<NOTE PLACE="foot"><I>MS.</I> ede; <I>M.</I> [b]ede.</NOTE></L>
+<L N="1560">&THORN;at wer wyse of wychecrafte, and warla&yogh;es o&thorn;er</L>
+<L>&THORN;at con dele wyth demerlayk and devine lettres.</L>
+<L>'Calle hem alle to my cort, &thorn;o Calde clerkkes,</L>
+<L>Unfolde hem alle &thorn;is ferly &thorn;at is bifallen here,</L>
+<L N="1564">And calle wyth a hi&yogh;e cry: "He &thorn;at &thorn;e kyng wysses,</L>
+<L>In expounyng of speche &thorn;at spredes in &thorn;ise lettres,</L>
+<L>And make &thorn;e mater to malt my mynde wythinne,<NOTE PLACE="foot"><I>MS., M.</I> make; <I>B. would read</I> makes.</NOTE></L>
+<L>&THORN;at I may wyterly wyt what &thorn;at wryt menes,</L>
+<L N="1568">He schal be gered ful gaye in gounes of porpre,</L>
+<L>And a coler of cler golde clos umbe his &thorn;rote;</L>
+<L>He schal be prymate and prynce of pure clergye,</L>
+<L>And of my &thorn;revenest lordez &thorn;e &thorn;rydde he schal,</L>
+<L N="1572">And of my reme &thorn;e rychest to ryde wyth myselven,</L>
+<L>Outtaken bare two, and &thorn;enne he &thorn;e &thorn;rydde." '</L>
+<L>&THORN;is cry watz upcaste, and &thorn;er comen mony</L>
+<L>Clerkes out of Caldye &thorn;at kennest wer knauen,</L>
+<L N="1576">As &thorn;e sage sathrapas &thorn;at sorsory cou&thorn;e,</L>
+<L>Wychez and walkyries wonnen to &thorn;at sale,</L>
+<L>Devinores of demorlaykes &thorn;at dremes cow&thorn;e rede,</L>
+<L>Sorsers, and exorsismus, and fele such clerkes;</L>
+<L N="1580">And alle &thorn;at loked on &thorn;at letter as lewed &thorn;ay were,</L>
+<L>As &thorn;ay had loked in &thorn;e le&thorn;er of my lyft bote.</L>
+<L>&THORN;enne cryes &thorn;e kyng, and kerves his wedes.</L>
+<L>What! he corsed his clerkes and calde hem chorles,<NOTE PLACE="foot"><I>MS., M.</I> chorles; <I>Fi.</I> corles.</NOTE></L>
+<L>To henge &thorn;e harlotes he he&yogh;ed ful ofte;<MILESTONE N="83a" UNIT="folio"></L>
+<L N="1585">So watz &thorn;e wy&yogh;e wytles, he wed wel ner.
+<PB REF="00000123.tif" N="59"></L>
+</LG>
+<LG TYPE="stanza">
+<L>Ho herde hym chyde to &thorn;e chambre &thorn;at watz &thorn;e chef quene.</L>
+<L>When ho watz wytered bi wy&yogh;es what watz &thorn;e cause,</L>
+<L N="1588">Suche a chaungande chaunce in &thorn;e chef halle,</L>
+<L>&THORN;e lady to lauce &thorn;at los &thorn;at &thorn;e lorde hade,<NOTE PLACE="foot"><I>M.</I> lauce; <I>M. note</I> lance(?); <I>Fi. suggests</I> layte(!).</NOTE></L>
+<L>Glydes doun by &thorn;e grece and gos to &thorn;e kyng;</L>
+<L>Ho kneles on &thorn;e colde er&thorn;e, and carpes to hymselven</L>
+<L N="1592">Wordes of worchyp wyth a wys speche.</L>
+<L>'Kene kyng,' quod &thorn;e quene, 'kayser of ur&thorn;e,</L>
+<L>Ever laste &thorn;y lyf in len&thorn;e of dayes!</L>
+<L>Why hatz &thorn;ou rended &thorn;y robe, forredles hereinne,<NOTE PLACE="foot"><I>MS.</I> for redles; <I>M.</I><SUP>1</SUP> for-redles; <I>M.</I><SUP>2</SUP> for redles.</NOTE></L>
+<L N="1596">&THORN;a&yogh; &thorn;ose ledes ben lewed lettres to rede,</L>
+<L>And hatz a ha&thorn;el in &thorn;y holde, as I haf herde ofte,</L>
+<L>&THORN;at hatz &thorn;e gostes of God &thorn;at gyes alle so&thorn;es?</L>
+<L>His sawle is ful of syence, sa&yogh;es to schawe,</L>
+<L N="1600">To open uch a hide &thorn;yng of aunteres uncow&thorn;e.</L>
+<L>&THORN;at is he &thorn;at ful ofte hatz hevened &thorn;y fader</L>
+<L>Of mony anger ful hote wyth his holy speche.</L>
+<L>When Nabugodenozar watz nyed in stoundes,</L>
+<L N="1604">He devysed his dremes to &thorn;e dere traw&thorn;e,</L>
+<L>He kevered hym wyth his counsayl of caytyf wyrdes;</L>
+<L>Alle &thorn;at he spured hym in space he expowned clene,</L>
+<L>&THORN;ur&yogh; &thorn;e sped of &thorn;e spyryt &thorn;at sprad hym wythinne</L>
+<L N="1608">Of &thorn;e godelest goddez &thorn;at gaynes aywhere.</L>
+<L>For his depe divinite and his dere sawes,</L>
+<L>&THORN;y bolde fader Baltazar bede by his name,<NOTE PLACE="foot"><I>MS., M.</I> by; <I>M. note</I> be(?).</NOTE></L>
+<L>&THORN;at now is demed Danyel of derne coninges,</L>
+<L N="1612">&THORN;at ca&yogh;t watz in &thorn;e captyvide in cuntre of Jues;</L>
+<L>Nabuzardan hym nome, and now is he here,</L>
+<L>A prophete of &thorn;at province and pryce of &thorn;e worlde.</L>
+<L>Sende into &thorn;e cete to seche hym bylyve,</L>
+<L N="1616">And wynne hym wyth &thorn;e worchyp to wayne &thorn;e bote;
+<PB REF="00000124.tif" N="60"></L>
+<L>And &thorn;a&yogh; &thorn;e mater be merk &thorn;at merked is &yogh;ender,</L>
+<L>He schal declar hit also as hit on clay stande.'<NOTE PLACE="foot"><I>MS., M.</I> stande; <I>Fi.</I> standez.</NOTE></L>
+</LG>
+<LG TYPE="stanza">
+<L>&THORN;at gode counseyl at &thorn;e quene watz cached as swy&thorn;e;<NOTE PLACE="foot"><I>MS., M.</I><SUP>1</SUP> as as; <I>M.</I><SUP>2</SUP> as.</NOTE></L>
+<L>&THORN;e burne byfore Baltazar watz bro&yogh;t in a whyle.<MILESTONE N="83b" UNIT="folio"></L>
+<L N="1621">When he com bifore &thorn;e kyng and clanly had halsed,</L>
+<L>Baltazar umbebrayde hym, and 'Leve sir,' he sayde,</L>
+<L>'Hit is tolde me bi tulkes &thorn;at &thorn;ou trwe were</L>
+<L N="1624">Profete of &thorn;at provynce &thorn;at prayed my fader,</L>
+<L>Ande &thorn;at &thorn;ou hatz in &thorn;y hert holy connyng,</L>
+<L>Of sapyence &thorn;i sawle ful, so&thorn;es to schawe;</L>
+<L>Goddes gost is &thorn;e geven &thorn;at gyes alle &thorn;ynges,</L>
+<L N="1628">And &thorn;ou unhyles uch hidde &thorn;at Hevenkyng myntes;</L>
+<L>And here is a ferly byfallen, and I fayn wolde</L>
+<L>Wyt &thorn;e wytte of &thorn;e wryt &thorn;at on &thorn;e wowe clyves,</L>
+<L>For alle Calde clerkes han cowwardely fayled.</L>
+<L N="1632">If &thorn;ou wyth quayntyse conquere hit, I quyte &thorn;e &thorn;y mede:</L>
+<L>For if &thorn;ou redes hit by ry&yogh;t, and hit to resoun brynges,</L>
+<L>Fyrst telle me &thorn;e tyxte of &thorn;e tede lettres,<NOTE PLACE="foot"><I>MS., M.</I> tede; <I>M. Glossary, error for</I> tene (=ten?), <I>accepted by Fi.</I></NOTE></L>
+<L>And sy&thorn;en &thorn;e mater of &thorn;e mode mene me &thorn;erafter,</L>
+<L N="1636">And I schal halde &thorn;e &thorn;e hest &thorn;at I &thorn;e hy&yogh;t have,</L>
+<L>Apyke &thorn;e in porpre clo&thorn;e, palle al&thorn;erfynest,</L>
+<L>And &thorn;e by&yogh;e of bry&yogh;t golde abowte &thorn;yn nekke,</L>
+<L>And &thorn;e &thorn;ryd &thorn;ryvenest &thorn;at &thorn;rynges me after</L>
+<L N="1640">&THORN;ou schal be baroun upon benche, bede I &thorn;e no lasse.'</L>
+</LG>
+</DIV1>
+<DIV1 N="13b" TYPE="section">
+<HEAD>XIIIb. DANIEL'S PROPHECY</HEAD>
+<LG TYPE="stanza">
+<L>Derfly &thorn;enne Danyel deles &thorn;yse wordes:</L>
+<L>'Ryche kyng of &thorn;is rengne, rede &thorn;e oure Lorde!</L>
+<L>Hit is surely soth, &thorn;e Soverayn of heven</L>
+<L N="1644">Fylsened ever &thorn;y fader and upon folde cheryched,</L>
+<L>Gart hym grattest to be of governores alle,</L>
+<L>And alle &thorn;e worlde in his wylle welde as hym lykes.<NOTE PLACE="foot"><I>MS., M.</I> lykes, <I>E. suggests</I> lyked.</NOTE>
+<PB REF="00000125.tif" N="61"></L>
+<L>Who so wolde wel do, wel hym bityde,</L>
+<L N="1648">And quos deth so he dezyre, he dreped als fast;<NOTE PLACE="foot"><I>MS., M</I>. dezyre, <I>E. suggests</I> desyred.</NOTE></L>
+<L>Who so hym lyked to lyft, on lofte watz he sone,</L>
+<L>And quo so hym lyked to lay, watz lo&yogh;ed bylyve.</L>
+<L>So watz noted &thorn;e note of Nabugodenozar,</L>
+<L N="1652">Styfly stabled &thorn;e rengne bi &thorn;e stronge Dry&yogh;tyn,</L>
+<L>For of &thorn;e Hy&yogh;est he hade a hope in his hert,</L>
+<L>&THORN;at uche pouer past out of &thorn;at Prynce even;<NOTE PLACE="foot"><I>M</I>.<SUP>1</SUP> &thorn;at; <I>M</I>.<SUP>2</SUP> [&thorn;]at, <I>but</I> &thorn;, <I>though very faint is still clear in MS</I>.</NOTE></L>
+<L>And whyle &thorn;at watz cle&yogh;t clos in his hert,<NOTE PLACE="foot"><I>B&uuml;lbring</I> (<I>Sch., p. 184</I>) <I>suggests</I> connynge <I>or</I> counseyl <I>after</I> &thorn;at.</NOTE></L>
+<L N="1656">&THORN;ere watz no mon upon molde of my&yogh;t as hymselven;</L>
+<L>Til hit bitide on a tyme, towched hym pryde<MILESTONE N="84a" UNIT="folio"></L>
+<L>For his lordeschyp so large and his lyf ryche;</L>
+<L>He hade so huge an insy&yogh;t to his aune dedes,</L>
+<L N="1660">&THORN;at &thorn;e power of &thorn;e hy&yogh;e Prynce he purely for&yogh;etes.</L>
+<L>&THORN;enne blynnes he not of blasfemy on to blame &thorn;e Dry&yogh;tyn,<NOTE PLACE="foot"><I>MS</I>. blasfemyon; <I>M</I>.<SUP>1</SUP> blasfemy on; <I>M</I>.<SUP>2</SUP> blasfemyon.</NOTE></L>
+<L>His my&yogh;t mete to Goddes he made wyth his wordes:</L>
+<L>"I am God of &thorn;e grounde, to gye as me lykes,</L>
+<L N="1664">As he &thorn;at hy&yogh;e is in heven his aungeles &thorn;at weldes.<NOTE PLACE="foot">&thorn;<SUP>t</SUP> weldes <I>is written by second hand, and part of the original handwriting is still visible under the small</I><SUP>t</SUP> <I>of</I> &thorn;<SUP>t</SUP>.</NOTE></L>
+<L>If he hatz formed &thorn;e folde and folk &thorn;erupone,</L>
+<L>I haf bigged Babiloyne, bur&yogh; al&thorn;errychest,</L>
+<L>Stabled &thorn;erinne uche a ston in strenk&thorn;e of myn armes;</L>
+<L N="1668">Mo&yogh;t never my&yogh;t bot myn make such ano&thorn;er."</L>
+</LG>
+<LG TYPE="stanza">
+<L>'Watz not &thorn;is ilke worde wonnen of his mow&thorn;e,<NOTE PLACE="foot"><I>M</I>. mow&thorn;e one, <I>but</I> one <I>in MS. is written at the end of the line in a smaller and different hand; Fi.</I> (<I>p. 48</I>) <I>perhaps</I> [&thorn;er] watz not &thorn;is ilke worde wonnen of his mow&thorn;e.</NOTE></L>
+<L>Er &thorn;enne &thorn;e soverayn sa&yogh;e souned in his eres:</L>
+<L>"Now Nabugodenozar inno&yogh;e hatz spoken,</L>
+<L N="1672">Now is alle &thorn;y pryncipalte past at ones,<NOTE PLACE="foot"><I>MS., M</I>. past; <I>Fi</I>. passed.</NOTE>
+<PB REF="00000126.tif" N="62"></L>
+<L>And &thorn;ou, remued fro monnes sunes, on mor most abide,</L>
+<L>And in wasturne walk, and wyth &thorn;e wylde dowelle,<NOTE PLACE="foot"><I>M</I>.<SUP>1</SUP> <I>expands</I> wasterne; <I>M</I>.<SUP>2</SUP> wasturne, <I>latter probably cor|rect</I>.</NOTE></L>
+<L>As best, byte on &thorn;e bent of braken and erbes,</L>
+<L N="1676">Wyth wro&thorn;e wolfes to won and wyth wylde asses."</L>
+<L>Inmydde &thorn;e poynt of his pryde departed he &thorn;ere</L>
+<L>Fro &thorn;e soly of his solempnete; his solace he leves,</L>
+<L>And carfully is outkast to contre unknawen,</L>
+<L N="1680">Fer into a fyr fryth &thorn;ere frekes never comen.</L>
+<L>His hert heldet unhole, he hoped non o&thorn;er</L>
+<L>Bot a best &thorn;at he be, a bol o&thorn;er an oxe.</L>
+<L>He fares forth on alle faure, fogge watz his mete,</L>
+<L N="1684">And ete ay as a horce when erbes were fallen;</L>
+<L>&THORN;us he countes hym a kow &thorn;at watz a kyng ryche,</L>
+<L>Quyle seven sy&thorn;ez were overseyed someres, I trawe.</L>
+</LG>
+<LG TYPE="stanza">
+<L>'By &thorn;at, mony &thorn;ik thy&yogh;e &thorn;ry&yogh;t umbe his lyre,</L>
+<L N="1688">&THORN;at alle watz dubbed and dy&yogh;t in &thorn;e dew of heven;</L>
+<L>Faxe fyltered, and felt flosed hym umbe,</L>
+<L>&THORN;at schad fro his schulderes to his sch[e]re-wykes,<NOTE PLACE="foot"><I>MS., M</I>. schyre wykes.</NOTE></L>
+<L>And twentyfolde twynande hit to his tos ra&yogh;t;</L>
+<L N="1692">&THORN;er mony clyvy, as clyde hit cly&yogh;t togeder.</L>
+<L>His berde ibrad alle his brest to &thorn;e bare ur&thorn;e,</L>
+<L>His browes bresed as breres aboute his brode chekes;<MILESTONE N="84b" UNIT="folio"></L>
+<L>Hol&yogh;e were his y&yogh;en and under campe hores,</L>
+<L N="1696">And al watz gray as &thorn;e glede, wyth ful grymme clawres<NOTE PLACE="foot"><I>MS., M</I>. clawres; <I>Fi</I>. clawes.</NOTE></L>
+<L>&THORN;at were croked and kene as &thorn;e kyte paune;<NOTE PLACE="foot"><I>MS</I>. paune <I>or</I> panne; <I>M</I>. paune; <I>M. note</I> panne(?); <I>Fi</I>. pawe; <I>B</I>. paume; <I>G. reads MS</I>. paune.</NOTE></L>
+<L>Erne-hwed he watz, and al overbrawden;</L>
+<L>Til he wyst ful wel who wro&yogh;t alle my&yogh;tes,</L>
+<L N="1700">And cow&thorn;e uche kyndam tokerve and kever when hym lyked.
+<PB REF="00000127.tif" N="63"></L>
+<L>&THORN;enne he wayned hym his wyt, &thorn;at hade wo soffered,</L>
+<L>&THORN;at he com to knawlach and kenned hymselven;</L>
+<L>&THORN;enne he l[o]ved &thorn;at Lorde and leved in traw&thorn;e<NOTE PLACE="foot"><I>MS., M</I>. laued; <I>M. note</I> loued(?); <I>K</I>. (<I>p. 26</I>) loued.</NOTE></L>
+<L N="1704">Hit watz non o&thorn;er &thorn;en he &thorn;at hade al in honde.</L>
+<L>&THORN;enne sone watz he sende agayn, his sete restored,</L>
+<L>His barounes bo&yogh;ed hym to, bly&thorn;e of his come,</L>
+<L>Ha&yogh;erly in his aune hwe his heved watz covered,</L>
+<L N="1708">And so &yogh;eply watz &yogh;arked and &yogh;olden his state.</L>
+</LG>
+<LG TYPE="stanza">
+<L>'Bot &thorn;ou, Baltazar, his barne and his bolde ayre,</L>
+<L>Se&yogh; &thorn;ese syngnes wyth sy&yogh;t, and set hem at lyttel,</L>
+<L>Bot ay hatz hofen &thorn;y hert agaynes &thorn;e hy&yogh;e Dry&yogh;t[y]n,<NOTE PLACE="foot"><I>MS</I>. dry&yogh;tn; <I>M</I>. dry&yogh;t[y]n.</NOTE></L>
+<L N="1712">Wyth bobaunce and wyth blasfayme bost at hym kest,</L>
+<L>And now his vessayles avyled in vanyte unclene,</L>
+<L>&THORN;at in his hows hym to honor were hevened of fyrst;</L>
+<L>Bifore &thorn;e barounz hatz hom bro&yogh;t, and byrled &thorn;erinne<NOTE PLACE="foot"><I>M. reads</I> hom, <I>but MS. possibly intended for</I> hem.</NOTE></L>
+<L N="1716">Wale wyne to &thorn;y wenches in waryed stoundes.</L>
+<L>Bifore &thorn;y borde hatz &thorn;ou bro&yogh;t beverage in &thorn;ede</L>
+<L>&THORN;at bly&thorn;ely were fyrst blest wyth bischopes hondes,</L>
+<L>Lovande &thorn;eron lese goddez &thorn;at lyf haden never,</L>
+<L N="1720">Made of stokkes and stonez &thorn;at never styry mo&yogh;t.</L>
+<L>And for &thorn;at fro&thorn;ande fyl&thorn;e, &thorn;e Fader of heven</L>
+<L>Hatz sende into &thorn;is sale &thorn;ise sy&yogh;tes uncow&thorn;e,<NOTE PLACE="foot"><I>MS., M</I>.<SUP>1</SUP> hat&yogh; sende hat&yogh; sende; <I>M</I>.<SUP>2</SUP> hat&yogh; sende.</NOTE></L>
+<L>&THORN;e fyste wyth &thorn;e fyngeres &thorn;at flayed &thorn;i hert,</L>
+<L N="1724">&THORN;at rasped renyschly &thorn;e wo&yogh;e wyth &thorn;e ro&yogh; penne.</L>
+</LG>
+<LG TYPE="stanza">
+<L>'&THORN;ise ar &thorn;e wordes here wryten, wythoute werk more,</L>
+<L>By uch fygure, as I fynde, as oure Fader lykes:</L>
+<L>Mane, Techal, Phares, merked in &thorn;rynne;</L>
+<L N="1728">&THORN;at &thorn;retes &thorn;e of &thorn;yn un&thorn;ryfte upon &thorn;re wyse.</L>
+<L>Now expowne &thorn;e &thorn;is speche spedly I &thorn;enk:</L>
+<L>Mane menes als much as, maynful Gode<MILESTONE N="85a" UNIT="folio"></L>
+<L>Hatz counted &thorn;y kyndam bi a clene noumbre,
+<PB REF="00000128.tif" N="64"></L>
+<L N="1732">And fulfylled hit in fayth to &thorn;e fyrre ende.</L>
+<L>To teche &thorn;e of Techal, &thorn;at terme &thorn;us menes:</L>
+<L>&THORN;y wale rengne is walt in we&yogh;tes to heng,</L>
+<L>And is funde ful fewe of hit fayth-dedes.</L>
+<L N="1736">And Phares fol&yogh;es for &thorn;ose fawtes, to frayst &thorn;e traw&thorn;e;</L>
+<L>In Phares fynde I forso&thorn;e &thorn;ise felle sa&yogh;es:</L>
+<L>Departed is &thorn;y pryncipalte, depryved &thorn;ou wor&thorn;es,</L>
+<L>&THORN;y rengne rafte is &thorn;e fro, and ra&yogh;t is &thorn;e Perses,</L>
+<L N="1740">&THORN;e Medes schal be maysteres here, and &thorn;ou of menske schowved.'</L>
+</LG>
+</DIV1>
+<DIV1 N="13c" TYPE="section">
+<HEAD>XIIIc. BELSHAZZAR'S END</HEAD>
+<LG TYPE="stanza">
+<L>&THORN;e kyng comaunded anon to cle&thorn;e &thorn;at wyse</L>
+<L>In frokkes of fyn clo&thorn;, as forward hit asked.</L>
+<L>&THORN;enne sone watz Danyel dubbed in ful dere porpor,</L>
+<L N="1744">And a coler of cler golde kest umbe his swyre.<NOTE PLACE="foot"><I>MS., M.</I><SUP>1</SUP> cloler; <I>M.</I><SUP>2</SUP> coler.</NOTE></L>
+<L>&THORN;en watz demed a decre bi &thorn;e duk selven:</L>
+<L>Bolde Baltaza[r] bed &thorn;at hym bowe schulde<NOTE PLACE="foot"><I>MS.</I> balta&yogh;a; <I>M.</I> Bal|ta&yogh;a[r].</NOTE></L>
+<L>&THORN;e comynes al of Calde &thorn;at to &thorn;e kyng longed,<NOTE PLACE="foot"><I>MS., M.</I><SUP>1</SUP> alof; <I>M.</I><SUP>1</SUP> <I>note</I> aloft(?); <I>M.</I><SUP>2</SUP> a lof; <I>Fi.</I> al of.</NOTE></L>
+<L N="1748">As to &thorn;e prynce pryvyest preved &thorn;e &thorn;rydde,</L>
+<L>He&yogh;est of alle o&thorn;er, saf onelych tweyne,</L>
+<L>To bo&yogh; after Baltazar in bor&yogh;e and in felde.</L>
+<L>&THORN;ys watz cryed and knawen in cort als fast,</L>
+<L N="1752">And alle &thorn;e folk &thorn;erof fayn &thorn;at fol&yogh;ed hym tylle.</L>
+</LG>
+<LG TYPE="stanza">
+<L>Bot how so Danyel watz dy&yogh;t, &thorn;at day over&yogh;ede,</L>
+<L>Ny&yogh;t ne&yogh;ed ry&yogh;t now wyth nyes fol mony,</L>
+<L>For da&yogh;ed never ano&thorn;er day &thorn;at ilk derk after,</L>
+<L N="1756">Er dalt were &thorn;at ilk dome &thorn;at Danyel devysed.</L>
+<L>&THORN;e solace of &thorn;e solempnete in &thorn;at sale dured</L>
+<L>Of &thorn;at farand fest, tyl fayled &thorn;e sunne;</L>
+<L>&THORN;enne blykned &thorn;e ble of &thorn;e bry&yogh;t skwes,<NOTE PLACE="foot"><I>MS., M.</I> blykned; <I>M. note</I> blaykned(?), <I>accepted by Fi.</I></NOTE>
+<PB REF="00000129.tif" N="65"></L>
+<L N="1760">Morkenes &thorn;e mery weder, and &thorn;e myst dryves</L>
+<L>&THORN;or&yogh; &thorn;e lyst of &thorn;e lyfte, bi &thorn;e lo&yogh; medoes.</L>
+<L>Uche ha&thorn;el to his home hy&yogh;es ful fast,</L>
+<L>Seten at her soper and songen &thorn;erafter;</L>
+<L N="1764">&THORN;en foundez uch a fela&yogh;schyp fyrre at for&thorn; na&yogh;tes.</L>
+<L>Baltazar to his bedd with blysse watz caryed,</L>
+<L>Reche &thorn;e rest as hym lyst, he ros never &thorn;erafter.<MILESTONE N="85b" UNIT="folio"></L>
+</LG>
+<LG TYPE="stanza">
+<L>For his foes in &thorn;e felde in flokkes ful grete,</L>
+<L N="1768">&THORN;at longe hade layted &thorn;at lede, his londes to strye,</L>
+<L>Now ar &thorn;ay sodenly assembled at &thorn;e self tyme,</L>
+<L>Of hem wyst no wy&yogh;e &thorn;at in &thorn;at won dowelled.</L>
+<L>Hit watz &thorn;e dere Daryus, &thorn;e duk of &thorn;ise Medes,</L>
+<L N="1772">&THORN;e prowde prynce of Perce and Porros of Ynde,</L>
+<L>Wyth mony a legioun ful large, wyth ledes of armes,</L>
+<L>&THORN;at now hatz spyed a space to spoyle Caldeez.</L>
+<L>&THORN;ay &thorn;rongen &thorn;eder in &thorn;e &thorn;ester on &thorn;rawen hepes,</L>
+<L N="1776">Asscaped over &thorn;e skyre watteres, and sca[l]ed &thorn;e walles,<NOTE PLACE="foot"><I>MS., M.</I> sca&thorn;ed, <I>B.</I> sca[l]ed.</NOTE></L>
+<L>Lyfte laddres ful longe and upon lofte wonen,</L>
+<L>Stelen stylly &thorn;e toun er any steven rysed.</L>
+<L>Wythinne an oure of &thorn;e [n]y&yogh;t an entre &thorn;ay hade,<NOTE PLACE="foot"><I>MS.</I> my&yogh;t.</NOTE></L>
+<L N="1780">&YOGH;et afrayed &thorn;ay no freke; fyrre &thorn;ay passen</L>
+<L>And to &thorn;e palays pryncipal &thorn;ay aproched ful stylle.</L>
+<L>&THORN;enne ran &thorn;ay in on a res, on rowtes ful grete;</L>
+<L>Blastes out of bry&yogh;t brasse brestes so hy&yogh;e,</L>
+<L N="1784">Ascry scarred on &thorn;e scue &thorn;at scomfyted mony.</L>
+<L>Segges slepande were slayne er &thorn;ay slyppe my&yogh;t,</L>
+<L>Uche hous heyred watz wythinne a hondewhyle;</L>
+<L>Baltazar in his bed watz beten to de&thorn;e,</L>
+<L N="1788">&THORN;at bo&thorn;e his blod and his brayn blende on &thorn;e clo&thorn;es;</L>
+<L>The kyng in his cortyn watz ka&yogh;t bi &thorn;e heles,</L>
+<L>Feryed out bi &thorn;e fete, and fowle dispysed,</L>
+<L>&THORN;at watz so do&yogh;ty &thorn;at day and drank of &thorn;e vessayl;</L>
+<L N="1792">Now is a dogge also dere &thorn;at in a dych lygges.
+<PB REF="00000130.tif" N="66"></L>
+</LG>
+<LG TYPE="stanza">
+<L>For &thorn;e mayster of &thorn;yse Medes on &thorn;e morne ryses,</L>
+<L>Dere Daryous &thorn;at day dy&yogh;t upon trone,</L>
+<L>&THORN;at cete seses ful sounde, and sa&yogh;tlyng makes</L>
+<L N="1796">Wyth alle &thorn;e barounz &thorn;eraboute, &thorn;at bowed hym after.</L>
+<L>And &thorn;us watz &thorn;at londe lost for &thorn;e lordes synne,</L>
+<L>And &thorn;e fyl&thorn;e of &thorn;e freke &thorn;at defowled hade</L>
+<L>&THORN;e ornementes of Goddez hous &thorn;at holy were maked.</L>
+<L N="1800">He watz corsed for his unclannes, and cached &thorn;erinne,</L>
+<L>Done doun of his dyngnete for dedez unfayre,</L>
+<L>And of &thorn;yse worldes worchyp wrast out for ever,<MILESTONE N="86a" UNIT="folio"></L>
+<L>And &yogh;et of lykynges on lofte letted, I trowe,</L>
+<L N="1804">To loke on oure lofly Lorde late bitydes.</L>
+</LG>
+<LG TYPE="stanza">
+<L>&THORN;us upon &thorn;rynne wyses I haf yow &thorn;ro schewed,</L>
+<L>&THORN;at unclannes tocleves in corage dere</L>
+<L>Of &thorn;at wynnelych Lorde &thorn;at wonyes in heven,</L>
+<L N="1808">Entyses hym to be tene, tel[des] up his wrake;<NOTE PLACE="foot"><I>MS., M.</I> telled; <I>M. note</I> telles(?).</NOTE></L>
+<L>Ande clannes is his comfort, and coyntyse he lovyes,</L>
+<L>And &thorn;ose &thorn;at seme arn and swete schyn se his face.</L>
+<L>&THORN;at we gon gay in oure gere &thorn;at grace he uus sende,</L>
+<L N="1812">&THORN;at we may serve in his sy&yogh;t &thorn;er solace never blynnez. Amen.</L>
+</LG>
+</DIV1>
+</BODY>
+<BACK>
+<DIV1 TYPE="omitted back matter"><P>
+
+<PB REF="00000131.tif">
+
+<PB REF="00000132.tif" N="68">
+
+<PB REF="00000133.tif" N="69">
+
+<PB REF="00000134.tif" N="70">
+
+<PB REF="00000135.tif" N="71">
+
+<PB REF="00000136.tif" N="72">
+
+<PB REF="00000137.tif" N="73">
+
+<PB REF="00000138.tif" N="74">
+
+<PB REF="00000139.tif" N="75">
+
+<PB REF="00000140.tif" N="76">
+
+<PB REF="00000141.tif" N="77">
+
+<PB REF="00000142.tif" N="78">
+
+<PB REF="00000143.tif" N="79">
+
+<PB REF="00000144.tif" N="80">
+
+<PB REF="00000145.tif" N="81">
+
+<PB REF="00000146.tif" N="82">
+
+<PB REF="00000147.tif" N="83">
+
+<PB REF="00000148.tif" N="84">
+
+<PB REF="00000149.tif" N="85">
+
+<PB REF="00000150.tif" N="86">
+
+<PB REF="00000151.tif" N="87">
+
+<PB REF="00000152.tif" N="88">
+
+<PB REF="00000153.tif" N="89">
+
+<PB REF="00000154.tif" N="90">
+
+<PB REF="00000155.tif" N="91">
+
+<PB REF="00000156.tif" N="92">
+
+<PB REF="00000157.tif" N="93">
+
+<PB REF="00000158.tif" N="94">
+
+<PB REF="00000159.tif" N="95">
+
+<PB REF="00000160.tif" N="96">
+
+<PB REF="00000161.tif" N="97">
+
+<PB REF="00000162.tif" N="98">
+
+<PB REF="00000163.tif" N="99">
+
+<PB REF="00000164.tif" N="100">
+
+<PB REF="00000165.tif" N="101">
+
+<PB REF="00000166.tif" N="102">
+
+<PB REF="00000167.tif" N="103">
+
+<PB REF="00000168.tif" N="104">
+
+<PB REF="00000169.tif" N="105">
+
+<PB REF="00000170.tif" N="106">
+
+<PB REF="00000171.tif" N="107">
+
+<PB REF="00000172.tif" N="108">
+
+<PB REF="00000173.tif" N="109">
+
+<PB REF="00000174.tif" N="110">
+
+<PB REF="00000175.tif" N="111">
+
+<PB REF="00000176.tif" N="112">
+
+<PB REF="00000177.tif" N="113">
+
+<PB REF="00000178.tif" N="114">
+
+<PB REF="00000179.tif" N="115">
+
+<PB REF="00000180.tif" N="116">
+
+<PB REF="00000181.tif" N="117">
+
+<PB REF="00000182.tif" N="118">
+
+<PB REF="00000183.tif">
+
+<PB REF="00000184.tif" N="120">
+
+<PB REF="00000185.tif" N="121">
+
+<PB REF="00000186.tif" N="122">
+
+<PB REF="00000187.tif" N="123">
+
+<PB REF="00000188.tif" N="124">
+
+<PB REF="00000189.tif" N="125">
+
+<PB REF="00000190.tif" N="126">
+
+<PB REF="00000191.tif" N="127">
+
+<PB REF="00000192.tif" N="128">
+
+<PB REF="00000193.tif" N="129">
+
+<PB REF="00000194.tif" N="130">
+
+<PB REF="00000195.tif" N="131">
+
+<PB REF="00000196.tif" N="132">
+
+<PB REF="00000197.tif" N="133">
+
+<PB REF="00000198.tif" N="134">
+
+<PB REF="00000199.tif" N="135">
+
+<PB REF="00000200.tif" N="136">
+
+<PB REF="00000201.tif" N="137">
+
+<PB REF="00000202.tif" N="138">
+
+<PB REF="00000203.tif" N="139">
+
+<PB REF="00000204.tif" N="140">
+
+<PB REF="00000205.tif" N="141">
+
+<PB REF="00000206.tif" N="142">
+
+<PB REF="00000207.tif" N="143">
+
+<PB REF="00000208.tif" N="144">
+
+<PB REF="00000209.tif" N="145">
+
+<PB REF="00000210.tif" N="146">
+
+<PB REF="00000211.tif" N="147">
+
+<PB REF="00000212.tif" N="148">
+
+<PB REF="00000213.tif" N="149">
+
+<PB REF="00000214.tif" N="150">
+
+<PB REF="00000215.tif" N="151">
+
+<PB REF="00000216.tif" N="152">
+
+<PB REF="00000217.tif" N="153">
+
+<PB REF="00000218.tif" N="154">
+
+<PB REF="00000219.tif" N="155">
+
+<PB REF="00000220.tif" N="156">
+
+<PB REF="00000221.tif" N="157">
+
+<PB REF="00000222.tif" N="158">
+
+<PB REF="00000223.tif" N="159">
+
+<PB REF="00000224.tif" N="160">
+
+<PB REF="00000225.tif" N="161">
+
+<PB REF="00000226.tif" N="162">
+
+<PB REF="00000227.tif" N="163">
+
+<PB REF="00000228.tif" N="164">
+
+<PB REF="00000229.tif" N="165">
+
+<PB REF="00000230.tif" N="166">
+
+<PB REF="00000231.tif" N="167">
+
+<PB REF="00000232.tif" N="168">
+
+<PB REF="00000233.tif" N="169">
+
+<PB REF="00000234.tif" N="170">
+
+<PB REF="00000235.tif" N="171">
+
+<PB REF="00000236.tif" N="172">
+
+<PB REF="00000237.tif" N="173">
+
+<PB REF="00000238.tif" N="174">
+
+<PB REF="00000239.tif" N="175">
+
+<PB REF="00000240.tif" N="176">
+
+<PB REF="00000241.tif" N="177">
+
+<PB REF="00000242.tif" N="178">
+
+<PB REF="00000243.tif" N="179">
+
+<PB REF="00000244.tif" N="180">
+
+<PB REF="00000245.tif" N="181">
+
+<PB REF="00000246.tif" N="182">
+
+<PB REF="00000247.tif" N="183">
+
+<PB REF="00000248.tif" N="184">
+
+<PB REF="00000249.tif" N="185">
+
+<PB REF="00000250.tif" N="186">
+
+<PB REF="00000251.tif" N="187">
+
+<PB REF="00000252.tif" N="188">
+
+<PB REF="00000253.tif" N="189">
+
+<PB REF="00000254.tif" N="190">
+
+<PB REF="00000255.tif" N="191">
+
+<PB REF="00000256.tif" N="192">
+
+<PB REF="00000257.tif" N="193">
+
+<PB REF="00000258.tif" N="194">
+
+<PB REF="00000259.tif" N="195">
+
+<PB REF="00000260.tif" N="196">
+
+<PB REF="00000261.tif" N="197">
+
+<PB REF="00000262.tif" N="198">
+
+<PB REF="00000263.tif" N="199">
+
+<PB REF="00000264.tif" N="200">
+
+<PB REF="00000265.tif" N="201">
+
+<PB REF="00000266.tif" N="202">
+
+<PB REF="00000267.tif" N="203">
+
+<PB REF="00000268.tif" N="204">
+
+<PB REF="00000269.tif" N="205">
+
+<PB REF="00000270.tif" N="206">
+
+<PB REF="00000271.tif" N="207">
+
+<PB REF="00000272.tif" N="208">
+
+<PB REF="00000273.tif" N="209">
+
+<PB REF="00000274.tif" N="210">
+
+<PB REF="00000275.tif" N="211">
+
+<PB REF="00000276.tif" N="212">
+
+<PB REF="00000277.tif" N="213">
+
+<PB REF="00000278.tif" N="214">
+
+<PB REF="00000279.tif">
+
+<PB REF="00000280.tif" N="216">
+
+<PB REF="00000281.tif" N="217">
+
+<PB REF="00000282.tif" N="218">
+
+<PB REF="00000283.tif" N="219">
+
+<PB REF="00000284.tif">
+
+<PB REF="00000285.tif">
+
+<PB REF="00000286.tif" N="222">
+
+<PB REF="00000287.tif" N="223">
+
+<PB REF="00000288.tif" N="224">
+
+<PB REF="00000289.tif" N="225">
+
+<PB REF="00000290.tif" N="226">
+
+<PB REF="00000291.tif" N="227">
+
+<PB REF="00000292.tif" N="228">
+
+<PB REF="00000293.tif" N="229">
+
+<PB REF="00000294.tif" N="230">
+
+<PB REF="00000295.tif">
+
+<PB REF="00000296.tif" N="232">
+
+<PB REF="00000297.tif" N="233">
+
+<PB REF="00000298.tif" N="234">
+
+<PB REF="00000299.tif">
+
+</P>
+<PB REF="00000300.tif">
+</DIV1></BACK>
+</TEXT>
+</ETS>

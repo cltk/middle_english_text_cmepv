@@ -1,0 +1,782 @@
+<?xml version="1.0"?>
+<DLPSTEXTCLASS><HEADER><FILEDESC><TITLESTMT><TITLE TYPE="245" I2="4">The governance of England: otherwise called The difference between an absolute and a limited monarchy. A rev. text edited with introd., notes, and appendices by Charles Plummer.</TITLE><AUTHOR> Fortescue, John, Sir, 1394?-1476?</AUTHOR></TITLESTMT><EXTENT>412 600dpi TIFF G4 page images</EXTENT><PUBLICATIONSTMT><PUBLISHER>University of Michigan Library</PUBLISHER><PUBPLACE>Ann Arbor, Michigan</PUBPLACE><DATE>2006</DATE><IDNO TYPE="dlps">AEW3422.0001.001</IDNO><IDNO TYPE="lccallno">JK 121 .F74 1885</IDNO><AVAILABILITY><P>Where applicable, subject to copyright.  Other restrictions on distribution may apply.  Please  go to http://www.umdl.umich.edu/ for more information.</P></AVAILABILITY></PUBLICATIONSTMT><SOURCEDESC><BIBLFULL><TITLESTMT><TITLE TYPE="245" I2="4">The governance of England: otherwise called The difference between an absolute and a limited monarchy. A rev. text edited with introd., notes, and appendices by Charles Plummer.</TITLE><AUTHOR> Fortescue, John, Sir, 1394?-1476?</AUTHOR><AUTHOR>Plummer, Charles, ed. 1851-1927.</AUTHOR></TITLESTMT><EXTENT>387 p.    </EXTENT><PUBLICATIONSTMT><PUBPLACE>Oxford,</PUBPLACE><PUBLISHER>Clarendon Press,</PUBLISHER><DATE>1885.</DATE></PUBLICATIONSTMT></BIBLFULL></SOURCEDESC></FILEDESC><ENCODINGDESC><PROJECTDESC><P>Header created with script mrcb2teiutf.xsl on 2006-02-22.</P></PROJECTDESC><EDITORIALDECL N="4"><P>This electronic text file was created by Optical Character Recognition (OCR). No corrections have been made to the OCR-ed text and no editing has been done to the content of the original document. Encoding has been done using the recommendations for Level 1 of the TEI in Libraries Guidelines. Digital page images are linked to the text file.</P></EDITORIALDECL></ENCODINGDESC><PROFILEDESC><LANGUSAGE ID="eng"><LANGUAGE>eng</LANGUAGE></LANGUSAGE><TEXTCLASS><KEYWORDS><TERM>Political science</TERM><TERM>Monarchy</TERM><TERM>Constitutional law -- Great Britain.</TERM></KEYWORDS></TEXTCLASS></PROFILEDESC></HEADER><TEXT><FRONT><DIV1 NODE="AEW3422.0001.001:1" TYPE="omitted half title"><P>
+
+
+
+<EPB/><PB REF="00000001.tif" SEQ="00000001" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N=""/>
+
+</P></DIV1><TITLEPAGE><EPB/><PB REF="00000002.tif" SEQ="00000002" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N=""/><EPB/><PB REF="00000003.tif" SEQ="00000003" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="[a]"/><DOCTITLE><TITLEPART TYPE="main">The Governance of England:</TITLEPART><TITLEPART TYPE="sub">OTHERWISE CALLED<LB/>The Difference between an Absolute and a Limited Monarchy<LB/>BY SIR JOHN FORTESCUE, KT.<LB/>SOMETIME CHIEF JUSTICE OF THE KING'S BENCH</TITLEPART></DOCTITLE><BYLINE>A Revised Text<LB/>EDITED WITH INTRODUCTION, NOTES, AND APPENDICES<LB/>BY<LB/><DOCAUTHOR>CHARLES PLUMMER,</DOCAUTHOR> M.A. Fellow and Chaplain of Corpus Christi College, Oxford</BYLINE><DOCIMPRINT><PUBPLACE>Oxford</PUBPLACE>
+<PUBLISHER>AT THE CLARENDON PRESS</PUBLISHER>
+<DOCDATE>M D CCC LXXXV</DOCDATE>[All rights reserved]</DOCIMPRINT></TITLEPAGE><DIV1 NODE="AEW3422.0001.001:2" TYPE="omitted front matter"><P>
+
+
+
+<EPB/><PB REF="00000004.tif" SEQ="00000004" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N=""/>
+
+<EPB/><PB REF="00000005.tif" SEQ="00000005" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N=""/>
+
+<EPB/><PB REF="00000006.tif" SEQ="00000006" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N=""/>
+
+<EPB/><PB REF="00000007.tif" SEQ="00000007" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N=""/>
+
+<EPB/><PB REF="00000008.tif" SEQ="00000008" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="viii"/>
+
+<EPB/><PB REF="00000009.tif" SEQ="00000009" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="ix"/>
+
+<EPB/><PB REF="00000010.tif" SEQ="00000010" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="x"/>
+
+<EPB/><PB REF="00000011.tif" SEQ="00000011" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="xi"/>
+
+<EPB/><PB REF="00000012.tif" SEQ="00000012" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="xii"/>
+
+<EPB/><PB REF="00000013.tif" SEQ="00000013" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="xiii"/>
+
+<EPB/><PB REF="00000014.tif" SEQ="00000014" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N=""/>
+
+<EPB/><PB REF="00000015.tif" SEQ="00000015" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N=""/>
+
+<EPB/><PB REF="00000016.tif" SEQ="00000016" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="xvi"/>
+
+<EPB/><PB REF="00000017.tif" SEQ="00000017" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N=""/>
+
+<EPB/><PB REF="00000018.tif" SEQ="00000018" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="xviii"/>
+
+<EPB/><PB REF="00000019.tif" SEQ="00000019" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="xix"/>
+
+<EPB/><PB REF="00000020.tif" SEQ="00000020" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="xx"/>
+
+<EPB/><PB REF="00000021.tif" SEQ="00000021" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="xxi"/>
+
+<EPB/><PB REF="00000022.tif" SEQ="00000022" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="xxii"/>
+
+<EPB/><PB REF="00000023.tif" SEQ="00000023" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="xxiii"/>
+
+<EPB/><PB REF="00000024.tif" SEQ="00000024" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N=""/>
+
+<EPB/><PB REF="00000025.tif" SEQ="00000025" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N=""/>
+
+<EPB/><PB REF="00000026.tif" SEQ="00000026" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="2"/>
+
+<EPB/><PB REF="00000027.tif" SEQ="00000027" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="3"/>
+
+<EPB/><PB REF="00000028.tif" SEQ="00000028" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="4"/>
+
+<EPB/><PB REF="00000029.tif" SEQ="00000029" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="5"/>
+
+<EPB/><PB REF="00000030.tif" SEQ="00000030" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="6"/>
+
+<EPB/><PB REF="00000031.tif" SEQ="00000031" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="7"/>
+
+<EPB/><PB REF="00000032.tif" SEQ="00000032" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="8"/>
+
+<EPB/><PB REF="00000033.tif" SEQ="00000033" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="9"/>
+
+<EPB/><PB REF="00000034.tif" SEQ="00000034" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="10"/>
+
+<EPB/><PB REF="00000035.tif" SEQ="00000035" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="11"/>
+
+<EPB/><PB REF="00000036.tif" SEQ="00000036" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="12"/>
+
+<EPB/><PB REF="00000037.tif" SEQ="00000037" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="13"/>
+
+<EPB/><PB REF="00000038.tif" SEQ="00000038" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="14"/>
+
+<EPB/><PB REF="00000039.tif" SEQ="00000039" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="15"/>
+
+<EPB/><PB REF="00000040.tif" SEQ="00000040" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="16"/>
+
+<EPB/><PB REF="00000041.tif" SEQ="00000041" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="17"/>
+
+<EPB/><PB REF="00000042.tif" SEQ="00000042" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="18"/>
+
+<EPB/><PB REF="00000043.tif" SEQ="00000043" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="19"/>
+
+<EPB/><PB REF="00000044.tif" SEQ="00000044" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="20"/>
+
+<EPB/><PB REF="00000045.tif" SEQ="00000045" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="21"/>
+
+<EPB/><PB REF="00000046.tif" SEQ="00000046" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="22"/>
+
+<EPB/><PB REF="00000047.tif" SEQ="00000047" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="23"/>
+
+<EPB/><PB REF="00000048.tif" SEQ="00000048" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="24"/>
+
+<EPB/><PB REF="00000049.tif" SEQ="00000049" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="25"/>
+
+<EPB/><PB REF="00000050.tif" SEQ="00000050" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="26"/>
+
+<EPB/><PB REF="00000051.tif" SEQ="00000051" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="27"/>
+
+<EPB/><PB REF="00000052.tif" SEQ="00000052" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="28"/>
+
+<EPB/><PB REF="00000053.tif" SEQ="00000053" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="29"/>
+
+<EPB/><PB REF="00000054.tif" SEQ="00000054" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="30"/>
+
+<EPB/><PB REF="00000055.tif" SEQ="00000055" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="31"/>
+
+<EPB/><PB REF="00000056.tif" SEQ="00000056" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="32"/>
+
+<EPB/><PB REF="00000057.tif" SEQ="00000057" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="33"/>
+
+<EPB/><PB REF="00000058.tif" SEQ="00000058" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="34"/>
+
+<EPB/><PB REF="00000059.tif" SEQ="00000059" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="35"/>
+
+<EPB/><PB REF="00000060.tif" SEQ="00000060" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="36"/>
+
+<EPB/><PB REF="00000061.tif" SEQ="00000061" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="37"/>
+
+<EPB/><PB REF="00000062.tif" SEQ="00000062" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="38"/>
+
+<EPB/><PB REF="00000063.tif" SEQ="00000063" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="39"/>
+
+<EPB/><PB REF="00000064.tif" SEQ="00000064" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="40"/>
+
+<EPB/><PB REF="00000065.tif" SEQ="00000065" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="41"/>
+
+<EPB/><PB REF="00000066.tif" SEQ="00000066" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="42"/>
+
+<EPB/><PB REF="00000067.tif" SEQ="00000067" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="43"/>
+
+<EPB/><PB REF="00000068.tif" SEQ="00000068" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="44"/>
+
+<EPB/><PB REF="00000069.tif" SEQ="00000069" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="45"/>
+
+<EPB/><PB REF="00000070.tif" SEQ="00000070" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="46"/>
+
+<EPB/><PB REF="00000071.tif" SEQ="00000071" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="47"/>
+
+<EPB/><PB REF="00000072.tif" SEQ="00000072" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="48"/>
+
+<EPB/><PB REF="00000073.tif" SEQ="00000073" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="49"/>
+
+<EPB/><PB REF="00000074.tif" SEQ="00000074" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="50"/>
+
+<EPB/><PB REF="00000075.tif" SEQ="00000075" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="51"/>
+
+<EPB/><PB REF="00000076.tif" SEQ="00000076" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="52"/>
+
+<EPB/><PB REF="00000077.tif" SEQ="00000077" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="53"/>
+
+<EPB/><PB REF="00000078.tif" SEQ="00000078" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="54"/>
+
+<EPB/><PB REF="00000079.tif" SEQ="00000079" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="55"/>
+
+<EPB/><PB REF="00000080.tif" SEQ="00000080" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="56"/>
+
+<EPB/><PB REF="00000081.tif" SEQ="00000081" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="57"/>
+
+<EPB/><PB REF="00000082.tif" SEQ="00000082" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="58"/>
+
+<EPB/><PB REF="00000083.tif" SEQ="00000083" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="59"/>
+
+<EPB/><PB REF="00000084.tif" SEQ="00000084" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="60"/>
+
+<EPB/><PB REF="00000085.tif" SEQ="00000085" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="61"/>
+
+<EPB/><PB REF="00000086.tif" SEQ="00000086" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="62"/>
+
+<EPB/><PB REF="00000087.tif" SEQ="00000087" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="63"/>
+
+<EPB/><PB REF="00000088.tif" SEQ="00000088" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="64"/>
+
+<EPB/><PB REF="00000089.tif" SEQ="00000089" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="65"/>
+
+<EPB/><PB REF="00000090.tif" SEQ="00000090" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="66"/>
+
+<EPB/><PB REF="00000091.tif" SEQ="00000091" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="67"/>
+
+<EPB/><PB REF="00000092.tif" SEQ="00000092" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="68"/>
+
+<EPB/><PB REF="00000093.tif" SEQ="00000093" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="69"/>
+
+<EPB/><PB REF="00000094.tif" SEQ="00000094" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="70"/>
+
+<EPB/><PB REF="00000095.tif" SEQ="00000095" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="71"/>
+
+<EPB/><PB REF="00000096.tif" SEQ="00000096" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="72"/>
+
+<EPB/><PB REF="00000097.tif" SEQ="00000097" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="73"/>
+
+<EPB/><PB REF="00000098.tif" SEQ="00000098" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="74"/>
+
+<EPB/><PB REF="00000099.tif" SEQ="00000099" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="75"/>
+
+<EPB/><PB REF="00000100.tif" SEQ="00000100" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="76"/>
+
+<EPB/><PB REF="00000101.tif" SEQ="00000101" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="77"/>
+
+<EPB/><PB REF="00000102.tif" SEQ="00000102" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="78"/>
+
+<EPB/><PB REF="00000103.tif" SEQ="00000103" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="79"/>
+
+<EPB/><PB REF="00000104.tif" SEQ="00000104" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="80"/>
+
+<EPB/><PB REF="00000105.tif" SEQ="00000105" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="81"/>
+
+<EPB/><PB REF="00000106.tif" SEQ="00000106" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="82"/>
+
+<EPB/><PB REF="00000107.tif" SEQ="00000107" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="83"/>
+
+<EPB/><PB REF="00000108.tif" SEQ="00000108" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="84"/>
+
+<EPB/><PB REF="00000109.tif" SEQ="00000109" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="85"/>
+
+<EPB/><PB REF="00000110.tif" SEQ="00000110" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="86"/>
+
+<EPB/><PB REF="00000111.tif" SEQ="00000111" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="87"/>
+
+<EPB/><PB REF="00000112.tif" SEQ="00000112" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="88"/>
+
+<EPB/><PB REF="00000113.tif" SEQ="00000113" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="89"/>
+
+<EPB/><PB REF="00000114.tif" SEQ="00000114" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="90"/>
+
+<EPB/><PB REF="00000115.tif" SEQ="00000115" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="91"/>
+
+<EPB/><PB REF="00000116.tif" SEQ="00000116" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="92"/>
+
+<EPB/><PB REF="00000117.tif" SEQ="00000117" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="93"/>
+
+<EPB/><PB REF="00000118.tif" SEQ="00000118" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="94"/>
+
+<EPB/><PB REF="00000119.tif" SEQ="00000119" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="95"/>
+
+<EPB/><PB REF="00000120.tif" SEQ="00000120" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="96"/>
+
+<EPB/><PB REF="00000121.tif" SEQ="00000121" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="97"/>
+
+<EPB/><PB REF="00000122.tif" SEQ="00000122" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="98"/>
+
+<EPB/><PB REF="00000123.tif" SEQ="00000123" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="99"/>
+
+<EPB/><PB REF="00000124.tif" SEQ="00000124" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="100"/>
+
+<EPB/><PB REF="00000125.tif" SEQ="00000125" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="101"/>
+
+<EPB/><PB REF="00000126.tif" SEQ="00000126" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="102"/>
+
+<EPB/><PB REF="00000127.tif" SEQ="00000127" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="103"/>
+
+<EPB/><PB REF="00000128.tif" SEQ="00000128" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="104"/>
+
+<EPB/><PB REF="00000129.tif" SEQ="00000129" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="105"/>
+
+<EPB/><PB REF="00000130.tif" SEQ="00000130" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N=""/>
+
+<EPB/><PB REF="00000131.tif" SEQ="00000131" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N=""/>
+
+</P></DIV1></FRONT><BODY><DIV1 NODE="AEW3422.0001.001:3" TYPE="chapter" N="1"><EPB/><PB REF="00000132.tif" SEQ="00000132" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N=""/><EPB/><PB REF="00000133.tif" SEQ="00000133" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="[109]"/><HEAD>CHAPTER I. THE DEFERENCE BI TWENE DOMINIUM REGALE AND DOMINIUM POLITICUM ET REGALE.</HEAD><P>THER bith ij kyndes off kyngdomes, of the wich that on is a lordship callid in laten dominium regale, and that other is callid dominium politicum et regale. And thai diuersen in that the first kynge mey rule his peple bi suche lawes as he makyth hym self. And therfore he mey sett vppon thaim tayles and other imposicions, such as he wol hym self, with owt thair assent. The secounde kynge may not rule his peple bi other lawes than such as thai assenten unto. And therfore he mey sett vpon thaim non imposi|cions with owt thair owne assent. This diuersite is wel taught bi Seynt Thomas, in his boke wich he wrote ad regem Cipri de regemine principum. But yet it is more openly tredid in a boke callid compendium moralis philosophie, and sumwhat bi Giles in his boke de regemine principum. The childeryn of Israell, as saith Seynt Thomas, aftir that God hade chosen thaim in populum peculiarem et regnum sacerdotale, were ruled bi hym vndir Juges regaliter et politice, in to the tyme that thai desired to haue a kynge, as tho hade al the gentiles, wich we cal peynymes, that hade no kynge but a man that reigned vppon thaim regaliter tantum. With wich desire God was gretly offendyd, as wele for thair folie, as for thair vnkyndnes; that 
+<EPB/><PB REF="00000134.tif" SEQ="00000134" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="110"/> sithyn thai had a kynge, wich was God, that reigned vppon thaim politekily and roialy, and yet wold chaunge hym for a kynge, a verray man, that wolde reigne vpon hem only roialy. And therfore God manassynge hem made them to be ferde bi thondres and oþer gasteful thynges from the hevene. And whan thai wolde not therby lefe thair folissh desire, he charged þe profet Samuel to declare vnto them the lawe of such a kynge as thai askyd; wich amonge oþer thynges said that he wolde take from thaim thair lande and gyf it to his servantes, and sett thair childeryn in his cartis, and do to thaim such oþer many harmeful thinges, as in the viij<HI1 REND="sup">th</HI1> chapiter of the first boke of kynges it mey apere. Wher as bi fore that tyme, while thai were ruled bi God roialy and politikely vndir Juges, it was not lefull to any man for to take from thaim any of thaire godis, or to greve thair childeren þat hade not offendid. Wereby it mey appere that in tho dayis regimen politicum et regale was distyngued a regemine tantum regale; and that it was bettir to the peple to be ruled politekely and roialy, than to be ruled only roialy. Seynt Thomas also in his said boke prasith dominium politicum et regale, bi cause the prince that reigneth bi such lordshippe mey not frely falle into tyrannye, as mey the prince that reigneth regaliter tantum. And yet thai both bith egall in estate and in poiar, as it mey lightly be shewed and provid by infallyble reason.
+</P></DIV1><DIV1 NODE="AEW3422.0001.001:4" TYPE="chapter" N="2"><EPB/><PB REF="00000135.tif" SEQ="00000135" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="111"/><HEAD>CHAPTER II. WHI OON KING REGNETH REGALITER, AND ANOTHER POLITICE ET REGALITER.</HEAD><P>HIT mey peraventur be mervellid be some men, whi on reaume is a lordeshippe only roialle, and the prince therof rulith it bi his lawe callid Jus regale; and a nother kyngdome is a lordshippe roiall and politike, and the prince therof rulith hit bi a lawe callid Jus polliticum et regale; sithin thes ij princes bith of egal estate. To this doute it mey be an|swerde in this maner. The first institucion of thes ij realmes vppon the incorperacion of thaim is cause of this diuersite. Whan Nembroth be myght for his owne glorie made and incorperate the first realme, and subdued it to hymself bi tyrannye, he wolde not have it gouernyd bi any oþer rule or lawe, but bi his owne wille; bi wich and for the accom|plisshment þerof he made it. And therfore though he hade thus made hym a realme, holy scripture disdeyned to call hym a kynge, quia rer dicitur a regendo; wich thynge he did not, but oppressyd the peple bi myght, and therfore he was a tirraunt and callid primus tirrannorum. But holy write callith hym robustus benator coram Domino. Ffor as the hunter takyth the wilde beste for to sle and ete hym, so Nembroth subdued to hym the peple with myght, to haue þer seruice and thair godis, vsing vppon thaim the lord|shippe that is callid dominium regale tantum. Aftir hym Belus that was first callid a kynge, aftir hym is 
+<EPB/><PB REF="00000136.tif" SEQ="00000136" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="112"/> sone Ninus, and aftir hym other paynemes, þat bi ensample of Nembroth made hem realmes, wolde not haue thaim ruled bi oþer lawes then be ther owne wylles. Wich lawes ben right gode vndir gode princes, and thair kyngdomes bethe than most resembled to the kyngdome of God, wich reigneth vpon man rulynge hym bi his owne will. Wherfore mony cristen princes vsen the same lawe; and ther|fore it is that þe lawes seyn, quod principi placuit, legis habet bigorem. And thus I suppose first be gan in Realmes dominium tantum regale. But aftirwarde, whan mankynde was more mansuete, and bettir dis|posid to vertu, grete comunaltes, as was the felow|shippe that came in to this lande with Brute, willynge to be vnite and made a body pollitike callid a reawme, hauynge an hed to gouerne it;—as aftir the saynge of the philisopher, euery comunalte vnyed of mony parties must nedis haue an hed;—than they chese the same Brute to be þer hed and kynge. And thai and he vpon this incorperacion, institucion, and onynge of hem self in to a reaume, ordenyd the same reaume to be ruled and justified by suche lawes as thai all wolde assent vnto; wich lawe therfore is callid polliticum, and bi cause it is ministrid bi a kynge, it is callid regale. <HI1 REND="i">Policia dicitur a</HI1> poles, <HI1 REND="i">quod est plures, et</HI1> ycos, <HI1 REND="i">scientia; quo regimen politicum dicitur</HI1> regimen plurium scientia siue consilio ministratum. The kynge of Scottis reignith vppon is peple bi this lawe, <HI1 REND="i">videlicet</HI1>, regemine politico et regali. And as Dio|dorus Siculus saith in is boke de priscis historiis, the reawme of Egipte is ruled bi the same lawe, and therfore the kynge therof chaungith not his lawes with owt the assent of his peple. And in like fourme as he saith is ruled the kyngdome of Saba in <HI1 REND="i">Felici</HI1> 
+<EPB/><PB REF="00000137.tif" SEQ="00000137" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="113"/> <HI1 REND="i">Arabia</HI1>, and the londe of Libie; and also the more parte of all the reawmes of Affrike. Wich maner rule and lordshippe the said Diodorus in that boke praisith gretly; ffor it is not only good for the prince, that mey therby þe more surely do justice than bi is owne arbitrment; but it is also good for his peple þat resseyue thair bi such justice as thai desire thaim self. Now as me semyth it is shewid openly ynough, whi on kynge reignith vpon is peple dominio tantum regali, and that other reignith dominio politico et regali; ffor that on kyngdome be ganne of and bi the might of the prince, and that oþer be ganne bi the desire and institucion of the peple of the same prince.</P></DIV1><DIV1 NODE="AEW3422.0001.001:5" TYPE="chapter" N="3"><HEAD>CHAPTER III. HERE BIEN SHEWED THE FRUYTES OF JUS REGALE AND THE FRUYTES OF JUS POLITICUM ET REGALE.</HEAD><P>AND how so be it that þe Ffrenche kynge reignith vppon is peple dominio regali, yet Seynt Lowes some tyme kynge ther, nor eny of his progenitors sette neuer tayles or oþer imposicion vppon the peple of þat lande with owt the assent of þe iij estates, wich whan thai bith assembled bith like to the courte of the parlement in Ingelonde. And this ordre kepte many of his successours in to late dayis, that Ingelonde men made suche warre in Ffraunce, that the iij estates durst not come to gedre. And than for 
+<EPB/><PB REF="00000138.tif" SEQ="00000138" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="114"/> that cause and for gret necessite wich the Ffrench kynge hade of goode for the defence of þat lande, he toke vpon hym to sett tayles and oþer imposicions vpon the commons with owt the assent of the iij estates; but yet he wolde not sett any such charges, nor hath sette, vppon the nobles for fere of rebillion. And bi cause the commons þer, though thai haue grucched, haue not rebellid or beth hardy to rebelle, the Ffrench kynges haue yerely sithyn sette such charges vpon them, and so augmented the same charges, as the same commons be so impouerysshid and distroyed, þat thai mowe vnneth leve. Thai drinken water, thai eyten apples, with brede right browne made of rye; thai eyten no flesshe but yf it be right seldon a litle larde, or of the entrales and heydes of bestis slayn for the nobles and marchauntes of the lande. Thai weren no wolen, but yf it be a pouere cote vndir thair vttermest garnement, made of grete caunuas, and callid a frokke. Thair hausyn beth of lyke caunuas, and passyn not thair kne, wher fore thai beth gartered and ther theis bare. Thair wyfes and childeren gone bare fote; thai mowe in non oþer wyse leve. For somme of thaim þat were wont to pay to his lorde for his tenement, wich he hiryth by the yere, a scute, payith nowe to the kynge ouer þat scute .v. scutes. Wher thurgh thai be arted bi necessite so to wacch, labour, and grubbe in the ground for thair sustenance, that thair nature is wasted, and the kynde of hem broght to noght. Thai gon crokyd, and ben feble, not able to fight, nor to defende þe realme; nor thai haue wepen, nor money to bie thaim wepen with all. But verely thai liven in the most extreme pouertie and miserie, and yet dwellyn thai in on the most fertile reaume of the 
+<EPB/><PB REF="00000139.tif" SEQ="00000139" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="115"/> worlde. Werthurgh the Ffrench kynge hath not men of his owne reaume able to defende it, except his nobles, wich beyren non such imposicions, and ther fore thai ben right likely of thair bodies; bi wich cause the said kynge is compellid to make his armeys and retenues for the defence of his lande of straungers, as Scottes, Spaynardes, Arrogoners, men of Almeyn, and of oþer nacions, or ellis all his enymes myght ouerrenne hym; for he hath no defence of his owne except is castels and fortresses. Lo this is the frute of his Tus regale. Yf the reaume of Englonde, wich is an Ile, and therfor mey not lyghtly geyte soucore of other landes, were rulid vndir such a lawe, and vndir such a prince, it wolde be than a pray to all oþer nacions þat wolde conqwer, robbe, or deuouir it; wich was well provid in the tyme of the Bretons, when the Scottes and the Pyctes so bete and oppressid this lande, þat the peple therof sought helpe of the Romayns, to whom thai hade be tributori. And when thai coude not be defende be thaym, thai sought helpe of the Duke of Bretayn tho called litle Bretayn, and grauntid ther|fore to make his brother Costantyne þer kynge. And so he was made kynge here, and reigned many yeres, and his childirren aftir hym, of wich gret Artour was one of thair issue. But blessyd be God, this lande is rulid vndir a bettir lawe; and therfore the peple therof be not in such peynurie, nor ther by hurt in thair persons, but thai bith welthe, and haue all thinges nescessarie to the sustenance of nature. Wherfore thai ben myghty, and able to resiste the aduersaries of this reaume, and to beete oþer reaumes that do, or wolde do them wronge. Lo this is the fruyt of Tus polliticum et regale, vndre wich we live. 
+<EPB/><PB REF="00000140.tif" SEQ="00000140" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="116"/> Sumwhat now I haue shewid the frutes of both lawes, ut ex fructibus eorum cognoscetis eos.</P></DIV1><DIV1 NODE="AEW3422.0001.001:6" TYPE="chapter" N="4"><HEAD>CHAPTER IV. HERE IS SHEWED HOW THE REUENUES OF FFRAUNCE BYN MADE GRETE.</HEAD><P>SITHYN our kynge reignith vpon vs be lawes more fauerable and good to vs, þan be the lawes by the whiche þe Ffrench kynge rulith his peple, hit is reason þat we be to hym more good and more profitable than be the sugettes of the Ffrench kynge vnto hym; wich it wolde seme that we be not, con|siderynge þat his subiecttes yelden to hym more in a yere, than we do to owre soferayn lorde in ij yeres, how so be it þat thai do so ayenst thar willes. Neuer the lesse when it is considerid, how a kynges office stondith in ij thynges, on to defende his reaume ayen þair enemyes outwarde bi the swerde; an other that he defende his peple ayenst wronge doers inwarde bi justice, as hit apperith bi the said first boke of kynges; wich þe Ffrench kynge dothe not, though he kepe Justice be twene subiet and subget; sithin he oppressith thaim more hym self, than wolde haue done all the wronge doers of þe reaume, þough thai hade no kynge. And sithyn it is a synne to gyve no meyte, drynke, clothynge or other almes to hem that haue nede, as shal be de|clared in the day off dome; how muche a greter 
+<EPB/><PB REF="00000141.tif" SEQ="00000141" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="117"/> synne is it to take from the pore man is meyte, is drinke, his clothynge, and all that he hath nede off. Wich werely doth the Ffrench kynge to mony a thowsande of his subiectes, as it is be fore openly declared. Wich thynge þough it be nowe colourid per jus regale, yet it is tyranne. Ffor, as Seynt Thomas saith, whan a kynge rulith his reaume only to his owne profite, and not to the good off is subiectes, he is a tyrant. Kynge Heroude reignid vppon þe Jues dominio regali; yet when he slowe the childeren off Israell, he was in that a tyrant, though the lawes seen, quod principi placuit, legis habet bigorem. Wherfore Acab, wich reigned vppon the childeren of Israell bi like lawe, and desired to haue hade Nabothe his subgectes vyne yerde, wolde not by that lawe take it ffrom hym, but proferid hym the value thereof. Ffor theys wordes seid to the pro|fete, predic eis jus regis, beth not ellis to say but, predic eis potestatem regis. Wher fore as ofte as such a kynge dothe any thynge ayenst the lawe of God, or ayenst þe lawe off nature, he dothe wronge, not with stondynge the said lawe declared by the prophete. And it is so, that the lawe off nature woll in this case, þat the kynge shulde do to his subgettes, has he wolde ben done to hym self, yff he were a subget; wich mey not be that he wolde be almost distroied as bith þe commons off Ffraunce. Wherfore, al be it that the Ffrench kynges reuenues ben by suche meanes moche gratter than be the revenues wich þe kynge owre souerayn lorde hath off vs, yet thai ben not goodly taken, and the myght of his reaume is nerehande distroyed ther by. By wich consideracion I wolde - nat that the kynges revenues of this reaume were made grette by any 
+<EPB/><PB REF="00000142.tif" SEQ="00000142" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="118"/> such meane. And yet of necessite thai muste be gratter than thai bith at this day. And trewly it is veray necessarie that thay be alwey grete; and that the kynge haue habundantly wherewith his estate mey be honorably kepte ffor ryght mony causes, off wech some shall nowe be remenbred.</P></DIV1><DIV1 NODE="AEW3422.0001.001:7" TYPE="chapter" N="5"><HEAD>CHAPTER V. THE HARME THAT COMYTH OFF A KYNGES POVERTE.</HEAD><P>FFIRST, yff a kynge be pore, he shall bi nescessite make his expences, and by all þat is necessarie to his estate, by creaunce and borowynge; wher through his creauncers wolle wynne vpon hym the iiij<HI1 REND="sup">th</HI1> or the v<HI1 REND="sup">th</HI1> pene of all that he dispendith. And so he shall lese whan he payith, the iiij<HI1 REND="sup">th</HI1> or the v<HI1 REND="sup">th</HI1> pene of his revenues, and thus be ther by alway porer and porer, as vser and chevisaunce encressith the pouerte off hym that borowith. His creauncers shul alway grucche ffor lake of thair paymente, and defame his highnes off mysgouernance, and defaute of kepynge of days; wich yf he kepe, he most borowe also much at the dayis, as he didd firste; ffor he shalbe than pouerer than he was by the value of the iiij<HI1 REND="sup">th</HI1> or v<HI1 REND="sup">th</HI1> parte of his first expences, and so be alway pouerer and pouerer, vnto the tyme he be the pouerest lorde of his lande. Ffor such maner of borowynge makith the grete lordis to 
+<EPB/><PB REF="00000143.tif" SEQ="00000143" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="119"/> be pouerer than thair tenantes. What dishonour is this, and abatynge of the glorie of a kynge. But yet it is most to his vnsuyrte. For his subgettes woll rather goo with a lorde þat is riche, and mey pay thair wages and expenses, then with thair kynge þat hath noght in his purse, but thai most serue hym, yf thai wil do so, at thair owne dispenses. Item, yf the kynge be pouere, he shall of necessite make his giftes and rewardes by asseignementes, for wich he shall haue but litle thanke. For the pouere man hade leuer an c. marke in hande, then an c. li. bi asseignement, wich perauentur shall cost hym right miche or he can gete his payment, and per|auentur be neuer paid therof. And often tymes for lake of money the kynge shall be fayne to gyf awey his lande to such as wolde haue ben feyner of a c. li in hand, than of xl. li worth lande yerely, to the grete abatynge of his revenues and depopolacion of his reaume. But the grettest harme that comyth of a kynges pouerte is, that he shal bi necessite be arted to fynde exquysite meanes of geytinge of good; as to putt defaute in some of his subgettes þat bith innocentes, and vpon the riche men more þen the pore, by cause that he mey bettir pay; and to shew rigoure þer as fauour awght to be shewid, and fauour þer as rigour shuld be shewid, to per|version of Justice, and perturbacion of the peas and quiete of the reaume. For, as the philosepher saith in his Eytikes, Impossibile est indigentem operari bona. Hit nedith not now to specifie mo of the harmes wich comyth to a reaume bi the pouerte of þer kynge, how be it thai bith mony mo than we haue shewid yet; for euery wise man mey se ham openly i now. But we most holde it for vndouted, þat ther 
+<EPB/><PB REF="00000144.tif" SEQ="00000144" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="120"/> mey no reaume prospere, or be worshipfull, vndir a poure kynge.</P></DIV1><DIV1 NODE="AEW3422.0001.001:8" TYPE="chapter" N="6"><HEAD>CHAPTER VI. ORDINANCE FFOR THE KYNGES ORDINARIE CHARGES.</HEAD><P>AND sithyn it is necessarie that the kynge be alway riche, wich may not be with owt he haue revenues sufficiant for the yerely mayntenance of his estate; it is behouefull that we furst esteme, what his erly charges and expences bith likely to drawe vnto. Ffor aftir that nedith his reuenues to be proporcioned; but yet thai nedun to be gretter than woll be the charges, for doute of soden cases, wich mey falle to hym and to his reaume. Ffor Seynt Bernarde saith, þat yf a mannes ex|penses be egall to his livelode, a soden chaunce mey distroye his estate. The kynges yerely ex|penses stonden in charges ordinarie, and in charges extra ordinarie. His charges ordinary mey not be eschewed, and therfore it nedith þat ther be lyvelode asseigned ffor the payment therof; wich lyvelode be in no wyse putte to no other vse. And yff it happen that any patent be made of any parte therof to oþer vse, þat thanne þat patent be voide and of non effect. Wich thynge yff hit be ffermely estableshed, the kynges ordinarie charges mey alway be paid in hande, and the pro vision ffor hem mey alway be made in seson; wich shalbe worth to the kynge the 
+<EPB/><PB REF="00000145.tif" SEQ="00000145" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="121"/> iiij<HI1 REND="sup">th</HI1> or the v<HI1 REND="sup">th</HI1> parte of the quantite of his expenses for ordinarie charges. This may in nothinge restrane the kyngis pover. Ffor it is no poiar to mowe aliene and put away; but it is power to mowe haue and kepe to hym self. As it is no poiar to mowe synne, and to do ylle, or to mowe to be seke, wex olde, or that a man may hurte hym self. Ffor all thes poiars comen of impotencie. And therfore thay mey properly by callid nown poiars. Wherfore the holy sprites and angels, þat mey not synne, wex old, be seke, or hurte ham selff, haue more poiar than we, that mey harme owre selff with all thes defautes. So is the kynges power more, in that he may not put ffrom hym possescions necessaries for his owne sustenance, than yff he myght put ham ffrom hym, and aliene the same to his owne hurte and harme. Nor this is ayen the kynges prerogatiff, be wich he is exaltid above his subgettes; but rather this is to hym a prerogatiff. Ffor no man saue he mey haue ayen the lande þat he hath onis aliened. This livelode asseigned ffor the ordinarie charges shall aftirwarde be neuer askid off the kyng, nor his highnes shall thynke ffor þat, that he hath þe more livelode to be given awey; but be reason hereoff he will þe more restrayn his yeftis off oþer off his livelod, considerynge þat than it woll not be grette, and therfore he shall haue more nede off it then thai that will aske it. The ordenarie charges, wich þe writer hereoff can nowe remenbr, be thies; the kynges housholde, his warderobe. And how so be it þat the kynge liste now, or will hereaftir, make his howshold lesse than it was wonned to be; yet his highnes shall þan haue therfore a bouute his persone, ffor his honour and suyrte, lordes, knyghtes, 
+<EPB/><PB REF="00000146.tif" SEQ="00000146" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="122"/> and sqviers, and oþer, in also grete nombr, or gretter than his howsolde was wonned to be, to his charges peraduentur also gretly, as his houshold well ruled was wonned to stonde hym inne. Wher fore here|inne it nedith not to considre or to purvey, but only ffor the kynges house, wich he may resume or chaunge in to his new maner, or other fourme at his pleasur, and as it shalbe thought aftir the seasons most expedient. The expenses off wich housholde mey sone be estemed by the wich off olde tyme haue be officers therin, and bi the clerkys off theschekquer. The secounde ordinarie charge is the payment off the wages and ffees off the kynges grete officers, his courtes, and his counsell. Wich charge woll alwey be grete, and thies men nedun to be alway redely payid. Ffor indigens in ham is not only vnworshipfull, but it mey do the most harme þat mey falle of eny nede in any estate of the lande, aftir the kynges most grete estate. Þe thirde charge ordinarie is the payment of the kepyng of the marches, wher in we beyre moch gretter charges yerely than done the Scottis, wich often tymes is for the ffauour þat we do to the persones þat kepe ham, wich ffauoure þe Scottis do not. The iiij<HI1 REND="sup">th</HI1> charge is the kepyng off Caleis, wich charge is welynoghe knowen. Þe v<HI1 REND="sup">th</HI1> charge is ffor the kynges werkes, off wich þe yerely expenses mey not be es|temede, but yet þe accoumptes off the clerkes off the werkes wollyn shewe þe likenes þeroff, wile þe kynge makith no new werkes. The kepynge off the see I reken not amonge the ordinarie charges, how be it the charge þeroff is yerely borne, bi cause it is not estimable, and the kynge hath therfore þe subsidie off pondage and tonnage. Nor the lesse 
+<EPB/><PB REF="00000147.tif" SEQ="00000147" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="123"/> be that reason pondage and tonnage mey not be rekenned as parcell off the revenues wich the kynge hath ffor the mayntenance off his estate, bi cause it aught to be applied only to þe kepynge off the see. And though we haue not alwey werre vppon the see, yet it shalbe nescessarie þat the kynge haue alway some ffloute apon the see, ffor the repressynge off rovers, sauynge off owre marchauntes, owre ffishers, and the dwellers vppon owre costes; and þat the kynge kepe alway some grete and myghty vessels, ffor the brekynge off an armye when any shall be made ayen hym apon þe see. Ffor thanne it shall be to late to do make such vessailles. And yet with owt thaym all the kynges navey shallnot suffice to borde with carrikkes and oþer grete ves|sailles, nor yet to mowe breke a myghty ffloute gadered off purpose. Now, as I suppose, we haue rekened þe grettest parte off the kynges ordinarie charges. Wherfore we woll considre next his extra ordinarie charges, also ferre as mey be possible to vs.</P></DIV1><DIV1 NODE="AEW3422.0001.001:9" TYPE="chapter" N="7"><HEAD>CHAPTER VII. THE KYNGES EXTRAORDINARIE CHARGES.</HEAD><P>THE kynges extraordinarie charges bith so casuelle, þat no man mey knowe hem in certaynte. But yet he may esteme what somme thai bith not like to excede, but yff þer ffall a case ouer moch exorbitant; 
+<EPB/><PB REF="00000148.tif" SEQ="00000148" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="124"/> and than it shalbe reasone, and also necessarie, þat all the reaume beyre ffor þat case a synguler charge. Such off the said extraordinarie charges as the writer hereoff can now remenbr be theis. Ffirst þe kyng shall often tymes sende owt off this lande his ambassatours, as well to the pope, as to diuerse kynges, prynces, and nacions; and oþer while he shall sende his procuratours and messengers to the counselles generalles. Wich ambassatours, procura|tours, and messengers shall nede to be honerably accompanyed, and well be sene, alsowell ffor the worshippe off þe reaume, as ffor the avaunsynge off þe maters ffor wich thai shalbe sende, to þe kynges right grete charge, wich shalbe more or lesse, aftir thair longe or shorte demure in thair viage. Item, the kynge shall beyre yerely charges vnknowen in re ceyvinge off ligates and messengers sende ffrom the pope, and off ambassatours sende ffrom kynges and oþer princes, and also ffrom grete communalties bi yonde þe see, wich will putt þe kyng to grete expenses while thai bith here, and at thair depart|ynge thai most nedis haue grete giftes and rewardes; ffor þat be sitith þe kynges magnificence and liberalite, also it is necessarie ffor the worship off his reaume. Item, sithen it is not gode þat he rewarde such as do, and shall do to hym seruice, or oþer maner off pleasures, with þe possescions and revenues of his crovne, nor with other possescions off his inherit|ance;—ffor thai be moch more necessarie for the sustenance off his grete estate;—hit shall ther fore be necessarie, þat the kynge make such rewardes with money owt off his cofers, and þat somme off hem haue so largely þeroff, as thai mey bie thaim lande with all, yff thai will. Ffor be this meane þe 
+<EPB/><PB REF="00000149.tif" SEQ="00000149" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="125"/> kynges estate shall alwey be kept vnblemyshed. And off somme man is highnes shall haue more thanke ffor money then ffor lande; and also money is the most convenient rewarde to hym þat hath not longe serued. This charge woll all wey be grete, and so inestimable grete, þat in somme yere a grete lordes lyvelod shalnot suffice to beyre it, though he wolde selle grete parte þerof. And trewly, when þe kyng rewardith is servantes in this maner, he shewith grete ffauour to all his reaume. Item, it shall nede þat the kyng haue such tresour, as he mey make new bildynges whan he woll, ffor his pleasure and magnificence; and as he mey bie hym riche clothes, riche furres, oþer than be wonned to fall vndre þe yerely charges off his warderober, rich stones, serpes, bauderikes, and oþer juels and ornamentes conue|nyent to his estate roiall. And often tymes he woll bie riche hangynges and other apparell ffor his howses; vessaill, vestmentes, and oþer ornamentes for his chapell; bie also horses off grete price, trappers, and do other suche nobell and grete costes, as bi sitith is roiall mageste, off wich it is not now possible to the writer hereof to remenbr the especial|liteis. Ffor yff a kyng did not so, nor myght do, he lyved then not like his estate, but rather in miserie, and in more subgeccion than doth a priuate person. Item, the kynge shall often tymes sende his comis|sioners in gret myght, and also his juges, to represse and punysh riatours and risers; ffor wich cause he shall odre whiles ride in his owne person myghtely accompanyed. Wich thynge wolnot be done with owt grete costes; ffor no man is bounde to serue hym in suche cases at his owne dyspenses. Item, yff ther come a sodayne armye vpon this londe by see 
+<EPB/><PB REF="00000150.tif" SEQ="00000150" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="126"/> or by lande, þe kyng most encomptre them with a lyke armye, or a gretter; ffor þe expenses wheroff he shall not so sadanly haue any eyde off his peple. Wherfore he most than do the expences with money owt off his cofers, or put all is lande in jopardie. Loo now we haue remenbred grete parte off the kynges extraordinarie charges; and be ffore we haue shewid grete parte off his ordinarie charges. Wherfore now it is tyme þat it be shewid, how the kynge mey haue revenues and livelode sufficient to beyre theis ij charges.</P></DIV1><DIV1 NODE="AEW3422.0001.001:10" TYPE="chapter" N="8"><HEAD>CHAPTER VIII. YFF THE KYNGES LIVELODE SUFFICE NOT, HIS SUBGETTES AUGHT TO MAKE HIT SUFFICIENT.</HEAD><P>HIT is shewid be ffore, how necessarie it is þat livelod sufficient be asseigned ffor the kynges ordi|narie charges, and that the same livelod be only applied therto, and not aliened in tyme comynge. Ffor that asseignement mey in no wise hurte þe kyng, considerynge þat yff any parte off þe revenues þeroff remayne ouer the paiement of the same ordynarie chargis, that so remaynynge is the kynges owne money, wich he mey than imploye to oþer vse at is owne pleasur. And it is vndouted that the kynge hath livelode sufficient wich mey be soo asseigned for his ordinarie charges. Wherfore we haue now no thyng ellis to be sercched, but what lyvelod þe kyng hath ffor the payment off his charges extraor|dinarie, ouer so moche livelod as shalbe asseigned 
+<EPB/><PB REF="00000151.tif" SEQ="00000151" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="127"/> ffor his charges ordinarie; and yff he haue not live|lod sufficient þerto, how than his livelod mey be made sufficient. Ffor his reaume is bounde by right to susteyne hym in euery thyng necessarie to his estate. Ffor, as Seynt Thomas saith, Rex datur propter regnum, et non regnum propter regem. Wherfore all that he dothe owith to be referred to his kyngdome. Ffor though his estate be þe highest estate temporall in þe erthe, yet it is an office, in wich he mynestrith to his reaume defence and justice. And therfore he mey say off hym selff and off his reaume, as the pope saith off hym selff and off the churche, in þat he writithe, seruus seruorum Dei. By wich reason, ryght as euery seruant owith to haue is sustenance off hym þat he serueth, so aught þe pope to be susteyned by the chirche, and the kyng by his reaume. Ffor nemo debet propriis expensis militare. And owre lorde saith, dignus est operarius cibo suo. Wherfore þe appostill saith, commbnicet is qui cateȝiȝatur berbo, ei qui se cateȝiȝat, in omnibus bonis. Wherfore sithen euery reaume is bounde to susteyn is kyng, yet moch more be we bounde ther to, vppon whom owre kyng reignith by so ffauerable lawes as is be ffore de|clared.</P></DIV1><DIV1 NODE="AEW3422.0001.001:11" TYPE="chapter" N="9"><HEAD>CHAPTER IX. HERE HE SHEWITH THE PERELLIS THAT MEY COME TO THE KYNG BY OUER MYGHTYE SUBGETTES.</HEAD><P>BUT sithyn the said extraordinarie charges bith so vncertayne þat thai be not estymable, hit is not 
+<EPB/><PB REF="00000152.tif" SEQ="00000152" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="128"/> possible to putt in certayne, what lyvelod will yerely suffice to beyre ham. Wherfore we nede in this case to vse coniecture and ymaginacion, as to thynk that þer is no lordis livelod in Englond sufficient to beyre the kynges extraordinare charges. Then nedith it þat the kynges livelod, aboff such reuenues as shalbe asseigned for his ordinare charges, be gretter than the livelod off the grettest lorde in Englande. And perauenture, whan livelod sufficient ffor the kynges ordinarie charges is lemitted and asseigned therto, hit shall apere, that diuerse lordis off Englande haue also moch livelode off thair owne, as than shall remayne in the kynges handes ffor his extraordinarie charges; wich were inconvenient, and wold be to the kynge right dredefull. For than such a lord mey dispende more then the kynge, con|sideringe þat he is charged with no such charges extraordinarie or ordinarie as is the kyng, except an houshold, wich is but litle in comparison off the kynges house. Wherfore yff it be thus, it shalbe necessarie, þat ther be purveyid ffor the kyng moch gretter livelod than he hath yet. For manis corage is so noble, þat naturally he aspirith to high thinges, and to be exaltid, and þerfore enforsith hym selff to be alway gretter and gretter. Ffor wych the philo|sopher saith, omnia amamus sed principari maius. Wherof it hath comyn þat oftyn tymes, when a subget hath hade also gret livelod as his prince, he hath anon aspired to þe estate of his prince, wich by such a man mey sone be gote. Ffor the remenante off the subgettes off such a prince, seyng þat yff so myghty a subget myght opteyne þe estate off thair prince, thai shulde than be vndir a prince double so myghty as was thair old prince;—wich encrease any subget 
+<EPB/><PB REF="00000153.tif" SEQ="00000153" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="129"/> desirith, ffor his owne discharge off þat he beyrith to the sustenance off his prince;—and therfore wolbe right gladde to help such a subgett in his rebillion. And also such an enterprise is the more ffeseable, when such a rebell hath more riches than his souer|ayne lorde. Ffor the peple will go with hym þat best mey susteyne and rewarde ham. This maner off doynge hath be so ofte practised nerehande in euery reaume, þat thair cronicles be full off it. In the reaume off Ffraunce was neuer chaunge off thair kynge, sithyn it was ffirst inabyted by Ffrench men, but by þe rebillion off such myghty subgettes; as Hyldericus kyng off Ffraunce, dissended off Clodone, wich was ffirst Cristen kyng off Ffraunce, was putt doune by Pepyne son to Carollus Marcellus, wich was the most myghty subget þat into that tyme was euer sene in þe reaume off Ffraunce. And aftirwarde Charles, discended off Carolus Magnus, sonne to the said Pepyne by ix. or by x. generacions, was put ffrom the kyngdome of Ffraunce by Hugh Capite, sonne to Hugo Magnus, Erle of Paris, wich tho was the myghtieste subgett off Ffraunce, and therfore create and callid Dux Ffranciæ. And in owre dayis we haue sene a subgett off the Ffrench kynges in such myght, þat he hath gyven bataill to the same kyng, and putt hym to flight, and aftirwad be segett hym beyng in Paris is grettest cete, and soo keppid thair, vnto þe tyme his said kyng hade made such ende with hym, his adherentes, and fauctours, as he desired. We haue also sene late in owre reaume, somme off the kynges subgettes gyff hym bataill, by occasion þat thair livelod and offices were þe grettest off þe lande, and ellis thai wolde not haue done soo.</P><P>The Erlis of Lecestir and Glocestre, wich were þe 
+<EPB/><PB REF="00000154.tif" SEQ="00000154" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="130"/> grettest lordes off Englond, rose ayenest thair kynge Herre the iij<HI1 REND="sup">de</HI1>, and toke hym and his sonne prisoners in the ffelde. Wich maner off demeynynge the kyng off Scottis þat last dyed dredyng to be practysed in his lande, putt owt off the same lande þe Erle Douglas whos livelod and myght was nere hande equivalent to his owne, moved þerto be no other cause, saue only drede off his rebyllion. The crony|cles off euery reaume, and in especiall off Spayne and Denmarke, bith full off such ensamples; and so bith also the bokis off kynges in holy scripture; wherfore it nedith not to write mor herein. And also it mey not be eschewid, but þat the grete lordis off þe lande by reason off nev dissentes ffallyng vnto ham, by reason also off mariages, purchasses, and oþer titles, shall often tymes growe to be gretter than thai be now, and perauentur somme off hem to be off livelod and poiar like a kyng; wich shalbe right god ffor the lande while thai aspire to non hygher estate. Ffor such was þe Duke of Lancastre, þat warred þe kynge off Spayne, on off the myghtiest kynges off Cristendome, in his owne reaume. But this is writun only to the entent þat it be well vnder|stande, how necessarie it is þat the kynge haue grete possescions, and peculier livelod ffor his owne suirte; namely, whan any of his lordis shull happen to be so excessyuely grete, as ther mought therby groue perell to his estate. For certanly ther mey no grettir perell growe to a prince, than to haue a subgett equepolent to hym selff.
+</P></DIV1><DIV1 NODE="AEW3422.0001.001:12" TYPE="chapter" N="10"><EPB/><PB REF="00000155.tif" SEQ="00000155" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="131"/><HEAD>CHAPTER X. HOW THAT THE CROVNE IS BESTE TO BE INDOWED.</HEAD><P>Now that the lykennes off the kynges charges ordinarie and extraordinarie bith shewid, and ouer that, how necessarie it is that he haue grete livelod aboff þe same charges, in wich it nedyth þat he excede gretly euery man off the lande, wych livelod vndoutedly he hath not at þis day; hyt is therfore byhouefull þat we now serch how the kyng mey haue such livelod; but ffirst, off what comodites it mey best be take. The kyng off Ffraunce myght not sumtyme dyspende off his demaynes, as in lorde|shippes, and oþer patrimonie peculier, so mich as myght tho the kynge off England; wich mey well appere be that the qwene off Ffraunce hath but v. M<HI1 REND="sup">l</HI1> marke yerely to huyr douer, wher as the qwene off Englond hath x. M<HI1 REND="sup">l</HI1> marke. Ffor in tho dayis ther was but litle more off the reaume off Ffraunce in the kynges handes, but þat parte wich is callyd the Ile off Ffraunce. Ffor all the remenant off the reaume as Burgonye, Normandye, Guyne, Cham|payne, Langdoke, and Fflaunders, with mony oþer such grete lordshippes, were than in the handes off the Dussepers, and off oþer princes and grete lordis. Ffor wych cause the gabell off the salt, and the quaterimes of the wynes were graunted to the kynge by the iij estates off Ffraunce, wych was no litill subsidie. Ffor ther is no man in Ffraunce þat mey eyte salt, but yff he bie it off the kyng; and that is now sett to so grete prise, þat the bushell, wich the 
+<EPB/><PB REF="00000156.tif" SEQ="00000156" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="132"/> kyng bieth ffor iij<HI1 REND="sup">d</HI1> or iiij<HI1 REND="sup">d</HI1>, is solde to his peple ffor ij<HI1 REND="sup">s</HI1> and a j<HI1 REND="sup">d</HI1>, and other while more. And the iiij<HI1 REND="sup">th</HI1> pype off the wynes that be made in Ffraunce mey be no lityll thyng, sithyn the tyllyng off the vynes is the grettest comodite off the reame; but þat como|dite we haue not in this lande. Wher fore ther is no parte off tho maners off subsidie þat myght be gode ffor owre souerane lorde, but yff it were that he myght sell to his subgettes the salte þat comyth hyder. In wich thynge he shall haue more groch|ynge off the peple than proffett. Ffor in Ffraunce the peple salten but lytill mete, except thair bacon, for thai wolde bie litil salte; but yet thai be arted to bye more salte than thai wolde. Ffor the kynges officers bryngen to thair houses euery yere, also moche salte as by thair coniecture is ressnable to the nombre off þe men, women, and childeren that dwellen therin, ffor wich thai shall pay though thai wolnot haue so muche. This rule wolde be sore aborred in Englond, as well by the marchaunts þat bithe wonned to haue thair ffredome in biynge and sellynge off salte, as by the peple þat vsen moche to salte thair meytes more than do þe Ffrenchmen; by occasion wheroff thai woll than at euery mele groche with the kynge, þat entreteth hem more rygoursly than his progenitors haue done. And so his hyghnes shall haue þeroff, but as hadd þe man þat sherid is hogge, muche crye and litil woll. In Fflaunders, and in oþer lordeshippes off the Dukes off Burgoigne downewarde, he takith certayn imposicions made by hym selff vppon euery oxe, euery shepe, and vppon oþer thynges solde; and also vppon euery vesaill off wyne, euery barrell off bere, and oþer vitalles solde in his lordeshippes, wich is no litil revenue to hym; 
+<EPB/><PB REF="00000157.tif" SEQ="00000157" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="133"/> but yet he dothe it maugre the peple, wich God defende þat the kynge oure souerayn lorde shulde do vppon is peple, with owt thair grauntes or assent. Nertheles with thair assent suche maner off subsidie, yff þer couude not be ffounde a better meane off þe encressynge off the kynges revenues, were not vn|resnoble. Ffor therin and in the gabell off þe salte, euery man shalbeyre þe charge þeroff eyegally. But yet I wolde not þat suche a newe charge were put apon þe peple in owre souerayn lordis dayis, with wich is progenitours charged hem neuer, yff a better remedie coude be ffounde. Kynge Salamon charged is peple with gretter ymposicions than thai were wonned to beyre be ffore his dayis. And by cause his sonne kynge Roboham wolde not ease hem theroff, the x. parties off the peple, devided in xii. parties, de partide ffrom hym, and chese hem a new kynge, and come neuer aftir þat tyme vndre is sub|iection. Off wiche departyng God said hym selff aftirwarde, a me factum est istud. Wiche is an en|sample þat it is not good a kynge to ouer sore charge his peple. Wherfore me thinkith, þat yff þe kynge myght haue is livelod ffor the sustenance off his estate in grete lordshippes, maneres, ffee ffermys, and such other demaynes, his people not charged, he shulde kepe to hym hollych thair hertes, excede in lordshippes all the lordes off his reaume, and ther shulde non off hem growe to be like vnto hym, wich thynge is most to be fered off all þe worlde. Ffor then with in ffewe yeres þer shulde not remeyne lordeshippes in is reaume, by wich þai myght growe so grette. Ner thai myght growe soche be mariages, but yff the kyng wolde hit. Ffor to hym fallen all þe grete mariages off his lande, wich he mey dispose 
+<EPB/><PB REF="00000158.tif" SEQ="00000158" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="134"/> as hym liste. And by discente þer is not like to ffalle gretter heritage to any man than to þe kyng. Ffor to hym bith cosens þe most and grettest lordes off þe reaume. And by escheittes þer mey not so muche lande fall to any man as to þe kyng, by cause þat no man hath so many tenantes as he; and also no man mey haue the escheittes off treson but hym selff. And be purchas, yff this be done, þer shall no man so well encresse his livelod as the kyng. Ffor ther shall non off his tenantes aliene livelod with owt is licence, wheryn he mey best preferre hym selff. Nor þer shall no livelod be kept so holl as þe kynges, consideryng þat he mey not onestly selle is lande, as oþer men mey doo; and also his sellyng wolde be the hurte off all his reaume. Soche was þe sellynge off Chirke and Chirkes landes, weroff neuer manne see a president, and God defende that any man see mo soche hereaftir. Ffor sellynge off a kynges livelod is propirly callid delapidacion off his crowne, and therfore is off gret infame. Now we haue ffounde vndoutably, what maner revenuez is best ffor the indowment off the crowne. But sithyn it is said be fore, þat the kyng hath not at this day sufficiant therto, it is most convenient that we nowe serch, how is hyghnes mey haue sufficiant off suche revenues, wich we ffounde now best ther fore.
+</P></DIV1><DIV1 NODE="AEW3422.0001.001:13" TYPE="chapter" N="11"><EPB/><PB REF="00000159.tif" SEQ="00000159" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="135"/><HEAD>CHAPTER XI. HERE IS SHEWID, WHAT OFF THE KYNGES LIVELOD GEVEN AWEY, MEY BESTE BE TAKEN A GEYN.</HEAD><P>THE holy patriarke Joseph, while he, vndr Pha|raho kyng, gouerned þe lande off Egipte, rulid and so entredid þe peple þeroff, þat thai graunted to pay, and paid to the same kynge, the v<HI1 REND="sup">th</HI1> parte of thair graynes, and off all oþer thynge that growed to thaim yerely off þe erthe; wich charge thai berun yet, and euer shall beyre. Wherthro thair prince, wich now is the Saudayn off Babilon, is on off the myghtyest princes off þe worlde; and that notwithstondynge þe same Egipciens bith the most riche commons þat liven vndre any prince. Wherby we bith lerned þat it shalnot only be goode to owre prince, but also to vs selff, that he be well indowed; ffor ellis the patriarke wolde not haue made such a trety. The Ffrench kyng in on thynge, þat is to say in wyne, takyth more off is peple than dothe þe Saudan; ffor he takith þe iiij<HI1 REND="sup">th</HI1> peyne þeroff. But yet he takith no thynge off thair graynes, wolles, or off any other gode þat growith to hem off thair lande. The kynge owre souerayn lorde hade be tymes, sithen he reigned vpon vs, livelod in lord|shippes, landes, tenementes, and rentes, nerehand to the value off þe v<HI1 REND="sup">th</HI1> parte off is reaume, aboff the possescions off þe chirche. Off wich livelod, yff hit hade abiden still in his handes, he hade ben more myghty in good revenues than any off þe said ij kynges, or any kyng þat now reigneth vppon cristen 
+<EPB/><PB REF="00000160.tif" SEQ="00000160" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="136"/> men. But this was not possible to haue ben done. Ffor to some parte þeroff the eyres off thaim þat some tyme owed it be restored; some bi reason off tayles, some bi reason off oþer titles, wich the kyng hath considered and thought hem good and reson|able. And some off þe said livelod is god grase hath geuen to such as haue serued hym so notably, þat as thair renounne wolbe eternall, so it be sate the kynges magnyficence to make thair rewardes euerlastynge in their heyres, to thair perpetuall memorie and honour. And also the kyng hath geven parte off this livelod to his moste worshipfull brotherryn, wich not only haue serued hym in the maner ffor said, but bith also so nygh in blode to his highnes, that it be satte not is magnificence to haue done in oþer wyse. Neuerthelesse somme men haue done hym seruice, ffor wych it was reson|able þat his grase hade rewarded hem; and ffor lakke off money, the kyng than rewarded þam with lande. And to some men he hath done in lyke wyse aboff thair merites, through ymportunite off thair suyttes. And it is supposed þat some off hem haue goton an c. li. worth lande, þat wolde haue holde hym content with cc. li. in money, yff thai myght haue hade it in hande. Wherfore it is thought, þat yff suche gyftis, and namely tho wich haue be made inconsideratle, or aboff the merytes off hem that haue thaim, were refourmed; and thai rewarded with money, or offices, and some with livelode terme off lyff, wich aftir thair dethis wolde than retorne to the Crowne, þe kyng shulde haue suche livelod as we now seke ffor, sufficiante ffor the mayntennance off his estate. And yff it wolde not than be so gret, I holde it for 
+<EPB/><PB REF="00000161.tif" SEQ="00000161" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="137"/> vndouted, þat the people off his lande woll be well wyllunge to graunte hym a subsidie, vppon suche comodites off his reaume as bith be ffore specified, as shall accomplishe that wich shall lakke hym off such livelod; so that is highnes woll establyshe þe same livelod than remaynynge, to abide perpetuelly to his crowne, with owt translatynge þeroff to any oþer vse. Ffor ellis whan þat shall happen hereaftir to be gyven awey, it shall nede þat is commons be charged with a newe subsidie, and thus be kept alway in pouerte.</P></DIV1><DIV1 NODE="AEW3422.0001.001:14" TYPE="chapter" N="12"><HEAD>CHAPTER XII. HERE IS SHEWID WHAT HARME WOLDE COME TO ENGLAND, YFF THE COMMONS THER OFF WERE POUERE.</HEAD><P>SOME men haue said þat it were good ffor the kyng, þat the commons off Englande were made pore, as be the commons off Ffraunce. Ffor than thai wolde not rebelle, as now thai done oftentymes; wich the commons off Ffraunce do not, nor mey doo; ffor thai haue no wepen, nor armour, nor good to bie it with all. To theis maner off men mey be said with the phylosopher, ad pauca respicientes de facili enunciant. This is to say, thai that see but ffew thynges, woll sone say thair advyses. Ffor soth theis ffolke consideren litill the good off the reaume off Englond, wheroff the myght stondith most vppon archers, wich be no ryche men. And yff thai were made more pouere than thai be, thai shulde not 
+<EPB/><PB REF="00000162.tif" SEQ="00000162" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="138"/> haue wherwith to bie hem bowes, arroes, jakkes, or any oþer armour off defence, wherby thai myght be able to resiste owre enymes, when thai liste to come vppon vs; wich thai mey do in euery side, con|siderynge þat we be a Ilelonde; and, as it is said be fore, we mey not sone haue soucour off any oþer reaume. Wherfore we shull be a pray to all owre enymyes, but yff we be myghty off owre selff, wich myght stondith most vppon owre pouere archers; and therfore thai nedun not only haue suche able|ments as now is spoken off, but also thai nedun to be much excersised in shotynge, wich mey not be done with owt ryght grete expenses, as euery man experte þer in knowith ryght well. Wherfore þe makyng pouere of þe commons, wich is þe makyng pouere off owre archers, shalbe þe distruccion of the grettest myght off owre reaume. Item, yff pouere men mey not lightly rise, as is the openion of thes men, wich ffor þat cause wolde haue þe commons pouere; how than, yff a myghty man made a rysinge shulde he be repressed, whan all the commons ben so pouere, þat aftir such openyon thai mey not ffeght, and be þat reason not helpe the kyng with ffeghtynge? And whi makith the kynge þe com|mons euery yere to be mustered; sithen it were god thai hade non harnes nor were able to ffight? O, howe vnwyse is þe oppenyon off thes men; ffor it mey not be mayntened be any reason! Item, whan any rysinge hath be made in this londe be ffor theis dayis by commons, the pouerest men þeroff haue be þe grettest causers and doers ther in. And thryfty men haue ben loth therto, ffor drede off lesynge off thair gode. But yet oftentymes thai haue goo with thaym, through manasheynge þat 
+<EPB/><PB REF="00000163.tif" SEQ="00000163" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="139"/> ellis the same pouere men wolde haue toke thair godes, wher in it semyth þat pouerte hath be þe holl cause off all suche rysynges. The pouere man hath be sturred þerto be occasion off is pouerte, for to gete gode and þe riche men haue gone with hem, be cause thai wolde not be pouere be lesynge off þer gode. What than wolde ffall, yff all the commons were pouere? Trewly it is lyke that this lande then shulde be like vnto þe reaume off Boeme, wher the commons ffor pouerte rose apon the nobles, and made all thair godis to be comune. Item, hit is the kyngis honour, and also is office, to make is reaume riche; and it is dishonour whan he hath but a pouere reaume, off wich men woll say þat he reigneth but vppon beggers. Yet it were moch gretter dishonour, yff he ffounde is reaume riche, and then made it pouere. And it were also gretly ayenest his conciens, þat awght to defende hem and her godis, yff he toke ffro hem thair godis with owt lafull cause; ffrom the infame wheroff God defende owre kyng, and gyff hym grase to augmente is reaume in riches, welth, and prosperite, to his per|petuell laude and worshippe. Item, the reaume off Ffraunce givith neuer ffrely off thair owne gode will any subsidie to thair prince, be cause þe commons þeroff be so pouere, as thai meynot give any thyng off þair owne godis. And the kyng ther askith neuer subsidie off is nobles, ffor drede þat yff he charged hem so, thai wolde confedre with þe com|mons, and perauentur putt hym doune. But owre commons be riche, and þerfore thai give to thair kynge, at somme tymes quinsimes and dessimes, and ofte tymes oþer grete subsidies, as he hath nede ffor þe gode and defence off his reaume. How gret 
+<EPB/><PB REF="00000164.tif" SEQ="00000164" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="140"/> a subsidie was it, when the reaume gaff to thair kyng a quinsime and a desime quinqueniale, and the ix<HI1 REND="sup">th</HI1> fflese off thair wolles, and also the ix<HI1 REND="sup">th</HI1> shefe off þer graynes, ffor the terme off v. yere. This myght thai not haue done, yff thai hade ben im|pouershed be thair kyng, as be the commons off Ffraunce; nor such a graunte hath be made by any reaume off cristendome, off wich any cronicle makith mencion; nor non oþer mey or hath cause to do so. Ffor thai haue not so much ffredome in thair owne godis, nor be entreted by so ffauerable lawes as we be, except a ffewe regions be ffore specified. Item, we se dayly, how men þat haue lost thair godis, and be ffallen into pouerte, be comme anon robbers and theves; wich wolde not haue ben soche, yff pouerte hade not brought hem þerto. Howe many a theff then were like to be in this lande, yff all the com|mons were pouere. Þe grettest surete trewly, and also the most honour þat mey come to the kynge is, þat is reaume be riche in euery estate. Ffor nothyng mey make is people to arise, but lakke off gode, or lakke off justice. But yet sertanly when thay lakke gode thai woll aryse, sayng that thai lakke justice. Neuer þe les yff thai be not pouere, thay will neuer aryse, but yff þer prince so leve justice, that he give hym selff all to tyranne.
+</P></DIV1><DIV1 NODE="AEW3422.0001.001:15" TYPE="chapter" N="13"><EPB/><PB REF="00000165.tif" SEQ="00000165" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="141"/><HEAD>CHAPTER XIII. ONLY LAK OFF HARTE AND COWARDISSE KEPEN THE FFRENCHEMEN FFRO RYSYNGE.</HEAD><P>POUERTE is not the cause, whi the commons off Ffraunce rise not ayen thair souerayn lorde. Ffor þer were neuer people in þat lande more pouere, then were in owre tyme the commons off the contre off Caux, wich was tho almost diserte ffor lakke off tillers; as it now well apperith be the new husbondry þat is done þer, namely in grobbyng and stokkyng off treis, busses, and groves, growen whill we were ther lordes off the contray. And yet the said commons off Caux made a mervelous gret rysinge, and toke owre townis, castelles, and ffortresses, and slowe owre capitans and soudiours, at soche a tyme as we hade but ffewe men off werre lyinge in þat contray. Wich provith þat it is not pouerte þat kepith Ffrenchmen ffro rysinge, but it is cowardisse and lakke off hartes and corage, wich no Ffrenchman hath like vnto a Englysh man. It hath ben offten tymes sene in Englande, þat iij. or iiij. theves ffor pouerte haue sett apon vj or vij trewe men, and robbed hem all. But it hath not bene sene in Ffraunce, þat vj. or vij. theves haue be hardy to robbe iij. or iiij. trewe men. Wherfore it is right selde þat Ffrenchmen be hanged ffor robbery, ffor thai haue no hartes to do so terable an acte. Ther bith therfore mo men hanged in Englande in a yere ffor robbery and manslaughter, then þer be hanged in Ffraunce ffor such maner of crime in vij yeres. 
+<EPB/><PB REF="00000166.tif" SEQ="00000166" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="142"/> Ther is no man hanged in Scotlande in vij yere to gedur ffor robbery. And yet thai ben often tymes hanged ffor larceny, and stelynge off good in the absence off þe owner þeroff. But þer hartes serue hem not to take a manys gode, while he is present, and woll defende it; wich maner off takynge is callid robbery. But þe Englysh man is off anoþer corage. Ffor yff he be pouere, and see another man havynge rychesse, wich mey be taken ffrom hym be myght, he will not spare to do so, but yff þat pouere man be right trewe. Wherfore it is not pouerte, but it is lakke off harte and cowardisse, that kepith the Ffrenchmen ffro rysynge.</P></DIV1><DIV1 NODE="AEW3422.0001.001:16" TYPE="chapter" N="14"><HEAD>CHAPTER XIV. HERE HIT IS SHEWID, WHI IT NEDITH þAT THER BE A RESUMPCION, AND A GRAUNT OFF GODE MADE TO THE KYNGE.</HEAD><P>THIS serche wich we nowe haue made, ffor to vnderstonde how harmefull it wolde be to the kynge, and to his reaume, yff his commons were pouere, hath be a digression ffrom the mater in wich we labour; þat is to say, ffor to vndirstonde howe the kyng mey best haue sufficient and perdurable livelod ffor the sustentacion off his estate. Wherfore it be houyth þat we nowe resorte to the poynte in wich we lafte, wich, as I remenbr, was this. We ffounde be grete causes, þat it was nedefull, þat all suche giftes 
+<EPB/><PB REF="00000167.tif" SEQ="00000167" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="143"/> as haue be made off the kynges livelod inconsederatly, as not deseruet, or aboff the meretes of hym þat haue getun hym, were refourmed; so as thai wich haue done any seruice, be not vnrewarded. Wich thynge, as me thynkith, mey not perfitly be done, withowt a generall resumpcion, made be auctorite off parlement; and þat ther be gyven to the kynge by the same auctorite, a grete subsidie, with wich is hyghnes, be þe advise off his counsell, mey rewarde tho þat haue deserued rewardes, and awght not þer|fore to haue parte off his revenues, by wich is estate moste nedis be mayntened; or awght not haue so moch off þe revenues, as thai haue now, or not so grete astate in the same. Considerynge þat all such gyvinge awey off the kynges livelod is harmefull to all is legemen, wich shall þerby, as is be ffore shewid, be arted to a newe charge ffor þe sustenance off is estate. But yet, or any suche resumpcion be made, it shalbe gode þat a worshipfull and a notable coun|sell be stableshed, be the advise off wich all new gyftes and rewardes mey be modered and made, as yff no such gyftes or rewardes had be made be ffor this tyme. Provided alway, that no man be harmyd, be reason off such resumpcion, in the arrerages off such livelod as he shall þan haue, wich shall renne aftir þat resumpcion, and bi fore þe said new giftes and rewardes. And whan such a counsell is ffully create and estableshed, hit shalbe gode þat all sup|plicacions wich shalbe made to þe kynge ffor any gifte or rewarde, be sende to þe same counsell, and þer debatid and delibered; ffirst whether þe supliant haue deserued such rewarde as he askith; and yff he haue deserued hit, yet it nedith þat it be delibered, whether the kynge mey gyve such rewarde as he 
+<EPB/><PB REF="00000168.tif" SEQ="00000168" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="144"/> askith off his revenues, savynge to hym selff sufficiant ffor the sustenance off his estate. Ffor ellis such givinge were no vertu, but a spice of prodigalite, and as ffor so moch it were delapidacion off his crowne. Wherfore no priuat person woll, be reason off libera|lite, or off rewarde, so abate is owne livelod, as he mey not kepe such estate as he did be ffore. And trewly it were bettir, þat a priuat person lakked is rewarde wich he hath well deserued, then that be his rewarde þe gode publike and all the lande were hurte. Wherfore to eschewe theis ij harmes, it mey then be advised be the counsell, how such a person mey be rewarded with office, money, mariage, ffraunches, priuelage, or such oþer thynge, off wich þe crowne hath grete riches. And verely yff this ordre be kept, the kynge shalnot be greved be im|portunite of suytours, nor thai shall be importunite or brocage optayne any vnresonable desires. O what qwiete shall growe to þe kyng by this ordre; and in what reste shall than his people lyff, hauynge no colour off grochynge with soche as shall be aboute is person, as thai were woned to haue, ffor þe gyvynge awey off his londe, and also ffor the myscounsellynge off hym in many oþer cases; nor off murmor ageynes the kynges person, ffor þe mysgouernance off his reaume! Ffor in this counsell mey be determynyd euery case off deficulte, or the kyng do any thyng þerin. And the wise man saith, vbi multa consilia, ibi salus. And trewly such a contenuall counsell mey wel be callid, multa consilia, ffor it is ofte, and euere day counsellith.
+</P></DIV1><DIV1 NODE="AEW3422.0001.001:17" TYPE="chapter" N="15"><EPB/><PB REF="00000169.tif" SEQ="00000169" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="145"/><HEAD>CHAPTER XV. HOW THE KYNGES COUNSELL MEY BE CHOSEN AND ESTABLESHED.</HEAD><P>THE kyngis counsell was wonned to be chosen off grete princes, and off the gretteste lordes off þe lande, both spirituelles and temporellis, and also off oþer men that were in grete auctorite and offices. Wich lordes and officers had nere hande also mony maters off thair owne to be treded in the counsell, as hade þe kynge. Wherthrough, when thai come to gedre, thai were so occupied with thair owne maters, and with the maters off thair kynne, ser|uantes, and tenantes, þat thai entendet but litle, and oþer while no thynge, to þe kynges maters. And also þer were but ffewe maters off the kynges, but yff þe same maters toucheden also þe said coun|sellers, thair cosyns, þer seruantes, tenantes, or such oþer as thai owed ffauor vnto. And what lower man was þer sytinge in þat counsell, þat durste say ayen the openyon off any off the grete lordis? And whi myght not then men make be meanes off cor|rupcion somme off the seruantes and counsellers off somme off the lordes to moue the lordes to par|ciallite, and to make hem also ffauorable and parcial as were the same seruantes, or the parties þat so moved hem? Then couude no mater treted in the counsell be kept prive. Ffor the lordes oftentymes tolde ther owne counsellours and seruantes, that hade suyd to hem ffor tho maters, how thai had sped in ham, and who was ayen ham. How mey 
+<EPB/><PB REF="00000170.tif" SEQ="00000170" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="146"/> þe kyng be counsellyd to restrayne gyvinge a wey off his londe, off gyvinge off offices, corodeis, or pencions off abbeyis, by suche grete lordes to oþer menys seruantes, sithyn thay most desire such giftes ffor thaim selff, and thair seruantes? Wich thynges considered, and also mony oþer wech shall be shewid hereaftir, hit is thought gode, that þe kynge had a counsell chosen and estableshed in the fourme that ffolowith, or in some oþer ffourme like þerto. Ffirst, þat ther were chosen xij spirituell men, and xij temporell men, off þe wysest and best disposed men þat can be ffounde in all the parties off this lande; and that thai be sworne to counsell the kynge aftir a ffourme to be devysed ffor þer owthe. And in especiall, þat thai shall take no ffee, nor clothynge, nor no rewardes off any man, except only off þe kynge; like as þe Justices off þe kynges benche, and off þe Common place be sworne, when thai take ther offices. And þat thes xxiiij. be alway counsellers, but yff þer be any defaute ffounde in hem, or þat hit lyst the kynge, be the advise off þe more parte off hem, chaunge any off hem. And þat euery yere be chosen be þe kynge iiij. lordes spirituell, and iiij lordes temporall, to be ffor þat yere off þe same counsell, in like ffourme as þe said xxiiij<HI1 REND="sup">ti</HI1> shall be. And that thai all haue an hed, or a cheeff to rule þe counsell, on off þe said xxiiij<HI1 REND="sup">ti</HI1>, and chosen be the kynge, havynge is office at the kynges pleasur; wich mey thanne be callid, Capitalis consiliarius. It shall not be necessarie, þat the xij spirituell men off this covnsell, haue so gret wages as the xij temporall men; be cause thai shull not nede to kepe an houshold in thair contray, while thai ben absent, as the temporell men moste nedes 
+<EPB/><PB REF="00000171.tif" SEQ="00000171" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="147"/> doo, ffor thair wyffes and childeren. By wich con|sideracion the spirituell juges in the courte off par|liment off Parys, taken but cc. ffrankes by þe yere, where as þe temporell juges þeroff taken by the yere ccc. ffrankes. The said viij.<HI1 REND="sup">te</HI1> lordes also, wich be reason off þer baronyes and estates bith to þe kyng, consiliari nati, and þerfore awghton to counsell hym at all tymes when he woll, nede not to haue gret wages ffor thair attendance to is covnsell, wich shall last but ffor a yere. Ffor temporell men, wich be reason off þer enheritaunce and livelod bith made shyreffes ffor a yere, taken off þe kynge litle, and all most nothyng ffor thair seruice off þat yere. And thoughe þat wages off the said xxiiij.<HI1 REND="sup">ti</HI1> coun|sellers seme a newe and a grete charge to þe kynge, yet when hit is considered, how gret wages the grete lordes and other men, wych were off the kynges counsell in tymes passede, toke ffor thair attendance therto, wich maner off counsell was nothynge so behouefull to the kyng and to his reaume as this will be, wich wages shall than forthwarde cesse; þe wages off þe xxiiij.<HI1 REND="sup">ti</HI1> counsellours shall apere no gret charge to the kynge. And I can suppose, þat some kynges be ffor this tyme, haue gyven to some on man þat hath serued hym, also moche livelod yerely, as the said wages wyll com to. And if the same wagis be thought to grete charge vnto þe kyng, þe forsaid counsellours mowe be in lesse nowmbre, as to be xvj counsellours off privatis personis, with ij lordes spirituell, and ij lordes temporell; so as then thai be in all but xx.<HI1 REND="sup">ti</HI1> persones. Thies counsellors mowe contenually, at soche owres as shal be as|seigned to thaym, comune and delibre vppon the materis of defeculte that ffallen to the kynge; and 
+<EPB/><PB REF="00000172.tif" SEQ="00000172" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="148"/> then vppon þe materes off þe pollycye off þe reaume; as how þe goyng owt off þe money may be re|strayned, how bullyon mey be brought in to þe lande, how also plate, juelles, and mony late borne owt, mey be geytun ageyn; off wich right wyse men mowe sone fynde the meanes. And also how þe prises off marchaundise growen in this lande mey be holde vp and encressed, and the prises off mer|chandyses browght in to this lande abatid. How owre nauy mey be mayntened and augmented, and vppon suche oþer poyntes off police, to the grettest profyte and encresse, þat euer come to this lande. How also þe lawes mey be amendet in suche thynges as thay neden reformacion in; wher through þe par|lementes shall mowe do more gode in a moneth to þe mendynge off the lawe, then thai shall mowe do in a yere, yff þe amendynge þeroff be not debatyd, and be such counsell ryped to thair handes. þer mey be off this covnsell, when thai liste come þerto, or þat thai be desired be þe said counsellours, þe grete officers off þe lande, as Chaunceler, tresourer, and prive seell; off wich þe chaunceler, when he is present, mey be presydent, and haue þe suppreme rule off all þe counsell. Also the Juges, the Barones off þe exchequier, þe clerke off the rolles, and suche lordes as þe forsaid counsellours woll desire to be with thaym for materes off gret deficulte, mey be off this counsell when thai be so desyred, and ellis not. All oþer materes wich shall conserne this counsell, as when a Counsellour dyeth, how a new counsellour shall be chosen, how mony owres off the day this counsell shall sytt, when thai shall haue any vaca|sion, how longe any off hem mey be absent, and how he shall haue his leue, with all oþer artycles 
+<EPB/><PB REF="00000173.tif" SEQ="00000173" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="149"/> necessarye ffor the demeynynge and rule off this counsell, mowe be conseyued be layser, and putt in a boke, and that boke kept in this counsell as a registir or a ordinarye, howe thai shall doo in euery thynge.</P></DIV1><DIV1 NODE="AEW3422.0001.001:18" TYPE="chapter" N="16"><HEAD>CHAPTER XVI. HOW THE ROMAYNES PROSPERED WHILES THAI HADE A GRETE COUNSELL.</HEAD><P>THE Romaynes, while thair counsell callid þe senate was gret, gate, through þe wysdome off that counsell, the lordshippe off gret partye of the world. And aftirward Julyus, thair ffirst emperowre, coun|selled by þe same senate, gate the monarchie ner|hande off all þe world. Wherthrough Octavian, þer secounde emperour, commounded all þe world to be discribed as subget vnto hym. But aftir this, when yll dysposed emperours, as Nero, Domician, and oþer had slayn grete parte off þe senatours, and dyspiced the counsell off þe senate, the estate off þe Romans and off þer emperours be ganne to fall doune, and hath ffallen alwey sythyn, in to suche decay, þat nowe the lordeshippes off þe emperour bith not so gret, as be þe lordeshippes off some kynge, wich, while þe senate was hole, was subget to þe emperour. Be wich ensample it is thought, þat yff the kyng haue such a Counsell as is beffore specified, his lande shall not only be ryche and welthy, as were 
+<EPB/><PB REF="00000174.tif" SEQ="00000174" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="150"/> þe Romans, but also is hyghnes shalbe myghty, and off poiar to subdue his ennemyes, and all oþer that he shall liste to reygne uppon. Off such ensamples mony of the bokes off cronycles be full; and in especiall þe cronycles off þe Lacidemonies, and off þe Authenences, wich, whill thai prospered, were best counselled, and most dyd aftir counsell off any people off þe world, excepte the Romayns. But when thai lafte such counsell, thai ffell into non poiar and pouerte; as off the Cite off Athenes it mey well apere, be that it is nowe but a poure vilage, and some tyme was the moste worshipfull Cyte off Grece.</P></DIV1><DIV1 NODE="AEW3422.0001.001:19" TYPE="chapter" N="17"><HEAD>CHAPTER XVII. HERE FOLOWETHE ADUERTYSMENTES FOR THE GEUYNG OF THE KYNGES OFFYCES.</HEAD><P>YFF it woll lyke þe kyng to gyff non office, in to the tyme þat his entente therin be comened with his counsell, and thair opiniyon by his hyghnes vnder|stonde in the same, he shall mowe so rewarde his seruantes with offices, as ther shall be lityll nede to gyff hem moch off his livelod, and his offices shall then be geuen to soche as shall only serue hym selff. Wher through he shall haue than a greter myght, and a garde off his officers, when he liste to call thaym, than he hath nowe off his oþer ffeed men vndre the astate off lordes. Ffor the myght off þe lande, aftir the myght off þe grete lordes þeroff, 
+<EPB/><PB REF="00000175.tif" SEQ="00000175" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="151"/> stondith most in þe kynges officers. Ffor thai mowe best rule þe contreis wher as þer offices ben, wich is in euery partie off þe lande. A pouere baylyff mey do more in his bayille, then any man off his degre dwellynge with in his office. Some fforester off þe kynges, that hath non oþer livelod, mey brynge moo men to þe ffelde well areyed, and namely ffor sho|tynge, then mey some knyght or Squyer off ryght gret lyuelod, dwellynge be hym, and hauynge non offyce. What than mey gretter officers do, stewardes off gret lordeshippes, reseyvors, constables off Castels, maystir fforesters, and such oþer officers; be sydis the hygher offycers, as Justices off fforestes, Justices and Chambirlayns off Contreis, þe warden off þe portes, and such oþer? Ffor sothe it is not lyghtly estymable, what myght þe kynge may haue off is officers, yff euery off hem hade but on office, and serued non oþer man but þe kynge. Nor hit is ease to be estemed, howe mony men mey be rewarded with offices, and how gretly, yff thai be discretly geuen. The kynge givyth mo than M<HI1 REND="sup">ll</HI1> offices, be sydes tho þat my lorde þe prince geuyth, off wich I reken þe officers, as the kynges officers. Off thes officers some mey dispende by þe yere, by reason off is office, cc. li., some a c.li., some a c. marc, some xl. li., some l. marc, and so downwarde. So as þe lest off hem, þough he be but a parker, takynge but ij<HI1 REND="sup">d</HI1> on a dey, yet he hath be þe yere iij. li. x<HI1 REND="sup">d</HI1>, be sydes his dwellynge in þe logge, his cowe ffor is mylke, and such oþer thynge goynge abowte hym, and the ffees off is office, so as þat office is to hym also profitable as wolde be a c.s. off ffee or rente, wich is a feyre lyuynge ffor a yoman. How mony men then off euery estate, and off euery degre, and how gretly, 
+<EPB/><PB REF="00000176.tif" SEQ="00000176" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="152"/> mey the kynge rewarde with offices, with owt gyuynge awey off his livelod. Ffor soth the grettest lordes livelod in Englande mey not suffice to rewarde so many men, though he wolde departe hit euery dell amonges is seruantes; nor ij. the gretteste lordes off Englond mey make so gret a myghte as þe kynge mey haue only off his officers, yff thai were holliche and only is seruantes, and euery off hem had but on office. To this sane suche lordes and oþer men, such as axen off þe kyng offices ffor thair seruantes, that thai and all thair seruantes shall alwey serue þe kynge, and is officers shul do hym the bettir seruyce, by reason thei bith in þer seruice; ffor thai woll helpen hym to do so, and suffre non in thair companye, but suche as woll do so. Wher to may be said, that it is trewe thai shall do the kyng seruice while thai be in thair companie; but so shulde thai haue done, though the kynge had neuer made thaym his officers. Wher fore þe kynge shal not be the bettir served, þat he hath yeuen his offices to thair seruantes, but raþer worse. Ffor owre lorde said, Remo potest duobus dominis seruire. And so þe kynge shall lese the offices, as ffor any syngular service he shall haue ffor hem, or þat the same officers shulde thynke them selff by hold vnto the kynge ffor þer offices, wich is hyghnes hath yeuen them at þe contemplacion off þer maisters, and ffor no reward off any seruice þat thai haue done, or shul doo vnto hym selff. Be consideracion wher off þer olde maistirs shall be bettir serued be thaym than thei were be fore; and so be more myghty in thair contraes to do what them liste; and the kynge in lasse myght, and haue the ffewer officers to represse hem when thai do a mysse. And this hath causyd mony men to be suche braggers and suytours 
+<EPB/><PB REF="00000177.tif" SEQ="00000177" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="153"/> to þe kyng, ffor to haue his offices in þer contraes to thaym selff, and to þer men, þat almost no man in sume contray durste take an office off þe kyng, but he ffirst had þe good will off þe said bragers and engrossers of offices. Ffor yff he dyd not so, he shuld not aftir þat tyme haue pease in his contray; wheroff hath comyn and growen mony gret trowbels and debates in dyuerse contraes off Englond. Wich materes thrugly considered, it semyth verely good, þat no man haue any office of þe kynges yefte, but he be ffirst sworne that he is seruant to non oþer man, or woll serue any oþer man, or take is clothynge or ffee while he seruyth þe kyng. And þat no man haue mo offices then on, except þat the kynges bretheryn mowe haue ij offices; and suche men as serue þe kyng abouute his person, or in his counsell, mowe haue in þer contrays a parkershippe ffor þer disporte when thay come whom, or such an oþer office, as thai mey wele kepe by þer deputes.</P></DIV1><DIV1 NODE="AEW3422.0001.001:20" TYPE="chapter" N="18"><HEAD>CHAPTER XVIII. AUERTYSMENT HOWE CORODIES AND PENCIONS MEY BEST BE YEVEN.</HEAD><P>AND yff hit woll lyke the kynge to yeve no corodie nor pencion, wich he hath be ryght off his corowne, off euery abbey priory, and oþer howses founded vpon hospitalite be any off his progeni|tours, in to þe tyme that his entente þerin be co|muned 
+<EPB/><PB REF="00000178.tif" SEQ="00000178" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="154"/> and delybered with his fforsaid counsell, and þat his hyghnes haue vnderstond þer openyon in þe same; than shall men off his howsold be rewarded with corodyes, and haue honeste sustenance in þer olde dayis when thai mey no longer serue; and þe clarkes off is chapell þat haue wyfes, or be not avaunsed, be rewarded with pencions with owt grete abatynge off þe kynges revenues, ffor þer rewardes or sustenance. Ffor such corodes and pencions were ffirst geven to þe kyng ffor the same entent. But nowe off late tyme, oþer men then þe kynges servauntes haue askyd þem, and be importune sute haue geyten gret parte off thaym, to þe kynges gret harme and hurt off his said seruantes; wich be þe cause þeroff lyuen in þe gretter penurie, and in non suyrte off þer sustenance in tyme comyng, when thai shall not mowe do þe kyng seruice.</P></DIV1><DIV1 NODE="AEW3422.0001.001:21" TYPE="chapter" N="19"><HEAD>CHAPTER XIX. HOWE GRET GODE WOLL GROWE OFF THE FFERME ENDOWYNGE OFF þE CROWNE.</HEAD><P>AND when þe kyng, be þe meanes afor said or oþer wyse, hath gotyn ayen his lyuelod, yff then it wolde lyke is most noble grace to establysh, and as who sayth, amortyse þe same lyuelod to is crowne, so as it mey neuer be alyened þerfro, with owt þe assent off his parlement, wych than wold be as a newe ffundacion of is crowne, he shall be þerby the 
+<EPB/><PB REF="00000179.tif" SEQ="00000179" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="155"/> grettest ffounder off þe world. Ffor þer as oþer kynges haue ffounded byshopriches, abbeys, and oþer howses off relegyon, þe kyng shall þan haue ffounded an holl reaume, and endowed it with gretter possescions, and better then euer was any reaume in cristendome. This maner off ffundacion mey not be ayenste þe kynges prerogatyff, or his liberte, no more than is þe ffundacion off an abbey, ffro wich he mey take no parte off þe possescions wich he hath onis geve hym, with owt þe assent off þer covent. But this maner off endowment off his crowne shalbe to þe kyng a gretter prerogatyff, in þat he hath then enriched is crowne with such riches and possescions, as neuer kyng shall mowe take from it with owt þe assent off is holl reaume. Nor this mey be to þe hurte off þe prerogatyff or power off is successours; ffor, as it is shewid be fore, it is no prerogatyff or power to mowe lese any good, or to mowe wast, or put it awey. Ffor all such thynges come off impotencie, as doyth power to be syke or wex olde. And trewly, yff þe kyng do thus, he shall do þerby dayly more almes, þan shall be do be all the ffundacions þat euer were made in Englond. Ffor euery man off þe lande shal by this ffundacion euery day be the meryer, þe surer, ffare þe better in is body and all his godis, as euery wyse man mey well conseyue. The ffundacion of abbeys, of hos|pitals, and suche other houses, is nothyng in com|parisoun herof. For this shalbe a collage, in whiche shul syng and pray for euermore al the men of Ingland spirituel and temporel. And ther song shalbe suche among other antemes: I blissed be oure lord God, for that he hath sent kyng Edward the iiij to reigne vpon vs. He hath don more for 
+<EPB/><PB REF="00000180.tif" SEQ="00000180" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="156"/> vs, than euer dide kyng of Inglond, or myght have done before hym. The harmes that hath fallen in getyng of his Realme, beth now bi hym turned into our altheyr goode and profite. We shul nowe mowe enjoye oure owne goode, and live vndir jus|tice, which we have not don of longtyme, God knowith. Wherfor of his almesse it is that wee have al that is in oure wone.</P></DIV1><DIV1 NODE="AEW3422.0001.001:22" TYPE="chapter" N="20"><HEAD>CHAPTER XX. AUERTISEMENT FOR MAKYNG OF PATENTIS OF GIFTIS.</HEAD><P>IT is nat ment bi the premisses, but that the kyng without the assent of his parlement shal gyve to suche as don hym singuler service, land for terme of theyr lives. For therby his corowne may nat be disherited; for that land wil sone come ageyn. But than it were goode that the same land be no more gyven; for ellis importune suters wil gape vpon suche reuersiouns, and oftentymes asken hem or they befall. And whan they bien fal, the kyng shal have no rest with suche suters, vnto the tyme his highnesse have gyven ageyn al suche lond as he hath oonys gevyn. Bi contynuaunce þerof, that land shal nat serve hym but for giftes, as don offices, corodies, and pensiouns. And triewly it were goode that of al the kynges giftes his patentis maden men|cioun that they were passed, de auisamento consilii sui; and namely for a yeere or ij. Ffor if such an ordre 
+<EPB/><PB REF="00000181.tif" SEQ="00000181" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="157"/> be kept, men wil nat be so hasty to aske rewardis, but if thei be of right goode merites; and many men wil than be of better gouernaunce, for the kynges counseil shuld deme hem worthy to be re|warded. And they that opteyne nat that they desire shal have thanne litel coloure of grucche, considryng that they lak it bi the discrecioun of þe kynges counseil. And the kyng shal have herby grete rest, and be wele defended ageyn suche im|portune suters. And yit he may leve this ordre whan that hym list.</P></DIV1><TRAILER>EXPLICIT.</TRAILER></BODY><BACK><DIV1 NODE="AEW3422.0001.001:23" TYPE="omitted back matter"><P>
+
+
+
+<EPB/><PB REF="00000182.tif" SEQ="00000182" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N=""/>
+
+<EPB/><PB REF="00000183.tif" SEQ="00000183" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N=""/>
+
+<EPB/><PB REF="00000184.tif" SEQ="00000184" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="160"/>
+
+<EPB/><PB REF="00000185.tif" SEQ="00000185" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="161"/>
+
+<EPB/><PB REF="00000186.tif" SEQ="00000186" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="162"/>
+
+<EPB/><PB REF="00000187.tif" SEQ="00000187" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="163"/>
+
+<EPB/><PB REF="00000188.tif" SEQ="00000188" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="164"/>
+
+<EPB/><PB REF="00000189.tif" SEQ="00000189" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="165"/>
+
+<EPB/><PB REF="00000190.tif" SEQ="00000190" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="166"/>
+
+<EPB/><PB REF="00000191.tif" SEQ="00000191" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="167"/>
+
+<EPB/><PB REF="00000192.tif" SEQ="00000192" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="168"/>
+
+<EPB/><PB REF="00000193.tif" SEQ="00000193" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N=""/>
+
+<EPB/><PB REF="00000194.tif" SEQ="00000194" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="170"/>
+
+<EPB/><PB REF="00000195.tif" SEQ="00000195" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="171"/>
+
+<EPB/><PB REF="00000196.tif" SEQ="00000196" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="172"/>
+
+<EPB/><PB REF="00000197.tif" SEQ="00000197" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="173"/>
+
+<EPB/><PB REF="00000198.tif" SEQ="00000198" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="174"/>
+
+<EPB/><PB REF="00000199.tif" SEQ="00000199" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="175"/>
+
+<EPB/><PB REF="00000200.tif" SEQ="00000200" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="176"/>
+
+<EPB/><PB REF="00000201.tif" SEQ="00000201" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="177"/>
+
+<EPB/><PB REF="00000202.tif" SEQ="00000202" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="178"/>
+
+<EPB/><PB REF="00000203.tif" SEQ="00000203" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="179"/>
+
+<EPB/><PB REF="00000204.tif" SEQ="00000204" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="180"/>
+
+<EPB/><PB REF="00000205.tif" SEQ="00000205" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="181"/>
+
+<EPB/><PB REF="00000206.tif" SEQ="00000206" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="182"/>
+
+<EPB/><PB REF="00000207.tif" SEQ="00000207" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="183"/>
+
+<EPB/><PB REF="00000208.tif" SEQ="00000208" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="184"/>
+
+<EPB/><PB REF="00000209.tif" SEQ="00000209" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="185"/>
+
+<EPB/><PB REF="00000210.tif" SEQ="00000210" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="186"/>
+
+<EPB/><PB REF="00000211.tif" SEQ="00000211" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="187"/>
+
+<EPB/><PB REF="00000212.tif" SEQ="00000212" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="188"/>
+
+<EPB/><PB REF="00000213.tif" SEQ="00000213" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="189"/>
+
+<EPB/><PB REF="00000214.tif" SEQ="00000214" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="190"/>
+
+<EPB/><PB REF="00000215.tif" SEQ="00000215" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="191"/>
+
+<EPB/><PB REF="00000216.tif" SEQ="00000216" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="192"/>
+
+<EPB/><PB REF="00000217.tif" SEQ="00000217" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="193"/>
+
+<EPB/><PB REF="00000218.tif" SEQ="00000218" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="194"/>
+
+<EPB/><PB REF="00000219.tif" SEQ="00000219" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="195"/>
+
+<EPB/><PB REF="00000220.tif" SEQ="00000220" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="196"/>
+
+<EPB/><PB REF="00000221.tif" SEQ="00000221" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="197"/>
+
+<EPB/><PB REF="00000222.tif" SEQ="00000222" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="198"/>
+
+<EPB/><PB REF="00000223.tif" SEQ="00000223" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="199"/>
+
+<EPB/><PB REF="00000224.tif" SEQ="00000224" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="200"/>
+
+<EPB/><PB REF="00000225.tif" SEQ="00000225" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="201"/>
+
+<EPB/><PB REF="00000226.tif" SEQ="00000226" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="202"/>
+
+<EPB/><PB REF="00000227.tif" SEQ="00000227" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="203"/>
+
+<EPB/><PB REF="00000228.tif" SEQ="00000228" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="204"/>
+
+<EPB/><PB REF="00000229.tif" SEQ="00000229" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="205"/>
+
+<EPB/><PB REF="00000230.tif" SEQ="00000230" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="206"/>
+
+<EPB/><PB REF="00000231.tif" SEQ="00000231" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="207"/>
+
+<EPB/><PB REF="00000232.tif" SEQ="00000232" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="208"/>
+
+<EPB/><PB REF="00000233.tif" SEQ="00000233" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="209"/>
+
+<EPB/><PB REF="00000234.tif" SEQ="00000234" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="210"/>
+
+<EPB/><PB REF="00000235.tif" SEQ="00000235" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="211"/>
+
+<EPB/><PB REF="00000236.tif" SEQ="00000236" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="212"/>
+
+<EPB/><PB REF="00000237.tif" SEQ="00000237" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="213"/>
+
+<EPB/><PB REF="00000238.tif" SEQ="00000238" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="214"/>
+
+<EPB/><PB REF="00000239.tif" SEQ="00000239" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="215"/>
+
+<EPB/><PB REF="00000240.tif" SEQ="00000240" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="216"/>
+
+<EPB/><PB REF="00000241.tif" SEQ="00000241" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="217"/>
+
+<EPB/><PB REF="00000242.tif" SEQ="00000242" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="218"/>
+
+<EPB/><PB REF="00000243.tif" SEQ="00000243" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="219"/>
+
+<EPB/><PB REF="00000244.tif" SEQ="00000244" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="220"/>
+
+<EPB/><PB REF="00000245.tif" SEQ="00000245" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="221"/>
+
+<EPB/><PB REF="00000246.tif" SEQ="00000246" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="222"/>
+
+<EPB/><PB REF="00000247.tif" SEQ="00000247" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="223"/>
+
+<EPB/><PB REF="00000248.tif" SEQ="00000248" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="224"/>
+
+<EPB/><PB REF="00000249.tif" SEQ="00000249" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="225"/>
+
+<EPB/><PB REF="00000250.tif" SEQ="00000250" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="226"/>
+
+<EPB/><PB REF="00000251.tif" SEQ="00000251" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="227"/>
+
+<EPB/><PB REF="00000252.tif" SEQ="00000252" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="228"/>
+
+<EPB/><PB REF="00000253.tif" SEQ="00000253" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="229"/>
+
+<EPB/><PB REF="00000254.tif" SEQ="00000254" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="230"/>
+
+<EPB/><PB REF="00000255.tif" SEQ="00000255" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="231"/>
+
+<EPB/><PB REF="00000256.tif" SEQ="00000256" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="232"/>
+
+<EPB/><PB REF="00000257.tif" SEQ="00000257" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="233"/>
+
+<EPB/><PB REF="00000258.tif" SEQ="00000258" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="234"/>
+
+<EPB/><PB REF="00000259.tif" SEQ="00000259" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="235"/>
+
+<EPB/><PB REF="00000260.tif" SEQ="00000260" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="236"/>
+
+<EPB/><PB REF="00000261.tif" SEQ="00000261" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="237"/>
+
+<EPB/><PB REF="00000262.tif" SEQ="00000262" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="238"/>
+
+<EPB/><PB REF="00000263.tif" SEQ="00000263" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="239"/>
+
+<EPB/><PB REF="00000264.tif" SEQ="00000264" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="240"/>
+
+<EPB/><PB REF="00000265.tif" SEQ="00000265" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="241"/>
+
+<EPB/><PB REF="00000266.tif" SEQ="00000266" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="242"/>
+
+<EPB/><PB REF="00000267.tif" SEQ="00000267" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="243"/>
+
+<EPB/><PB REF="00000268.tif" SEQ="00000268" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="244"/>
+
+<EPB/><PB REF="00000269.tif" SEQ="00000269" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="245"/>
+
+<EPB/><PB REF="00000270.tif" SEQ="00000270" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="246"/>
+
+<EPB/><PB REF="00000271.tif" SEQ="00000271" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="247"/>
+
+<EPB/><PB REF="00000272.tif" SEQ="00000272" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="248"/>
+
+<EPB/><PB REF="00000273.tif" SEQ="00000273" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="249"/>
+
+<EPB/><PB REF="00000274.tif" SEQ="00000274" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="250"/>
+
+<EPB/><PB REF="00000275.tif" SEQ="00000275" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="251"/>
+
+<EPB/><PB REF="00000276.tif" SEQ="00000276" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="252"/>
+
+<EPB/><PB REF="00000277.tif" SEQ="00000277" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="253"/>
+
+<EPB/><PB REF="00000278.tif" SEQ="00000278" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="254"/>
+
+<EPB/><PB REF="00000279.tif" SEQ="00000279" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="255"/>
+
+<EPB/><PB REF="00000280.tif" SEQ="00000280" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="256"/>
+
+<EPB/><PB REF="00000281.tif" SEQ="00000281" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="257"/>
+
+<EPB/><PB REF="00000282.tif" SEQ="00000282" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="258"/>
+
+<EPB/><PB REF="00000283.tif" SEQ="00000283" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="259"/>
+
+<EPB/><PB REF="00000284.tif" SEQ="00000284" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="260"/>
+
+<EPB/><PB REF="00000285.tif" SEQ="00000285" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="261"/>
+
+<EPB/><PB REF="00000286.tif" SEQ="00000286" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="262"/>
+
+<EPB/><PB REF="00000287.tif" SEQ="00000287" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="263"/>
+
+<EPB/><PB REF="00000288.tif" SEQ="00000288" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="264"/>
+
+<EPB/><PB REF="00000289.tif" SEQ="00000289" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="265"/>
+
+<EPB/><PB REF="00000290.tif" SEQ="00000290" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="266"/>
+
+<EPB/><PB REF="00000291.tif" SEQ="00000291" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="267"/>
+
+<EPB/><PB REF="00000292.tif" SEQ="00000292" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="268"/>
+
+<EPB/><PB REF="00000293.tif" SEQ="00000293" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="269"/>
+
+<EPB/><PB REF="00000294.tif" SEQ="00000294" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="270"/>
+
+<EPB/><PB REF="00000295.tif" SEQ="00000295" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="271"/>
+
+<EPB/><PB REF="00000296.tif" SEQ="00000296" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="272"/>
+
+<EPB/><PB REF="00000297.tif" SEQ="00000297" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="273"/>
+
+<EPB/><PB REF="00000298.tif" SEQ="00000298" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="274"/>
+
+<EPB/><PB REF="00000299.tif" SEQ="00000299" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="275"/>
+
+<EPB/><PB REF="00000300.tif" SEQ="00000300" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="276"/>
+
+<EPB/><PB REF="00000301.tif" SEQ="00000301" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="277"/>
+
+<EPB/><PB REF="00000302.tif" SEQ="00000302" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="278"/>
+
+<EPB/><PB REF="00000303.tif" SEQ="00000303" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="279"/>
+
+<EPB/><PB REF="00000304.tif" SEQ="00000304" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="280"/>
+
+<EPB/><PB REF="00000305.tif" SEQ="00000305" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="281"/>
+
+<EPB/><PB REF="00000306.tif" SEQ="00000306" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="282"/>
+
+<EPB/><PB REF="00000307.tif" SEQ="00000307" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="283"/>
+
+<EPB/><PB REF="00000308.tif" SEQ="00000308" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="284"/>
+
+<EPB/><PB REF="00000309.tif" SEQ="00000309" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="285"/>
+
+<EPB/><PB REF="00000310.tif" SEQ="00000310" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="286"/>
+
+<EPB/><PB REF="00000311.tif" SEQ="00000311" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="287"/>
+
+<EPB/><PB REF="00000312.tif" SEQ="00000312" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="288"/>
+
+<EPB/><PB REF="00000313.tif" SEQ="00000313" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="289"/>
+
+<EPB/><PB REF="00000314.tif" SEQ="00000314" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="290"/>
+
+<EPB/><PB REF="00000315.tif" SEQ="00000315" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="291"/>
+
+<EPB/><PB REF="00000316.tif" SEQ="00000316" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="292"/>
+
+<EPB/><PB REF="00000317.tif" SEQ="00000317" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="293"/>
+
+<EPB/><PB REF="00000318.tif" SEQ="00000318" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="294"/>
+
+<EPB/><PB REF="00000319.tif" SEQ="00000319" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="295"/>
+
+<EPB/><PB REF="00000320.tif" SEQ="00000320" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="296"/>
+
+<EPB/><PB REF="00000321.tif" SEQ="00000321" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="297"/>
+
+<EPB/><PB REF="00000322.tif" SEQ="00000322" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="298"/>
+
+<EPB/><PB REF="00000323.tif" SEQ="00000323" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="299"/>
+
+<EPB/><PB REF="00000324.tif" SEQ="00000324" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="300"/>
+
+<EPB/><PB REF="00000325.tif" SEQ="00000325" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="301"/>
+
+<EPB/><PB REF="00000326.tif" SEQ="00000326" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="302"/>
+
+<EPB/><PB REF="00000327.tif" SEQ="00000327" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="303"/>
+
+<EPB/><PB REF="00000328.tif" SEQ="00000328" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="304"/>
+
+<EPB/><PB REF="00000329.tif" SEQ="00000329" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="305"/>
+
+<EPB/><PB REF="00000330.tif" SEQ="00000330" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="306"/>
+
+<EPB/><PB REF="00000331.tif" SEQ="00000331" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="307"/>
+
+<EPB/><PB REF="00000332.tif" SEQ="00000332" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="308"/>
+
+<EPB/><PB REF="00000333.tif" SEQ="00000333" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="309"/>
+
+<EPB/><PB REF="00000334.tif" SEQ="00000334" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="310"/>
+
+<EPB/><PB REF="00000335.tif" SEQ="00000335" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="311"/>
+
+<EPB/><PB REF="00000336.tif" SEQ="00000336" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="312"/>
+
+<EPB/><PB REF="00000337.tif" SEQ="00000337" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="313"/>
+
+<EPB/><PB REF="00000338.tif" SEQ="00000338" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="314"/>
+
+<EPB/><PB REF="00000339.tif" SEQ="00000339" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="315"/>
+
+<EPB/><PB REF="00000340.tif" SEQ="00000340" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="316"/>
+
+<EPB/><PB REF="00000341.tif" SEQ="00000341" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="317"/>
+
+<EPB/><PB REF="00000342.tif" SEQ="00000342" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="318"/>
+
+<EPB/><PB REF="00000343.tif" SEQ="00000343" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="319"/>
+
+<EPB/><PB REF="00000344.tif" SEQ="00000344" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="320"/>
+
+<EPB/><PB REF="00000345.tif" SEQ="00000345" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="321"/>
+
+<EPB/><PB REF="00000346.tif" SEQ="00000346" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="322"/>
+
+<EPB/><PB REF="00000347.tif" SEQ="00000347" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="323"/>
+
+<EPB/><PB REF="00000348.tif" SEQ="00000348" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="324"/>
+
+<EPB/><PB REF="00000349.tif" SEQ="00000349" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="325"/>
+
+<EPB/><PB REF="00000350.tif" SEQ="00000350" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="326"/>
+
+<EPB/><PB REF="00000351.tif" SEQ="00000351" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="327"/>
+
+<EPB/><PB REF="00000352.tif" SEQ="00000352" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="328"/>
+
+<EPB/><PB REF="00000353.tif" SEQ="00000353" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="329"/>
+
+<EPB/><PB REF="00000354.tif" SEQ="00000354" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="330"/>
+
+<EPB/><PB REF="00000355.tif" SEQ="00000355" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="331"/>
+
+<EPB/><PB REF="00000356.tif" SEQ="00000356" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="332"/>
+
+<EPB/><PB REF="00000357.tif" SEQ="00000357" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="333"/>
+
+<EPB/><PB REF="00000358.tif" SEQ="00000358" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="334"/>
+
+<EPB/><PB REF="00000359.tif" SEQ="00000359" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="335"/>
+
+<EPB/><PB REF="00000360.tif" SEQ="00000360" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="336"/>
+
+<EPB/><PB REF="00000361.tif" SEQ="00000361" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="337"/>
+
+<EPB/><PB REF="00000362.tif" SEQ="00000362" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="338"/>
+
+<EPB/><PB REF="00000363.tif" SEQ="00000363" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="339"/>
+
+<EPB/><PB REF="00000364.tif" SEQ="00000364" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="340"/>
+
+<EPB/><PB REF="00000365.tif" SEQ="00000365" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="341"/>
+
+<EPB/><PB REF="00000366.tif" SEQ="00000366" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="342"/>
+
+<EPB/><PB REF="00000367.tif" SEQ="00000367" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="343"/>
+
+<EPB/><PB REF="00000368.tif" SEQ="00000368" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="344"/>
+
+<EPB/><PB REF="00000369.tif" SEQ="00000369" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="345"/>
+
+<EPB/><PB REF="00000370.tif" SEQ="00000370" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="346"/>
+
+<EPB/><PB REF="00000371.tif" SEQ="00000371" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N=""/>
+
+<EPB/><PB REF="00000372.tif" SEQ="00000372" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="348"/>
+
+<EPB/><PB REF="00000373.tif" SEQ="00000373" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="349"/>
+
+<EPB/><PB REF="00000374.tif" SEQ="00000374" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="350"/>
+
+<EPB/><PB REF="00000375.tif" SEQ="00000375" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="351"/>
+
+<EPB/><PB REF="00000376.tif" SEQ="00000376" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="352"/>
+
+<EPB/><PB REF="00000377.tif" SEQ="00000377" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="353"/>
+
+<EPB/><PB REF="00000378.tif" SEQ="00000378" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="354"/>
+
+<EPB/><PB REF="00000379.tif" SEQ="00000379" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="355"/>
+
+<EPB/><PB REF="00000380.tif" SEQ="00000380" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="356"/>
+
+<EPB/><PB REF="00000381.tif" SEQ="00000381" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N=""/>
+
+<EPB/><PB REF="00000382.tif" SEQ="00000382" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="358"/>
+
+<EPB/><PB REF="00000383.tif" SEQ="00000383" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="359"/>
+
+<EPB/><PB REF="00000384.tif" SEQ="00000384" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="360"/>
+
+<EPB/><PB REF="00000385.tif" SEQ="00000385" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="361"/>
+
+<EPB/><PB REF="00000386.tif" SEQ="00000386" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="362"/>
+
+<EPB/><PB REF="00000387.tif" SEQ="00000387" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N=""/>
+
+<EPB/><PB REF="00000388.tif" SEQ="00000388" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="364"/>
+
+<EPB/><PB REF="00000389.tif" SEQ="00000389" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="365"/>
+
+<EPB/><PB REF="00000390.tif" SEQ="00000390" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="366"/>
+
+<EPB/><PB REF="00000391.tif" SEQ="00000391" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="367"/>
+
+<EPB/><PB REF="00000392.tif" SEQ="00000392" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="368"/>
+
+<EPB/><PB REF="00000393.tif" SEQ="00000393" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="369"/>
+
+<EPB/><PB REF="00000394.tif" SEQ="00000394" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="370"/>
+
+<EPB/><PB REF="00000395.tif" SEQ="00000395" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="371"/>
+
+<EPB/><PB REF="00000396.tif" SEQ="00000396" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="372"/>
+
+<EPB/><PB REF="00000397.tif" SEQ="00000397" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="373"/>
+
+<EPB/><PB REF="00000398.tif" SEQ="00000398" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="374"/>
+
+<EPB/><PB REF="00000399.tif" SEQ="00000399" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="375"/>
+
+<EPB/><PB REF="00000400.tif" SEQ="00000400" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="376"/>
+
+<EPB/><PB REF="00000401.tif" SEQ="00000401" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="377"/>
+
+<EPB/><PB REF="00000402.tif" SEQ="00000402" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="378"/>
+
+<EPB/><PB REF="00000403.tif" SEQ="00000403" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="379"/>
+
+<EPB/><PB REF="00000404.tif" SEQ="00000404" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="380"/>
+
+<EPB/><PB REF="00000405.tif" SEQ="00000405" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="381"/>
+
+<EPB/><PB REF="00000406.tif" SEQ="00000406" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="382"/>
+
+<EPB/><PB REF="00000407.tif" SEQ="00000407" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="383"/>
+
+<EPB/><PB REF="00000408.tif" SEQ="00000408" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="384"/>
+
+<EPB/><PB REF="00000409.tif" SEQ="00000409" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="385"/>
+
+<EPB/><PB REF="00000410.tif" SEQ="00000410" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="386"/>
+
+<EPB/><PB REF="00000411.tif" SEQ="00000411" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N="387"/>
+
+</P><EPB/><PB REF="00000412.tif" SEQ="00000412" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="999" N=""/></DIV1></BACK><EPB/></TEXT></DLPSTEXTCLASS>
