@@ -1,0 +1,123 @@
+3KCol.xml, Three Kings of Cologne : an early English translation of the Historia Trium Regum / by John of Hildesheim ; edited from the MSS., together with the Latin text, by C. Horstmann
+aba2096.xml, u"Peter Langtoft's Chronicle, (as illustrated and improv'd by Robert of Brunne) from the death of Cadwalader to the end of K. Edward the First's reign. Transcrib'd, and now first publish'd, from a ms. in the Inner-Temple Library by Thomas Hearne, M.A. To which are added, besides a glossary and other curious papers, (1) A roll concerning Glastonbury abbey, being a survey of all the estates belonging to that house at the dissolution, taken by King Hen. the Eigth's order and for his use. (2) An account of the hospital of St. Mary Magdalen near Scroby in Nottinghamshire, by John Slacke, master of that hospital. (3) Two tracts by an anonymous author; the first relating to Roman antiquities, near Conquest in Somersetshire, the second concerning Stonehenge. Oxford, Printed at the Theater, 1725."
+aha2749.xml, u'The lanterne of lizt, ed. from ms. Harl. 2324 / by Lilian M. Swinburn.'
+3rdFranRule.xml, u'Fifteenth-century courtesy book. Selections'
+aca1723.xml, u'The Stonor letters and papers, 1290-1483; ed. for the Royal historical society, from the origial documents in the Public record office, by Charles Lethbridge Kingsford.'
+aha6127.xml, u"The babees book, Aristotle's A B C, Urbanitatis, Stans puer ad mensam, The lvtille childrenes lvtil boke, The bokes of nurture of Hugh Rhodes and John Russell, Wynkyn de Worde's Boke of keruynge, The booke of demeanor, The boke of curtasye, Seager's Schoole of vertue, &c. &c. with some French and latin poems on like subjects, and some forewords on education in early England. Ed. by Frederick J. Furnivall ..."
+AlphTales.xml, u'Alphabetum narrationum. English'
+acb1675.xml, u'Iacob and Iosep; a middle English poem of the thirteenth century, ed. by Arthur S. Napier.'
+aha6129.xml, u'An Old English miscellany containing a bestiary, Kentish sermons, Proverbs of Alfred, religious poems of the thirteenth century,'
+ArderneFistula.xml, u'Treatises of fistula in ano : haemorrhoids, and clysters / by John Arderne'
+acd9576.xml, u"Mandeville's travels : the Egerton version / from the edition by George F. Warner."
+ahb1325.xml, u'The repressor of over much blaming of the clergy.'
+Blanchardyn.xml, u"Caxton's Blanchardyn and Eglantine, c. 1489 : from Lord Spencer's unique imperfect copy, completed by the original French and the second English version of 1595"
+acm9160.xml, u'An apology for Lollard doctrines, attributed to Wicliffe. Now first printed from a manuscript in the library of Trinity College, Dublin. With an introduction and notes by James Henthorn Todd.'
+ahb1341.xml, u'Polychronicon Ranulphi Higden maonachi Cestrensis; together with the English translations of John Trevisa and of an unknown writer of the fifteenth century.'
+CharlesG.xml, u'Fierabras. English (Middle English) Prose.'
+acn1637.xml, u'King Horn; a Middle-English romance, edited from the manuscripts by Joseph Hall.'
+ahb1378.xml, u"The metrical chronicle of Robert of Gloucester. Edited by William Aldis Wright. Published by the authority of the lords commissioners of Her Majesty's Treasury, under the direction of the master of the rolls."
+ChaucerAstr.xml, u'Treatise on The Astrolabe : addressed to his son Lowys / by Geoffrey Chaucer ; edited from the earliest MSS. by Walter W. Skeat'
+acs0188.xml, u'Purity, a Middle English poem, ed. with introduction, notes, and glossary by Robert J. Menner.'
+ahb1379.xml, u'The story of England'
+ChaucerBo.xml, u'De consolatione philosophi\xe6. English'
+acv5981.xml, u'An English chronicle of the reigns of Richard II, Henry IV, Henry V, and Henry VI written before the year 1471; with an appendix, containing the 18th and 19th years of Richard II and the Parliament at Bury St. Edmund\'s, 25th Henry VI and supplementary additions from the Cotton. ms. chronicle called "Eulogium." Edited by John Silvester Davies.'
+ajd3529.xml, u'A Common-place book of the fifteenth century, containing a religious play and poetry, legal forms and local accounts. Printed from the original ms. at Brome Hall, Suffolk, by Lady Caroline Kerrison. Edited with notes by Lucy Toulmin Smith.'
+Confessio.xml, u"John Gower's Confessio amantis"
+acw2946.xml, u'The assembly of gods: or, The accord of reason and sensuality in the fear of death; by John Lydgate. Ed. from the mss. with introduction, notes, index of persons and places, and glossary. By Oscar Lovell Triggs.'
+ajd8171.xml, u'Sammlung altenglischer legenden, gr\xf6sstentheils zum ersten male hrsg. von C. Horstmann.'
+CookBk.xml, u'Two fifteenth-century cookery-books : Harleian MS. 279 (ab 1430), & Harl. MS. 4016 (ab. 1450), with extracts from Ashmole MS. 1439, Laud MS. 553, & Douce MS. 55 / edited by Thomas Austin'
+adq4048.xml, u"Hoccleve's works. Ed. by Frederick J. Furnivall."
+aje0623.xml, u'S. Editha, sive Chronicon vilodunense im Wiltshire dialekt, aus Ms. Cotton. Faustina B III; hrsg. von C. Horstmann.'
+EEWills.xml, u"Fifty earliest English wills in the Court of Probate, London : A. D. 1387-1439 : with a priest's of 1454 / copied and edited from the original registers in Somerset House by Frederick J. Furnivall"
+aeh6713.xml, u'The English works of Wyclif hitherto unprinted.Edited by F. D. Matthew.'
+ajf7399.xml, u'The Psalter, or Psalms of David and certain canticles / with a translation and exposition in English by Richard Rolle of Hampole ; ed. from manuscripts by the Rev. H. R. Bramley ... With an introduction and glossary.'
+EGilds.xml, u'English gilds : the original ordinances of more than one hundred early English gilds : together with The olde Usages of the cite of Wynchestre; the Ordinances of Worcester; the Office of the Mayor of Bristol; and the Costomary of the Manor of Tettenhall-Regis : from manuscripts of the fourteenth and fifteenth centuries / edited by Toulmin Smith ; with an introduction and glossary, etc., by Lucy Toulmin Smith ; and a preliminary essay on the history and development of gilds by Lujo Brentano'
+aew3422.xml, u'The governance of England: otherwise called The difference between an absolute and a limited monarchy. A rev. text edited with introd., notes, and appendices by Charles Plummer.'
+ajg4507.xml, u'A fourteenth century English Biblical version, edited by Anna C. Paues ...'
+EngConIre.xml, u"English conquest of Ireland : A.D. 1166-1185 : mainly from the 'Expugnatio hibernica' of Giraldus Cambrensis : part I, the text / edited by Frederick J. Furnivall."
+afb3713.xml, u'Select English works of John Wyclif; edited from original mss. by Thomas Arnold.'
+ajh1649.xml, u"Reginald Pecock's Book of faith; a fifteenth century theological tractate, ed. from the ms. in the library of Trinity college, Cambridge, with an introductory essay by J. L. Morison, M. A. ..."
+GRom.xml, u'Gesta Romanorum'
+afw1075.xml, u'The Middle English charters of Christ ...'
+ajt2514.xml, u'Die Kildare-gedichte; die \xe4ltesten mittelenglischen denkm\xe4ler in anglo-irischer \xfcberlieferung von Dr. W. Heuser ...'
+HMaid.xml, u'Hali Meidenhad : an Alliterative Homily of the Thirteenth Century / edited by F.J. Furnivall'
+afw1383.xml, u'Altenglische legenden.'
+ajt8111.xml, u'The pilgrimage of the life of man, English by John Lydgate, A. D. 1426, from the French of Guillaume de Deguileville, A. D. 1330, 1335. The text ed. by F. J. Furnivall ... With introduction, notes, glossary and indexes by Katharine B. Locock ...'
+HarLyr.xml, u'The Harley lyrics'
+afw5744.xml, u'The Ormulum / with the notes and glossary of R.M. White ; edited by Robert Holt.'
+ajt8124.xml, u'The vision of William concerning Piers the Plowman, together with Vita de Dowel, Dobet, et Dobest, secundum Wit et Resoun, by William Langland (about 1362-1393 A. D.)'
+HenCres.xml, u"Robert Henryson's The testament of Cresseid"
+afy7793.xml, u'Altenglische dichtungen des ms. Harl, 2253.'
+ajt8128.xml, u'Cursor mundi (The cursur o the world). A Northumbrian poem of the XIVth century in four versions. Ed. by the Rev. Richard Morris ...'
+HenFabl.xml, u"Robert Henryson's The morall fabillis of Esope the Phrygian"
+afy7823.xml, u'Altenglische legenden ...'
+ajt8135.xml, u"Medieval records of a London city church : churchwardens' accounts and memoranda / from the edition by Henry Littlehales."
+HenMino.xml, u"Robert Henryson's The minor poems of Robert Henryson"
+afz9170.xml, u'The Holy Bible, containing the Old and New Testaments, with the Apocryphal books,'
+alt5980.xml, u'Scottish alliterative poems in riming stanzas. Edited with introd., appendix, notes, and glossary. [n.p.]Scottish Text Society, 1897.'
+HenOrpheus.xml, u"Robert Henryson's Orpheus and Eurydice"
+agd2855.xml, u'Middle English humorous tales in verse / edited by George H. McKnight.'
+ant9911.xml, u'Hymns to the Virgin & Christ, the Parliament of devils, and other religious poems.'
+Juliana.xml, u'\xdee Liflade of St. Juliana : from two Old English manuscripts of 1230 A.D. / with renderings into modern English, by Oswald Cockayne, and Edmund Brock ; edited by Oswald Cockayne.'
+agv8488.xml, u'Die Winteney-Version der Regula S. Benedicti Lateinische und Englisch mit Einleitung, Anmerkungen, Glossar und einem Facsimile zum erstenmale'
+ant9912.xml, u"Political, religious, and love poems. Some by Lydgate, Sir Richard Ros, Henry Baradoun, Wm. Huchen, etc. from the Archbishop of Canterbury's Lambeth Ms. no. 306, and other sources, with a fragment of The Romance of Peare of Provence and the fair Magnelone, and a sketch, with the prolog and epilog, of The Romance of the knight Amoryus and the Lady Cleopes,"
+KntTour-L.xml, u"Livre pour l'enseignement de ses filles. English"
+agz8232.xml, u"The Ellesmere ms of Chaucer's Canterbury tales / edited by Frederick J. Furnivall."
+any9948.xml, u"Lydgate's Reson and sensuallyte, ed. from the Fairfax ms. 16 (Bodleian) and the Additional ms. 29, 729 (Brit. mus.) by Ernst Sieper."
+LinDDoc.xml, u'Lincoln diocese documents, 1450-1544 / edited, with notes and indexes by Andrew Clark'
+agz8233.xml, u"The Hengwrt ms of Chaucer's Canterbury tales / edited by Frederick J. Furnivall."
+anz2316.xml, u'The romance of Sir Beues of Hamtoun. Ed. from six manuscripts and the old printed copy, with introduction, notes, and glossary, by Eugen K\xf6lbing ...'
+LoveMirrour.xml, u'Mirrour of the blessed lyf of Jesu Christ : a translation of the Latin work entitled Meditationes Vit\xe6 Christi : attributed to Cardinal Bonaventura : made before the Year 1410'
+agz8234.xml, u"The Cambridge ms (University library, Gg. 4.27) of Chaucer's Canterbury tales / edited by Frederick J. Furnivall."
+anz4356.xml, u"The book of quinte essence or the fifth being; that is to say, man's heaven. A tretice in Englisch breuely drawe out of \xdee book of quintis essencijs in Latyn, \xdeat Hermys \xdee prophete and kyng of Egipt, after \xdee flood of Noe fadir of philosophris, hadde by reuelacioun of an aungil of God to him sende. Ed. from the Sloane ms. 73, about 1460-70 A.D., by Frederick J. Furnivall, M.A."
+MaloryWks2.xml, u'Morte d \xc0rthur'
+agz8235.xml, u"The Corpus ms (Corpus Christi coll., Oxford) of Chaucer's Canterbury tales. Ed. by Frederick J. Furnivall."
+anz4364.xml, u'The romance of Guy of Warwick. The second or 15th-century version. Edited from the paper ms. Ff. 2. 38. in the University Library, Cambridge, by Dr. Julius Zupitza ...'
+Melusine.xml, u'Melusine. Part I'
+agz8236.xml, u"The Lansdowne ms of Chaucer's Canterbury tales / edited by Frederick J. Furnivall."
+apa1967.xml, u'The wars of Alexander: an alliterative romance translated chiefly from the Historia Alexandri Magni de preliis. Re-edited from ms. Ashmole 44, in the Bodleian library, Oxford, and ms. D.4.12, in the library of Trinity college, Dublin: by the Rev. Walter W. Skeat.'
+Merlin.xml, u'Merlin : or, the early history of King Arthur :  a prose romance / edited ... by Henry B. Wheatley'
+agz8246.xml, u"The Harleian ms. 7334 of Chaucer's Canterbury tales. Ed. by Frederick J. Furnivall."
+ape7335.xml, u'The minor poems of the Vernon ms. ... (with a few from the Digby mss. 2 and 86) ...'
+Metham.xml, u'Works of John Metham : (Amoryus and Cleopes, &c.) / edited by Hardin Craig'
+aha2626.xml, u'The lay of Havelok the Dane : composed in the reign of Edward I, about A.D. 1280 / Formerly ed. by Sir F. Madden for the Roxburghe cl[ub], and now re-edited from the unique ms. Laud misc. 108, in the Bodleian library, Oxford; by the Rev. Walter W. Skeat.'
+ape7380.xml, u'The "Gest hystoriale" of the destruction of Troy: an alliterative romance tr. from Guido de Colonna\'s "Hystoria troiana." Now first ed. from the unique ms. in the Hunterian Museum, University of Glasgow, with introduction, notes, and a glossary, by ... Geo. A. Panton, and David Donaldson, esq.'
+OctC.xml, u'Octovian (Cambridge, University Library, MS Ff.2.38)'
+aha2638.xml, u'The romance of Guy of Warwick. The first or 14th-century version.'
+ape9594.xml, u"Twenty-six political and other poems (including 'Petty Job') from the Oxford mss. Digby 102 and Douce 322. Ed., with introduction and glossarial index, by D. J. Kail ..."
+OctL.xml, u'Octovian (Lincoln, Dean, and Chapter Library, MS 91)'
+aha2639.xml, u'The right plesaunt and goodly historie of the foure sonnes of Aymon. Englisht from the French by William Caxton, and printed by him about 1489. Ed. from the unique copy, now in the possession of Earl Spencer, with an introduction by Octavia Richardson.'
+ape9595.xml, u'The Laud Troy book.'
+OwlC.xml, u'The owl and the nightingale (MS Cotton)'
+aha2659.xml, u'Le morte Arthur, a romance in stanzas of eight lines ; re-edited from ms. Harley 2252, in the British museum ; with introduction, notes, glossary, and index of names, by J. Douglas Bruce.'
+apg1531.xml, u'The Brut, or The chronicles of England. Edited from Ms. Raw. B171, Bodleian Library, &c., by Friedrich W. D. Brie, with introduction, notes, and glossary ...'
+OwlJ.xml, u'The owl and the nightingale (MS Jes. Col. 29)'
+aha2688.xml, u'Old English homilies and homiletic treatises (Sawles warde, and Pe wohunge of Ure Lauerd: Ureisuns of Ure Louerd and of Ure Lefdi, &c.) of the twelfth and thirteenth centuries / edited from mss. in the British Museum, Lambeth, and Bodleian Libraries ; with introd., translation, and notes, by Richard Morris.'
+ash2689.xml, u"The Petworth ms. of Chaucer's Canterbury tales. Ed. by Frederick J. Furnivall."
+PLAlex.xml, u'Prose life of Alexander / edited by J.S. Westlake'
+aha2700.xml, u'Joseph of Arimathie : otherwise called The romance of the Seint Graal, or Holy Grail: an alliterative poem written about A.D. 1350, and now first printed from the unique copy in the Vernon ms. at Oxford. Edited, with notes and glossarial indices, by Walter W. Skeat.'
+ash3725.xml, u"The Cambridge ms. Dd. 4. 24. of Chaucer's Canterbury tales, completed by the Egerton ms. 2726 (the Haistwell ms) Ed. by Frederick J. Furnivall ..."
+PPlCreed.xml, u'Pierce the Ploughmans Crede [electronic edition]'
+aha2702.xml, u'Legends of the holy rood; Symbols of the passion and cross poems. In Old English of the eleventh, fourteenth, and fifteenth centuries. Edited from Mss. in the British Museum and Bodleian Libraries, with introduction, translations, and glossarial index, by Richard Morris.'
+baa8159.xml, u'The earliest complete English prose Psalter, together with eleven canticles and a translation of the Athanasian creed; edited from the only two mss. in the libraries of the British Museum and of Trinity College, Dublin, with preface, introduction, notes, and glossary, by Karl D. B\xfclbring. Part I, preface and text.'
+RatisRav.xml, u'Ratis Raving, and Other Moral and Religious Pieces, in Prose and Verse / edited by J. Rawson Lumby'
+aha2705.xml, u'Old English homilies of the twelfth century : from the unique ms. B. 14. 52. in the library of Trinity College, Cambridge : Second series, with three thirteenth century hymns from ms. 54 D.4.14 in Corpus Christi College / edited, with introduction translation, and notes by the Rev. R. Morris.'
+bau0088.xml, u'The poems of William of Shoreham:  ab. 1320 vicar of Chart-Sutton. / re-edited from the unique manuscript in the British Museum by M. Konrath.'
+RuleMinoresses.xml, u'Fifteenth-century courtesy book. Selections'
+aha2706.xml, u'Generydes, a romance in seven-line stanzas. Ed. from the unique paper ms. in Trinity college, Cambridge (about 1440 A.D.), by W. Aldis Wright.'
+bau1376.xml, u'The pricke of conscience (stimulus conscienti\xe6):  a Northumbrian poem / by Richard Rolle de Hampole ; ed. Richard Morris.'
+RuleServLd.xml, u'Fifteenth-century courtesy book. Selections'
+aha2708.xml, u'The early South-English legendary ; or, Lives of saints. I. Ms. Laud, 108, in the Bodleian library. Edited by Carl Horstmann.'
+deathjas.xml, u'The dethe of James Kynge of Scotis  / translated by John Shirley.'
+SSecr.xml, u'Secreta secretorum'
+aha2711.xml, u"Adam Davy's 5 dreams about Edward II. The Life of St. Alexius. Solomon's book of wisdom. St. Jeremie's [Jerome's] 15 tokens before doomsday. The Lamentacion of souls. Ed. from the Laud ms. 622 in the Bodleian library by F.J. Furnivall"
+lifesoul.xml, u'Life of soul : an edition from MS Laud Misc. 210 / by Paul Schaffner.'
+ThreeKSon.xml, u"The Three Kings' Sons. Part I. The Text / edited from its unique MS, Harleian 326, about 1500 A.D. by F.J. Furnivall"
+aha2727.xml, u'Lanfrank\'s "Science of cirurgie". Edited from the Bodleian Ashmole ms. 1396 (ab. 1380 A.D.) and the British museum Additional ms. 12,056 (ab. 1420 A.D.) by Robert V. Fleischhacker, DR. PHIL. Part I--Text.'
+rollecmp.xml, u'Companion to the English prose works of Richard Rolle : a selection / from the edition by Carl Horstman.'
+ThrnReligP.xml, u'Religious Pieces in Prose and Verse / edited ... by George G. Perry'
+aha2735.xml, u'Robert of Brunne\'s "Handlyng synne".'
+rollewks.xml, u'English prose works of Richard Rolle : a selection / from the edition by Carl Horstman.'
+Towneley.xml, u'The Towneley plays'
+aha2736.xml, u'Three Middle-English versions of the Rule of St. Benet and two contemporary rituals for the ordination of nuns.'
+tenwives.xml, u"A talk of ten wives on their husbands' ware / ed. by Frederick J. Furnivall."
